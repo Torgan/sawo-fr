@@ -17,6 +17,7 @@ PAR	RES
 - Capteurs sensoriels : les sentinelles sont équipées de capteurs de détection, leur permettant de diviser par deux les malus liés à l’obscurité et de détecter ou d’enregistrer les sons.
 - Créature artificielle : +2 pour récupérer d’un état Secoué, les Attaques ciblées ne causent pas de dégâts supplémentaires. Immunisé aux poisons et aux maladies.
 - Sans peur : Les robots sont immunisés à la Terreur et à l’Intimidation
-### Action
+
+### Actions
 - Mitrailleuse : Tir d8,2d8
 - Lance-flammes	: d8+2, Gabarit de cône, 2d10. Jet d’Agilité opposé au jet de tir pour éviter les dégâts.

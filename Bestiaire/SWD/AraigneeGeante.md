@@ -14,6 +14,7 @@ PAR	RES
 ```
 ### Capacités spéciales
 - Poison (-4)
-### Action
+
+### Actions
 - Morsure	: Combat d8, d10+d4+Poison
 - Toile : Tir d10, 3/6/12, ceux qui se retrouvent pris dans la toile doivent la déchirer pour se libérer (RES 7). Les victimes de la toile peuvent se battre mais toute action physique subit un malus de –4.

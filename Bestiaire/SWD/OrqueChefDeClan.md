@@ -14,7 +14,8 @@ PAR	RES
 ```
 ### Capacités spéciales
 - Taille +1 : les orques sont un peu plus grands que les humains.
-### Action
+
+### Actions
 - Hache de bataille	: Combat d12, 2d10.
 - Balayage : attaque tout ennemi adjacent à -2.
 ### Equipement

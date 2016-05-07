@@ -12,5 +12,6 @@ Compétences : Combat d8, Natation d10, Perception d12
 PAR	RES
 6	5
 ```
-### Action
+
+### Actions
 - Morsure	: Combat d10, d8+d6.

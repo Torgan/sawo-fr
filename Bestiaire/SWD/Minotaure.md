@@ -14,7 +14,8 @@ PAR	RES
 ```
 ### Capacités spéciales
 - Taille +2 : dépasse les 2m10 de haut.
-### Action
+
+### Actions
 - Lance : Combat d10, Allonge 1, Parade +1, d12+d6+2.
 - Cornes : Combat d10, d12+d4+2. Un minotaure peut charger pour encorner son adversaire. S’il se déplace de 6 cases avant l’attaque il ajoute +4 au total de ses dégâts.
 ### Equipement

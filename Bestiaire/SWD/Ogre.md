@@ -14,7 +14,8 @@ PAR	RES
 ```
 ### Capacités spéciales
 - Taille +3 : un ogre mesure plus de 2,5m de haut, a une grosse bedaine et des membres massifs.
-### Action
+
+### Actions
 Massue : Combat d8, d12+d8+3
 Balayage : attaque tout ennemi adjacent à -2.
 ### Equipement

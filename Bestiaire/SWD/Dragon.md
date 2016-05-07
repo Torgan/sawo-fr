@@ -19,7 +19,8 @@ PAR	RES
 - Terreur (-2) : voir un puissant dragon oblige à faire un test de Terreur à -2.
 - Tête froide : tire deux cartes d’Initiative et agit sur la meilleure des deux.
 - Vol : les dragons ont une Allure de Vol de 24 et Accélération de 6.
-### Action
+
+### Actions
 - Frénésie suprême : si un dragon n’utilise pas son Souffle ardent, il peut faire deux attaques de Combat sans malus.
 - Morsure / griffes : Combat d10, d12+d8+9
 - Coup de queue : Combat d10, d12+7. Le dragon balaye d’un coup de queue tous les adversaires placés derrière lui dans sur une zone de 3 cases de long et 6 de large. C’est une attaque normale dont les dégâts sont de Force –2.

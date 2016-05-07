@@ -14,7 +14,8 @@ PAR	RES
 ```
 ### Capacités spéciales
 - Taille +1 : les orques sont un peu plus grands que les humains.
-### Action
+
+### Actions
 - Cimeterre	: Combat d6, 2d8
 - Balayage : attaque tout ennemi adjacent à -2.
 ### Equipement

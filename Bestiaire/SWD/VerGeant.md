@@ -19,7 +19,8 @@ PAR	RES
 - Gigantesque : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille. Armure Lourde.
 - Résistant : ne subit pas de blessure pour avoir été Secoué deux fois.
 - Taille +10 : Un ver géant dépasse les 15 m de long et fait bien 3 m de diamètre.
-### Action
+
+### Actions
 - Morsure : Combat d6, AL, d12+d8+10
 - Aplatir : Combat d6, AL, 4d6. Le ver se redresse afin d’écraser leur ennemi sous leur masse. C’est un jet opposé du Combat de la créature contre l’Agilité de la cible.
 - Enfouissement : ils peuvent disparaître et réapparaître à l’action suivante dans un rayon de 20 cases.

@@ -14,5 +14,6 @@ PAR	RES
 ```
 ### Capacités spéciales
 - Taille +2 : les taureaux sont des créatures massives.
-### Action
+
+### Actions
 - Cornes : Combat d4, d12+d6+2. Un taureau peut charger pour encorner son adversaire. S’il se déplace de 6 cases avant l’attaque il ajoute +4 au total de ses dégâts.

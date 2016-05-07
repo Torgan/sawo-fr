@@ -16,5 +16,6 @@ PAR RES
 - Petit : les adversaires d’un chat subissent un malus de -2 pour lui porter une attaque.
 - Taille -2 : les chats font généralement une trentaine de centimètres de haut.
 - Vision nocturne : les chats ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
-### Action
+
+### Actions
 - Morsure/griffes	: Combat d4-2, d4

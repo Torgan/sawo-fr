@@ -14,6 +14,7 @@ PAR	RES
 ### Capacités spéciales
 - Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées ; Sans peur ; immunisé aux maladies et aux poisons.
 - Invulnérabilité : immunisé aux attaques non magiques. Ils subissent 1d6 de dégâts si on les arrose d’au moins 3 litres d’eau, +2 par 3 litres de plus.
-### Action
+
+### Actions
 - Toucher ardent : Combat d10, d4+d6. Peut enflammer la cible.
 - Jet de flamme : Tir d8, Gabarit de cône, 2d10. Ceux à l’intérieur du cône font un jet d’Agilité opposé au jet de Tir de l’élémentaire et doivent obtenir un succès pour ne pas subir 2d10 de dégâts, plus la possibilité de prendre feu.

@@ -16,5 +16,6 @@ PAR	RES
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
 - Point faible (la tête) :  toucher un zombi à la tête provoque +2 de dégâts.
 - Sans peur : les zombis sont immunisés à la Terreur et à l’Intimidation.
-### Action
+
+### Actions
 - Griffes : Combat d6, d6

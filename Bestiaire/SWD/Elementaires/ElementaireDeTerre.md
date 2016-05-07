@@ -15,5 +15,6 @@ PAR	RES
 - Armure +4 : peau de roche.
 - Enfouissement : peut disparaître sous terre et en surgir de même. Allure de 10 sous terre.
 - Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées ; Sans peur ; immunisé aux maladies et aux poisons.
-### Action
+
+### Actions
 - Coup : Combat d8, d12+d6+3

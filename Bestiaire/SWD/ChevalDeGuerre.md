@@ -14,5 +14,6 @@ PAR	RES
 ### Capacités spéciales
 - Taille +3 : les chevaux de guerres sont des grandes créatures, élevées pour leur force et leur stature.
 - Véloce : un cheval utilise un d10 au lieu d’un d6 pour calculer sa distance de course.
-### Action
+
+### Actions
 - Ruade/morsure : Combat d8, d12+d4+2

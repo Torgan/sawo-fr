@@ -21,6 +21,7 @@ PAR	RES
 - Point faible (pieu dans le cœur) : un vampire victime d’une Attaque ciblée au cœur (-6) doit faire un jet de Vigueur opposé aux dégâts. S’il réussit, il encaisse les dégâts comme d’ordinaire. S’il rate, il se désintègre en poussière.
 - Point faible (symbole religieux) : on peut tenir à distance un vampire grâce à un symbole religieux. Si le vampire veut toutefois attaquer cette personne il doit pour cela réussir un jet opposé d’Âme.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
-### Action
+
+### Actions
 - Griffes : Combat d8, d12+d4+1. Quiconque est tué par un vampire a 50 % de chances de devenir un vampire au bout de 1d4 jours.
 - Frénésie :  peut faire deux attaques par round à -2.

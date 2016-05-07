@@ -15,5 +15,6 @@ PAR	RES
 ### Capacités spéciales
 - Taille +2 : un cheval pèse entre 350 et 500 kg.
 - Véloce : un cheval utilise un d10 au lieu d’un d6 pour calculer sa distance de course.
-### Action
+
+### Actions
 - Ruade : Combat d4, d12

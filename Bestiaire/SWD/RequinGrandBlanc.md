@@ -16,5 +16,6 @@ PAR	RES
 - Grand : les attaquants d’un grand requin blanc ajoutent +2 à leurs jets en raison de sa grande taille.
 - Résistant : ne subit pas de blessure pour avoir été Secoué une seconde fois.
 - Taille +4 : peut dépasser les 7,5 m.
-### Action
+
+### Actions
 - Morsure	: Combat d10, d12+d8+4.

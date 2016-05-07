@@ -16,6 +16,7 @@ PAR	RES
 - Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées ; Sans peur ; immunisé aux maladies et aux poisons.
 - Immunité : immunisé à toute attaque non magique à part le feu. Une torche ou une lanterne leur fait subir 1d6 de dégâts (mais s’éteint après avoir touché).
 - Infiltration : l’élémentaire d’eau peut traverser toute surface poreuse comme s’il s’agissait d’un terrain difficile.
-### Action
+
+### Actions
 - Ecrasement : Combat d8, d10+d6 non létal
 - Trombe d’eau : Gabarit de cône, d10+d6 non létal. Les élémentaires d’eau peuvent faire jaillir un jet d’eau torrentiel. Ceux à l’intérieur du cône font un jet de Force à –2 et sont Secoués en cas d’échec. Cette attaque peut également éteindre instantanément tout feu normal.

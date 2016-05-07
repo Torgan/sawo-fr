@@ -14,7 +14,8 @@ PAR	RES
 ### Capacités spéciales
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
 - Taille -1 : un gobelin mesure entre 1m et 1m20.
-### Action
+
+### Actions
 - Lance courte : Combat d6, 2d4
 ### Equipement
 Lance courte (For+d6).

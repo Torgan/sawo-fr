@@ -16,7 +16,8 @@ PAR	RES
 - Arcanes : Magie d12, PP50. Une liche connaît tous les sorts disponibles, et peut-être même des sorts uniques. Les sorts qui suivent sont un assortiment classique. N’hésitez pas à en rajouter au besoin.
 - Mort-vivant : Résistance +2. +2 pour récupérer d’un état Secoué. Les Attaque ciblées n’infligent pas de dégâts supplémentaires. Flèches, balles et autre attaques perforantes font la moitié des dégâts.
 
-### Action
+
+### Actions
 - Toucher de la Mort : Combat d8+2, Attaque de toucher, 1 blessure par Relance.
 - Armure : Magie d12, 2PP, T, 3(1/rd)
 - Déflection : Magie d12, 2PP, T, 3(1/rd)

@@ -14,7 +14,8 @@ PAR	RES
 ```
 ### Capacités spéciales
 - Taille +2 : un lion mâle pèse près de 250 kg.
-### Action
+
+### Actions
 - Morsure/griffes : Combat d8, d12+d6
 - Bond : un lion saute sur sa proie pour utiliser sa masse et placer ses griffes. Il peut bondir de 1d6 cases pour gagner +4 à son attaque et à ses dégâts mais sa Parade est réduite de –2 jusqu’au prochain round.
 - Frénésie suprême : les lions peuvent faire deux attaques de Combat par round sans malus.

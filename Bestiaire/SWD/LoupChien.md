@@ -14,6 +14,7 @@ PAR	RES
 ```
 ### Capacités spéciales
 Taille -1 : les chiens sont plutôt petits.
-### Action
+
+### Actions
 - Morsure : Combat d6, d6+d4
 - À la gorge : attaque aux points faibles. Avec une Relance sur son jet d’attaque, il touche la zone la plus faiblement protégée.

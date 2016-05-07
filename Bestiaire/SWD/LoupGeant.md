@@ -11,6 +11,7 @@ Compétences : Combat d8, Intimidation d8, Perception d6
 PAR	RES
 6	6
 ```
-### Action
+
+### Actions
 - Morsure : Combat d8, d8+d6
 - À la gorge : un loup attaque aux points faibles. Avec une Relance sur son jet d’attaque, il touche la zone la plus faiblement protégée.

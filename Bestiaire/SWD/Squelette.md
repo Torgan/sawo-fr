@@ -15,5 +15,6 @@ PAR	RES
 ### Capacités spéciales
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
 - Sans peur : les squelettes sont immunisés à la Terreur et à l’Intimidation.
-### Action
+
+### Actions
 - Griffes : Combat d6, d6+d4
