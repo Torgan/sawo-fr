@@ -8,6 +8,7 @@
 
 ### PHP Storm
 .idea
+.idea/*
 
 ### Google Drive ?
 desktop.ini
