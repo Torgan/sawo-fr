@@ -1,6 +1,6 @@
 # Le temple de Clairval
 
-- [Gobelin](sawo-fr/Bestiaire/SWD/Gobelin.md)
+- [Gobelin](../../SWD/Gobelin.md)
 
 # Une nuit à Clairval
 
@@ -8,13 +8,13 @@
 
 # La chasse au gobelin
 
-- [Gobelin](sawo-fr/Bestiaire/SWD/Gobelin.md)
+- [Gobelin](../..//SWD/Gobelin.md)
 - [Gamuk, chef des gobelins en fuite](Gomuk.md)
 
 # Baston chez les Crânes-creux
 
 - [Gobelin](MaraudeurGobelin.md)
-- [Worg](sawo-fr/Bestiaire/SWD/LoupGeant.md)
+- [Worg](../..//SWD/LoupGeant.md)
 - [Kolik](Kolik.md)
 - [Durub](Durub.md)
 
