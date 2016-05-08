@@ -1,1 +1,13 @@
+
+### OSX
+
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+### PHP Storm
+.idea
+
+### Google Drive ?
 desktop.ini
