@@ -17,6 +17,7 @@ PAR	RES
 
 ### Actions
 - Lance courte : Combat d6, 2d4
+
 ### Equipement
 Lance courte (For+d6).
 
