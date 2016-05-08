@@ -1,4 +1,4 @@
-# Kolik, chef des   Crânes-creux
+# * Kolik, chef des   Crânes-creux
 
 Allure : 6
 ```

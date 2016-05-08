@@ -1,4 +1,4 @@
-# Gamuk, chef des gobelins en fuite
+# * Gamuk, chef des gobelins en fuite
 
 Allure : 6
 ```

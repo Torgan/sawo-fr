@@ -1,25 +1,25 @@
-# Durub, Shaman
+# * Shaman orque
 
 Allure : 6
 ```
 Agi	Âme	For	Int	Vig
-d8	d8	d4	d6	d6
+d6	d6	d6	d8	d6
 ```
-Compétences : Combat d6, Discrétion d10, Escalade d6, Lancer d4, Magie d8, Natation d6, Perception d8, Sarcasmes d6, Tir d4
+Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perception d6, Tir d6
 ```
 PAR	RES
-5	4
+6	6 (1)
 ```
 ### Capacités spéciales
 - Arcanes : Magie d8, PP15.
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-- Taille -1 : un gobelin mesure entre 1m et 1m20.
 
 ### Actions
-- Dague : Combat d6, 2d4.
+- Epieu : Combat d6, Parade +1, Allonge 1, 2d6.
 - _Armure_ : Magie d8, PP2, T, 3(1/rd).
 - _Eclair_ : Magie d8, PP1-3, 12/24/48, Inst.
+- _Frappe_ : Magie d8, PP2, T, 3(1/rd).
+- _Terreur_ : Magie d8, PP2, Int x 2, Inst.
 
 ### Equipement
-Dague, Elixir de guérison, Poison (-2).
-
+Armure de cuir (+1), épieu (For+d6, Parade +1, Allonge 1)
