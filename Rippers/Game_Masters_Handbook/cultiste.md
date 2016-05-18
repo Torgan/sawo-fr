@@ -17,7 +17,7 @@ PAR RES
 
 
 ### Actions
--Dague : Combat d4, d6+d4
+-Dague : Combat d4, 2d4
 
 ### Équipement
 
