@@ -21,6 +21,6 @@ Atouts : (s'il y en a)
 ### Actions
 - Fronde : Tir dX, 4/8/16, dX+dY.
 - Bâton : Combat dX, Parade +X, Allonge X, 2 mains, ..., dX+dY
-- Nom pouvoir : (aspect pouvoir) coméptence dX, PPx, Portée X, coût en PP dont maintien, XdX de dégâts.
+- Nom pouvoir : (aspect pouvoir) compétence dX, PPx, Portée X, coût en PP dont maintien, XdX de dégâts.
 
 Équipement : (s'il y en a ) liste simple
