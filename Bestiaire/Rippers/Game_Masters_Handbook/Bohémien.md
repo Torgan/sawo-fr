@@ -20,10 +20,10 @@ Atouts: variables
 	5   5
 
 ### Actions
--dague en argent : Combat d6, 2d4
--pieu en bois : Combat d6, 2d4
-[-Augmentation/diminution de Trait : (bénédiction/malédiction) Magie d6, PP2, Portée 8, 3 (1 / rd).]
-[-Confusion : (mauvais oeil) Magie d6, PP 1/cible, Portée 20, Inst.]
-[-Détection/Dissimulation d’Arcanes (vision véritable : Magie d6, PP2, Portée Vue, 3 (1 / rd).]
+- dague en argent : Combat d6, 2d4
+- pieu en bois : Combat d6, 2d4
+[- Augmentation/diminution de Trait : (bénédiction/malédiction) Magie d6, PP2, Portée 8, 3 (1 / rd).]
+[- Confusion : (mauvais oeil) Magie d6, PP 1/cible, Portée 20, Inst.]
+[- Détection/Dissimulation d’Arcanes (vision véritable : Magie d6, PP2, Portée Vue, 3 (1 / rd).]
 
 Équipement : dague en argent, pieu en bois, aconit
