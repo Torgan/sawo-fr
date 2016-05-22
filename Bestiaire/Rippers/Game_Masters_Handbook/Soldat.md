@@ -16,7 +16,7 @@ Atout: Brave
 	6   6 
 
 ### Actions
--fusil : Tir d8, 2d8, Portée 24/48/96, CdT 1, PA2
--bayonnette : Combat d8, 2d6
+- fusil : Tir d8, 2d8, Portée 24/48/96, CdT 1, PA2
+- bayonnette : Combat d8, 2d6
 
 Équipement : fusil, 20 balles, bayonnette 
