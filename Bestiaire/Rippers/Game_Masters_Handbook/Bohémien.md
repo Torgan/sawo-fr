@@ -10,9 +10,11 @@ Raison: 6
 	AGI	ÂME	FOR	INT	VIG
 	d6	d8	d6	d6 	d6
 
-Compétences : Combat d6, Connaisance (Occulte) d6, Persuasion d8, Discrétion d6, Réseaux d6, Survie d4, Sarcasmes d8, Pistage d4 
+Compétences : Combat d6, Connaisance (Occulte) d6, Persuasion d8, Discrétion d6, Réseaux d6, Survie d4, Sarcasmes d8, Pistage d4, [Magie d6] 
 Handicaps : Étranger
 Atouts: variables
+[PP: 15]
+[Pouvoirs: Augmentation/Diminution de Trait, Confusion, Détection/Dissimulation d'arcanes]
 
 	Parade	Résistance
 	5   5
@@ -20,5 +22,8 @@ Atouts: variables
 ### Actions
 -dague en argent : Combat d6, 2d4
 -pieu en bois : Combat d6, 2d4
+[-Augmentation/diminution de Trait : (bénédiction/malédiction) Magie d6, PP2, Portée 8, 3 (1 / rd).]
+[-Confusion : (mauvais oeil) Magie d6, PP 1/cible, Portée 20, Inst.]
+[-Détection/Dissimulation d’Arcanes (vision véritable : Magie d6, PP2, Portée Vue, 3 (1 / rd).]
 
 Équipement : dague en argent, pieu en bois, aconit
