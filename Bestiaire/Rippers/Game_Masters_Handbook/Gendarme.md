@@ -25,5 +25,5 @@ Atout: Brave
 
 ### Actions
 - Bâton : Combat d8, 2d4
-
+- Brave : +2 aux jets de Terreur
 Équipement : Bâton 
