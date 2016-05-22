@@ -15,6 +15,6 @@ Compétences : Combat d6, Discrétion d4, Perception d4, Tir d6
 	5   5
 
 ### Actions
--pistolet : Tir d6, 2d8+1, Portée 10/20/40, CdT 1, PA1
+- pistolet : Tir d6, 2d8+1, Portée 10/20/40, CdT 1, PA1
 
 Équipement : mousquet, 20 balles
