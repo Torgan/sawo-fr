@@ -22,8 +22,10 @@ Atout: Brave
 
 	Parade	Résistance
 	6   6
-
+### Capacités spéciales 
+- Brave : +2 aux jets de Terreur
+- 
 ### Actions
 - Bâton : Combat d8, 2d4
-- Brave : +2 aux jets de Terreur
+
 Équipement : Bâton 
