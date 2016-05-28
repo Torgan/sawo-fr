@@ -15,6 +15,9 @@ Atout: Brave
 	Parade	Résistance
 	6   6 
 
+### Capacités spéciales 
+- Brave : +2 aux jets de Terreur
+
 ### Actions
 - fusil : Tir d8, 2d8, Portée 24/48/96, CdT 1, PA2
 - bayonnette : Combat d8, 2d6
