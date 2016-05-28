@@ -16,7 +16,7 @@ Raison: 6
 
 Compétences : Combat d8, Recherche  d4, Perception d4, Discrétion d4, Réseaux d6 
 
-Handicaps :  Serment(Maintenir l'ordre)
+Handicaps :  Serment (Maintenir l'ordre)
 
 Atout: Brave
 
