@@ -5,6 +5,7 @@ Un bohémien sur six est doué dans les arts magiques. Pour ceux-ci rajoutez l'A
 
 Allure : 6
 Charisme : -2	Statut: 2
+
 Raison: 6
 
 	AGI	ÂME	FOR	INT	VIG
