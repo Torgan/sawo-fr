@@ -3,19 +3,18 @@
 Il s’agit peut-être bien la créature la plus maléfique de n’importe quel univers fantastique. Il s’agit d’un nécromancien tellement consumé par les arts funèbres qu’il s’est lui-même transformé en mort vivant.
 
 Allure : 6
-```
-Agi	Âme	For	Int	Vig
-d6	d10	d10	d12+2	d10
-```
+
+	Agi	Âme	For	Int	Vig
+	d6	d10	d10	d12+2	d10
+
 Compétences : Combat d8, Connaissance (Arcanes) d12+2, Intimidation d12, Magie d12, Perception d10
-```
-PAR	RES
-6	15 (6)
-```
+
+	PAR	RES
+	6	15 (6)
+
 ### Capacités spéciales
 - Arcanes : Magie d12, PP50. Une liche connaît tous les sorts disponibles, et peut-être même des sorts uniques. Les sorts qui suivent sont un assortiment classique. N’hésitez pas à en rajouter au besoin.
 - Mort-vivant : Résistance +2. +2 pour récupérer d’un état Secoué. Les Attaque ciblées n’infligent pas de dégâts supplémentaires. Flèches, balles et autre attaques perforantes font la moitié des dégâts.
-
 
 ### Actions
 - Toucher de la Mort : Combat d8+2, Attaque de toucher, 1 blessure par Relance.

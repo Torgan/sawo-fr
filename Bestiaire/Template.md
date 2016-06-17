@@ -17,7 +17,6 @@ Atouts : (s'il y en a)
 - Arcanes (XX) : compétence dX, PPxx.
 - Nom de la capacité : phrase de description
 
-
 ### Actions
 - Fronde : Tir dX, 4/8/16, dX+dY.
 - Bâton : Combat dX, Parade +X, Allonge X, 2 mains, ..., dX+dY

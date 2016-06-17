@@ -2,15 +2,14 @@
 Il s’agit de grands loups enragés parfois utilisés comme chiens de combat. On les trouve aussi en meutes au cœur d’obscures forêts.
 
 Allure : 10(+d10)
-```
-Agi	Âme	For	Int	Vig
-d8	d6	d8	d4(A)	d8
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d6	d8	d4(A)	d8
+
 Compétences : Combat d8, Intimidation d8, Perception d6
-```
-PAR	RES
-6	6
-```
+
+	PAR	RES
+	6	6
 
 ### Actions
 - Morsure : Combat d8, d8+d6

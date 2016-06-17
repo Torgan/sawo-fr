@@ -3,15 +3,15 @@
 Cette horrible créature souterraine ressemble au croisement d’un crustacé et d’un insecte géant. Son corps est muni d’une épaisse carapace de chitine et de six pattes, sa tête est pourvue de 2 énormes mandibules. Il mesure environ 3 mètres pour 400 kg.
 
 Allure : 6
-```
-Agi	Âme	For	Int	Vig
-d6	d8	d10	d4 (A)	d12
-```
+
+	Agi	Âme	For	Int	Vig
+	d6	d8	d10	d4 (A)	d12
+
 Compétences : Combat d6, Discrétion d8, Escalade d8, Perception d8, Tir d8.
-```
-PAR	RES
-5	13 (2)
-```
+
+	PAR	RES
+	5	13 (2)
+
 ### Capacités spéciales
 - Armure +2 : plaques de chitine.
 - Vision nocturne : les rats géant ignorent les malus d’obscurité dans la pénombre ou l’obscurité.

@@ -14,4 +14,3 @@ Compétences : Perception d4
 	Parade	Résistance
 	2   5
 
-

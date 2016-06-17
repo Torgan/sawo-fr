@@ -2,15 +2,15 @@
 Un drake est un dragon qui ne vole pas et doté seulement d’une intelligence animale. Il est toutefois plus agressif en Combat que son lointain cousin le dragon.
 
 Allure : 4
-```
-Agi Âme	For	Int	Vig
-d6  d10	d12+6	d6(A)	d12
-```
+
+	Agi Âme	For	Int	Vig
+	d6  d10	d12+6	d6(A)	d12
+
 Compétences : Combat d10, Intimidation d12, Perception d8
-```
-PAR RES
-7	17 (4)
-```
+
+	PAR RES
+	7	17 (4)
+
 ### Capacités spéciales
 - Armure +4 : peau d’écailles.
 - Grand : on ajoute +2 à ses jets d’attaque contre un drake en raison de sa grande taille.

@@ -3,15 +3,15 @@
 Les buveurs de sang des contes sont courants dans de nombreux jeux fantastiques. Voici des caractéristiques pour un vampire relativement jeune.
 
 Allure : 6
-```
-Agi	Âme	For	Int	Vig
-d8	d8	d12+1	d8	d10
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d8	d12+1	d8	d10
+
 Compétences : Combat d8, Intimidation d8, Lancer d6, Natation d8, Perception d6, Tir d6
-```
-PAR	RES
-6	9
-```
+
+	PAR	RES
+	6	9
+
 ### Capacités spéciales
 - Invulnérabilité :  les vampires ne peuvent être blessés que via leurs Points faibles. Ils peuvent être Secouées par d’autres attaques, mais jamais Blessés.
 - Mort-vivant : +2 RES. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.

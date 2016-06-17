@@ -3,15 +3,15 @@
 Lorsque la lune est pleine, les humains atteints de ce mal perdent la maîtrise de soi, et la rage les pousse au meurtre. Certains y prennent même du plaisir.
 
 Allure : 8
-```
-Agi	Âme	For	Int	Vig
-d8	d6	d12+2	d6	d10
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d6	d12+2	d6	d10
+
 Compétences : Combat d12+2, Discrétion d10, Escalade d8, Intimidation d10, Natation d10, Perception d12, Pistage d10
-```
-PAR	RES
-9	7
-```
+
+	PAR	RES
+	9	7
+
 ### Capacités spéciales
 - Infravision : les loups-garous ne subissent que la moitié de la pénalité normale en cas de mauvaises conditions d’éclairage lorsqu’ils attaquent des cibles vivantes.
 - Invulnérabilité : les armes qui ne sont pas faites en argent ne peuvent que Secouer les loups-garous, et non les blesser.

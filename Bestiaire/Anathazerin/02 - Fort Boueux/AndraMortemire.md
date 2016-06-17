@@ -1,15 +1,15 @@
 # * Andra Mortemire
 
 Allure : 6
-```
-Agi	Âme	For	Int	Vig
-d6	d10	d6	d8	d6
-```
+
+	Agi	Âme	For	Int	Vig
+	d6	d10	d6	d8	d6
+
 Compétences : Combat d8, Connaissance (Religion) d6, Foi d10, Perception d6, Soins d8.
-```
-PAR	RES
-6	6 (1)
-```
+
+	PAR	RES
+	6	6 (1)
+
 ### Capacités spéciales
 - Arcanes : Foi d10, PP15.
 

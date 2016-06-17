@@ -3,15 +3,15 @@
 Ces caractéristiques s’appliquent aux grands chiens d’attaque et prédateurs canins, comme les Rottweilers et Dobermans, les loups, les hyènes, etc.
 
 Allure : 8(+d10)
-```
-Agi	Âme	For	Int	Vig
-d8	d6	d6	d6 (A)	d6
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d6	d6	d6 (A)	d6
+
 Compétences : Combat d6, Perception d10
-```
-PAR	RES
-5	4 (-1 Taille)
-```
+
+	PAR	RES
+	5	4 (-1 Taille)
+
 ### Capacités spéciales
 Taille -1 : les chiens sont plutôt petits.
 

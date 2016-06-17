@@ -2,15 +2,15 @@
 Les élémentaires de l’air se manifestent sous la forme d’un tourbillon d’air.
 
 Vol : Allure 6, montée 4. Les élémentaires d’air ne peuvent pas « courir ».
-```
-Agi	Âme	For	Int	Vig
-d12	d6	d8	d6	d6
-```
+
+	Agi	Âme	For	Int	Vig
+	d12	d6	d8	d6	d6
+
 Compétences : Combat d8, Perception d8, Tir d6
-```
-PAR	RES
-6	5
-```
+
+	PAR	RES
+	6	5
+
 ### Capacités spéciales
 - Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées ; Sans peur ; immunisé aux maladies et aux poisons.
 - Immatériel : un élémentaire de l’Air peut traverser toute surface non solide, s’infiltrant par les fentes d’une porte, au moyen de bulles à travers l’eau et s’engouffrer dans les voiles.

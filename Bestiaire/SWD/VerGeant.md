@@ -5,15 +5,15 @@ Ces immenses vers se déplacent sous terre à la recherche de proies qui errent 
 Ces caractéristiques s’appliquent à un spécimen long de 15 mètres.
 
 Allure : 6
-```
-Agi	Âme	For	Int	Vig
-d6	d10	d12+10	d6(A)	d12
-```
+
+	Agi	Âme	For	Int	Vig
+	d6	d10	d12+10	d6(A)	d12
+
 Compétences : Combat d6, Discrétion d10, Perception d10
-```
-PAR	RES
-5	22 (4 ; +10 Taille)
-```
+
+	PAR	RES
+	5	22 (4 ; +10 Taille)
+
 ### Capacités spéciales
 - Armure +4 : peau écailleuse.
 - Gigantesque : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille. Armure Lourde.

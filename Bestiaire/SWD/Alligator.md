@@ -2,15 +2,15 @@
 Les caractéristiques fournies sont valables pour un spécimen moyen des deux espèces.
 
 Allure : 3
-```
-Agi	Âme	For	Int	Vig
-d4	d6	d10	d4 (A)	d10
-```
+
+	Agi	Âme	For	Int	Vig
+	d4	d6	d10	d4 (A)	d10
+
 Compétences : Combat d8, Natation d8, Perception d6
-```
-PAR	RES
-6	9 (2)
-```
+
+	PAR	RES
+	6	9 (2)
+
 ### Capacités spéciales
 - Aquatique : Allure 5
 - Armure +2 : peau épaisse.

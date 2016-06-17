@@ -3,15 +3,15 @@
 Cette affreuse petite créature rougeâtre de 30 cm, croisement entre un moustique géant et une chauve-souris, est pourvue de quatre ailes. Elle possède également quatre pattes barbelées lui permettant de s’accrocher férocement à ses victimes pour leur sucer le sang.
 
 Allure : 4
-```
-Agi	Âme	For	Int	Vig
-d12+1	d8	d4	d4 (A)	d6
-```
+
+	Agi	Âme	For	Int	Vig
+	d12+1	d8	d4	d4 (A)	d6
+
 Compétences : Combat d6, Discrétion d12, Perception d6, Pistage d4/
-```
-PAR	RES
-5	3
-```
+
+	PAR	RES
+	5	3
+
 ### Capacités spéciales
 - Petit : les adversaires d’un chat subissent un malus de -2 pour lui porter une attaque.
 - Taille -2 : une strige fait une trentaine de centimètres de long.

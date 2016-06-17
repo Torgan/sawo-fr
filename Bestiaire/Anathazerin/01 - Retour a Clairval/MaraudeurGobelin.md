@@ -1,15 +1,15 @@
 # Maraudeur Gobelin
 
 Allure : 6
-```
-Agi	Âme	For	Int	Vig
-d8	d6	d4	d6	d6
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d6	d4	d6	d6
+
 Compétences : Combat d6, Discrétion d10, Escalade d6, Lancer d6, Natation d6, Perception d6, Sarcasmes d6, Tir d8
-```
-PAR	RES
-5	4
-```
+
+	PAR	RES
+	5	4
+
 ### Capacités spéciales
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
 - Taille -1 : un gobelin mesure entre 1m et 1m20.

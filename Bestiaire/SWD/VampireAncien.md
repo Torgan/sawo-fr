@@ -3,15 +3,15 @@
 Voici les caractéristiques standards pour des vampires un peu moins forts que le légendaire Dracula. Le MJ peut ajouter d’autres Atouts pour refléter le passé du vampire qu’il désire créer.
 
 Allure : 6
-```
-Agi	Âme	For	Int	Vig
-d8	d10	d12+3	d10	d12
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d10	d12+3	d10	d12
+
 Compétences : Combat d10, Intimidation d12, Lancer d8, Natation d8, Perception d8, Tir d8
-```
-PAR	RES
-7	10
-```
+
+	PAR	RES
+	7	10
+
 ### Capacités spéciales
 - Brume : les grands vampires peuvent se transformer en brume. Cela nécessite une Action et un jet d’Intellect à –2.
 - Transformation : un vampire peut se transformer en un loup ou en chauve-souris avec un jet d’Intellect à –2. Revenir à la forme humanoïde nécessite un jet d’Intellect. Cette transformation compte comme une action.

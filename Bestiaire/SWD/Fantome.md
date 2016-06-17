@@ -3,15 +3,15 @@
 Les fantômes sont des créatures très variées. Les poltergeists ont tendance à lancer des objets, les ombres hantent des familles ou des endroits particuliers et les fantômes sont des tueurs frénétiques. C’est à vous de décider des pouvoirs exacts de votre revenant mais vous trouverez ci-dessous des détails sur les plus communs.
 
 Allure : 8
-```
-Agi	Âme	For	Int	Vig
-d6	d10	d6	d6	d6
-```
+
+	Agi	Âme	For	Int	Vig
+	d6	d10	d6	d6	d6
+
 Compétences : Combat d6, Discrétion d12, Intimidation d10, Lancer d12, Perception d10
-```
-PAR	RES
-5	5
-```
+
+	PAR	RES
+	5	5
+
 ### Capacités spéciales
 - Ancre : certains fantômes ont des ancres qui les relient au monde des vivants. Ce peut être un bâtiment, un champ de bataille, leur ancien corps, ou bien un endroit ou une personne important pour eux durant leur vie. De tels esprits ne voyagent pas à plus de 2 kilomètres de leur ancre mais s’ils le font, ils l’emportent avec eux.
 - Intangible : la créature est immatérielle et les armes normales ne peuvent l’affecter, contrairement à la magie et aux armes magiques.

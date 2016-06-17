@@ -3,15 +3,15 @@
 Un minotaure mesure plus de 2m10 et son énorme tête bovine est dotée de cornes. Gardiens de labyrinthes dans les univers fantastiques et races de créatures dans d’autres. Dans tous les cas ce sont de redoutables combattants.
 
 Allure : 8(+d10)
-```
-Agi	Âme	For	Int	Vig
-d8	d8	d12+2	d6	d12
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d8	d12+2	d6	d12
+
 Compétences : Combat d10, Intimidation d12, Lancer d6, Perception d10
-```
-PAR	RES
-8   11 (1)
-```
+
+	PAR	RES
+	8   11 (1)
+
 ### Capacités spéciales
 - Taille +2 : dépasse les 2m10 de haut.
 

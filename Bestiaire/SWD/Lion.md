@@ -3,15 +3,15 @@
 Ces caractéristiques peuvent s’appliquer à de nombreux prédateurs félins.
 
 Allure : 8
-```
-Agi	Âme	For	Int	Vig
-d8	d10	d12	d6(A)	d18
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d10	d12	d6(A)	d18
+
 Compétences : Combat d8, Perception d8
-```
-PAR	RES
-6	8
-```
+
+	PAR	RES
+	6	8
+
 ### Capacités spéciales
 - Taille +2 : un lion mâle pèse près de 250 kg.
 

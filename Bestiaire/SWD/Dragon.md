@@ -2,15 +2,15 @@
 Les dragons sont des monstres cracheurs de feu répandant damnation et désespoir dans les villages qu’ils dévastent. De telles créatures ne sont pas à prendre à la légère, capables qu’elles sont de mettre à mal un groupe d’aventuriers même très expérimentés. Ils disposent d’une fine intelligence dont ils font le meilleur usage contre leurs ennemis.
 
 Allure : 8
-```
-Agi	Âme	For	Int	Vig
-d8	d10	d12+9	d8	d12
-```
+
+	Agi	Âme	For	Int	Vig
+	d8	d10	d12+9	d8	d12
+
 Compétences : Combat d10, Intimidation d12, Perception d12
-```
-PAR	RES
-7	20 (4)
-```
+
+	PAR	RES
+	7	20 (4)
+
 ### Capacités spéciales
 - Armure +4 : peau d’écailles.
 - Énorme : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense.
