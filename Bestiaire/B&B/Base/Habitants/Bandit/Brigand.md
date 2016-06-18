@@ -20,5 +20,6 @@ Handicaps : Poches percées, Recherché.
 - Gourdin : Combat d6, d6+d4
 - Arc : Tir d6, 12/24/48, 2d6
 
-Équipement : Épée courte en bronze ou gourdin, petit bouclier (Parade +1) ou arc, armure légère en cuir (+1).
+### Équipement
+Épée courte en bronze ou gourdin, petit bouclier (Parade +1) ou arc, armure légère en cuir (+1).
 
