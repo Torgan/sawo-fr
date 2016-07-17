@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Combat d8, Perception d8, Discrétion d8
 
-	Parade	Résistance
+	PAR	RES
 	6	7
 
 ### Capacités spéciales

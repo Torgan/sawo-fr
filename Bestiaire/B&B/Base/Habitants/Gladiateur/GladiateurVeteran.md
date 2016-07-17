@@ -10,7 +10,7 @@ Compétences : Combat d10, Soins d4, Intimidation d10, Perception d6, Sarcasme d
 Handicaps : Arrogant.
 Atouts : Combatif, Contre-attaque, Distraction, Frénésie.
 
-	Parade	Résistance
+	PAR	RES
 	8	7 (1)
 
 ### Capacités spéciales

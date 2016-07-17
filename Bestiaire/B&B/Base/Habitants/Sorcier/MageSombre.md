@@ -9,7 +9,7 @@ Compétences : Combat d6, Connaissance (Arcanes) d8, Intimidation d6, Perception
 Handicaps : Arrogant, Cupide.
 Atouts : Arcanes (Sorcellerie), Aura Impressionnante, Nouveau Pouvoir, Points de pouvoir.
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

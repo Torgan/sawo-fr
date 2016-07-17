@@ -9,7 +9,7 @@ Compétences : Combat d6, Soins d6, Intimidation d6, Connaissance (Arcanes) d8, 
 Handicaps : Prudent.
 Atouts : Arcanes (Maîtrise du Lotus), Réserve de Lotus, Nouveau Pouvoir, Points de pouvoir.
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

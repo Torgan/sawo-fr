@@ -7,7 +7,7 @@ Allure : 3
 
 Compétences : Combat d8, Perception d8.
 
-	Parade	Résistance
+	PAR	RES
 	6	7
 
 ### Capacités spéciales

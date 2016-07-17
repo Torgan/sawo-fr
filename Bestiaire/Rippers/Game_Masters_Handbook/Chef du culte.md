@@ -13,7 +13,7 @@ Atouts: Arcanes(Magie), Mage
 PP: 20
 Pouvoirs: Explosion, Éclair, Ténèbres(ténèbres), Convocation d'allié 
 
-	Parade	Résistance
+	PAR	RES
 	5   6
 ### Capacités spéciales
 -Arcanes(Magie), Magie d8, PP20

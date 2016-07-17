@@ -9,7 +9,7 @@ Compétences : Escalade d6+2, Combat d6, Jeu d4, Intimidation d4, Crochetage d6+
 Handicaps : Cupide.
 Atouts : Criminel, Voleur.
 
-	Parade	Résistance
+	PAR	RES
 	5	6 (1)
 
 ### Capacités spéciales

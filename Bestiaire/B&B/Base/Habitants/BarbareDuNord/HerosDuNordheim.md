@@ -9,7 +9,7 @@ Compétences : Escalade d6, Combat d10, Connaissance (Batailles) d6, Intimidatio
 Handicaps : Peur de la magie (Mineur), Présomptueux.
 Atouts : Enragé, Costaud, Brute, Héros en pagne, Balayage.
 
-	Parade	Résistance
+	PAR	RES
 	6	8
 
 ### Capacités spéciales

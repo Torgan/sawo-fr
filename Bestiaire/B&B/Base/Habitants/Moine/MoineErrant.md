@@ -9,7 +9,7 @@ Compétences : Escalade d4, Combat d8, Soins d6, Illumination d8, Connaissance (
 Handicaps : Poches Percées, Serment (Principes Religieux).
 Atouts : Arcanes (Voie de l’Illumination), Arts Martiaux, Moine (militant), Nouveau Pouvoir.
 
-	Parade	Résistance
+	PAR	RES
 	6	5
 
 ### Capacités spéciales

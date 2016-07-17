@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Escalade d4, Combat d6, Intimidation d6, Perception d4, Tir d6, Discrétion d6, Survie d6
 
-	Parade	Résistance
+	PAR	RES
 	5	6 (1)
 
 ### Actions

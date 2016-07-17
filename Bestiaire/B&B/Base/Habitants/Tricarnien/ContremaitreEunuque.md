@@ -10,7 +10,7 @@ Compétences : Combat d8, Intimidation d8, Perception D8, Tir d8, Lancer d6
 Handicaps : Sanguinaire, Loyal.
 Atouts : Commandement, Frénésie.
 
-	Parade	Résistance
+	PAR	RES
 	6	6 (1)
 
 ### Capacités spéciales

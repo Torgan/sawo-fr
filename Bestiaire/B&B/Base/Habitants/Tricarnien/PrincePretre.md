@@ -10,7 +10,7 @@ Compétences : Combat d8, Intimidation d10, Connaissance (Arcanes) d8, Connaissa
 Handicaps : Arrogant, Sanguinaire, Mauvaise Habitude (Hédonisme).
 Atouts : Arcanes (Sorcellerie), Séduisant, Rituel de Permanence, Nouveau Pouvoir, Noble, Points de pouvoir.
 
-	Parade	Résistance
+	PAR	RES
 	6	6 (1)
 
 ### Capacités spéciales

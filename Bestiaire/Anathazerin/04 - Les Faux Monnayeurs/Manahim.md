@@ -9,7 +9,7 @@ Compétences : Combat d8, Discrétion d6, Escalade d4, Intimidation d6, Lancer d
 
 Handicaps : Poches percées, Recherché.
 
-	Parade	Résistance
+	PAR	RES
 	8	6 (1)
 
 ### Capacités spéciales

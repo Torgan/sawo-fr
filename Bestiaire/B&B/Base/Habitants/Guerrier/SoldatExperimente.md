@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d8, Intimidation d6, Perception d6, Tir d6, Lancer d6
 Atouts : Combatif.
 
-	Parade	Résistance
+	PAR	RES
 	7	8 (2)
 
 ### Capacités spéciales

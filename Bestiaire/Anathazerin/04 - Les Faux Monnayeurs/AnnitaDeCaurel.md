@@ -9,7 +9,7 @@ Charisme : +2
 
 Compétences : Combat d6, Connaissance (Arcanes) d8, Discrétion d4, Magie d8, Perception d6, Persuasion d6, Sarcasme d4.
 
-Atouts : Assassin, Blocage, Sang-froid, Voleur
+Atouts : Assassin, Blocage, Sang-froid, Séduisante, Voleur.
 
 Handicaps : Cupide
 
@@ -23,7 +23,7 @@ Handicaps : Cupide
 ### Actions
 - Dague : Combat d6, 2d4.
 - _Augmentation/Diminution de Trait_ : Magie d8, PP2, portée 10, 3(1/rd).
-- _Éclair (foudre)_ :	Magie d8, PP1-3 ou PP2, 12/24/48, Inst.
+- _Éclair (foudre)_ : Magie d8, PP1-3 ou PP2, 12/24/48, Inst.
 - _Intangibilité_ : Magie d8, PP5, T, 3(2/rd).
 - _Télékinésie_ : Magie d8, PP5, portée 10, 3(1/rd)
 

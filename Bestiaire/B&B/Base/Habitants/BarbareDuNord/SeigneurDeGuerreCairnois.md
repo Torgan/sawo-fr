@@ -9,7 +9,7 @@ Compétences : Escalade d6, Combat d8, Connaissance (Batailles) d4, Intimidation
 Handicaps : Arrogant, Cupide, Sale Caractère.
 Atouts : Blocage, Esquive, Commandement, Volonté de fer, Nerfs d’acier.
 
-	Parade	Résistance
+	PAR	RES
 	8	7 (1)
 
 ### Capacités spéciales

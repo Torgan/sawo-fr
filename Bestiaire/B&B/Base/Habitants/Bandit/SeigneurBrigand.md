@@ -9,7 +9,7 @@ Compétences : Escalade d6, Connaissance (Batailles) d6, Combat d10, Intimidatio
 Handicaps : Arrogant ou Présomptueux, Recherché.
 Atouts : Blocage, Commandement, Nerfs d’acier trempé, Tête Froide, Leader naturel, Balayage.
 
-	Parade	Résistance
+	PAR	RES
 	9	8 (2)
 
 ### Capacités spéciales

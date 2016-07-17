@@ -8,7 +8,7 @@ Charisme : +4
 
 Compétences : Combat d8, Connaissance (Arcanes) d10, Perception d6, Persuasion d10, Discrétion d6.
 
-	Parade	Résistance
+	PAR	RES
 	6	9
 
 ### Capacités spéciales

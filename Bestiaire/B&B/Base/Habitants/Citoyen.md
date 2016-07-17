@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Combat d4, Connaissance (un métier) d6, Perception d4
 
-	Parade	Résistance
+	PAR	RES
 	4	5
 
 ### Actions

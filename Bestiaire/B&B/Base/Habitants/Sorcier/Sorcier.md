@@ -10,7 +10,7 @@ Compétences : Combat d6, Connaissance (Arcanes) d10, Intimidation d8, Perceptio
 Handicaps : Prudent, Cupide.
 Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pouvoir, Source de Pouvoir, Rituel de Permanence, Drain de l’Âme.
 
-	Parade	Résistance
+	PAR	RES
 	6	7 (1)
 
 ### Capacités spéciales

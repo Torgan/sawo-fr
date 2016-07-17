@@ -8,7 +8,7 @@ Allure : 8 (+d10)
 Compétences : Escalade d4, Combat d6, Perception d8, Discrétion d8, Lancer d8, Pistage d6, Survie d6
 Atouts : Véloce, Extraction, Sauvage.
 
-	Parade	Résistance
+	PAR	RES
 	6	6
 
 ### Capacités spéciales

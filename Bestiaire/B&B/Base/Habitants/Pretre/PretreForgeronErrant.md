@@ -9,7 +9,7 @@ Compétences : Combat d8, Soins d6, Connaissance (Religion) d6, Connaissance (Ar
 Handicaps : Serment (principes religieux), Recherché.
 Atouts : Brave, Panache, Nerfs d’Acier Trempé, Frénésie Suprême, Prêtre.
 
-	Parade	Résistance
+	PAR	RES
 	7	8 (2)
 
 ### Capacités spéciales

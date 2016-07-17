@@ -9,7 +9,7 @@ Compétences : Combat d6, Intimidation d4, Perception d4, Tir d6, Lancer d6
 Handicaps : Manie (bouillie d’esclave).
 Atouts : Combatif (drogues anti-douleur).
 
-	Parade	Résistance
+	PAR	RES
 	6	6 (1)
 
 ### Capacités spéciales

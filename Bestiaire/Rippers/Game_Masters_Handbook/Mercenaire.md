@@ -13,7 +13,7 @@ Compétences : Combat d8, Discrétion d4, Escalade d4, Perception d4, Tir d6
 Handicaps :  Cupide
 Atouts: variables
 
-	Parade	Résistance
+	PAR	RES
 	6   6
 
 ### Actions

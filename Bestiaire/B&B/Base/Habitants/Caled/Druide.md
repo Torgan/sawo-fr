@@ -10,7 +10,7 @@ Compétences : Escalade d6, Combat d6, Connaissance (Arcanes) d8, Perception d6,
 Handicaps : Sanguinaire.
 Atouts : Arcanes (Sorcellerie), Nouveau Pouvoir, Points de pouvoir.
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

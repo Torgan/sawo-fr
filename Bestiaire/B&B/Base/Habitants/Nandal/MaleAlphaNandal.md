@@ -10,7 +10,7 @@ Compétences : Escalade d4, Combat d8, Intimidation d10, Perception d6, Survie d
 Handicaps : Sanguinaire, Moche.
 Atouts : Brute, Frénésie, Grand Balayage.
 
-	Parade	Résistance
+	PAR	RES
 	6	10 (1)
 
 ### Capacités spéciales

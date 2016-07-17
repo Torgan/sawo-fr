@@ -9,7 +9,7 @@ Charisme : -2
 Compétences : Navigation d6, Combat d8, Intimidation d6, Perception d4, Tir d4, Discrétion d4, Lancer d6
 Handicaps : Code d’Honneur (pirates), Sale Caractère.
 
-	Parade	Résistance
+	PAR	RES
 	6	5
 
 ### Capacités spéciales

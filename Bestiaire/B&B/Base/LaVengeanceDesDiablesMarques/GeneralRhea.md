@@ -10,7 +10,7 @@ Compétences : Escalade d6, Combat d10, Intimidation d8, Connaissance (Batailles
 Handicaps : Cupide (pouvoir personnel), Rancunier (mâles)
 Atouts : Amazone, Séduisante, Héroïne en bikini, Commandement, Contre-attaque, Serrez les rangs !, Vif, Noble, Tentatrice
 
-	Parade	Résistance
+	PAR	RES
 	7 (8)	7 (2)
 
 ### Capacités spéciales

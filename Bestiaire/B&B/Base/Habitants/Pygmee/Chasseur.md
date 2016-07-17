@@ -10,7 +10,7 @@ Compétences : Escalade d8, Combat d6, Intimidation d6, Perception d6, Tir d8, D
 Handicaps : Sanguinaire, Frêle.
 Atouts : Forestier.
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

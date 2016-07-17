@@ -8,7 +8,7 @@ Allure : 5
 Compétences : Combat d8, Soins d10, Intimidation d8, Connaissance (Arcanes) d10, Connaissance (Médecine) d10, Maîtrise du Lotus d12, Perception d8, Persuasion d8, Discrétion d8, Sarcasme d8, Lancer d10
 Atouts : Arcanes (Maître du Lotus), Sang-Froid, Réserve de Lotus, Nouveau Pouvoir X2, Points de pouvoir X2, Riche.
 
-	Parade	Résistance
+	PAR	RES
 	6	8 (2)
 
 ### Capacités spéciales

@@ -10,7 +10,7 @@ Compétences : Navigation d8, Combat d10, Intimidation d8, Perception d6, Tir d6
 Handicaps : Code d’Honneur (pirates), Sale Caractère.
 Atouts : Ambidextre, Commandement, Combat à deux armes.
 
-	Parade	Résistance
+	PAR	RES
 	7	7 (1)
 
 ### Capacités spéciales

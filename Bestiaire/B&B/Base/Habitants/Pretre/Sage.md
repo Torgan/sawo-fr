@@ -9,7 +9,7 @@ Compétences : Combat d4, Connaissance (en choisir deux) d10+2, Recherche d10, P
 Handicaps : Bavard, Âgé.
 Atouts : Sage, Érudit.
 
-	Parade	Résistance
+	PAR	RES
 	4	4
 
 ### Capacités spéciales

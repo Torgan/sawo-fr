@@ -7,7 +7,7 @@ Allure : 3
 
 Compétences : Combat d6, Connaissances (Arcanes) d8, Connaissances (Histoire ancienne) d8, Perception d8, Discrétion d8, Sarcasme d10
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

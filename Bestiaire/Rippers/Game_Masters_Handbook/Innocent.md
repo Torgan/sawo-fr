@@ -11,6 +11,6 @@ Raison: 4
 
 Compétences : Perception d4
 
-	Parade	Résistance
+	PAR	RES
 	2   5
 

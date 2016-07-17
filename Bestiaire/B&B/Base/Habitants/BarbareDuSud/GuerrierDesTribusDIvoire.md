@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Escalade d4, Combat d6, Intimidation d4, Perception d6, Discrétion d6, Lancer d6, Pistage d4, Survie d6, Sarcasme d4
 
-	Parade	Résistance
+	PAR	RES
 	6	5
 
 ### Capacités spéciales

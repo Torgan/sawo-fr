@@ -9,7 +9,7 @@ Compétences : Escalade d8, Combat d6, Intimidation d8, Connaissance (Arcanes) d
 Handicaps : Sanguinaire, Frêle, Serment (principes religieux).
 Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pouvoir, Forestier.
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

@@ -9,7 +9,7 @@ Compétences : Navigation d6, Escalade d6, Combat d6, Intimidation d4, Perceptio
 Handicaps : Code d’Honneur (Amazone), Loyal.
 Atouts : Amazone, Combatif.
 
-	Parade	Résistance
+	PAR	RES
 	6 (7)	6 (1)
 
 ### Capacités spéciales

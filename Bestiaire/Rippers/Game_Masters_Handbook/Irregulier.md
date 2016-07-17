@@ -11,7 +11,7 @@ Raison: 5
 
 Compétences : Combat d8, Réseaux d4, Pistage d4, Perception d4, Tir d6 
 
-	Parade	Résistance
+	PAR	RES
 	6   6 (1)
 
 ### Actions

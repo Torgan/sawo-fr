@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Combat d6, Connaissance (un métier) d6, Perception d4, Tir d6, Discrétion d6, Lancer d6
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

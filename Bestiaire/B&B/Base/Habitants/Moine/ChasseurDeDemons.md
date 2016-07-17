@@ -10,7 +10,7 @@ Compétences : Escalade d6, Combat d10, Soins d8, Illumination d10, Connaissance
 Handicaps : Rien à perdre, Héroïque, Serment (Principes Religieux).
 Atouts : Arcanes (Voie de l’Illumination), Blocage, Brave, Chasseur de Démons, Arts martiaux, Moine (militant), Nouveau Pouvoir X2, Points de pouvoir.
 
-	Parade	Résistance
+	PAR	RES
 	8	8 (2)
 
 ### Capacités spéciales

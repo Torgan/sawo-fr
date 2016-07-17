@@ -9,7 +9,7 @@ Compétences : Combat d8, Soins d4, Intimidation d8, Perception d6, Sarcasme d6,
 Handicaps : Arrogant.
 Atouts : Combatif, Distraction.
 
-	Parade	Résistance
+	PAR	RES
 	7	7 (1)
 
 ### Capacités spéciales

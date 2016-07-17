@@ -9,7 +9,7 @@ Compétences : Escalade d8+2, Combat d10, Crochetage d6+2, Perception d8, Persua
 Handicaps : Serment (Toujours terminer sa mission).
 Atouts : Acrobate, Assassin, Criminel, Sans pitié, Voleur, Arme Fétiche (Dague).
 
-	Parade	Résistance
+	PAR	RES
 	8	7 (1)
 
 ### Capacités spéciales

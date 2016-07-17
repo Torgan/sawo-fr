@@ -10,7 +10,7 @@ Compétences : Combat d8, Perception d4, Intimidation d6, Tir d10, Équitation d
 Handicaps : Sanguinaire, Cupide.
 Atouts : Cavalier né, Poigne Ferme.
 
-	Parade	Résistance
+	PAR	RES
 	6	6 (1)
 
 ### Capacités spéciales

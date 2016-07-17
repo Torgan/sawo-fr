@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Escalade d4, Combat d6, Intimidation d6, Perception d4, Discrétion d6, Réseaux d6, Lancer d6
 Handicaps : Cupide.
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Actions

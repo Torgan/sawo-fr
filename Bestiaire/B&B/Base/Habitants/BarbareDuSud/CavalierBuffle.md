@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d10, Intimidation d6, Perception d6, Équitation d8+2, Lancer d8, Pistage d6, Survie d4
 Atouts : Cavalier né, Cavalier-buffle, Esquive.
 
-	Parade	Résistance
+	PAR	RES
 	8	7 (1)
 
 ### Capacités spéciales

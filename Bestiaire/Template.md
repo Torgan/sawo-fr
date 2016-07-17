@@ -10,7 +10,7 @@ Compétences : Combat dX, ...
 Handicaps : (s'il y en a)
 Atouts : (s'il y en a)
 
-	Parade	Résistance
+	PAR	RES
 	X	X (X)
 
 ### Capacités spéciales (s'il y en a)

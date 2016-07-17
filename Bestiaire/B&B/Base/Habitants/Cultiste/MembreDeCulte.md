@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d6, Intimidation d6, Connaissance (Religion) d4, Discrétion d6
 Handicaps : Chimères, Serment (ils doivent respecter les dogmes de leur foi).
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

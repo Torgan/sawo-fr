@@ -10,7 +10,7 @@ Compétences : Combat d4, Soins d6, Connaissance (Religion) d8, Recherche d4, Pe
 Handicaps : Serment (principes de sa foi).
 Atouts : Charismatique, Prêtre.
 
-	Parade	Résistance
+	PAR	RES
 	5	5
 
 ### Capacités spéciales

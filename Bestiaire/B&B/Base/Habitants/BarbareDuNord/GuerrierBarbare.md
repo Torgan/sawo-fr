@@ -9,7 +9,7 @@ Compétences : Escalade d4, Combat d8, Intimidation d4, Perception d4, Équitati
 Handicaps : Peur de Magie (Mineur).
 Atouts : Brute.
 
-	Parade	Résistance
+	PAR	RES
 	7	6 (1)
 
 ### Actions

@@ -10,7 +10,7 @@ Compétences : Combat d4, Soins d4, Perception d6, Persuasion d8
 Handicaps : Demoiselle en détresse.
 Atouts : Séduisante.
 
-	Parade	Résistance
+	PAR	RES
 	4	5
 
 ### Capacités spéciales

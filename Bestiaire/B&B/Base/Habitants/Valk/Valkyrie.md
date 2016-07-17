@@ -10,7 +10,7 @@ Compétences : Combat d6, Perception d8, Intimidation d10, Connaissance (Arcanes
 Handicaps : Sanguinaire, Serment (principes religieux valks).
 Atouts : Arcanes (Sorcellerie), Séduisante, Cavalier né, Charismatique, Commandement, Ferveur, Nouveau Pouvoir, Points de pouvoir.
 
-	Parade	Résistance
+	PAR	RES
 	6	6 (1)
 
 ### Capacités spéciales

@@ -9,7 +9,7 @@ Compétences : Escalade d6, Combat d6, Perception d6, Persuasion d6(+2), Discré
 Handicaps : Cupide.
 Atouts : Contacts (crime), Criminel, Empoisonneur.
 
-	Parade	Résistance
+	PAR	RES
 	5	6
 
 ### Capacités spéciales

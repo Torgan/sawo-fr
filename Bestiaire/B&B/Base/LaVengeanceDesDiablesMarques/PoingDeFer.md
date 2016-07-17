@@ -10,7 +10,7 @@ Compétences : Combat d8, Connaissance (Métallurgie) d8, Intimidation d8, Perce
 Handicaps : Moche, Manchot
 Atouts : Amazone, Ambidextre, Héroïne en bikini, Costaud, Combat à deux armes
 
-	Parade	Résistance
+	PAR	RES
 	6 (7)	6
 
 ### Capacités spéciales

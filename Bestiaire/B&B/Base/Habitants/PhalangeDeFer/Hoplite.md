@@ -8,7 +8,7 @@ Allure : 5
 Compétences : Combat d6, Soins d4, Perception d4, Tir d6, Lancer d6
 Atouts : Entraînement d’Hoplite.
 
-	Parade	Résistance
+	PAR	RES
 	7	8 (3)
 
 ### Capacités spéciales

@@ -9,7 +9,7 @@ Compétences : Escalade d8+2, Combat d8, Jeu d6, Intimidation d6, Crochetage d8+
 Handicaps : Cupide.
 Atouts : Blocage, Contacts (Crime), Frappe éclair, Sang-froid, Grande Esquive, Criminel, Voleur.
 
-	Parade	Résistance
+	PAR	RES
 	7	6 (1)
 
 ### Capacités spéciales

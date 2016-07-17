@@ -10,7 +10,7 @@ Compétences : Combat d8, Intimidation d10, Connaissance (Arcanes) d8, Connaissa
 Handicaps : Arrogant, Chimères, Présomptueux, Serment (ils doivent respecter les dogmes de leur foi).
 Atouts : Charismatique, Commandement, Grande aura de Commandement, Ferveur, Inspiration, Serrez les Rangs !, Volonté de Fer.
 
-	Parade	Résistance
+	PAR	RES
 	6	8 (2)
 
 ### Capacités spéciales

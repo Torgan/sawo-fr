@@ -10,7 +10,7 @@ Compétences : Navigation d8, Combat d10, Intimidation d8, Perception d6, Tir d6
 Handicaps : Cruel.
 Atouts : Costaud, Brute, Combatif, Increvable.
 
-	Parade	Résistance
+	PAR	RES
 	6	8
 
 ### Capacités spéciales

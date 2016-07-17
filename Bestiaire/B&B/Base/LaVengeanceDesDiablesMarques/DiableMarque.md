@@ -9,7 +9,7 @@ Compétences : Escalade d4, Combat d8, Intimidation d8, Perception d4, Équitati
 Atouts : Amazone (voir Déguisée ci-dessous), Combatif
 Handicaps : Loyal, Rancunier (mâles)
 
-	Parade	Résistance
+	PAR	RES
 	7	7 (2)
 
 ### Capacités spéciales
