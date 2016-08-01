@@ -22,7 +22,7 @@ Atouts : Arcane (Sorcellerie), Très séduisante.
 - Fronde : Tir d4, 4/8/16, 2d4.
 - _Déguisement_ : Sorcellerie d8, PP3-5, Portée T, 10mn (1/10mn).
 - _Déflexion_ : Sorcellerie d8, PP2, Portée T, 3 (1/rd).
-- _Fantasmes_ : Sorcellerie d8, PP2+, Portée 8, Inst.
+- _Fantasmes_ : Sorcellerie d8, PP2+, Portée 8, 3 (1/rd).
 - _Sommeil_ : Sorcellerie d8, PP2, Portée 16, 1mn (1/mn).
 
 ### Équipement
