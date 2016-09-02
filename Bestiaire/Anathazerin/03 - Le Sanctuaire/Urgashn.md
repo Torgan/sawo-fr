@@ -8,10 +8,11 @@ Allure : 6
 Compétences : Combat d12, Discrétion d6, Intimidation d10, Lancer d8, Perception d6.
 
 	PAR	RES
-	6	8 (1)
+	6	9 (1)
 
 ### Actions
-- Hache à deux mains : Combat d10, Parade -1, PA2, 2d6
+- Hache à deux mains : Combat d12, Parade -1, PA2, 2d10.
+- Taille +1 : les orques sont un peu plus grands que les humains.
 - Vampirisation : Âme d8, portée 8, ignore l'armure, 2d6. Chaque fois que cette attaque inflige une ou plusieurs blessures, Urgashn peut soigner une Blessure.
 
 ### Réactions

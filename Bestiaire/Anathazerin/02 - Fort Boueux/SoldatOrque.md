@@ -1,4 +1,3 @@
-
 # Soldat Orque
 
 Allure : 6

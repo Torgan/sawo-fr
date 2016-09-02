@@ -1,4 +1,3 @@
-
 # Garde Noir Orque
 
 Allure : 6

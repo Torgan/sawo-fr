@@ -1,9 +1,9 @@
-# * Shaman orque
+# Shaman, aide
 
 Allure : 6
 
 	Agi	Âme	For	Int	Vig
-	d6	d6	d6	d8	d6
+	d6	d6	d8	d6	d6
 
 Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perception d6, Tir d6
 
@@ -16,10 +16,10 @@ Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perceptio
 - Taille +1 : les orques sont un peu plus grands que les humains.
 
 ### Actions
-- Epieu : Combat d6, Parade +1, Allonge 1, 2d6.
+- Dague : Combat d6, d8+d4.
 - _Armure_ : Magie d8, PP2, T, 3(1/rd).
-- _Frappe_ : Magie d8, PP2, T, 3(1/rd).
-- _Zombi_ : Magie d8, 3PP/cadavre, Int, durée spéciale.
+- _Eclair_ : Magie d8, PP1-3, 12/24/48, Inst.
+- _Terreur_ : Magie d8, PP2, Portée 12, Inst.
 
 ### Equipement
-Armure de cuir (+1), épieu (For+d6, Parade +1, Allonge 1)
+Armure de cuir (+1), daguev (For+d4)
