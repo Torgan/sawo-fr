@@ -11,7 +11,7 @@ Compétences : Combat d8, Discrétion d12, Escalade d12+2, Magie d8, Perception 
 Atouts : Grande résistance aux arcanes.
 
 	PAR	RES
-	6	6 (1)
+	6	12 (2)
 
 ### Capacités spéciales
 - Armure +2 : chitine.
@@ -31,4 +31,3 @@ Atouts : Grande résistance aux arcanes.
 
 ### Équipement
 Masse lourde, arc long.
-2: Increases Toughness by +2.

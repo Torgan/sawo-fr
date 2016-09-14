@@ -21,7 +21,7 @@ Atouts : Charismatique, Combatif, Commandement, Frénésie.
 
 ### Actions
 
-- Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.- Épée longue : Combat d8, 2d8.
+- Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
 - Épée longue : Combat d10, d10+d8.
 
 ### Équipement

@@ -1,4 +1,5 @@
-# Dragon [Joker]
+# * Dragon
+
 Les dragons sont des monstres cracheurs de feu répandant damnation et désespoir dans les villages qu’ils dévastent. De telles créatures ne sont pas à prendre à la légère, capables qu’elles sont de mettre à mal un groupe d’aventuriers même très expérimentés. Ils disposent d’une fine intelligence dont ils font le meilleur usage contre leurs ennemis.
 
 Allure : 8
