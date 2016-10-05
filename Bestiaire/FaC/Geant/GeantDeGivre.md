@@ -22,7 +22,7 @@ Compétences : Combat d8, Escalade d8, Intimidation d10, Lancer d8, Perception 
 
 ### Actions
 - Aura glaciale : les géants du givre irradient d'un froid mortel. A la fin de leur action d'un round, toutes les créatures adjacentes subissent 2d6 de dégâts de froid.
-- Grand balayagealayage : Attaque tous les adversaires adjacents.
+- Grand balayage : Attaque tous les adversaires adjacents.
 - Massue : Combat d8, d12+d10+3.
 - Rochers : Lancer d8, 3/6/12, d12+d6+3.
 

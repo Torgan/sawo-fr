@@ -1,7 +1,7 @@
 # Ogre-Mage
 
 Allure : 8
-Charisme : 2
+Charisme : +2
 
 	Agi	Âme	For	Int	Vig
 	d8	d8	d12+1	d8	d12
