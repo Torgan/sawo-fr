@@ -1,4 +1,3 @@
-
 # Gobelours
 
 Allure : 6
@@ -18,7 +17,7 @@ Atouts : Vigilance
 
 ### Actions
 - Hachette ou épieu : Combat d8, d10+d6
-- Hachette ou épieu : Tir d6, 3/6/12, d10+d6
+- Hachette ou épieu : Lancer d6, 3/6/12, d10+d6
 
 ### Equipement
 Armure de peau et de cuir (+1), hachettes ou épieux.
