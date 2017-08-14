@@ -1,4 +1,4 @@
-# Guerrière sacrée
+# * Jameril
 
 Allure : 6
 
@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Combat d10, Connaissance (Batailles) d6, Discrétion d8, Escalade d4, Perception d6, Pistage d4, Survie d4, Tir d8.
 
-Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcanes.
+Atouts : Ambidextre, Attaque à deux armes, Commandement, Ferveur, Inspiration, Grande résistance aux arcanes.
 
 	PAR	RES
 	7	7 (2)
@@ -15,7 +15,9 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d10, PP 10.
 - Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope.
-- Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux pouvoirs.
+- Ferveur : les troupes ont un bonus de +1 aux dégâts.
+- Inspiration : les troupes ont un bonus de +1 à leurs jets d’Âme.
+- Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
