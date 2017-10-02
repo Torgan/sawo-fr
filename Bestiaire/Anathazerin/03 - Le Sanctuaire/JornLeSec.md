@@ -10,7 +10,7 @@ Compétences : Combat d8, Connaissance (Batailles) d4, Discrétion d6, Escalade
 Atouts : Commandement, Nerfs d’acier
 
 	PAR	RES
-	5	7 (1)
+	6	7 (1)
 
 ### Capacités spéciales
 - Commandement : Les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
