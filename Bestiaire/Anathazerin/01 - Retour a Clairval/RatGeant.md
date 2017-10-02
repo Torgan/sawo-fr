@@ -10,7 +10,7 @@ Allure : 6
 Compétences : Combat d6, Discrétion d8, Escalade d8, Perception d8
 
 	PAR	RES
-	5	6
+	5	5
 
 ### Capacités spéciales
 - Vision nocturne : les rats géant ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
