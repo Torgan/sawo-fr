@@ -20,4 +20,4 @@ Compétences : Combat d8, Intimidation d12+2, Perception d12, Discrétion d10
 
 
 ### Actions
-- griffes ou morsure : Combat d8, d10+d4 (Âme +d4)
+- Griffes ou morsure : Combat d8, d10+d4 (Âme +d4)

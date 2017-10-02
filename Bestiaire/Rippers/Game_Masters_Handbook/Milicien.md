@@ -3,7 +3,11 @@
 La plupart des villes et des cités nt uen milice sur laquelle ils se reposent si la violence éclate dans leur périmètre. Ces hommes sont choqués lorsqu'ils réalisent l'étendue du mal qu'ils affrontent, mais la plupart combattent vaillamment puisqu'ils protègent leurs propres maison et familles.
 
 Allure : 6
-Charisme : 0	Statut: 2
+
+Charisme : 0	
+
+Statut: 2
+
 Raison: 5
 
 	AGI	ÂME	FOR	INT	VIG
@@ -15,6 +19,9 @@ Compétences : Combat d6, Discrétion d4, Perception d4, Tir d6
 	5   5
 
 ### Actions
-- pistolet : Tir d6, 2d8+1, Portée 10/20/40, CdT 1, PA1
 
-Équipement : mousquet, 20 balles
+- Pistolet : Tir d610/20/40, CdT 1, 2d8+1, PA1
+
+### Équipement
+
+Mousquet, 20 balles

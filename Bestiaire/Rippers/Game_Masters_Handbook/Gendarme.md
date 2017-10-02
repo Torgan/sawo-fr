@@ -1,10 +1,10 @@
 # Gendarme (humain)
 
 On trouve des forces de l'ordre dans la plupart des pays.
+
 Les Rippers essayent de travailler avec les autorités locales autant que possible.
 
 Allure : 6
-
 
 Statut: 2
 
@@ -17,15 +17,19 @@ Compétences : Combat d8, Recherche  d4, Perception d4, Discrétion d4, Réseaux
 
 Handicaps : Serment (Maintenir l'ordre)
 
-Atout: Brave
+Atout : Brave
 
 	PAR RES
 	6   6
 
 ### Capacités spéciales 
+
 - Brave : +2 aux jets de Terreur.
 
 ### Actions
+
 - Bâton : Combat d8, 2d4.
 
-Équipement : Bâton 
+### Équipement
+
+Bâton 
