@@ -17,7 +17,7 @@ Atouts : Forestier, Frappe éclair.
 
 ### Actions
 - Epée courte : Combat d8, 2d6
-- Arc court : Tir d8, 12/24/48, 2d6
+- Arc court : Tir d10, 12/24/48, 2d6
 
 ### Réaction
 - Frappe éclair : peut attaquer un adversaire se portant au contact une fois par round.
