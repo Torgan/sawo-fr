@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d8, Discrétion d6, Intimidation d10, Lancer d6, Perception d6.
 
 	PAR	RES
-	6	9 (1)
+	6	8 (1)
 
 ### Capacités spéciales
 - Taille +1 : les orques sont un peu plus grands que les humains.
