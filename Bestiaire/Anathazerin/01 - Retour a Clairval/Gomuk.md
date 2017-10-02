@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d8, Discrétion d10, Escalade d6, Lancer d6, Natation d6, Perception d8, Sarcasmes d6, Tir d8
 
 	PAR	RES
-	6	5
+	6	4
 
 ### Capacités spéciales
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
