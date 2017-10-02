@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perception d6, Tir d6
 
 	PAR	RES
-	6	7 (1)
+	5	7 (1)
 
 ### Capacités spéciales
 - Arcanes : Magie d8, PP15.
