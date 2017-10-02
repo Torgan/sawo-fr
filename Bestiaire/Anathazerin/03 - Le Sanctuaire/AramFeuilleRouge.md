@@ -2,7 +2,7 @@
 # Aram Feuille Rouge
 
 Allure : 6
-Charisme : -2 (effacé)
+
 
 	Agi	Âme	For	Int	Vig
 	d10	d8	d6	d6	d6
