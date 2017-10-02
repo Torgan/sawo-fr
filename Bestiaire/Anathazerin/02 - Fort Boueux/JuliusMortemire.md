@@ -10,7 +10,7 @@ Compétences : Combat d6, Crochetage d8+2, Discrétion d8+2, Escalade d8+2, 
 Atouts : Voleur
 
 	PAR	RES
-	5	6
+	5	6 (1)
 
 ### Actions
 - Epée courte : Combat d6, 2d6.
