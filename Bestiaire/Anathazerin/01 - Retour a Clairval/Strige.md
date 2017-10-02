@@ -13,7 +13,7 @@ Compétences : Combat d6, Discrétion d12, Perception d6, Pistage d4.
 	5	3
 
 ### Capacités spéciales
-- Petit : les adversaires d’un chat subissent un malus de -2 pour lui porter une attaque.
+- Petit : les adversaires d’une strige subissent un malus de -2 pour lui porter une attaque.
 - Taille -2 : une strige fait une trentaine de centimètres de long.
 - Vision nocturne : les striges ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
 - Vol : Allure 7, Montée 0.
@@ -21,4 +21,4 @@ Compétences : Combat d6, Discrétion d12, Perception d6, Pistage d4.
 ### Actions
 - Morsure : Combat d6+2, Attaque de toucher, d4, Fixation en cas de Relance.
 - Fixation : une strige parvenant à se fixer à sa victime commence immédiatement à lui drainer le sang.
-- Drain de sang : la victime doit réussir un jet de Vigueur à -2 ou perdre un niveau de Fatigue.
+- Drain de sang : la victime doit réussir un jet de Vigueur à -2 ou subir un niveau de Fatigue qui peut être regagné après une nuit de repos.
