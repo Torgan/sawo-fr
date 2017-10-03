@@ -16,7 +16,7 @@ Discrétion d6, Réseaux d6
 - Taper là où ça fait mal : Frère Ajardi fait
 mal mais ne tue généralement pas ses
 victimes. A chaque fois qu’il touche un
-adversaire avec une Relance, cela signifi e
+adversaire avec une Relance, cela signifie
 qu’il a porté un coup particulièrement méchant.
 Si la victime est au moins Secouée,
 elle reçoit un Compteur de Douleur. Les
