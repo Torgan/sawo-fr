@@ -12,7 +12,7 @@ Compétences : Combat d6, Crochetage d6, Discrétion d6, Escalade d4, Intimidat
 Atouts : Séduisant, Charismatique, Troubadour
 
 	PAR	RES
-	5   8 (2)
+	7(2)   7 (2)
 
 ### Capacités spéciales
 - Grande Esquive (Armure) — -2 aux attaques à distance contre le personnage.
@@ -20,7 +20,7 @@ Atouts : Séduisant, Charismatique, Troubadour
 - Arcane : Troubadour, Performance d10+1, PP20.
 
 ### Actions
-- Arbalète légère : Tir d8, 12/24/48, PA2, 2d6 + poison.
+- Arbalète légère : Tir d8, 12/24/48, PA2, 2d6+1 + poison (-2).
 - Rapière : Combat d6, Parade +2, 2d6.
 - Couteau : Lancer d6, d6+d4.
 - _Sommeil_ : Performance d10+1, PP2, portée 20, 1mn (1/mn).
