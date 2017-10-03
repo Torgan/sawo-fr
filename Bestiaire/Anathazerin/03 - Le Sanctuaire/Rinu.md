@@ -10,7 +10,7 @@ Compétences : Combat d8, Discrétion d4, Équitation d4, Escalade d4, Intimida
 Atouts : Brute.
 
 	PAR	RES
-	5(-1)	6 (1)
+	5 (-1)	6 (1)
 
 ### Capacités spéciales
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
