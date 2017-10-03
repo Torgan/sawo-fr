@@ -16,7 +16,7 @@ Handicaps : Borgne.
 
 ### Actions
 - Arc long : Tir d6, 15/30/60, 2d6.
-- Epée courte : Combat d6, 2d6.
+- Epée courte : Combat d6, d6+d8.
 
 ### Équipement
 Armure de cuir (+1), épée courte, arc long,
