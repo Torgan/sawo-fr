@@ -13,7 +13,7 @@ Atouts : Arcane (Miracles), Séduisante, Soigneur
 Handicap : Pacifiste (Mineur)
 
 	PAR	RES
-	6   7 (2)
+	6 (1)   7 (2)
 
 ### Capacités spéciales
 - Arcane : Miracles, Foi d10, PP20.
@@ -27,4 +27,4 @@ Handicap : Pacifiste (Mineur)
 - _Secours_ : Foi d10, PP1, portée T, Inst.
 
 ### Equipement
-Arc long en bois de Guessandre (Force min. d6, 15/30/60, Diminue de 1 les malus de Portée, 2d6), bâton (Combat +1, Parade +1, 2 mains, For+d4) +1, chemise de maille (Armure +2)
+Arc long en bois de Guessandre (Force min. d6, 15/30/60, Diminue de 1 les malus de Portée, 2d6), bâton magique (Combat +1, Parade +1, 2 mains, For+d4) +1, chemise de maille (Armure +2)
