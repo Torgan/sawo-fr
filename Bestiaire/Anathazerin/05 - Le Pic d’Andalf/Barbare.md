@@ -9,14 +9,14 @@ Compétences : Escalade d4, Combat d8, Intimidation d4, Perception d4, Équitati
 
 Atouts : Brute.
 
-Handicaps : Peur de Magie (Mineur).
+Handicaps : Peur de la Magie (Mineur).
 
 	PAR	RES
-	7	6 (1)
+	7(1)	6 (1)
 
 ### Actions
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
-- Hache de Bataille : Combat d8, 2d8+1(2)
+- Hache de Bataille : Combat d8, 2d8+1(+1 sur une Relance)
 - Arc : Tir d6, 12/24/48, 2d6
 
 ### Équipement
