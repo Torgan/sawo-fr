@@ -7,7 +7,7 @@ Charisme : +2
 	Agi	Âme	For	Int	Vig
 	d6	d10	d6	d8	d6
 
-Compétences : Combat d6, Connaissance (Arcanes) d8, Discrétion d4+2, Magie d8, Perception d6, Persuasion d6, Sarcasme d4.
+Compétences : Combat d6, Connaissance (Arcanes) d8, Crochetage d6+2, Discrétion d8+2, Escalade d6+2, Magie d8, Perception d6, Persuasion d6, Sarcasme d4.
 
 Atouts : Assassin, Blocage, Sang-froid, Séduisante, Voleur.
 
