@@ -10,7 +10,7 @@ Compétences : Combat d8, Intimidation d8+2, Perception d6, Réseau d6, Sarcasme
 Atouts : Contre-Attaque, Provocation, Volonté de Fer.
 
     PAR RES
-    7   8 (2)
+    6   7 (2)
     
 ### Capacités spéciales
 - Volonté de Fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
@@ -22,7 +22,7 @@ Atouts : Contre-Attaque, Provocation, Volonté de Fer.
 
 ### RÉACTIONS 
 - Contre-Attaque (1 / round) : attaque gratuite à -2 contre un adversaire ayant raté son attaque.
-- Provocation : Si une Épaule-Rouge gagne une épreuve de Volonté basée sur le Sarcasme avec une Relance, il peut immédiatement accomplir une action de Combat gratuite sans souffrir de pénalité d’Actions Multiples.
+- Provocation : Si Manasim gagne une épreuve de Volonté basée sur le Sarcasme avec une Relance, il peut immédiatement accomplir une action de Combat gratuite sans souffrir de pénalité d’Actions Multiples.
 
 ### Équipement
 Chemise de maille (Armure +2), cimeterre, arc court, carquois avec 12 flèches, dague.
