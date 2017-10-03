@@ -22,8 +22,8 @@ Handicap : Arrogant, Brute, Cupide, Sale Caractère.
 
 ### Actions
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
-- Épée bâtarde : Combat d8, 2 mains, 2d8+2(+1 sur une Relance), Parade -1
-- Hache de bataille : Combat d8, 2d8+1(+1 sur une relance)
+- Épée bâtarde : Combat d8, 2 mains, 2d8+2 (+1 sur une Relance), Parade -1
+- Hache de bataille : Combat d8, 2d8+1 (+1 sur une relance)
 
 ### Équipement
 Cotte de maille magique (Armure +2, +1 aux jets d’Encaissement), épée bâtarde (For+d8 ou For+d8+1, Parade -1 à deux mains, ), hache de bataille (For+d8), dague, potion de soins modérés (soigne jusqu’à deux Blessures vieilles de moins d’une heure), bourse contenant 20 po, 15 pa et 21 pc, sac de 596 pa (fausses pièces).
