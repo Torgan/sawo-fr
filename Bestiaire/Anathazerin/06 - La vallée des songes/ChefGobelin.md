@@ -10,7 +10,7 @@ Compétences : Combat d8, Discrétion d10, Escalade d6, Lancer d6, Natation�
 Atout : Extraction.
 
 	PAR	RES
-	6	5
+	6	4
 
 ### Capacités spéciales
 - Extraction : empêche une attaque ennemie sur une retraite avec un jet d’Agilité.
