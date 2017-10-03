@@ -10,7 +10,7 @@ Compétences : Combat d10, Connaissance (Batailles) d8, Intimidation d8, Lancer
 Atouts : Blocage, Commandement, Ferveur.
 
 	PAR	RES
-	9	8 (2)
+	9 (1)	8 (2)
 
 ### Capacités spéciales
 - Commandement : les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
@@ -18,7 +18,7 @@ Atouts : Blocage, Commandement, Ferveur.
 - _Deflexion_ : -2 aux attaques à distances contre ce personnage.
 
 ### Actions
-- Épée longue : Combat d10+1, 2d8.
+- Épée longue : Combat d10+1, d10+d8.
 - Dague : Combat d10, d10+d4.
 - Arc court : Tir d8, 12/24/48, 2d6.
 
