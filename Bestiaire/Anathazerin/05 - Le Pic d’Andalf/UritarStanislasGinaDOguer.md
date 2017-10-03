@@ -20,7 +20,7 @@ Handicaps : Cupide
 
 ### Actions
 - Épée courte : Combat d6, 2d6.
-- Dague : Combat d6, d6+d4+1.
+- Dague : Combat d6, d6+d4.
 
 ### Equipement
 Épée courte, deux dagues, armure de cuir (Armure +1), vêtements sombres.
