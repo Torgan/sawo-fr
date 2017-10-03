@@ -12,7 +12,7 @@ Compétences : Combat d6, Crochetage d6, Discrétion d6, Escalade d4, Intimidat
 Atouts : Séduisant, Charismatique, Troubadour
 
 	PAR	RES
-	7(2)   7 (2)
+	7 (2)   7 (2)
 
 ### Capacités spéciales
 - Grande Esquive (Armure) — -2 aux attaques à distance contre le personnage.
