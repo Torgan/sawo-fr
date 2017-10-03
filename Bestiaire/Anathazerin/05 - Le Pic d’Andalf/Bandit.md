@@ -11,7 +11,7 @@ Compétences : Escalade d4, Combat d6, Intimidation d6, Perception d4, Tir d6, D
 	5	5
 
 ### Actions
-- Dague : Combat d6, 2d6
+- Dague : Combat d6, d6+d4
 
 ### Équipement
 Dague.
