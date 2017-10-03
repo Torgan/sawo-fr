@@ -12,12 +12,13 @@ Atouts : Combatif, Commandement, Forestier, Tireur d'élite, Arme fétiche (Arc)
 Handicaps : Deux mains gauches, Prudent.
 
 	PAR	RES
-	6	6 (1)
+	7	6 (1)
 
 ### Capacités spéciales
 - Combatif : +2 pour sortir d'un état Secoué.
 - Commandement : Les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Tireur d'élite : Visée (+2 en Tir) automatique si le personnage ne se déplace pas.
 
 ### Actions
 - Arc long : Tir d12+1, 15/30/60, 2d6.
