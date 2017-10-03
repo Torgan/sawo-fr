@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d12, Discrétion d6, Intimidation d10, Lancer d8, Perception d6.
 
 	PAR	RES
-	7(-1)	8 (1)
+	7 (-1)	8 (1)
 
 ### Actions
 - Hache à deux mains : Combat d12, Parade -1, PA2, 2d10.
