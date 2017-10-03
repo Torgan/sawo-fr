@@ -10,7 +10,7 @@ Compétences : Combat d8, Équitation d8, Intimidation d4, Perception d4, Tir d8
 Atouts : Poigne Ferme.
 
 	Parade	Résistance
-	7	6 (1)
+	7 (1)	6 (1)
 
 ### Capacités spéciales
 
