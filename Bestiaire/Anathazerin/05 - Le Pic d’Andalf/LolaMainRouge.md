@@ -12,14 +12,14 @@ Compétences : Combat d10, Escalade d4, Intimidation d8, Lancer d6, Perception 
 Atouts : Arme fétiche, Costaud, Brute.
 
 	PAR	RES
-	6	10 (2)
+	6 (-1)	10 (2)
 
 ### Capacités spéciales
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
 
 ### Actions
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
-- Epée à 2 mains : Combat d10+1, Parade -1, 2d10+1(2).
+- Epée à 2 mains : Combat d10+1, Parade -1, 2d10+1 (+1 sur une Relance).
 - Arc court : Tir d6, 12/24/48, 2d6.
 
 ### Equipement
