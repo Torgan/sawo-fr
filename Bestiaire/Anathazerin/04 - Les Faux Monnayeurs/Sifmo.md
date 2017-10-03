@@ -21,8 +21,9 @@ Handicaps : Cupide
 - Sang-froid : agit sur la meilleure de trois cartes en combat
 
 ### Actions
-- Hachette : Combat d8+1, PA2, 2d6.
-- Dague : Combat d8, d6+d4+1.
+- Hachette : Combat d8+1, PA2, d8+d6.
+- Dague : Combat d8, d8+d4+1.
+- Dague lancée : Lancer d8, 3/6/12, d8+d4.
 
 ### Equipement
 Armure de cuir magique (Armure +2, Grande esquive, taille naine), outils de voleur, bourse avec 130 pa, 30 po, potion de forme gazeuse (Intangibilité), hachette magique (Combat +1, PA2), deux dagues (3/6/12, For+d4), besace contenant divers sacs en toile, vêtements sombres.
