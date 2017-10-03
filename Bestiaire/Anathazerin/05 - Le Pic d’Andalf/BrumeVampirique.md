@@ -8,7 +8,7 @@ Allure : 4
 Compétences : Discrétion d12+2, Perception d6.
 
 	PAR	RES
-	4	8
+	2	8
 
 ### Capacités spéciales
 - Immunités : la brume vampirique est immunisé aux attaques normales. Les attaques magiques les affectent normalement.
