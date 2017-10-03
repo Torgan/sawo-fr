@@ -23,7 +23,7 @@ Handicaps : Cupide
 - Sang-froid : agit sur la meilleure de trois cartes en combat.
 
 ### Actions
-- Dague : Combat d6, d4+d6.
+- Dague : Combat d6, d6+d4.
 - _Augmentation/Diminution de Trait_ : Magie d8, PP2, portée 8, 3(1/rd).
 - _Éclair (foudre)_ : Magie d8, PP1-3 ou PP2, 12/24/48, Inst.
 - _Intangibilité_ : Magie d8, PP5, T, 3(2/rd).
