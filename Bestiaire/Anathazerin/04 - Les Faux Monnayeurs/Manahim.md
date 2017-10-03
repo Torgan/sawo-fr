@@ -10,7 +10,7 @@ Compétences : Combat d8, Discrétion d6, Escalade d4, Intimidation d6, Lancer d
 Handicaps : Poches percées, Recherché.
 
 	PAR	RES
-	8	6 (1)
+	8 (2)	7 (1)
 
 ### Capacités spéciales
 - Commandement : Les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
