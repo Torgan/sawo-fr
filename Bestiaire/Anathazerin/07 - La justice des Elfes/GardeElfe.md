@@ -12,14 +12,14 @@ Atouts : Combatif, Blocage.
 Handicaps : Deux mains gauches.
 
 	PAR	RES
-	10	8 (2)
+	10 (3)	8 (2)
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Combatif : +2 pour sortir d'un état Secoué.
 
 ### Actions
-- Epée elfique : Combat d10, Parade +1, 2d6.
+- Epée elfique : Combat d10, Parade +1, d6+d8.
 
 ### Équipement
 Chemise de mailles (+2), épée elfique (Parade +1), écu (Parade +2).
