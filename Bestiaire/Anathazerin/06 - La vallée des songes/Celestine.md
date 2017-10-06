@@ -15,10 +15,11 @@ Atout : Sixième sens, Volonté de fer.
 ### Capacités spéciales
 - Arcane (Magie) : Âme d10, PP25.
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-- Sage : +2 aux jets de Culture générale et d8 dans touets les Connaissances.
+- Sage : +2 aux jets de Culture générale et d8 dans toutes les Connaissances.
+- Sixième sens : jet de Perception à -2 pour anticiper pièges et embuscades.
 - Taille +2.
 - Vol : Allure 12, Montée 6.
-- Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
+- Volonté de fer : +2 en Intimidation et Sarcasmes, +2 pour y résister.
 
 ### Actions
 - Morsure/griffes : Combat d8, d12+d4.
@@ -26,4 +27,4 @@ Atout : Sixième sens, Volonté de fer.
 - _Détection d’Arcanes_ : Âme d10, PP2, Portée Vue, 3 (1/rd).
 - _Divination_ : Âme d10, PP5, Portée P, 1 min.
 - _Invisibilité_ : Âme d10, PP5, portée P, 3 (1/rd).
-- _Lumière_ : Âme d10, PP2, portée 8, 3 (1/rd).
+- _Lumière_ : Âme d10, PP2, portée 13, 3 (1/rd).
