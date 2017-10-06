@@ -19,7 +19,7 @@ Handicaps : Deux mains gauches.
 - Combatif : +2 pour sortir d'un état Secoué.
 
 ### Actions
-- Epée elfique : Combat d10, Parade +1, d6+d8.
+- Epée elfique : Combat d10, Parade +1, d8+d6.
 
 ### Équipement
 Chemise de mailles (+2), épée elfique (Parade +1), écu (Parade +2).
