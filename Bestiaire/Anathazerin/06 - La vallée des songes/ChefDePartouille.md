@@ -25,4 +25,4 @@ Handicaps : Deux mains gauches, Prudent.
 - Epée longue : Combat d10, 2d8.
 
 ### Équipement
-Armure de cuir (+1), épée longue, arc long,
+Armure de cuir (+1), épée longue, arc long.
