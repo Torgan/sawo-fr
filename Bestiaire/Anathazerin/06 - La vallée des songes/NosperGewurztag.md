@@ -20,9 +20,13 @@ Atout : Arcane (Magie), Charismatique, Mage.
 - Taille -1 : un gnome mesure entre 1m et 1m20.
 
 ### Actions
+- Dague : Combat d6, 2d4 
 - Lame dansante (pouvoir _Convocation d’allié_) : Combat d10, dégâts 2d8.
-- _Barrière_ : (Mur de force) Magie d10, PP 1/section, Portée 12, 3 (1 / sect. / rd)
-- _Convocation d’allié_ : (Lame dansante) Magie d10, PP3, Portée 8, 3 (1 / rd).
-- _Confusion_ : Magie d10, PP1+, Portée 16, Inst.
+- _Barrière_ : (Mur de force) Magie d10, PP 1/section, Portée 10, 3 (1 / sect. / rd)
+- _Convocation d’allié_ : (Lame dansante) Magie d10, PP3, Portée 10, 3 (1 / rd).
+- _Confusion_ : Magie d10, PP1+, Portée 20, Inst.
 - _Déflexion_ : Magie d10, PP2, -2 aux attaques à distances contre ce personnage.
-- _Fantasmes_ : Magie d10, PP2+, Portée 8, 3 (1/rd).
+- _Fantasmes_ : Magie d10, PP2+, Portée 10, 3 (1/rd).
+
+### Equipement
+Dague.
