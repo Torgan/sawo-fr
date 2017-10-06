@@ -6,7 +6,7 @@ Charisme : +2
 	Agi	Âme	For	Int	Vig
 	d8	d10	d4	d8	d6
 
-Compétences : Combat d6, Discrétion d8, Escalade d4, Magie d8, Perception d6, Presuasion d8+2, Sarcasmes d10.
+Compétences : Combat d6, Discrétion d8, Escalade d4, Magie d8, Perception d6, Persuasion d8+2, Sarcasmes d10.
 
 Atout : Arcane (Magie), Séduisante.
 
@@ -19,6 +19,10 @@ Atout : Arcane (Magie), Séduisante.
 - Taille -1 : un gnome mesure entre 1m et 1m20.
 
 ### Actions
+- Dague : Combat d6, 2d4
 - _Confusion_ : Magie d8, PP1+, Portée 16, Inst.
 - _Déflexion_ : Magie d8, PP2, -2 aux attaques à distances contre ce personnage.
 - _Fantasmes_ : Magie d10, PP2+, Portée 8, 3 (1/rd).
+
+### Equipement
+Dague.
