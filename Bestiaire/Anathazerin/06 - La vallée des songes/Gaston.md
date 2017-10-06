@@ -10,7 +10,7 @@ Compétences : Combat d10, Crochetage d8+2, Discrétion d10+2, Escalade d8+2
 Atout : Arcane (Magie), Assassin, Vigilance, Voleur.
 
 	PAR	RES
-	5	4
+	7	4
 
 ### Capacités spéciales
 - Arcane (Magie) : Magie d6, PP10.
