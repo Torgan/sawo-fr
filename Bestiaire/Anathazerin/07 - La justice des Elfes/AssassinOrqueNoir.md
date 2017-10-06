@@ -11,7 +11,7 @@ Compétences : Combat d10, Discrétion d8, Intimidation d10, Lancer d6, Percept
 Atout : Assassin
 
 	PAR	RES
-	6	9 (1)
+	7	8 (1)
 
 ### Capacités spéciales
 - Taille +1 : les orques sont un peu plus grands que les humains.
