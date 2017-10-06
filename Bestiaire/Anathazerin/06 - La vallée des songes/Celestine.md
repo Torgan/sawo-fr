@@ -16,7 +16,7 @@ Atout : Sixième sens, Volonté de fer.
 - Arcane (Magie) : Âme d10, PP25.
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
 - Sage : +2 aux jets de Culture générale et d8 dans toutes les Connaissances.
-- Sixième sens : jet de Perception à -2 pour anticiper pièges et embuscades
+- Sixième sens : jet de Perception à -2 pour anticiper pièges et embuscades.
 - Taille +2.
 - Vol : Allure 12, Montée 6.
 - Volonté de fer : +2 en Intimidation et Sarcasmes, +2 pour y résister.
