@@ -12,7 +12,7 @@ Compétences : Combat d10, Équitation d10, Intimidation d8, Perception d4, Tir 
 Atouts : Charismatique, Combatif, Commandement, Frénésie.
 
 	Parade	Résistance
-	8	8 (2)
+	8 (1)	8 (2)
 
 ### Capacités spéciales
 
