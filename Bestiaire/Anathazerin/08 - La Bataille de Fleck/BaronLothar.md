@@ -12,7 +12,7 @@ Compétences : Combat d12, Connaissance (Batailles) d8, Équitation d8, Intimida
 Atouts : Blocage, Costaud, Commandement, Grand balayage, Leader naturel, Noble.
 
 	Parade	Résistance
-	9	11 (3)
+	8 (-1)	11 (3)
 
 ### Capacités spéciales
 
@@ -22,7 +22,7 @@ Atouts : Blocage, Costaud, Commandement, Grand balayage, Leader naturel, Noble.
 ### Actions
 
 - Grand Balayage : Attaque tous les adversaires adjacents.
-- Épée à deux mains : Combat d12, 2d10.
+- Épée à deux mains : Combat d12, 2 mains, Parade -1, 2d10.
 
 ### Équipement
 Epée à deux mains, armures de plates (Armure +3).
