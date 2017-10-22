@@ -10,7 +10,7 @@ Compétences : Combat d8, Discrétion d10, Escalade d6, Lancer d6, Natation�
 Atout: Ambidextre, Combat à deux armes.
 
 	PAR	RES
-	6	5
+	6	4
 
 ### Capacités spéciales
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
