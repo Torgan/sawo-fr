@@ -12,7 +12,7 @@ Compétences : Combat d12, Connaissance (Batailles) d8, Équitation d8, Intimida
 Atouts : Blocage, Costaud, Commandement, Grand balayage, Leader naturel, Noble.
 
 	Parade	Résistance
-8 (-1)9	11 (3)
+	8 (-1)	11 (3)
 
 ### Capacités spéciales
 

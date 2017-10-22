@@ -11,7 +11,7 @@ Compétences : Combat d10, Équitation d10, Intimidation d8, Perception d8+2, Ti
 Atouts : Combatif, Commandement, Contre-attaque, Frénésie, Grand blocage, Vigilance.
 
 	Parade	Résistance
-	10	10 (3)
+	11 (2)	10 (3)
 
 ### Capacités spéciales
 
@@ -28,4 +28,4 @@ Atouts : Combatif, Commandement, Contre-attaque, Frénésie, Grand blocage, Vigi
 - Contre-Attaque : attaque gratuite par round à -2 contre un adversaire ayant raté son attaque.
 
 ### Équipement
-Epée longue, grand bouclier (Parade +2), armures de plates (Armure +3).
+Epée longue, grand bouclier (Parade +2, Résistance +2 contre les projectiles), armures de plates (Armure +3).

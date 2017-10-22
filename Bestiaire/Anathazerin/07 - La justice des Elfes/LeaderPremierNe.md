@@ -1,4 +1,4 @@
-# Leader remier né
+# Leader Premier né
 
 Allure : 6
 
@@ -18,7 +18,7 @@ Atouts : Ambidextre, Blocage, Combat à deux armes, Combatif, Frappe éclair.
 
 ### Actions
 - Arc long : Tir d10, 12/24/48, 2d6.
-- Epée courte et dague : Combat d10/d10, 2d6/d6+d4.
+- Epée courte et dague : Combat d10/d10, d8+d6/d8+d4.
 
 ### Réaction 
 - Frappe éclair : peut attaquer un adversaire se portant au contact une fois par round.
