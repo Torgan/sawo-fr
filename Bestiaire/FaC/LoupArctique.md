@@ -15,6 +15,6 @@ Compétences : Combat d8, Discrétion d10, Intimidation d8, Perception d10
 ### Actions
 - Morsure : Combat d8, d10+d6. Toute personne blessée ou Secouée par la morsure d'un loup arctique doit réussir un jet de Vigueur ou être paralysé pour 1d6 rounds.
 - À la gorge : un loup attaque aux points faibles. Avec une Relance sur son jet d’attaque, il touche la zone la plus faiblement protégée.
-- Immunité (Froid) : les géants du givre sont immunisés à toute forme de froid.
-- Taille +1 : les loups arctiques font 1,5m au garot et un peu plus de deux mètres de long.
+- Immunité (Froid) : le loup arctique est immunisé à toute forme de froid.
+- Taille +1 : le loup arctique fait 1,5m au garot et un peu plus de deux mètres de long.
 
