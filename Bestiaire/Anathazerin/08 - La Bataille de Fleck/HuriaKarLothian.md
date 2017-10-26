@@ -22,7 +22,7 @@ Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes,
 ### Actions
 - Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
 - Guerrier impie : pour 1PP, peut repousser les créatures angéliques, les paladins ou les personnages du bien qui ont l’Atout Arcanes (Miracles) en cas d’échec de ces derniers sur un jet d’ Âme, où les détruire (ou leur infliger une Blessure pour les Jokers) en cas de 1 sur leur jet.
-- Masse-serpent : Combat d8, 2d6 + poison (-4, inconsicence).
+- Masse-serpent : Combat d8, 2d6 + poison (-4, inconscience).
 - _Eclair_ : Foi d10, PP1-3, 12/24/48, Inst, 2d6 ou 3d6.
 - _Enchevêtrement_ (toile d'araignée) : Foi d10, PP 3(1/rd), portée 8, Gabarit Moyen, Inst.
 - _Explosion_ : Foi d10, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.
