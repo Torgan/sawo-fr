@@ -1,4 +1,4 @@
-# * Démon gardien d'orcus
+# * Démon gardien d'Orcus
 
 Allure : 6
 
@@ -15,8 +15,8 @@ Atouts : Blocage, Guerrier impie.
 ### Capacités spéciales
 - Armure +2 : fourrure épaisse.
 - Démon : +2 pour se remettre de l’état Secoué ; immunité aux poisons et maladies.
-- Guerrier impie : en réussissant un het d'Âme à -2, peut repousser les créatures angéliques, paladins ou les personnages du bien qui ont l’Atout Arcanes (Miracles) en cas d’échec de ces derniers sur un jet d’ Âme, où les détruire (ou leur infliger une Blessure pour les Jokers) en cas de 1 sur leur jet.
-- Résistance : +2 en Armure contre de feu ou l’acide et +2 pour résister aux pouvoirs utilisant ces aspects.
+- Guerrier impie : en réussissant un jet d'Âme à -2, peut repousser les créatures angéliques, les paladins ou les personnages du bien qui ont l’Atout Arcanes (Miracles) en cas d’échec de ces derniers sur un jet d’ Âme, où les détruire (ou leur infliger une Blessure pour les Jokers) en cas de 1 sur leur jet.
+- Résistance : +2 en Armure contre de feu ou l’acide et +2 pour résister aux Pouvoirs utilisant ces aspects.
 - Taille +3.
 - Vol : Allure 10, Montée 0.
 
