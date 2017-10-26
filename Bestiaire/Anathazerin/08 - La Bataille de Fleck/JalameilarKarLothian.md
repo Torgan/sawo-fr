@@ -10,11 +10,12 @@ Compétences : Combat d6, Connaissance (Arcanes) d8, Discrétion d8, Escalade d4
 Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 
 	PAR	RES
-	7	5
+	5	5
 
 ### Capacités spéciales
 - Arcane : Nécromancie d10, PP 20.
-- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope.
+- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
+- Mage : chaque relance sur le jet d'Arcane réduit le coût du Pouvoir de 1PP.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
