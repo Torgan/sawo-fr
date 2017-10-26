@@ -15,5 +15,5 @@ Compétences : Combat d10, Intimidation d10, Perception d6.
 - Taille +2.
 
 ### Actions
-- Cornes et griffes : Combat d10, d12+d6. Si le démon gardien touche avec une Relance, il immobilise sa proie. L’adversaire ne peut se défaire de l’étreinte à son action qu’en obtenant une Relance sur un jet de Force opposé.
-- _Zone de dégâts_ : Âme d6, portée P, durée à volonté.
+- Cornes et griffes : Combat d10, d12+d6. Si le démon gardien touche avec une Relance, il Empoigne aussi sa proie.
+- _Zone de dégâts_ (aura de feu): Âme d6, portée P, durée à volonté.
