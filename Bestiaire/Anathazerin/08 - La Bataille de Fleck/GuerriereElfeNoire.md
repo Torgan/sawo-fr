@@ -14,8 +14,8 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d6, PP 5.
-- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope.
-- Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux pouvoirs.
+- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
+- Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
