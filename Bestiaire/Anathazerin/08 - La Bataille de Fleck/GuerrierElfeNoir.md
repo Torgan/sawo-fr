@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Combat d8, Discrétion d8, Escalade d4, Perception d6, Pistage d4, Survie d4, Tir d8.
 
-Atouts : Assassin, Attaque à deux armes, Florentine.
+Atouts : Assassin, Attaque à deux armes, Florentine, Résistance aux Arcanes.
 
 	PAR	RES
 	6	6 (1)
@@ -21,7 +21,7 @@ Atouts : Assassin, Attaque à deux armes, Florentine.
 ### Actions
 - Assassin : +2 aux dégâts contre une cible surprise.
 - Florentine : +1 en Combat contre les cibles n’ayant qu’une arme et sans bouclier. Ignore 1 point de bonus pour des attaquants multiples.
-- Epée courte : Combat d8, 2d6 + poison (-4, inconscience).
+- Epée courte : Combat d8, d8+d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, PA 1, une action pour recharger, 2d6 + poison (-4, inconscience).
 - _Ténèbres_ : Âme d8, PP2, Portée 6, 3 (1/rd).
 
