@@ -10,7 +10,7 @@ Compétences : Combat d10, Discrétion d4, Intimidation d10, Lancer d10, Percept
 Atouts : Combat à deux armes, Expert en bouclier, Frénésie suprême, Maitre en bouclier, Nerfs d’acier.
 
 	PAR	RES
-	11	11 (2)
+	11 (4)	11 (2)
 
 ### Capacités spéciales
 - Taille +1 : les orques sont un peu plus grands que les humains.
