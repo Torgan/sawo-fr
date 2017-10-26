@@ -10,7 +10,7 @@ Compétences : Combat d10, Connaissance (Batailles) d6, Discrétion d6, Intimida
 Atouts : Costaud, Commandement, Contre-attaque, Frappe éclair, Ferveur, Grande aura de commandement, Tacticien, Volonté de Fer.
 
 	PAR	RES
-	8	12 (2)
+	8 (1)	11 (2)
 
 ### Capacités spéciales
 - Commandement : Les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
@@ -21,7 +21,7 @@ Atouts : Costaud, Commandement, Contre-attaque, Frappe éclair, Ferveur, Grande 
 - Volonté de Fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions
-- Tranchegrand : Combat d10, d10+d8/d10+d8/d10+d8.
+- Tranchegrand : Combat d10, d12+d8+2/d12+d8+d6+2.
 
 ### Réactions
 - Contre-Attaque : attaque gratuite par round à -2 contre un adversaire ayant raté son attaque.
