@@ -15,10 +15,10 @@ Atouts : Enragé, Frénésie suprême.
 ### Capacités spéciales
 - Armure +1 : fourrure épaisse.
 - Taille +2.
-- Vision nocturne : les striges ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
+- Vision nocturne : les ours-hiboux ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
 - Vol : Allure 10, Montée 0.
 
 ### Actions
 - Bec/Griffes : Combat d8/d8, d12+d6+4.
-- Enragé : l'ours-hibou devient enragé s’il subit une blessure ou un état Secoué. Il subit un malus de -2 en Parade, et un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
+- Enragé : l'ours-hibou devient enragé s’il subit une Blessure ou un état Secoué. Il subit un malus de -2 en Parade, et gagne un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
