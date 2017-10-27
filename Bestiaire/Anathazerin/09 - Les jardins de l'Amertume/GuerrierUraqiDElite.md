@@ -10,7 +10,7 @@ Compétences : Combat d10, Perception d4.
 Atouts : Blocage, Frappe éclair, Frénésie.
 
 	PAR	RES
-	8	11 (3)
+	9 (1)	11 (3)
 
 ### Capacités spéciales
 - Immunités : les guerriers uraqi sont immunisés au feu, à l'acide et aux capacités affectant les morts-vivants (comme l'Atout Guerrier Saint) tant que la Pierre de Terre n'est pas détruite.
@@ -26,4 +26,4 @@ Atouts : Blocage, Frappe éclair, Frénésie.
 - Frappe éclair : Peut attaquer un adversaire se portant au contact une fois par round.
 
 ### Equipement
-Armure de plaques en bronze, épée longue, écu
+Armure de plaques en bronze, épée longue, écu (Résistance +2 contre les projectiles)
