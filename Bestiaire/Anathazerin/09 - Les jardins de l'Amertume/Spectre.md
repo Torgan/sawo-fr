@@ -19,4 +19,4 @@ Compétences : Combat d8, Discrétion d12+2, Intimidation d10, Perception d8.
 - Vol : Allure 8, Montée 1.
 
 ### Actions
-- Toucher glacial : Combat d8+2, ignore l'armure, Jet de Vigueur à -2 ou perte d'un niveau de Fatigue. Une victime incapacitée par cette attaque doit réussir un jet de Vigueur chaque round ou se transformer en spectre.
+- Toucher glacial : Combat d8+2, ignore l'armure, Jet de Vigueur à -2 ou perte d'un niveau de Fatigue. Une victime incapacitée par cette attaque doit réussir un jet de Vigueur chaque round ou se transformer en spectre. Les niveaux de Fatigue disparaissent au bout de 24h.
