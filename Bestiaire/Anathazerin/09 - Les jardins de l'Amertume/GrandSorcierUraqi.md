@@ -3,7 +3,7 @@
 Allure : 6
 
 	Agi	Âme	For	Int	Vig
-	d8	d10	d6	d12	d8
+	d8	d10	d8	d12	d8
 
 Compétences : Combat d8, Connaissance (Arcanes) d12, Magie d12+1, Perception d8.
 
@@ -23,7 +23,7 @@ Atouts : Arcane (Magie), Drain de l'Âme.
 - Vision nocturne (heaume) : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
 
 ### Actions
-- Masse d'armes : Combat d8, 2d8+1+1d6.
+- Masse d'armes : Combat d8+1, 2d8+1+1d6.
 - _Eclair_ (feu) : Magie d12+1, PP1-3, 12/24/48, Inst.
 - _Explosion_ (Feu) : Magie d12+1, PP1-3, 12/24/48, Inst.
 - _Ralentissement_(Mot de pouvoir) : Magie d12+1, PP1+, Portée 24, 3 (2/rd).
