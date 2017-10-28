@@ -11,7 +11,7 @@
 - [Gobelin](../..//SWD/Gobelin.md)
 - [Gamuk, chef des gobelins en fuite](Gomuk.md)
 
-# Baston chez les Crânes-creux
+# Baston chez les Crânes-Creux
 
 - [Gobelin](MaraudeurGobelin.md)
 - [Worg](../..//SWD/LoupGeant.md)
