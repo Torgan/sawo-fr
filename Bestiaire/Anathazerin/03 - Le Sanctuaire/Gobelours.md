@@ -7,17 +7,17 @@ Allure : 6
 
 Compétences : Combat d8, Discrétion d8, Escalade d6, Lancer d6, Perception d6+2.
 
-Atouts : Vigilance
+Atouts : Vigilance.
 
 	PAR	RES
 	6	9 (1)
 
 ### Capacités spéciales
-- Taille +1 — les gobelours sont un peu plus grands que les humains.
+- Taille +1 — un peu plus grands qu'un humain.
 
 ### Actions
-- Hachette ou épieu : Combat d8, d10+d6
-- Hachette ou épieu : Lancer d6, 3/6/12, d10+d6
+- Hachette ou épieu : Combat d8, d10+d6.
+- Hachette ou épieu : Lancer d6, 3/6/12, d10+d6.
 
-### Equipement
-Armure de peau et de cuir (+1), hachettes ou épieux.
+### Équipement
+Armure de peau et de cuir, hachettes ou épieux.
