@@ -20,5 +20,5 @@ Compétences : Combat d8, Connaissance (Religion) d6, Foi d10, Perception d6, S
 - _Guérison_ : Foi d10, PP3, T, Inst.
 - _Secours_ : Foi d10, PP1, T, Inst.
 
-### Equipement
+### Équipement
 Armure de cuir, épée courte.
