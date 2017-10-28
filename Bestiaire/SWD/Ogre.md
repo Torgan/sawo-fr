@@ -19,5 +19,5 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Perception d4.
 - Massue : Combat d8, d12+d8+3.
 - Balayage : attaque tout ennemi adjacent à -2.
 
-### Equipement
+### Équipement
 Cuir épais, grosse massue.
