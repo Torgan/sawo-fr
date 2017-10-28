@@ -14,11 +14,11 @@ Atout : Balayage
 	6	9 (2)
 
 ### Capacités spéciales
-- Taille +1 : les orques sont un peu plus grands que les humains.
+- Taille +1 : un peu plus grand qu'un humain.
 
 ### Actions
-- Epée : Combat d8, d10+d8
+- Épée : Combat d8, d10+d8.
 - Balayage : attaque tout ennemi adjacent à -2.
 
-### Equipement
-Cotte de mailles (+2), épée (For+d8)
+### Équipement
+Cotte de mailles, épée longue.
