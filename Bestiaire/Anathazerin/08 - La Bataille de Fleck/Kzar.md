@@ -21,7 +21,7 @@ Atouts : Costaud, Commandement, Contre-attaque, Frappe éclair, Ferveur, Grande 
 - Volonté de Fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions
-- Tranchegrand : Combat d10, d12+d8+2/d12+d8+d6+2.
+- Tranchegrand : Combat d10, d12+d8+2 (+d6 contre les Grandes créatures ou au delà).
 
 ### Réactions
 - Contre-Attaque : attaque gratuite par round à -2 contre un adversaire ayant raté son attaque.
