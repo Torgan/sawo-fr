@@ -13,8 +13,8 @@ Compétences : Combat d6, Discrétion d8, Escalade d8, Perception d8
 	5	5
 
 ### Capacités spéciales
-- Vision nocturne : les rats géant ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
-- Taille -1 : un rat géant fait la taille d'un gros chien.
+- Vision nocturne : ignore les malus d’obscurité dans la pénombre ou l’obscurité.
+- Taille -1 : de la taille d'un gros chien.
 
 ### Actions
 - Morsure : Combat d6, d6+d4.
