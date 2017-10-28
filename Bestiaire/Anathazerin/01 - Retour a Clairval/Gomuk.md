@@ -11,8 +11,8 @@ Compétences : Combat d8, Discrétion d10, Escalade d6, Lancer d6, Natation�
 	6	4
 
 ### Capacités spéciales
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-- Taille -1 : un gobelin mesure entre 1m et 1m20.
+- Infravision : divise de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions
 - Masse : Combat d8, 2d6
