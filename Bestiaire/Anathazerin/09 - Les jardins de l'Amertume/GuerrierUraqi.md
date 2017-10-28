@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d8, Perception d4.
 
 	PAR	RES
-	6	11 (3)
+	7 (1)	11 (3)
 
 ### Capacités spéciales
 - Immunités : les guerriers uraqi sont immunisés au feu, à l'acide et aux capacités affectant les morts-vivants (comme l'Atout Guerrier Saint) tant que la Pierre de Terre n'est pas détruite.
@@ -20,4 +20,4 @@ Compétences : Combat d8, Perception d4.
 - Epée longue : Combat d8, 2d8.
 
 ### Equipement
-Armure de plaques en bronze, épée longue, écu
+Armure de plaques en bronze, épée longue, écu (Résistance +2 contre les projectiles)
