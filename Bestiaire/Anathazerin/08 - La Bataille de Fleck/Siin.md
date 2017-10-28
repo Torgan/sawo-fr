@@ -11,7 +11,7 @@ Compétences : Combat d10, Discrétion d8, Escalade d6, Lancer d6, Perception d
 Atouts : Enragé, Vigilance
 
 	PAR	RES
-	5	10 (1)
+	6 (-1)	10 (1)
 
 ### Capacités spéciales
 - Enragé : le personnage devient enragé s’il subit une blessure ou un état Secoué. Il subit un malus de -2 en Parade, et un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
