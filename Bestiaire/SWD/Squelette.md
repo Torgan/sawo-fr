@@ -1,5 +1,5 @@
 
-# * Squelette
+# Squelette
 Ces morts vivants n’ont plus que des lambeaux de peau sur les os ce qui les rend plus rapides que les zombis encore couverts de chairs putréfiées. On les rencontre parfois au sein d’armées dirigées par de vils nécromanciens.
 
 Allure : 7
