@@ -14,14 +14,14 @@ Compétences : Combat d6, Discrétion d8, Escalade d8, Perception d8, Tir d8
 
 ### Capacités spéciales
 - Armure +2 : plaques de chitine.
-- Vision nocturne : les ankhegs ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
+- Vision nocturne : ignore les malus d’obscurité dans la pénombre ou l’obscurité.
 - Sens des secousses : peut ressentir avec précision toute présence en contact avec le sol dans un rayon de 12 cases.
-- Taille +2 : un ankheg fait 3m de long.
+- Taille +2 : fait 3m de long.
 - Trés résistant : Résistance +1.
 
 ### Actions
 - Morsure : Combat d6, d10+d6, acide (2d4), étreinte.
 - Jet d'acide : Tir d8, 3/6/12, 2d4.
-- Acide : la salive d'un ankheg est acide et inflige 2d4 de dégâts pour tout contact.
-- Etreinte : en cas de morsure réussie avec une Relance, l'adversaire est saisi dans les mandibules. Il peut se libérer s'il réussit une Relance sur un jet de Force opposé. Chaque round passé dans cette inconfortable position lui fait subir les dégâts de la salive acide de la créature.
-- Enfouissement : ils peuvent disparaître et réapparaître à l’action suivante dans un rayon de 5 cases. Il peuvent tenter d'obtenir ainsi le bénéfice d'une Attaque surprise en réussissant un jet de Discrétion opposé à la Perception de la cible.
+- Acide : la salive acide inflige 2d4 de dégâts pour tout contact.
+- Étreinte : en cas de morsure réussie avec une Relance, l'adversaire est saisi dans les mandibules. Il peut se libérer s'il réussit une Relance sur un jet de Force opposé. Chaque round passé dans cette inconfortable position lui fait subir les dégâts de la salive acide de la créature.
+- Enfouissement : peut disparaître puis réapparaître l’action suivante dans un rayon de 5 cases. Peut tenter d'obtenir ainsi le bénéfice d'une Attaque Surprise en réussissant un jet de Discrétion opposé à la Perception de la cible.
