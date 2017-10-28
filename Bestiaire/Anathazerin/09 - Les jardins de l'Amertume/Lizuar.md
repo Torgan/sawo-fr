@@ -26,4 +26,4 @@ Handicaps : Deux mains gauches, Prudent.
 - Tueur d'orques : +1d6 aux dégâts contre les orques.
 
 ### Équipement
-Armure de cuir (+1), épée longue, arc long,
+Armure de cuir (+1), épée longue, arc long.
