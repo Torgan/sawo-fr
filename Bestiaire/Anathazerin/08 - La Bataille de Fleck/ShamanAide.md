@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perception d6, Tir d6
 
 	PAR	RES
-	6	7 (1)
+	5	7 (1)
 
 ### Capacités spéciales
 - Arcanes : Magie d8, PP15.
@@ -22,4 +22,4 @@ Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perceptio
 - _Terreur_ : Magie d8, PP2, Portée 12, Inst.
 
 ### Equipement
-Armure de cuir (+1), daguev (For+d4)
+Armure de cuir (+1), dague (For+d4)
