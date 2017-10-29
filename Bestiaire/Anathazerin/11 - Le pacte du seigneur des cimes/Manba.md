@@ -19,7 +19,7 @@ Atouts : Acrobate, Assassin, Sans pitié, Voleur, Arme Fétiche (Dague).
 - Acrobate : +2 aux jets d’Agilité liés à la souplesse, +1 en Parade si non encombré.
 - Assassin : +2 aux dégâts contre une cible surprise.
 - Sinistre Main de la Mort : Mamba est un professionnel du meurtre, et s’il a une chance de frapper, il laisse rarement sa victime en vie. En dépensant un Jeton, il gagne la surprise.
-- Dague magique d'attaque sourboise : Combat d10+1, PA1, d8+d4+2+poison (-4, inconscience). Rajoute 1d6 aux dégâts en cas d'attaque surprise). 
+- Dague magique d'attaque sournoise : Combat d10+1, PA1, d8+d4+2+poison (-4, inconscience). Rajoute 1d6 aux dégâts en cas d'attaque surprise). 
 
 ### Équipement
  
