@@ -18,7 +18,7 @@ Atouts : Blocage, Grand balayage.
 
 ### Actions
 Grand balayage : attaque tout ennemi adjacent.
-Hache-tonnerre : Combat d10+2, 2d12+5
+Hache-tonnerre : Combat d10+2, PA1, 2d12+5
 - _Frappe_ : Âme d6, PP2, T, 3(1/rd).
 
 ### Équipement
