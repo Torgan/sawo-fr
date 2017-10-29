@@ -14,7 +14,7 @@ Atouts : Amazone (B&B P.74), Charismatique, Commandement, Séduisante
 	6	13 (2)
 
 ### Capacités spéciales
-— Amazone : Parade +1, attaque gratuite sur un 1 en combat ennemi. Que contre les hommes.
+— Amazone : Parade +1, attaque gratuite sur un 1 en combat ennemi. Uniquement contre les hommes.
 — Armure +2 : peau épaisse.
 - Commandement : les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
 - Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
