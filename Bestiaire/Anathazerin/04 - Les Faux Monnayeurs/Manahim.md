@@ -13,11 +13,11 @@ Handicaps : Poches percées, Recherché.
 	8 (2)	7 (1)
 
 ### Capacités spéciales
-- Commandement : Les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 
 ### Actions
-- Épée courte : Combat d8, Parade +1, d8+d6
-- Dague lancée : Lancer d6, 3/6/12, d8+d4
+- Épée courte : Combat d8, Parade +1, d8+d6.
+- Dague lancée : Lancer d6, 3/6/12, d8+d4.
 
 ### Équipement
-Armure de cuir (+1), épée courte magique (For+d6, Parade +1), petit bouclier (Parade +1), 3 dagues de jets (3/6/12 , For+d4), vêtements sombres, potion de Soin modérés (soigne une Blessure vieille de moins d’une heure), 25 po, 12 pa et un rubis de 500 pa, bague en agate de 50 pa représentant un serpent qui se mord la queue.
+Armure de cuir, épée courte magique (Parade +1), petit bouclier, 3 dagues de jets (3/6/12 , For+d4), vêtements sombres, potion de Soins modérés (soigne une Blessure vieille de moins d’une heure), 25 po, 12 pa et un rubis de 500 pa, bague en agate de 50 pa représentant un serpent qui se mord la queue.
