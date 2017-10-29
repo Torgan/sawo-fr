@@ -25,5 +25,5 @@ Atouts : Arcane (Magie), Drain de l'âme, Mage.
 - _Terreur_ : Magie d10, PP2, portée 16, durée spéciale.
 - _Zone de dégâts_ : Magie d10, PP4, portée T, 3 (2/rd)
 
-### Equipement
+### Équipement
 Armure de cuir (+1), masse sanglante (For+d6+2, un résultat Secoué équivaut à une Blessure), sceau du feu (permet d'apposer une rune de feu durant 24h — dégâts 3d6).

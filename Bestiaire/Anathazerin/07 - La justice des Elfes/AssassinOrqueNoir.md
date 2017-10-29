@@ -18,7 +18,7 @@ Atout : Assassin
 - Assassin : +2 aux dégâts contre une cible surprise.
 
 ### Actions
-- Epée courte : Combat d10, d10+d6 + poison (Venin)
+- Épée courte : Combat d10, d10+d6 + poison (Venin)
 
-### Equipement
+### Équipement
 Armure de cuir (+1), épée courte.

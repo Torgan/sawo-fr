@@ -28,4 +28,4 @@ Atouts : Combatif, Commandement, Contre-attaque, Frénésie, Grand blocage, Vigi
 - Contre-Attaque : attaque gratuite par round à -2 contre un adversaire ayant raté son attaque.
 
 ### Équipement
-Epée longue, grand bouclier (Parade +2, Résistance +2 contre les projectiles), armure de plates (Armure +3).
+Épée longue, grand bouclier (Parade +2, Résistance +2 contre les projectiles), armure de plates (Armure +3).

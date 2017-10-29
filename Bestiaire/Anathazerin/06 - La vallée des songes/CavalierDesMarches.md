@@ -22,4 +22,4 @@ Atouts : Poigne Ferme.
 - Arc court : Tir d8, 12/24/48, 2d6.
 
 ### Équipement
-Epée longue, arc court, écu (Parade +1), armure de cuir bouilli.
+Épée longue, arc court, écu (Parade +1), armure de cuir bouilli.

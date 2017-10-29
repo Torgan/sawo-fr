@@ -20,5 +20,5 @@ Compétences : Combat d6, Escalade d6, Intimidation d6, Lancer d10, Perception 
 - Stalactite de pierre : Combat d6, d12+d6+6.
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
 
-### Equipement
+### Équipement
 Stalactite de pierre (For+d6), rochers.

@@ -22,5 +22,5 @@ Compétences : Combat d10, Escalade d8, Intimidation d10, Lancer d10, Perceptio
 - Hache de guerre : Combat d10, 2d12+5.
 - Rochers : Lancer d10, 3/6/12, d12+d6+5.
 
-### Equipement
+### Équipement
 Fourrures épaisses, Hache de guerre (For+d12, deux mains), rochers.

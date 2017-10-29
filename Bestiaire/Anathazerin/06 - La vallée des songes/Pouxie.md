@@ -21,6 +21,6 @@ Atouts : Forestier
 - _Invisibilité_ : Âme d6, portée P, 3rd.
 - _Enchevêtrement_ : Âme d6, portée 6, Gabarit Moyen, Inst.
 
-### Equipement
+### Équipement
 Couteau, sarbacane.
 

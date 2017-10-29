@@ -26,5 +26,5 @@ Atouts : Amazone (B&B P.74)Charismatique, Commandement, Séduisante
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
 - _Secousse_ : Âme d8, PP 5, Portée 0, Inst. Xyfura peu frapper le sort de son pier et provoquer une brutale secousse. Bien que dans la zone d'effet, elle est immunisée aux conséquences du pouvoir.
 
-### Equipement
+### Équipement
 Massue de pierre (For+d6), rochers.

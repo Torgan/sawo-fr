@@ -26,5 +26,5 @@ Compétences : Combat d8, Escalade d8, Intimidation d10, Lancer d8, Perception 
 - Massue : Combat d8, d12+d10+3.
 - Rochers : Lancer d8, 3/6/12, d12+d6+3.
 
-### Equipement
+### Équipement
 Fourrures épaisses, grande massue (For+d10, une main), rochers.

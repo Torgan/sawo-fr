@@ -21,5 +21,5 @@ Atout : Grande extraction.
 - Lance : Combat d6, 2d6.
 - Javelot : Lancer d8, 3/6/12, 2d6.
 
-### Equipement
+### Équipement
 Lance, Javelots.

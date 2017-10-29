@@ -26,5 +26,5 @@ Atouts : Arcane (Magie), Drain de l'Âme.
 - _Explosion_ (Feu) : Magie d8, PP1-3, 12/24/48, Inst.
 - _Ralentissement_(Mot de pouvoir) : Magie d8, PP1+, Portée 16, 3 (2/rd).
 
-### Equipement
+### Équipement
 Armure de plaques en bronze, masse d'armes, écu (Résistance +2 contre les projectiles)

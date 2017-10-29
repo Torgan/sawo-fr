@@ -25,4 +25,4 @@ Atouts : Blocage, Charismatique, Commandement, Esquive, Leader naturel, Frénés
 - Épée longue : Combat d12, d10+d8.
 
 ### Équipement
-Epée longue, écu (Parade +1, Résistance +2 contre les projectiles), armures de plates (Armure +3).
+Épée longue, écu (Parade +1, Résistance +2 contre les projectiles), armures de plates (Armure +3).

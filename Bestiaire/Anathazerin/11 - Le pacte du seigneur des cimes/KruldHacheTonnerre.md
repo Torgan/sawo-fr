@@ -21,5 +21,5 @@ Atouts : Charismatique, Commandement, Costaud, Ferveur
 - Hache de bataille	: Combat d12, 2d10.
 - Balayage : attaque tout ennemi adjacent à -2.
 
-### Equipement
+### Équipement
 Hache de bataille (For+d10).

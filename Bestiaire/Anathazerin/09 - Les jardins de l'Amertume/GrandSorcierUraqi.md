@@ -29,5 +29,5 @@ Atouts : Arcane (Magie), Drain de l'Âme.
 - _Ralentissement_(Mot de pouvoir) : Magie d12+1, PP1+, Portée 24, 3 (2/rd).
 - _Dépeçage_ (injonction mortelle) : Magie d12+1, PP5, 12, Inst.
  
-### Equipement
+### Équipement
 Armure de plaques en bronze, étoile du matin de feu (Combat +1, dégâts For+d8+1+1d6 (feu)), écu, anneau de résistance aux éléments, heaume maudit de vision.

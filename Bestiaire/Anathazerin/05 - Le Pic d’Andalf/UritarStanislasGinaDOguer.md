@@ -22,5 +22,5 @@ Handicaps : Cupide
 - Épée courte : Combat d6, 2d6.
 - Dague : Combat d6, d6+d4.
 
-### Equipement
+### Équipement
 Épée courte, deux dagues, armure de cuir (Armure +1), vêtements sombres.

@@ -20,5 +20,5 @@ Atouts : Blocage, Grand balayage.
 Grand balayage : attaque tout ennemi adjacent.
 Massue : Combat d10, 2d12+5
 
-### Equipement
-Cotte de maille (+2), Epée à deux mains pour ogre (For+d12).
+### Équipement
+Cotte de maille (+2), Épée à deux mains pour ogre (For+d12).

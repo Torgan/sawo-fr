@@ -20,5 +20,5 @@ Atouts : Enragé, Vigilance
 ### Actions
 - Maul : Combat d10, 2d12
 
-### Equipement
+### Équipement
 Armure de peau et de cuir (+1), Maul (Deux main, Parade -1, For+d12).

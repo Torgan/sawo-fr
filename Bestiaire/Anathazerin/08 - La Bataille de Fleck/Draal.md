@@ -27,5 +27,5 @@ Atouts : Commandement, Charismatique, Esquive, Frappe foudroyante, Panache.
 - Frappe foudroyante : peut attaquer tous les adversaires se portant au contact.
 - Panache : +2 en cas d’utilisation de Jeton pour un jet de Trait (y compris pour un jet d’Encaissement).
 
-### Equipement
+### Équipement
 Armure d'écailles magique (Armure +3), grand bouclier (Parade +2, Résistance +2 contre les projectiles), Hache de bataille magique (Combat +1).

@@ -24,5 +24,5 @@ Compétences : Combat d8, Escalade d6, Intimidation d10, Lancer d6, Perception 
 - Massue : Combat d8, 2d12+4.
 - Rochers brûlants: Lancer d6, 5/10/20, 3d6+2.
 
-### Equipement
+### Équipement
 Cotte de maille, grande hache (For+d12, une main), rochers brûlants.

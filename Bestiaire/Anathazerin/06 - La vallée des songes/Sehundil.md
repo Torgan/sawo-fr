@@ -20,7 +20,7 @@ Handicaps : Deux mains gauches, Arrogant.
 
 ### Actions
 - Dague : Combat d8, d6+d4.
-- Epée courte : Combat d8, 2d6.
+- Épée courte : Combat d8, 2d6.
 
 ### Équipement
 Chemise de maille (+2), épée courte, dague, potion de soins (pouvoir _Guérison_ sans Relance), bourse contenant 9 po, 18 pa et 21 pc.

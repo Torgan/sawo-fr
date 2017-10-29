@@ -16,7 +16,7 @@ Atouts : Cavalier né, Cavalier-buffle, Esquive.
 
 ### Actions
 - Lance à buffles à bout en bronze : Combat d10, PA 2 en charge, 2 mains lorsqu’il est hors-monture, d10+d8
-- Epée courte en os : Combat d10, d8+d6
+- Épée courte en os : Combat d10, d8+d6
 - Javelots avec atlatl : Lancer d8, 6/12/24, d8+d4.
 
 ### Réactions

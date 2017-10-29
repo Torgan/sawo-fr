@@ -16,6 +16,6 @@ Handicaps : Chimères, Serment (ils doivent respecter les dogmes de leur foi).
 
 ### Actions
 - Dague : Combat d6, d6+d4
-- Epée courte : Combat d6, 2d6
+- Épée courte : Combat d6, 2d6
 
 Équipement : Dague ou épée courte.

@@ -30,5 +30,5 @@ Atouts : Ambidextre, Combat à deux armes, Commandement, Ferveur, Frénésie sup
 - _Télékinésie_ : Magie d12, PP5 Portée 8, 3 (1 / rd).
 - _Ténèbres_ : Magie d12, PP2, Portée 8, 3 (1 / rd).
 
-### Equipement
+### Équipement
 Armure orientale complète (+3), Katana de feu (For+d6+2, PA2, +d6 de dégâts de feu, peut enflammer la cible), Katana de glace (For+d6+2, PA2, jet de Vigueur à -2 ou perte d'un niveau de Fatigue(Froid) )

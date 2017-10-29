@@ -22,6 +22,6 @@ Atout : Arcane (Magie), Assassin, Vigilance, Voleur.
 - Dague : Combat d10, d6+d4.
 - _Enfouissement_ : (disparition subite) Magie d6, PP3, Portée 12, 3 (2 / rd).
 
-### Equipement
+### Équipement
 Dague (For+d4).
 

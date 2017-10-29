@@ -18,7 +18,7 @@ Atouts : Blocage, Contacts (Crime), Frappe éclair, Sang-froid, Grande Esquive, 
 - Sang-froid : Agit sur la meilleure de trois cartes en combat
 
 ### Actions
-- Epée courte : Combat d8, 2d6
+- Épée courte : Combat d8, 2d6
 - Dague de parade : Combat d8, Parade +1, d6+d4.
 - Fronde : Tir d6, 4/8/16, d6+d4.
 

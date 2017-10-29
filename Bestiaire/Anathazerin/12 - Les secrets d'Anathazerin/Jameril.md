@@ -22,7 +22,7 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Ferveur, Inspiration, 
 
 ### Actions
 - Assassin : +2 aux dégâts contre une cible surprise.
-- Epée courte : Combat d10/d10, 2d6 + poison (-4, inconscicence).
+- Épée courte : Combat d10/d10, 2d6 + poison (-4, inconscicence).
 - Arbalète : Tir d8, 2d6 + poison (-4, inconscience).
 - _Confusion_ : Âme d10, PP1+, Portée 16, Inst.
 - _Diminution de Trait_ : Magie d8, PP2, Portée 8, 3 (1/rd).

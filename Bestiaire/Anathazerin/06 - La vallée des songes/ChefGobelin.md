@@ -20,6 +20,6 @@ Atout : Extraction.
 ### Actions
 - Lance courte : Combat d8, 2d6
 
-### Equipement
+### Équipement
 Lance courte (For+d6).
 

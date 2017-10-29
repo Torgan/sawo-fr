@@ -21,5 +21,5 @@ Atouts : Balayage, Enragé.
 - Hallebarde : Combat d10, Allonge 1, 2 mains, d10+d8.
 - Rage : Âme d6. Le berserker orque peut devenir enragé en réussissant un jet d'Âme sans avoir été blessé au préalable.
 
-### Equipement
+### Équipement
 Cuirasse (+3), Hallebarde (Allonge 1, 2 mains, For+d8)

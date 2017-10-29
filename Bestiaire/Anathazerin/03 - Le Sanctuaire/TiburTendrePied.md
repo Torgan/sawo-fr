@@ -15,8 +15,8 @@ Compétences : Combat d6, Discrétion d8, Escalade d6, Natation d4, Perception 
 - Taille -1.
 
 ### Actions
-- Epée courte : Combat d6, 2d6.
+- Épée courte : Combat d6, 2d6.
 - Arc court : Tir d8, 12/24/48, 2d6.
 
-### Equipement
+### Équipement
 Armure de cuir, épée courte, arc court.

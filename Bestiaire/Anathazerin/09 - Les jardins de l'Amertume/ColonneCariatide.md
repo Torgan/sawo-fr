@@ -17,4 +17,4 @@ Compétences : Combat d6, Perception d4.
 - Sans peur : les colonnes cariatides sont immunisées à la Terreur et à l’Intimidation
 
 ### Actions
-- Epée en pierre : Combat d6, d12+d8.
+- Épée en pierre : Combat d6, d12+d8.

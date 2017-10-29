@@ -20,5 +20,5 @@ Compétences : Combat d6, Connaissance (Religion) d6, Foi d8, Perception d6, So
 - _Augmentation de Trait_ : Foi d8, PP2, portée 10, 3(1/rd).- _Guérison_ : Foi d8, PP3, T, Inst.
 - _Secours_ : Foi d8, PP1, T, Inst.
 
-### Equipement
+### Équipement
 Armure de cuir (+1), marteau (For+d6), arbalète légère

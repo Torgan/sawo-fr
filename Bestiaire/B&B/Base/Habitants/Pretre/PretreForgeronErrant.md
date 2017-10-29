@@ -20,7 +20,7 @@ Atouts : Brave, Panache, Nerfs d’Acier Trempé, Frénésie Suprême, Prêtre.
 
 ### Actions
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
-- Epée longue : Combat d8, PA 2, 2d8.
+- Épée longue : Combat d8, PA 2, 2d8.
 - Arc : Tir d8, 12/24/48, 2d6.
 
 Équipement : épée longue en acier déguisée, arc, 1d6 flèches à pointes en acier (PA2), armure de bronze moyenne, bouclier de bronze moyen (Parade +1, +2 Résistance contre les attaques à distance).

@@ -22,7 +22,7 @@ Handicaps : Deux mains gauches, Prudent.
 
 ### Actions
 - Arc long : Tir d12+1, 15/30/60, 2d6.
-- Epée longue : Combat d10, 2d8.
+- Épée longue : Combat d10, 2d8.
 
 ### Équipement
 Armure de cuir (+1), épée longue, arc long.

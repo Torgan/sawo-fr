@@ -18,6 +18,6 @@ Compétences : Combat d6, Discrétion d6, Intimidation d8, Lancer d6, Perce
 ### Actions
 - Cimeterre	: Combat d6, 2d8
 - Balayage : attaque tout ennemi adjacent à -2.
-### Equipement
+### Équipement
 Armure de cuir (+1), cimeterre (For+d8)
 
