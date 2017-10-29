@@ -1,5 +1,4 @@
 # * Shade
-Il s’agit de l'un des grands loups enragés parfois utilisés comme chiens de combat. On les trouve aussi en meutes au cœur d’obscures forêts.
 
 Allure : 10 (+d10)
 
