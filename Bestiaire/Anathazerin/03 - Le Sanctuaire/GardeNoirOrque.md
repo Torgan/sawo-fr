@@ -11,10 +11,10 @@ Compétences : Combat d8, Discrétion d6, Intimidation d10, Lancer d6, Percepti
 	6	8 (1)
 
 ### Capacités spéciales
-- Taille +1 : les orques sont un peu plus grands que les humains.
+- Taille +1 : un peu plus grand qu'un humain.
 
 ### Actions
-- Cimeterre large : Combat d8, d10+d8
+- Cimeterre large : Combat d8, d10+d8.
 
-### Equipement
-Armure de cuir (+1), cimeterre large.
+### Équipement
+Armure de cuir, cimeterre large.
