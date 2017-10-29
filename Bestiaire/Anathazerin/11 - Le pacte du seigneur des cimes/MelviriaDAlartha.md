@@ -30,4 +30,4 @@ Atouts : Arcane (Foi), Charismatique, Drain de l'Âme, Guerrier impie, Grande r�
 - _Ténèbres_ : Foi d12+2, PP2, Portée 10, 3 (1/rd).
 
 ### Équipement
-25 po, 2 rubis de valeur 750 pa chacun, bracelets de défense supérieure (Armure +4) Anneau de protection d'action libre (Parade +2, immunise à tous les pouvoirs visant à entraver le mouvement — _Paralysie_, _Enchevêtrement_, etc...), scarabée de sagesse (+2 aux jets de Foi), dague magique (Combat +2)
+25 po, 2 rubis de valeur 750 pa chacun, bracelets de défense supérieure (Armure +4), Anneau de protection d'action libre (Parade +2, immunise à tous les pouvoirs visant à entraver le mouvement — _Paralysie_, _Enchevêtrement_, etc...), scarabée de sagesse (+2 aux jets de Foi), dague magique (Combat +2)
