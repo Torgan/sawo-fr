@@ -5,10 +5,10 @@ Allure : 8
 	Agi	Âme	For	Int	Vig
 	d10	d6	d10	d4 (A)	d8
 
-Compétences : Combat d10, Discrétion d12, Escalade d12+2, Intimidation d10, Perception d8
+Compétences : Combat d8, Discrétion d12, Escalade d12+2, Intimidation d10, Perception d8
 
 	PAR	RES
-	6	5
+	6	6
 
 ### Capacités spéciales
 - Assassin : +2 aux dégâts contre une cible surprise.
