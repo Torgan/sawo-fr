@@ -17,7 +17,7 @@ Handicaps : Prudent.
 ### Capacités spéciales
 - Combatif : +2 pour sortir d'un état Secoué.
 - Tueur d'orques : +1d6 aux dégâts contre les orques.
-- Tueur de géants : +1d6 aux dégâts contre les grandes créatures.
+- Tueur de géants : +1d6 aux dégâts contre les grandes créatures (Taille +3).
 
 ### Actions
 - marteau-piolet : Combat d8+2, PA1, 2d6.
