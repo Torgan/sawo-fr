@@ -17,6 +17,5 @@ Compétences : Combat d8, Discrétion d10, Escalade d6, Lancer d6, Natation�
 ### Actions
 - Masse : Combat d8, 2d6.
 
-### Equipement
+### Équipement
 Masse.
-
