@@ -13,14 +13,14 @@ Atouts : Forestier, Frappe éclair.
 	6	6 (1)
 
 ### Capacités spéciales
-- Taille -1
+- Taille -1.
 
 ### Actions
-- Epée courte : Combat d8, 2d6
-- Arc court : Tir d10, 12/24/48, 2d6
+- Epée courte : Combat d8, 2d6.
+- Arc court : Tir d10, 12/24/48, 2d6.
 
 ### Réaction
 - Frappe éclair : peut attaquer un adversaire se portant au contact une fois par round.
 
-### Equipement
-Armure de cuir (+1), épée courte, arc court.
+### Équipement
+Armure de cuir, épée courte, arc court.
