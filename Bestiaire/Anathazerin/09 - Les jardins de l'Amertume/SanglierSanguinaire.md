@@ -18,5 +18,5 @@ Atouts : Enragé.
 
 ### Actions
 - Défenses : Combat d10, d12+d4.
-- Charge : Un sanglier peut faire une attaque à la fin d'une course sans subir le malus d'actions multiples. Dans ce cas, il bénéficie d'un bonus de +2 aux dégâts. 
+- Encorner : peut charger pour encorner son adversaire. S'il se déplace d'au moins 6 cases avant l'attaque, il ajoute +4 au total de ses dégâts.
 - Enragé : le sanglier devient enragé s’il subit une Blessure ou un état Secoué. Il subit un malus de -2 en Parade, et gagne un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
