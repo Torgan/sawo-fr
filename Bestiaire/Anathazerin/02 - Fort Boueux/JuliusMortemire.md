@@ -13,8 +13,8 @@ Atouts : Voleur
 	5	6 (1)
 
 ### Actions
-- Epée courte : Combat d6, 2d6.
+- Épée courte : Combat d6, 2d6.
 - Couteaux de lancer : Lancer d8, 3/6/12, d6+d4.
 
-### Equipement
-Armure de cuir (+1), épée courte (For+d6), couteaux de lancer (3/6/12, For+d4).
+### Équipement
+Armure de cuir, épée courte, couteaux de lancer.
