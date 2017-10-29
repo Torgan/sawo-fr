@@ -20,6 +20,6 @@ Compétences : Combat d6, Discrétion d10, Escalade d6, Lancer d4, Magie d8,
 - _Armure_ : Magie d8, PP2, T, 3(1/rd).
 - _Eclair_ : Magie d8, PP1-3, 12/24/48, Inst.
 
-### Equipement
+### Équipement
 Dague, Élixir de guérison, Poison (-2).
 
