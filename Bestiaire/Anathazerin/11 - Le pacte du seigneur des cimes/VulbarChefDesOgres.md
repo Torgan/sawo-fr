@@ -17,8 +17,8 @@ Atouts : Blocage, Grand balayage.
 - Taille +3 : un ogre mesure plus de 2,5m de haut, a une grosse bedaine et des membres massifs.
 
 ### Actions
-Grand balayage : attaque tout ennemi adjacent.
-Hache-tonnerre : Combat d10+2, PA1, 2d12+5
+- Grand balayage : attaque tout ennemi adjacent.
+- Hache-tonnerre : Combat d10+2, PA1, 2d12+5
 - _Frappe_ : Âme d6, PP2, T, 3(1/rd).
 
 ### Équipement
