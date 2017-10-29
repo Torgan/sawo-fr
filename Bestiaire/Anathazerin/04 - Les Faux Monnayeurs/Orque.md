@@ -12,11 +12,10 @@ Compétences : Combat d6, Discrétion d6, Intimidation d8, Lancer d6, Perce
 	5	8 (1)
 
 ### Capacités spéciales
-- Taille +1 : les orques sont un peu plus grands que les humains.
+- Taille +1 : un peu plus grands qu'un humain.
 
 ### Actions
-- Epée longue : Combat d6, 2d8.
+- Épée longue : Combat d6, 2d8.
 
-### Equipement
-Armure de cuir (+1), épée longue.
-
+### Équipement
+Armure de cuir, épée longue.
