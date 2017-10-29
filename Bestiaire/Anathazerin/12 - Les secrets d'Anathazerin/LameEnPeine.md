@@ -18,7 +18,7 @@ Atout : Frappe éclair.
 - Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
 
 ### Actions
-- Toucher vampirique : Combat d8+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un point de Fatigue en cas de succès, et de 2 points de Fatigue en cas de Relance. Chaque point de fatigue perdu permet à la lâme-en-peine de soigner une blessure.
+- Toucher vampirique : Combat d8+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet à la lâme-en-peine de soigner une Blessure. 
 
 ### Réaction
 - Frappe éclair : peut attaquer un adversaire se portant au contact une fois par round.
