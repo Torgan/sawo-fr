@@ -5,7 +5,7 @@ Allure : 6
 
 
 	Agi	Âme	For	Int	Vig
-	d10	d8	d6	d6	d6
+	d10	d8	d8	d6	d6
 
 Compétences : Combat d6, Discrétion d6+2, Équitation d4, Perception d8, Tir d10.
 
@@ -20,8 +20,8 @@ Atouts : Forestier, Tireur d'élite, Vigilance.
 
 ### Actions
 - Tireur d'élite : la manoeuvre Visée (+2 en Tir) est automatique si le personnage ne se déplace pas.
-- Épée courte : Combat d6, 2d6.
-- Arc long : Tir d10-1, 15/30/60, 2d6.
+- Épée courte : Combat d6, d8+d6.
+- Arc long : Tir d10, 15/30/60, 2d6.
 
 ### Équipement
 Armure de cuir, épée courte, Arc long.
