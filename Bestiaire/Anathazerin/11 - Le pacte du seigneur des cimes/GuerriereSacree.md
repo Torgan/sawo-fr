@@ -14,14 +14,14 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d10, PP 10.
-- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope.
-- Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux pouvoirs.
+- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
+- Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Assassin : +2 aux dégâts contre une cible surprise.
-- Épée courte : Combat d10/d10, 2d6 + poison (-4, inconscicence).
-- Arbalète : Tir d8, 2d6 + poison (-4, inconscience).
+- Épée courte : Combat d10/d10, 2d6 + poison (-4, inconscience).
+- Arbalète : Tir d8, 15/30/60, PA2, une action pour recharger, 2d6 + poison (-4, inconscience).
 - _Confusion_ : Âme d10, PP1+, Portée 16, Inst.
 - _Diminution de Trait_ : Âme d8, PP2, Portée 8, 3 (1/rd).
 - _Dissipation_ : Âme d10, PP3, Portée 8, Inst.
