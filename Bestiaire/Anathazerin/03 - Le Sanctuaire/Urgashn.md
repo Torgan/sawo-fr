@@ -16,7 +16,7 @@ Compétences : Combat d12, Discrétion d6, Intimidation d10, Lancer d8, Percepti
 - Vampirisation : Âme d8, portée 6, ignore l'armure, 2d6. Chaque fois que cette attaque inflige une ou plusieurs Blessures, Urgashn peut se soigner d'une Blessure.
 
 ### Réactions
-- Vampirisation : chaque fois qu’une créature meurt dans un rayon de 8 cases, Urgashn peut se soigner d'une Blessure.
+- Vampirisation : chaque fois qu'une créature dans un rayon de 8 cases devient Incapacitée suite à une Blessure (et non un cumul de Secoué), Urgashn peut se soigner d'une Blessure
 
 ### Équipement
 Armure de cuir, hache à deux mains en Durium, Baguette de défoliation (12 charges, 3d6 dégâts aux créatures végétales, tue la végétation non magique sur 50m de rayon), trois améthystes de 100 pa chacune, 30 po et 153 pa.
