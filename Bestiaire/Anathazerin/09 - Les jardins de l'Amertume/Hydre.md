@@ -17,5 +17,5 @@ Compétences : Combat d8, Intimidation d10, Perception d10
 - Têtes multiples : une hydre peut être tuée en attaquant le corps (statistiques ci dessus) ou en tuant toutes les têtes. Une tête a une Parade de 7 et une Résistance de 7, et il est possible d'en attaquer une directement en faisant une attaque ciblée à -2 (-4 pour la tête et +2 pour la taille de la créature).
 
 ### Actions
-- Attaque multiple : une hydre peut attaquer autant de cibles adjacentes qu'elle a de têtes, avec un maximum de deux têtes sur une seule cible de Taille 0.
+- Attaques multiples : une hydre peut attaquer autant de cibles adjacentes qu'elle a de têtes, avec un maximum de deux têtes sur une seule cible de Taille 0.
 - Morsure : Combat d8, d12+d6+4
