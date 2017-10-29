@@ -21,5 +21,5 @@ Atouts : Grand balayage.
 
 ### Actions
 - Morsure/Cornes/Griffes : Combat d8/d8/d8, d12+d6+2.
-- Grand Balayage : Attaque tous les adversaires adjacents
+- Attaques multiples : peut effectuer jusqu'à trois attaques par round sans malus d'Actions Multiples.
 - Souffle enflammé : la tête de dragon d'une chimère peut cracher du feu sur un Gabarit de Cone. Toute personne dans la zone doit réussir un jet d'Agilité à -2 ou subir 2d8 de dégâts et potentiellement prendre feu. Une chimère ne peut pas utiliser sa capacité de Grand balayage quand elle utilise cette attaque, mais elle peut utiliser deux attaques de griffes et de cornes sans malus.
