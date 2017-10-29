@@ -8,7 +8,7 @@ Allure : 6
 
 Compétences : Combat d8, Crochetage d6+2, Discrétion d8+2, Escalade d6+2, Intimidation d6, Jeu d6, Perception d8, Persuasion d4, Réseaux d6, Sarcasme d4.
 
-Atouts : Blocage, Esquive, Frappe éclair, Voleur
+Atouts : Blocage, Esquive, Frappe éclair, Voleur.
 
 	PAR	RES
 	7   6 (1)
@@ -23,5 +23,5 @@ Atouts : Blocage, Esquive, Frappe éclair, Voleur
 ### Réactions
 - Frappe éclair : Peut attaquer un adversaire se portant au contact une fois par round.
 
-### Equipement
+### Équipement
 Armure de cuir clouté, dague magique (For+d4+1), bourse contenant 53 pa et 59 pc, vêtements sombres, outils de voleur.
