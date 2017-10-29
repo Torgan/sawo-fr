@@ -12,7 +12,7 @@ Compétences : Combat d6, Connaissance (un métier) d6, Perception d6
 
 ### Actions
 - Dague : Combat d6, d8+d4
-- Epée courte : Combat d6, 2d6.
+- Épée courte : Combat d6, 2d6.
 
 ### Équipement
 

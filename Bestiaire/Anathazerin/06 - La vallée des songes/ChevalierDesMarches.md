@@ -25,4 +25,4 @@ Atouts : Charismatique, Combatif, Commandement, Frénésie.
 - Épée longue : Combat d10, d10+d8.
 
 ### Équipement
-Epée longue, écu (Parade +1), cotte de mailles (Armure +2).
+Épée longue, écu (Parade +1), cotte de mailles (Armure +2).

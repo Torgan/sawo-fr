@@ -19,6 +19,6 @@ Atout: Ambidextre, Combat à deux armes.
 ### Actions
 - Boutetroll/épée courte : Combat d8/d8, 2d6+2, 2d6
 
-### Equipement
+### Équipement
 Boutetroll (épée courte enflammée, For+d6+2, peut enflammer les cibles), épée courte.
 

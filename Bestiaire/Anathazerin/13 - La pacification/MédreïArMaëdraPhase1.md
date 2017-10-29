@@ -23,7 +23,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 
 ### Actions
 - Piqure : Combat d10, d12+d6 + poison (-4, inconscience).
-- Epée vampirique : Combat d10, d12+d8. Les blessures infligées permettent de guérir autant de blessures.
+- Épée vampirique : Combat d10, d12+d8. Les blessures infligées permettent de guérir autant de blessures.
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
 - _Dépeçage_ (injonction mortelle) : Foi d12+2, PP5, 10, Inst.
 - _Eclair_ (rayon vampirique) : Foi d12+2, PP1-3, 12/24/48, Inst. Chaque blessure occasionné avec ce pouvoir permet à la matrone de soigner une Blessure.
@@ -35,4 +35,4 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 - _Zombie_ : Foi d12+2, PP3 / corps, Portée 20.
 
 ### Équipement
-Epée vampirique (For+d8, les blessures infligées permettent de guérir autant de blessures).
+Épée vampirique (For+d8, les blessures infligées permettent de guérir autant de blessures).

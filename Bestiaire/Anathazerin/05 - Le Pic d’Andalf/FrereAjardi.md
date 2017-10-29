@@ -17,5 +17,5 @@ elle reçoit un Compteur de Douleur. Les personnages avec un Compteur de Douleur
 ### Actions
 - Dague : Combat d8, d8+d4
 
-### Equipement
+### Équipement
 Armure de cuir, trois dagues, bâton de marche, robe de bure beige, besace contenant une perle de 100 pa, 26 pa et 58 pc, fiole de poison narcotique (reste une dose suffisante pour empoisonner un repas pour une douzaine de personnes).

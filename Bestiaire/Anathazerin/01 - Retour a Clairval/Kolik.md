@@ -15,7 +15,7 @@ Compétences : Combat d8, Discrétion d10, Escalade d6, Lancer d6, Natation�
 - Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions
-- Epée longue en laenk : Combat d8+1, 2d8.
+- Épée longue en laenk : Combat d8+1, 2d8.
 
 ### Équipement
-Epée longue en laenk (Combat +1, éclaire dans un rayon de 3m).
+Épée longue en laenk (Combat +1, éclaire dans un rayon de 3m).

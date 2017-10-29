@@ -19,7 +19,7 @@ Atouts : Arcanes (Sorcellerie), Séduisant, Rituel de Permanence, Nouveau Pouvoi
 - Rituel de permanence : bénéficie des effets d’un pouvoir adapté de manière permanente.
 
 ### Actions
-- Epée longue : Combat d8, PA2, 2d6.
+- Épée longue : Combat d8, PA2, 2d6.
 - Armure : (mot de protection) Sorcellerie d10, PP2, Portée T, 3 (1 / rd).
 - Confusion : (nom secret d’Hordan) Sorcellerie d10, PP 1/cible, Portée 20, Inst.
 - Convocation d’allié : (Diablotin kéronien, Esprit de Traître, chauve-souris des Ombres, Mastiff démoniaque) Sorcellerie d10, PP3+, Portée 10, 3 (1 / rd).

@@ -17,7 +17,7 @@ Atouts : Blocage, Esquive, Frappe éclair, Voleur.
 - Esquive : -1 aux attaques à distance contre le personnage.
 
 ### Actions
-- Epée courte : Combat d8, 2d6.
+- Épée courte : Combat d8, 2d6.
 - Dague : Combat d8, d6+d4+1.
 
 ### Réactions

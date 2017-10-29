@@ -19,7 +19,7 @@ Atout : Tireur d'élite
 
 ### Actions
 - Arc court : Tir d8, 12/24/48, 2d6.
-- Epée large : Combat d8, d10+d8
+- Épée large : Combat d8, d10+d8
 
-### Equipement
+### Équipement
 Armure de cuir (+1), épée large, arc court.

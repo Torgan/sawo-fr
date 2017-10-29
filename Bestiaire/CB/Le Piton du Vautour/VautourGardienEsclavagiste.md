@@ -20,4 +20,4 @@ Atouts : Combatif.
 - Arc : Tir d6, 12/24/48, 2d6.
 
 ### Équipement
-Epée longue en bronze, lance, arc, fourrures épaisses (+1), jeu d'osselets.
+Épée longue en bronze, lance, arc, fourrures épaisses (+1), jeu d'osselets.

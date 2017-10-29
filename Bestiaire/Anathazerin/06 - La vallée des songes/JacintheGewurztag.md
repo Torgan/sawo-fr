@@ -24,5 +24,5 @@ Atout : Arcane (Magie), Séduisante.
 - _Déflexion_ : Magie d8, PP2, -2 aux attaques à distances contre ce personnage.
 - _Fantasmes_ : Magie d10, PP2+, Portée 8, 3 (1/rd).
 
-### Equipement
+### Équipement
 Dague.

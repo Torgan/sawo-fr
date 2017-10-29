@@ -19,11 +19,11 @@ Atouts : Blocage, Frappe éclair, Frénésie.
 - Sans peur : les guerriers uraqi sont immunisés à la Terreur et à l’Intimidation.
 
 ### Actions
-- Epée longue : Combat d10, d10+d8
+- Épée longue : Combat d10, d10+d8
 - Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
 
 ### Réactions
 - Frappe éclair : Peut attaquer un adversaire se portant au contact une fois par round.
 
-### Equipement
+### Équipement
 Armure de plaques en bronze, épée longue, écu (Résistance +2 contre les projectiles)

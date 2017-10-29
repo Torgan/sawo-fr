@@ -19,10 +19,10 @@ Handicaps : Loyal, Rancunier (mâles)
 - Déguisée : Un Diable Marqué est déguisée sous son armure. Elle ne peut pas être reconnue en tant que femme et les hommes ne la considèrent donc pas comme une cible faible. Tant qu’elle est dans son armure de Diable Masqué, elle ne bénéficie pas de l’Avantage Amazone.
 
 ### Actions
-- Epée longue en bronze : Combat d8,2d8.
+- Épée longue en bronze : Combat d8,2d8.
 - Arc : Tir d6, 12/24/48, 2d6
 
 ### Réactions
 - Amazone : bénéficie d’une action de combat gratuite lorsqu’un adversaire masculin fait un 1 sur son dé de Combat (voir Déguisée ci dessous).
 
-Équipement : Epée longue en bronze, Armure de Diable Marqué (+2, voir ci-dessus), bouclier moyen (+1 Parade, +2 Résistance contre les armes à distance), arc.
+Équipement : Épée longue en bronze, Armure de Diable Marqué (+2, voir ci-dessus), bouclier moyen (+1 Parade, +2 Résistance contre les armes à distance), arc.

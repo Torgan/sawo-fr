@@ -16,7 +16,7 @@ Compétences : Combat d8, Intimidation d8, Perception d4.
 - Sans peur : les squelettes sont immunisés à la Terreur et à l’Intimidation.
 
 ### Actions
-- Epée longue : Combat d8, 2d8.
+- Épée longue : Combat d8, 2d8.
 
-### Equipement
+### Équipement
 Plastron, épée longue

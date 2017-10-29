@@ -21,7 +21,7 @@ Compétences : Combat d8, Intimidation d8, Perception d8, Persuasion d10+6, Disc
 ### Actions
 - Six bras : Une fille d’Hordan dispose de six bras, elle peut donc effectuer trois attaques par round sans souffrir de malus d’action multiple, ou six attaques avec un malus de -2 à chacune.
 - Griffes : Combat d8, d10+d4, mais les filles dotées d’intelligence utilisent des armes.
-- Epées longues en bronze : Combat d8, d10+d8
+- Épées longues en bronze : Combat d8, d10+d8
 - Constricteur : bonus de +4 aux jets d’empoignade.
 - Augmentation/diminution de Trait : Persuasion d10+6, PP2, Portée Int, 3 (1 / rd).
 

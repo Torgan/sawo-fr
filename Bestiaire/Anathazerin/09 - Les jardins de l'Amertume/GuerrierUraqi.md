@@ -17,7 +17,7 @@ Compétences : Combat d8, Perception d4.
 - Sans peur : les guerriers uraqi sont immunisés à la Terreur et à l’Intimidation.
 
 ### Actions
-- Epée longue : Combat d8, 2d8.
+- Épée longue : Combat d8, 2d8.
 
-### Equipement
+### Équipement
 Armure de plaques en bronze, épée longue, écu (Résistance +2 contre les projectiles)

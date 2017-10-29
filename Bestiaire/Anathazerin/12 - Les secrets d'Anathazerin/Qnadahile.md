@@ -21,7 +21,7 @@ Atouts : Ambidextre, Arme fétiche (épée courte), Attaque à deux armes, Comma
 
 ### Actions
 - Assassin : +2 aux dégâts contre une cible surprise.
-- Epée courte : Combat d12+4/d12+3, 2d6/2d6+1 + poison (-4, inconscicence).
+- Épée courte : Combat d12+4/d12+3, 2d6/2d6+1 + poison (-4, inconscicence).
 - Arbalète : Tir d8, 2d6 + poison (-4, inconscience).
 - _Confusion_ : Âme d10, PP1+, Portée 16, Inst.
 - _Diminution de Trait_ : Magie d8, PP2, Portée 8, 3 (1/rd).

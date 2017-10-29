@@ -24,5 +24,5 @@ Atouts : Commandement, Contre-Attaque, Ferveur, Inspiration, Vigilance.
 - Masse cloutée : Combat d10, d12+d8
 - Hache de jet : Lancer d8, 3/6/12, d12+d6.
 
-### Equipement
+### Équipement
 Armure d’écaille (Armure +2), bouclier +1 (Parade +2), masse cloutée en sombracier (ignore les protections magiques de la cible, Résistance aux arcanes), 3 haches de jet, clé (salle 10), 8 po, 25 pa et un quartz de 100 pa.

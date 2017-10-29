@@ -15,9 +15,9 @@ Compétences : Combat d6, Discrétion d8, Escalade d4, Perception d8, Sarca
 - Taille -1 : un gnome mesure entre 1m et 1m20.
 
 ### Actions
-- Epée courte : Combat d6, 2d4.
+- Épée courte : Combat d6, 2d4.
 - Arbalète légère : Tir d6, 15/30/60, PA2, une action pour recharger, 2d6.
 
-### Equipement
-Epée courte, arbalète légère.
+### Équipement
+Épée courte, arbalète légère.
 

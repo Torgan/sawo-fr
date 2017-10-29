@@ -18,7 +18,7 @@ Atouts : Entraînement d’Hoplite.
 - Entraînement d’Hoplite : +2 aux jets de Vigueur pour résister à la fatigue causée par de longues marches, et à celle causée par le port d’armure malgré la chaleur
 
 ### Actions
-- Epée courte : Combat d6, d8+d6
+- Épée courte : Combat d6, d8+d6
 - Lance : Combat d6, Allonge 1, 2d6
 
 Équipement : lance à une main à pointe en fer, épée courte en fer, armure de fer lourde, large bouclier de fer (Parade +2, +2 Résistance contre les attaques à distance).

@@ -22,6 +22,6 @@ Atout : Arcane (Magie).
 - _Confusion_ : Magie d8, PP1+, Portée 16, Inst.
 - _Fantasmes_ : Magie d8, PP2+, Portée 8, 3 (1/rd).
 
-### Equipement
+### Équipement
 Dague (For+d4).
 

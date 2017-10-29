@@ -20,7 +20,7 @@ Handicaps : Deux mains gauches, Prudent.
 
 ### Actions
 - Arc long : Tir d10, 15/30/60, 2d6.
-- Epée longue : Combat d8, 2d6.
+- Épée longue : Combat d8, 2d6.
 - Tir double : Tir d10-2/d10-2, 15/30/60, 2d6/2d6
 - Tireur d'élite : la manœuvre Visée (+2 en Tir) est automatique si le personnage ne se déplace pas.
 - Tueur d'orques : +1d6 aux dégâts contre les orques.

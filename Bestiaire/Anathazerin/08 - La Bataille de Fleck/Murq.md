@@ -21,7 +21,7 @@ Atouts : Combat à deux armes, Expert en bouclier, Frénésie suprême, Maitre e
 ### Actions
 - Combat à deux armes : Peut attaquer avec une arme dans chaque main sans subir le malus d’Actions multiples.
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
-- Epée large/bouclier : Combat d10/d10/d10-2, d10+d8/d10+d8/d10+d8.
+- Épée large/bouclier : Combat d10/d10/d10-2, d10+d8/d10+d8/d10+d8.
 
 ### Équipement
 Cotte de mailles (+2), épée large (For+d8), Bouclier magique à pointes (Parade +3, For+d8).

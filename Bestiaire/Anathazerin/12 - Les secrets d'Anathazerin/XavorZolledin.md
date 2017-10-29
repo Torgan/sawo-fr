@@ -23,7 +23,7 @@ Atout : Ambidextre, Attaque à deux armes, Commandement, Charismatique, Esquive,
 - Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
 
 ### Actions
-- Epées courtes : Combat d10/d10, 2d6.
+- Épées courtes : Combat d10/d10, 2d6.
 - Toucher vampirique : Combat d8+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un point de Fatigue en cas de succès, et de 2 points de Fatigue en cas de Relance. Chaque point de fatigue perdu permet à la lâme-en-peine de soigner une blessure.
 
 ### Réaction

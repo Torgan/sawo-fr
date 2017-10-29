@@ -18,6 +18,6 @@ Compétences : Combat d6, Discrétion d10, Escalade d6, Lancer d6, Natation�
 ### Actions
 - Lance courte : Combat d6, 2d4
 
-### Equipement
+### Équipement
 Lance courte (For+d6).
 

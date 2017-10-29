@@ -22,5 +22,5 @@ Atouts : Commandement, Frénésie, Leader naturel.
 - Étoile du matin : Combat d10, d10+d8.
 - Arbalète : Tir d10, 12/24/48, PA2, 2d6.
 
-### Equipement
+### Équipement
 Étoile du matin (For+d8), arbalète, 12 carreaux et dague, armure de cuir clouté (Armure +1), petit bouclier, besace, bourse avec 3d6 pa (fausses), un peu de nourriture.

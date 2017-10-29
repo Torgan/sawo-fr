@@ -21,5 +21,5 @@ Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perceptio
 - _Eclair_ : Magie d8, PP1-3, 12/24/48, Inst.
 - _Terreur_ : Magie d8, PP2, Portée 12, Inst.
 
-### Equipement
+### Équipement
 Armure de cuir (+1), dague (For+d4)

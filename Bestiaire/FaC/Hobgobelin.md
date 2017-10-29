@@ -16,7 +16,7 @@ Compétences : Combat d8, Discrétion d8, Escalade d6, Intimidation d8, Lancer 
 - Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
 
 ### Actions
-- Epée longue : Combat d8, 2d8.
+- Épée longue : Combat d8, 2d8.
 
-### Equipement
+### Équipement
 Armure de cuir (+1), épée longue (For+d8)

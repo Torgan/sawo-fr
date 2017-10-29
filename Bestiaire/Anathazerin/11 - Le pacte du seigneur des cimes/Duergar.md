@@ -23,5 +23,5 @@ Atouts : Arme fétiche (marteau de guerre), Arcane (Magie Duergar)
 - _Croissance_ : Magie d6, PP — (à volonté), portée P, 3rds. Augmente la taille de 3 unités sans possibilité de cumuler.
 - _Invisibilité_ : Magie d6, PP — (à volonté), portée P, 3rds.
 
-### Equipement
+### Équipement
 Cotte de mailles (+2), marteau de guerre (For+d6), Arbalète légère.

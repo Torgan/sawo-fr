@@ -20,5 +20,5 @@ Compétences : Combat d8, Discrétion d6, Intimidation d8, Perception d8+2, Pis
 - Hache : Combat d8, d10+d8.
 - Fléau : Combat d8, ignore les boucliers et le Couvert, d10+d6.
 
-### Equipement
+### Équipement
 Cuir bouilli (+1), hache ou fléau, arc long.

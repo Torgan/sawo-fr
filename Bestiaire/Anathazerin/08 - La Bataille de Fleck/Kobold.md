@@ -22,5 +22,5 @@ Atout : Extraction.
 - Javelot : Lancer d8, 3/6/12, 2d4.
 - Arc court : Tir d8, 12/24/48, 2d6.
 
-### Equipement
+### Équipement
 Javelot, arc court.

@@ -29,5 +29,5 @@ Atouts : Séduisant, Charismatique, Troubadour
 - _Invisibilité_ : Performance d10+1, PP5, Portée P, 3(1/rd).
 - _Augmentation/Diminution de Trait_ : Performance d10+1, PP2, portée 10, 3(1/rd).
 
-### Equipement
+### Équipement
 Arbalète légère, amulette de charme (+1 aux jets de performance pour utiliser ses pouvoirs), gants de dextérité (+1 aux jets de Traits impliquant la dextérité manuelle), armure de cuir magique (Armure +2), rapière magique (Parade +2), 11 carreaux magiques (dégâts +1), 5 fioles de poison paralysant (-2), boule de cristal (Clairvoyance, 3/jour), vêtements de bonne facture, bourses (54 pa, 57 pc, 241 po, 2 diamants de 5000 pa), 5 couteaux cachés sur lui, deux flûtes, luth.

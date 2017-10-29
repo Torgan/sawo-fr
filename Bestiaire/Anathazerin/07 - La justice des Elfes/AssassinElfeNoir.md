@@ -20,7 +20,7 @@ Atouts : Acrobate, Assassin, Véloce, Voleur.
 ### Actions
 - Acroabte : +2 aux jets d’Agilité liés à la souplesse.
 - Assassin : +2 aux dégâts contre une cible surprise.
-- Epée courte : Combat d10, d8+d6 + poison (-4, inconscience).
+- Épée courte : Combat d10, d8+d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, 2d6 + poison (-4, inconscience).
 - _Invisibilité_ : Âme d8, PP5, Portée P, 3(1/rd).
 - _Ténèbres_ : Âme d8, PP2, Portée 8, 3 (1/rd).

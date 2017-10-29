@@ -23,7 +23,7 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 
 ### Actions
 - Champion : +2 au dégâts et en Résistance contre le mal d’origine surnaturelle.
-- Epée vorpale : Combat d12+4 (Dé joker d10), d12+d8+2. En cas de Relance, provoque une blessure grave permanente comme si la victime subissait un état critique.
+- Épée vorpale : Combat d12+4 (Dé joker d10), d12+d8+2. En cas de Relance, provoque une blessure grave permanente comme si la victime subissait un état critique.
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
 - Grand balayage : attaque simultanément tous les ennemis adjacents.
 - _Aveuglement_ : Foi d12, PP2-6, portée 12, Inst.
@@ -36,6 +36,6 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 - Frappe foudroyante : peut attaquer tous les adversaires se portant au contact.
 - Grande contre-attaque : Attaque gratuite par round contre un adversaire ayant raté son attaque.
 
-### Equipement
+### Équipement
 
-Epée longue vorpale (Combat +2), Armure de plates magique (Armure +6), Grand bouclier (Parade +2)
+Épée longue vorpale (Combat +2), Armure de plates magique (Armure +6), Grand bouclier (Parade +2)

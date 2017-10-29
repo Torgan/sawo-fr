@@ -19,5 +19,5 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Perception d6.
 - Sabots/Ruade : Combat d8, d12+d4.
 - Attaque multiple : un centorque peut attaquer avec ses sabots et avec le haut de son corps sans malus d'actions multiples.
 
-### Equipement
+### Équipement
 Grande hache, javelots (3).

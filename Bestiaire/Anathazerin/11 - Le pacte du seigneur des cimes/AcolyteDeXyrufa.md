@@ -31,5 +31,5 @@ Atouts : Arcane (Magie), Drain de l'âme.
 - _Terreur_ : Magie d8, PP2, portée 12, durée spéciale.
 - _Ténèbres_ : Magie d8, PP2, Portée 6, 3 (1 / rd).
 
-### Equipement
+### Équipement
 Stalactite de pierre (For+d6), rochers.
