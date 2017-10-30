@@ -13,10 +13,10 @@ Compétences : Combat d8, Discrétion d8, Escalade d6, Intimidation d8, Lancer 
 	6	6 (1)
 
 ### Capacités spéciales
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
+- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
 
 ### Actions
 - Épée longue : Combat d8, 2d8.
 
 ### Équipement
-Armure de cuir (+1), épée longue (For+d8)
+Armure de cuir., épée longue.
