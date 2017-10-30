@@ -20,7 +20,7 @@ Atout : Commandement, Esquive, Frappe éclair, Frénésie.
 - Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
 
 ### Actions
-- Toucher vampirique : Combat d8+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un point de Fatigue en cas de succès, et de 2 points de Fatigue en cas de Relance. Chaque point de fatigue perdu permet à la lâme-en-peine de soigner une blessure.
+- Toucher vampirique : Combat d8+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet à Sael Tanderi de se soigner une Blessure.
 - Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
 
 ### Réaction
