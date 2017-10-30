@@ -10,12 +10,12 @@ Compétences : Combat d10, Connaissance (Batailles) d8, Discrétion d8, Escalad
 Atouts : Commandement, Frénésie, Leader naturel.
 
 	PAR	RES
-	7	8 (1)
+	8 (1)	8 (1)
 
 ### Capacités spéciales
-- Commandement : les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-- Leader naturel : peut donner des Jetons à ses troupes.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Leader naturel : peut donner des Jetons à des alliés dans un rayon de 5 cases.
 
 ### Actions
 - Frénésie : Peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
@@ -23,4 +23,4 @@ Atouts : Commandement, Frénésie, Leader naturel.
 - Arbalète : Tir d10, 12/24/48, PA2, 2d6.
 
 ### Équipement
-Étoile du matin (For+d8), arbalète, 12 carreaux et dague, armure de cuir clouté (Armure +1), petit bouclier, besace, bourse avec 3d6 pa (fausses), un peu de nourriture.
+Étoile du matin, arbalète avec 12 carreaux, dague, armure de cuir clouté, petit bouclier, besace, bourse avec 3d6 pa (fausses), un peu de nourriture.
