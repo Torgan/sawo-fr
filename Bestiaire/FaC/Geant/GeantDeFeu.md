@@ -10,19 +10,19 @@ Allure : 8
 Compétences : Combat d8, Escalade d6, Intimidation d10, Lancer d6, Perception d6.
 
 	PAR	RES
-	6	14 (1)
+	6	14 (2)
 
 ### Capacités spéciales
-- Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
+- Grand : +2 aux attaques adverses en raison de sa grande taille.
 - Faiblesse (Froid) : les dégâts des attaques de froid sont doublés.
-- Immunité (Feu) : les géants du givre sont immunisés à toute forme de feu et de chaleur.
+- Immunité (Feu) : immunisé à toute forme de feu et de chaleur.
 - Taille +5.
 
 ### Actions
-- Aura enflammée : les géants de feu sont auréolés de flammes. A la fin de leur action d'un round, toutes les créatures adjacentes subissent 2d6 de dégâts de feu.
-- Grand balayage : Attaque tous les adversaires adjacents.
-- Massue : Combat d8, 2d12+4.
+- Aura enflammée : auréolé de flammes. À la fin de leur action d'un round, toutes les créatures adjacentes subissent 2d6 de dégâts de feu.
+- Grand balayage : attaque tous les adversaires adjacents.
+- Grande hache : Combat d8, 2d12+4.
 - Rochers brûlants: Lancer d6, 5/10/20, 3d6+2.
 
 ### Équipement
-Cotte de maille, grande hache (For+d12, une main), rochers brûlants.
+Cotte de maille, grande hache, rochers brûlants.
