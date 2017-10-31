@@ -14,11 +14,11 @@ Atouts : Acrobate, Assassin, Véloce, Voleur.
 
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d8, PP 5.
-- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope.
+- Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand confronter à la lumière du jour.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Acroabte : +2 aux jets d’Agilité liés à la souplesse.
+- Acrobate : +2 aux jets d’Agilité liés à la souplesse.
 - Assassin : +2 aux dégâts contre une cible surprise.
 - Épée courte : Combat d10, d8+d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, 2d6 + poison (-4, inconscience).
@@ -26,4 +26,4 @@ Atouts : Acrobate, Assassin, Véloce, Voleur.
 - _Ténèbres_ : Âme d8, PP2, Portée 8, 3 (1/rd).
 
 ### Équipement
-Justaucorps de cuir (+1), épée courte, arbalète légère.
+Justaucorps de cuir, épée courte, arbalète légère.
