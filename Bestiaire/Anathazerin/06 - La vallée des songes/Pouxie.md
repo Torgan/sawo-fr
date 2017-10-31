@@ -23,4 +23,3 @@ Atouts : Forestier.
 
 ### Équipement
 Couteau, sarbacane.
-
