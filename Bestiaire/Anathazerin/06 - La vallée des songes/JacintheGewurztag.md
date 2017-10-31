@@ -15,8 +15,8 @@ Atout : Arcane (Magie), Séduisante.
 
 ### Capacités spéciales
 - Arcane (Magie) : Magie d8, PP20.
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-- Taille -1 : un gnome mesure entre 1m et 1m20.
+- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions
 - Dague : Combat d6, 2d4
