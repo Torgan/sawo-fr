@@ -14,11 +14,11 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 
 ### Capacités spéciales
 - Armure +3 : armure naturelle
-- Énorme : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense.
+- Énorme : un adversaire ajoute +4 à ses jets d'attatque en raison de sa taille immense.
 - Faiblesse : les dégâts des attaques de feu sont doublés.
 - Plante : +2 pour récupérer d'un état Secoué. Ignore les malus de Blessures, le poison et les dégâts supplémentaires liés aux attaques ciblées.
 - Résistance physique : les attaques non tranchantes subissent un malus de -3 aux dégâts.
-- Taille +8 : les arbres animés font 6m de haut.
+- Taille +8 : fait 6m de haut.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
