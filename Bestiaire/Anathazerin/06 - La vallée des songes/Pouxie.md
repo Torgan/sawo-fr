@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Combat d6, Discrétion d10+2, Escalade d8, Intimidation d6,  Perception d6, Pistage d8+2, Survie d8+2, Tir d8.
 
-Atouts : Forestier
+Atouts : Forestier.
 
 	PAR	RES
 	5	3
