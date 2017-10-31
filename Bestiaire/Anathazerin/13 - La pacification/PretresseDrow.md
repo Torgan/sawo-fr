@@ -15,16 +15,16 @@ Atouts : Arcanes (Miracles), Commandement, Résistance aux arcanes.
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d6, PP 10.
 - Arcane : prêtresse de Maëdra, Foi d10, PP25.
-- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope.
-- Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux pouvoirs.
+- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
+- Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Masse-serpent : Combat d8, 2d6 + poison (-4, inconsicence).
-- Arbalète : Tir d8, 2d6 + poison (-4, inconscience).
+- Masse-serpent : Combat d8, 2d6 + poison (-4, inconscience).
+- Arbalète : Tir d8, 15/30/60, PA2, une action pour recharger, 2d6 + poison (-4, inconscience).
 - _Ténèbres_ : Âme d8, PP2, Portée 8, 3 (1/rd).
 - _Confusion_ : Âme d8, PP1+, Portée 16, Inst.
-- _Dissipation_ : Âme d10, PP3, Portée 8, Inst.
+- _Dissipation_ : Foi d10, PP3, Portée 8, Inst.
 - _Eclair_ (feu ou électricité) : Foi d10, PP1-3, 12/24/48, Inst.
 - _Enchevêtrement_ (toile d'araignée) : Foi d10, PP 3(1/rd), portée 8, Gabarit Moyen, Inst.
 - _Terreur_ : Foi d10, PP2, Portée 8, Inst.
