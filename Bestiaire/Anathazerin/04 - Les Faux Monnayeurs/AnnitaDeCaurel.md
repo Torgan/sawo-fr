@@ -7,7 +7,7 @@ Charisme : +2
 	Agi	Âme	For	Int	Vig
 	d6	d10	d6	d8	d6
 
-Compétences : Combat d6, Connaissance (Arcanes) d8, Crochetage d6+2, Discrétion d8+2, Escalade d6+2, Magie d8, Perception d6, Persuasion d6, Sarcasme d4.
+Compétences : Combat d6, Connaissance (Arcanes) d8, Crochetage d6+2, Discrétion d8(+2 ville), Escalade d6+2, Magie d8, Perception d6, Persuasion d6, Sarcasme d4.
 
 Atouts : Assassin, Blocage, Sang-froid, Séduisant, Voleur.
 
@@ -32,4 +32,3 @@ Handicaps : Cupide.
 ### Équipement
 Anneau de protection (Pouvoir _Déflexion_ actif en permanence), tube en os contenant un parchemin de nécromancien où sont inscrits les pouvoirs _Armure_, _Explosion_ et _Zombi_), bourse (3 rubis de 500 pa chaque, 3 po et 12 pa), symbole béni d’Abalath, livre de sorts, besace contenant des composants et une bouteille d’encre pour écrire les parchemins (200 pa).
 Si la situation tourne mal, Annita utilise intangibilité pour s’enfuir…
-
