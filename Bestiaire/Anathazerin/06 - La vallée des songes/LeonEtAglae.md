@@ -11,12 +11,11 @@ Compétences : Combat d8, Discrétion d6, Escalade d4, Perception d6, Sarca
 	6	4
 
 ### Capacités spéciales
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-- Taille -1 : un gnome mesure entre 1m et 1m20.
+- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions
 - Épée courte : Combat d8, 2d6.
 
 ### Équipement
-Épée courte (For+d6).
-
+Épée courte.
