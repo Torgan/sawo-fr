@@ -19,13 +19,13 @@ Atouts : Blocage, Charismatique, Commandement, Esquive, Leader naturel, Frénés
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 
-### Réactions
-- Écu : Résistance +2 contre les projectiles.
-
 ### Actions
 
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
 - Épée longue : Combat d12, d10+d8.
+
+### Réactions
+- Écu : Résistance +2 contre les projectiles.
 
 ### Équipement
 Épée longue, écu, armure de plates.
