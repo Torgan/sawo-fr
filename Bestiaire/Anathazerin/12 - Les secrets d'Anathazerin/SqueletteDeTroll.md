@@ -1,4 +1,4 @@
-# Squelette de troll (Sous-fifre)
+# Squelette de troll 
 
 Allure : 7
 
