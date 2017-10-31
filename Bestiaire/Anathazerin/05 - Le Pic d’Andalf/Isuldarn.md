@@ -5,7 +5,7 @@ Allure : 6
     AGI ÂME FOR INT VIG
     d6  d8  d6  d8  d6
     
-Compétences : Combat d6, Connaissance (Magie) d8, Discrétion d6, Sorcellerie d8, Perception d6.
+Compétences : Combat d6, Connaissance (Magie) d8, Discrétion d6, Perception d6, Sorcellerie d8.
 
 Atouts : Arcane (Sorcellerie).
 
