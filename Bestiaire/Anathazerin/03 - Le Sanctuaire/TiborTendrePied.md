@@ -6,7 +6,8 @@ Allure : 6
 	Agi	Âme	For	Int	Vig
 	d8	d8	d6	d6	d8
 
-Compétences : Combat d8, Discrétion d8+2, Escalade d6, Natation d4, Perception d8, Pistage d8+2, Survie d8+2, Tir d10.
+Compétences : Combat d8, Discrétion d8(+2 nature), Escalade d6, Natation d4, Perception d8, Pistage d8+2, Survie d8+2, Tir d10.
+
 Atouts : Forestier, Frappe éclair.
 
 	PAR	RES
