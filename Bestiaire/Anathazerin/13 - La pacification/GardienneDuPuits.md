@@ -12,7 +12,7 @@ Compétences : Combat d8, Escalade d12+2, Discrétion d10, Intimidation d10, 
 
 ### Capacités spéciales
 - Gargantuesque : Armure Lourde. Les adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense. Les attaques sont considérées comme des Armes Lourdes. Ajoute sa Taille aux dégâts pour les attaques de piétinement.
-- Sans peur : la Gardienne du puit est immunisée à la Terreur et à l’Intimidation.
+- Sans peur : immunisée à la Terreur et à l’Intimidation.
 - Taille +9.
 
 ### Actions
