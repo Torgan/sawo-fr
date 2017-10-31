@@ -19,4 +19,4 @@ Compétences : Combat d8, Discrétion d8, Escalade d6, Intimidation d8, Lancer 
 - Épée longue : Combat d8, 2d8.
 
 ### Équipement
-Armure de cuir., épée longue.
+Armure de cuir, épée longue.
