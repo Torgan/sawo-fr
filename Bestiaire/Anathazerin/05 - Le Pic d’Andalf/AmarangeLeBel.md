@@ -16,7 +16,7 @@ Atouts : Séduisant, Charismatique, Troubadour
 
 ### Capacités spéciales
 - Grande Esquive (Armure) — -2 aux attaques à distance contre le personnage.
-- Sang-froid : agit sur la meilleure de trois cartes en combat
+- Sang-froid : agit sur la meilleure de trois cartes en combat.
 - Arcane : Troubadour, Performance d10+1, PP20.
 
 ### Actions
