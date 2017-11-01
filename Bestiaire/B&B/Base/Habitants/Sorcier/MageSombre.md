@@ -18,8 +18,8 @@ Atouts : Arcanes (Sorcellerie), Aura Impressionnante, Nouveau Pouvoir, Points de
 
 ### Actions
 - Dague : Combat d6, d6+d4.
-- Augmentation/diminution de Trait : (corruption) Sorcellerie d8, 2PP, Portée 8, 3 (1 / rd).
-- Convocation d’allié : (Diablotin kéronien, Serviteur tordu) Sorcellerie d8, 3+PP, Portée 8, 3 (1 / rd).
+- Augmentation/diminution de Trait : (corruption) Sorcellerie d8, 2PP, Portée 8, 3 (1/rd).
+- Convocation d’allié : (Diablotin kéronien, Serviteur tordu) Sorcellerie d8, 3+PP, Portée 8, 3 (1/rd).
 - Déflexion : (Je ne suis pas là !) Sorcellerie d8, 2PP, Portée 0, 3 (1/rd)
 - Éclair : (tentacules de ténèbres) Sorcellerie d8, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
 

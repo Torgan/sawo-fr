@@ -3,7 +3,7 @@
 - Rang : Novice
 - PP : 2
 - Portée : Int
-- Durée : 3 (1/round)
+- Durée : 3 (1/rd)
 
 L’arcaniste peut créer des images illusoire capable d’aff ecter un sens, et susceptible d’affecter toute personne se trouvant à proximité.
 

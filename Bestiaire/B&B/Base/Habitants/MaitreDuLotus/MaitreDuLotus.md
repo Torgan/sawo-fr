@@ -19,7 +19,7 @@ Atouts : Arcanes (Maîtrise du Lotus), Réserve de Lotus, Nouveau Pouvoir, Point
 
 ### Actions
 - Dague : Combat d6, d6+d4
-- Augmentation/diminution de Trait : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 8, 3 (1 / rd).
+- Augmentation/diminution de Trait : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 8, 3 (1/rd).
 - Barrière : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 8, 3 (1 / sect. / rd)
 - Confusion : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 16, Inst.
 - Poison : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.

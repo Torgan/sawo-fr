@@ -3,7 +3,7 @@
 - Rang : Novice
 - PP : 2
 - Portée : voir texte
-- Durée : 3 (1/round)
+- Durée : 3 (1/rd)
 
 Le pouvoir de Télépathie permet de communiquer mentalement avec d’autres personnes.
 

@@ -21,7 +21,7 @@ Atouts : Contre-Attaque, Provocation, Volonté de Fer.
 - Dague : Combat d8, d6+d4.
 
 ### RÉACTIONS 
-- Contre-Attaque : attaque gratuite à -2 contre un adversaire ayant raté son attaque (1 / round).
+- Contre-Attaque : attaque gratuite à -2 contre un adversaire ayant raté son attaque (1/rd).
 - Provocation : peut accomplir une action de combat gratuite sans pénalité d’Actions Multiples suite à Sarcasmes réussit avec Relance.
 
 ### Équipement

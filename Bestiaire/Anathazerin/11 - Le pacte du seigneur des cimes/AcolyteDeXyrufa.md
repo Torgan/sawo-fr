@@ -29,7 +29,7 @@ Atouts : Arcane (Magie), Drain de l'âme.
 - _Diminution de Trait_ : Magie d8, 2PP, Portée 6, 3 (1/rd).
 - _Eclair_ (saignement) : Magie d8, 1-3PP, 12/24/48, Inst. L'aspect saignement provoque les mêmes effets que l'aspect Acide - Corrosion (Savage Worlds p. 189)
 - _Terreur_ : Magie d8, 2PP, portée 12, durée spéciale.
-- _Ténèbres_ : Magie d8, 2PP, Portée 6, 3 (1 / rd).
+- _Ténèbres_ : Magie d8, 2PP, Portée 6, 3 (1/rd).
 
 ### Équipement
 Stalactite de pierre (For+d6), rochers.

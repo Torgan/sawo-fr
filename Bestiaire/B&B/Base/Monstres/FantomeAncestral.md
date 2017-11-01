@@ -17,8 +17,8 @@ Compétences : Combat d6, Intimidation d12+2, Connaissance (sujet spécifique) d
 - Prémonition spirituelle : Un fantôme ancestral peut percevoir des dangers comme avec l’Atout Sixième sens.
 
 ### Actions
-- Détection d’Arcanes : Âme d10, 2PP, Portée Vue, 3 (1 / rd).
+- Détection d’Arcanes : Âme d10, 2PP, Portée Vue, 3 (1/rd).
 - Divination : Âme d10, 5PP, Portée P, 1 min.
-- Télékinésie : Âme d10, 5PP Portée 6, 3 (1 / rd).
-- Ténèbres : Âme d10, 2PP, Portée 6, 3 (1 / rd).
+- Télékinésie : Âme d10, 5PP Portée 6, 3 (1/rd).
+- Ténèbres : Âme d10, 2PP, Portée 6, 3 (1/rd).
 - Terreur : Âme d10, 2PP, Portée 12, Inst.

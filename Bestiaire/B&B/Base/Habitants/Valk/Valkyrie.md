@@ -23,7 +23,7 @@ Atouts : Arcanes (Sorcellerie), Séduisante, Cavalier né, Charismatique, Comman
 ### Actions
 - Bâton de sorcier : Combat d6+2, Parade +1, deux mains, Allonge 1, 2d4
 - Dague en os : Combat d6 , 2d4.
-- Convocation d’allié : (oiseau de combat, mastiff démoniaque, jatakal) 3+PP, Portée 8, 3 (1 / rd).
+- Convocation d’allié : (oiseau de combat, mastiff démoniaque, jatakal) 3+PP, Portée 8, 3 (1/rd).
 - Déflexion : (vent démoniaque) 2PP, Portée 0, 3 (1/rd)
 - Éclair : (force étrangleuse invisible) 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
 - Terreur : (rire hideux) 2PP, Portée 16, Inst.

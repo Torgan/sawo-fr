@@ -23,7 +23,7 @@ Atout : Arcane (Magie), Charismatique, Mage.
 - Dague : Combat d6, 2d4.
 - Lame dansante (pouvoir _Convocation d’allié_) : Combat d10, dégâts 2d8.
 - _Barrière_ : (Mur de force) Magie d10, 1PP/section, Portée 10, 3 (1 / sect. / rd)
-- _Convocation d’allié_ : (Lame dansante) Magie d10, 3PP, Portée 10, 3 (1 / rd).
+- _Convocation d’allié_ : (Lame dansante) Magie d10, 3PP, Portée 10, 3 (1/rd).
 - _Confusion_ : Magie d10, 1+PP, Portée 20, Inst.
 - _Déflexion_ : Magie d10, 2PP, -2 aux attaques à distances contre ce personnage.
 - _Fantasmes_ : Magie d10, 2+PP, Portée 10, 3 (1/rd).

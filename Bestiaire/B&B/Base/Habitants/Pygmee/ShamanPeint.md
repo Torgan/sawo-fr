@@ -23,7 +23,7 @@ Handicaps : Sanguinaire, Frêle, Serment (principes religieux).
 ### Actions
 - Sceptre : Combat d6+2, attaque de toucher, d6+d4.
 - Ami des bêtes : (étranges prières et danses) Sorcellerie d8, 3PP, Portée 1km, 10mn
-- Convocation d’allié : (araignée géante, un essaim moyen, ou un alligator) Sorcellerie d8, 3+PP, Portée 8, 3 (1 / rd).
+- Convocation d’allié : (araignée géante, un essaim moyen, ou un alligator) Sorcellerie d8, 3+PP, Portée 8, 3 (1/rd).
 - Éclair : (lance des araignées venimeuses) Sorcellerie d8, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
 - Poison : (gaz et brouillards empoisonnés) Sorcellerie d8, 2+PP, Portée P.
 - Terreur : (malédictions) Sorcellerie d8, 2PP, Portée 16, Inst.

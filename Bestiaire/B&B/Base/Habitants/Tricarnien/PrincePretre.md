@@ -20,9 +20,9 @@ Atouts : Arcanes (Sorcellerie), Séduisant, Rituel de Permanence, Nouveau Pouvoi
 
 ### Actions
 - Épée longue : Combat d8, PA2, 2d6.
-- Armure : (mot de protection) Sorcellerie d10, 2PP, Portée T, 3 (1 / rd).
+- Armure : (mot de protection) Sorcellerie d10, 2PP, Portée T, 3 (1/rd).
 - Confusion : (nom secret d’Hordan) Sorcellerie d10, 1PP/cible, Portée 20, Inst.
-- Convocation d’allié : (Diablotin kéronien, Esprit de Traître, chauve-souris des Ombres, Mastiff démoniaque) Sorcellerie d10, 3+PP, Portée 10, 3 (1 / rd).
+- Convocation d’allié : (Diablotin kéronien, Esprit de Traître, chauve-souris des Ombres, Mastiff démoniaque) Sorcellerie d10, 3+PP, Portée 10, 3 (1/rd).
 - Éclair : (relâcher les esprits affamés !) Sorcellerie d10, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
 
 Équipement : épée longue en bronze ensorcelée (For+d8, PA 2), armure de bronze moyenne, anneau d’empoisonneur, trois préparations de Lotus diverses.

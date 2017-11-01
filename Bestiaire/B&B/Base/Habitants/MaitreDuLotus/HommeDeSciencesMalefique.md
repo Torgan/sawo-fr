@@ -19,10 +19,10 @@ Atouts : Arcanes (Maître du Lotus), Sang-Froid, Réserve de Lotus, Nouveau Pouv
 ### Actions
 - Épée courte : Combat d8, 2d6
 - Gant d’empoisonneur : Combat d8+2, d6+poison
-- Augmentation/diminution de Trait : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 12, 3 (1 / rd).
+- Augmentation/diminution de Trait : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 12, 3 (1/rd).
 - Barrière : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 12, 3 (1 / sect. / rd)
 - Confusion : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 24, Inst.
-- Don du guerrier : (diverses drogues de guerriers bestiaux) Maîtrise du Lotus d8, 1+PP, Portée T, 3 (1 / rd)
+- Don du guerrier : (diverses drogues de guerriers bestiaux) Maîtrise du Lotus d8, 1+PP, Portée T, 3 (1/rd)
 - Poison : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
 - Rafale : (Lotus Éternel du Phénix de Feu) Maîtrise du Lotus d8, 2PP, Cône, Inst., 2d10.
 - Zombie : (Lotus Opaque de Réveil) Maîtrise du Lotus d8, 3PP / corps, Portée 12.

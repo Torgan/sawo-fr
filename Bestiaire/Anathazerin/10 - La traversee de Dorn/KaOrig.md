@@ -27,8 +27,8 @@ Atouts : Ambidextre, Combat à deux armes, Commandement, Ferveur, Frénésie sup
 - _Invisibilité_ : Magie d12, PP — (à volonté), portée P, 3 (1/rd).
 - _Intangibilité_ : Magie d12, 5PP, portée T, 3 (2/rd).
 - _Ravage_ : Magie d12, 2-4PP, 16, Inst.
-- _Télékinésie_ : Magie d12, 5PP Portée 8, 3 (1 / rd).
-- _Ténèbres_ : Magie d12, 2PP, Portée 8, 3 (1 / rd).
+- _Télékinésie_ : Magie d12, 5PP Portée 8, 3 (1/rd).
+- _Ténèbres_ : Magie d12, 2PP, Portée 8, 3 (1/rd).
 
 ### Équipement
 Armure orientale complète (+3), Katana de feu (For+d6+2, PA2, +d6 de dégâts de feu, peut enflammer la cible), Katana de glace (For+d6+2, PA2, jet de Vigueur à -2 ou perte d'un niveau de Fatigue(Froid) )

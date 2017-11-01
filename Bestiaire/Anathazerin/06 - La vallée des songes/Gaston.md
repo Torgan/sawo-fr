@@ -20,7 +20,7 @@ Atout : Arcane (Magie), Assassin, Vigilance, Voleur.
 ### Actions
 - Assassin : +2 aux dégâts contre une cible surprise.
 - Dague : Combat d10, d6+d4.
-- _Enfouissement_ : (disparition subite) Magie d6, 3PP, Portée 12, 3 (2 / rd).
+- _Enfouissement_ : (disparition subite) Magie d6, 3PP, Portée 12, 3 (2/rd).
 
 ### Équipement
 Dague.

@@ -28,13 +28,13 @@ Ce bandeau augmente de 1 le dé d'intellect de son porteur, et octroie un bonus 
 ## Arcanna - Sceptre de pouvoir
 
 - 20PP
-- Détection d’Arcanes : Âme, 2PP, Portée Vue, 3 (1 / rd).
+- Détection d’Arcanes : Âme, 2PP, Portée Vue, 3 (1/rd).
 - _Dissipation_ : Âme, 3PP, Portée Âme, Inst.
 
 ## Gaëlm - Luth des armes dansantes
 
 - 20PP
-- _Télékinésie_ : Âme, 5PP, Portée 6, 3 (1 / rd).
+- _Télékinésie_ : Âme, 5PP, Portée 6, 3 (1/rd).
 
 La version de _Télékinésie_ est assez particulière : il s'agit uniquement de l'option **Armes télékinétiques**, mais deux épées longues sont créées (For+d8) et sont animées en même temps. La compétence d'Arcane utilisée est l'Âme du détenteur du Luth.
 

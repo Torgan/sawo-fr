@@ -27,7 +27,7 @@ Atouts : Amazone, Séduisante, Héroïne en bikini, Commandement, Contre-attaque
 - Dague en bronze : Combat d10, d8+d4.
 - Arc : Tir d6, 12/24/48, 2d6
 - Lame Amazone marquée d’un lierre : Rhéa vient d’une ancienne famille d’Amazones et elle manie une lame qui date de la Rébellion des Reines Sœurs. Cette arme est reconnaissable par une très fine gravure sur sa lame, représentant une branche de lierre. Elle est faite en bronze ancien et Rhéa la garde affûtée (+1 dommages). Si elle est ramenée aux Amazones d’Ascaia, cela octroie aux héros l’amitié des femmes guerrières.
-- Augmentation/diminution de Trait : Persuasion d8+4, 2PP, Portée 8, 3 (1 / rd).
+- Augmentation/diminution de Trait : Persuasion d8+4, 2PP, Portée 8, 3 (1/rd).
 
 ### Réactions
 - Amazone : bénéficie d’une action de combat gratuite lorsqu’un adversaire masculin fait un 1 sur son dé de Combat (voir Déguisée ci dessous).
