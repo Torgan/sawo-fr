@@ -7,7 +7,9 @@ Charisme : X (si non nul)
 	dX	dX	dX	dX	dX
 
 Compétences : Combat dX, ...
+
 Handicaps : (s'il y en a)
+
 Atouts : (s'il y en a)
 
 	PAR	RES
@@ -22,4 +24,5 @@ Atouts : (s'il y en a)
 - Bâton : Combat dX, Parade +X, Allonge X, 2 mains, ..., dX+dY
 - Nom pouvoir : (aspect pouvoir) compétence dX, PPx, Portée X, coût en PP dont maintien, XdX de dégâts.
 
-Équipement : (s'il y en a ) liste simple
+### Équipement
+(s'il y en a ) liste simple
