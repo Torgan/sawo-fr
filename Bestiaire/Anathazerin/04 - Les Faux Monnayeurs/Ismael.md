@@ -6,7 +6,7 @@ Allure : 6
 	Agi	Âme	For	Int	Vig
 	d10	d8	d6	d8	d6
 
-Compétences : Combat d8, Crochetage d6+2, Discrétion d8+2, Escalade d6+2, Intimidation d6, Jeu d6, Perception d8, Persuasion d4, Réseaux d6, Sarcasme d4.
+Compétences : Combat d8, Crochetage d6+2, Discrétion d8(+2 ville), Escalade d6+2, Intimidation d6, Jeu d6, Perception d8, Persuasion d4, Réseaux d6, Sarcasme d4.
 
 Atouts : Blocage, Esquive, Frappe éclair, Voleur.
 
