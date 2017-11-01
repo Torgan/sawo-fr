@@ -29,7 +29,7 @@ Ce bandeau augmente de 1 le dé d'intellect de son porteur, et octroie un bonus 
 
 - PP 20
 - Détection d’Arcanes : Âme, PP2, Portée Vue, 3 (1 / rd).
-- _Dissipation_ : Âme d10, PP3, Portée Âme, Inst.
+- _Dissipation_ : Âme, PP3, Portée Âme, Inst.
 
 ## Gaëlm - Luth des armes dansantes
 
