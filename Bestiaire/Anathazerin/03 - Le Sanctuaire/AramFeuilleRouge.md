@@ -7,7 +7,7 @@ Allure : 6
 	Agi	Âme	For	Int	Vig
 	d10	d8	d8	d6	d6
 
-Compétences : Combat d6, Discrétion d6+2, Équitation d4, Perception d8, Tir d10.
+Compétences : Combat d6, Discrétion d6(+2 nature), Équitation d4, Perception d8, Tir d10.
 
 Atouts : Forestier, Tireur d'élite, Vigilance.
 

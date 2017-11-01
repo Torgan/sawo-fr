@@ -12,17 +12,20 @@ Compétences : Combat d12, Équitation d12, Intimidation d8, Perception d4, Tir 
 Atouts : Blocage, Charismatique, Commandement, Esquive, Leader naturel, Frénésie suprème.
 
 	Parade	Résistance
-	10 (1)	10 (3)
+	9 (1)	10 (3)
 
 ### Capacités spéciales
 
-- Commandement : Les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
-- Leader naturel : peut donner des Jetons à ses troupes.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 
 ### Actions
 
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
 - Épée longue : Combat d12, d10+d8.
 
+### Réactions
+- Écu : Résistance +2 contre les projectiles.
+
 ### Équipement
-Épée longue, écu (Parade +1, Résistance +2 contre les projectiles), armures de plates (Armure +3).
+Épée longue, écu, armure de plates.

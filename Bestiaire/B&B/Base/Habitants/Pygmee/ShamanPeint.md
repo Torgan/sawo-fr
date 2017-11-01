@@ -5,9 +5,11 @@ Allure : 5
 	AGI	ÂME	FOR	INT	VIG
 	d6	d8	d6	d8	d8
 
-Compétences : Escalade d8, Combat d6, Intimidation d8, Connaissance (Arcanes) d6, Perception d8, Discrétion d10(+2), Sorcellerie d8, Survie d8+2, Lancer d8
+Compétences : Combat d6, Connaissance (Arcanes) d6, Discrétion d10(+2 nature), Escalade d8, Intimidation d8, Lancer d8, Perception d8, Sorcellerie d8, Survie d8+2.
+
+Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Forestier, Nouveau Pouvoir, Points de pouvoir.
+
 Handicaps : Sanguinaire, Frêle, Serment (principes religieux).
-Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pouvoir, Forestier.
 
 	PAR	RES
 	5	5

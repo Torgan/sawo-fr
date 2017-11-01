@@ -8,18 +8,18 @@ Allure : 6
 
 Compétences : Combat d8, Discrétion d6, Intimidation d10, Lancer d6, Perception d6, Tir d8.
 
-Atout : Tireur d'élite
+Atout : Tireur d'élite.
 
 	PAR	RES
 	6	8 (1)
 
 ### Capacités spéciales
-- Taille +1 : les orques sont un peu plus grands que les humains.
-- Tireur d'élite : La manœuvre Visée (+2 en Tir) est automatique si le personnage ne se déplace pas.
+- Taille +1 : un peu plus grands qu'un humain.
+- Tireur d'élite : Visée (+2 en Tir) automatique si le personnage ne se déplace pas.
 
 ### Actions
 - Arc court : Tir d8, 12/24/48, 2d6.
 - Épée large : Combat d8, d10+d8
 
 ### Équipement
-Armure de cuir (+1), épée large, arc court.
+Armure de cuir, épée large, arc court.

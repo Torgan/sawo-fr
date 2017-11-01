@@ -21,8 +21,8 @@ Atouts : Contre-Attaque, Provocation, Volonté de Fer.
 - Dague : Combat d8, d6+d4.
 
 ### RÉACTIONS 
-- Contre-Attaque (1 / round) : attaque gratuite à -2 contre un adversaire ayant raté son attaque.
-- Provocation : Si Manasim gagne une épreuve de Volonté basée sur le Sarcasme avec une Relance, il peut immédiatement accomplir une action de Combat gratuite sans souffrir de pénalité d’Actions Multiples.
+- Contre-Attaque : attaque gratuite à -2 contre un adversaire ayant raté son attaque (1 / round).
+- Provocation : peut accomplir une action de combat gratuite sans pénalité d’Actions Multiples suite à Sarcasmes réussit avec Relance.
 
 ### Équipement
-Chemise de maille (Armure +2), cimeterre, arc court, carquois avec 12 flèches, dague.
+Chemise de maille, cimeterre (For+d8), arc court avec carquois de 12 flèches, dague.
