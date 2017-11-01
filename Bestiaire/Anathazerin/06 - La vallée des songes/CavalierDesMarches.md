@@ -7,19 +7,20 @@ Allure : 6
 
 Compétences : Combat d8, Équitation d8, Intimidation d4, Perception d4, Tir d8.
 
-Atouts : Poigne Ferme.
+Atouts : Poigne ferme.
 
 	Parade	Résistance
 	7 (1)	6 (1)
 
 ### Capacités spéciales
-
-- Poigne Ferme : Ignore le malus lié à une Plateforme instable.
+- Poigne ferme : ignore le malus lié à une Plateforme instable.
 
 ### Actions
-
 - Épée longue : Combat d8, 2d8.
 - Arc court : Tir d8, 12/24/48, 2d6.
 
+### Réactions
+- Écu : Résistance +2 contre les projectiles.
+
 ### Équipement
-Épée longue, arc court, écu (Parade +1), armure de cuir bouilli.
+Épée longue, arc court, écu, armure de cuir bouilli.

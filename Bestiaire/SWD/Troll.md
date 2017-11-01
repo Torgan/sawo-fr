@@ -18,6 +18,6 @@ Compétences : Combat d8, Intimidation d10, Lancer d6, Natation d6, Perceptio
 - Taille +2 : grandes créatures dégingandées à grosse bedaine de plus de 2,5m de haut.
 
 ### Actions
-- Massue cloutée : Combat d8, d12+d8+2
-- Griffes : Combat d8, d12+d4+2
+- Massue cloutée : Combat d8, d12+d8+2.
+- Griffes : Combat d8, d12+d4+2.
 - Grand balayage : attaque simultanément tous les ennemis adjacents.

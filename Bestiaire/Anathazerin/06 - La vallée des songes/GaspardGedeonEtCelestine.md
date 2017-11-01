@@ -14,8 +14,8 @@ Atout : Arcane (Magie).
 
 ### Capacités spéciales
 - Arcane (Magie) : Magie d8, PP15.
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-- Taille -1 : un gnome mesure entre 1m et 1m20.
+- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions
 - Dague : Combat d6, 2d4.
@@ -23,5 +23,4 @@ Atout : Arcane (Magie).
 - _Fantasmes_ : Magie d8, PP2+, Portée 8, 3 (1/rd).
 
 ### Équipement
-Dague (For+d4).
-
+Dague.

@@ -13,8 +13,8 @@ Atouts : Blocage, Commandement, Ferveur.
 	9 (1)	8 (2)
 
 ### Capacités spéciales
-- Commandement : les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
-- Ferveur : Les troupes ont un bonus de +1 aux dégâts.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Ferveur : +1 aux dégâts pour les alliés dans un rayon de 5 cases.
 - _Deflexion_ : -2 aux attaques à distances contre ce personnage.
 
 ### Actions
@@ -23,4 +23,4 @@ Atouts : Blocage, Commandement, Ferveur.
 - Arc court : Tir d8, 12/24/48, 2d6.
 
 ### Équipement
-Épée longue magique (Combat +1), deux dagues, arc court avec carquois de 12 flèches, chemise de maille (Armure +2), petit bouclier (Parade +1), anneau de protection (pouvoir _Deflexion_), potion de force de géant (_Augmentation de Trait (Force)_ de deux rangs pendant 3 rounds).
+Épée longue magique (Combat +1), deux dagues, arc court avec carquois de 12 flèches, chemise de maille, petit bouclier, anneau de protection (pouvoir _Deflexion_), potion de force de géant (_Augmentation de Trait (Force)_ de deux rangs pendant 3 rounds).

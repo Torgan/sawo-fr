@@ -11,7 +11,7 @@ Compétences : Combat d6, Discrétion d10, Perception d8, Tir d8.
 	5	8 (2)
 
 ### Capacités spéciales
-- Armure +2 : armure naturelle
+- Armure +2 : armure naturelle.
 - Faiblesse : les dégâts des attaques de feu sont doublés.
 - Plante : +2 pour récupérer d'un état Secoué. Ignore les malus de Blessures, le poison et les dégâts supplémentaires liés aux attaques ciblées.
 

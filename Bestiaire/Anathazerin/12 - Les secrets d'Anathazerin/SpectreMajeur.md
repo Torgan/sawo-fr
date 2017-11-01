@@ -21,5 +21,5 @@ Compétences : Combat d10, Discrétion d10, Intimidation d12, Perception d10, S
 
 ### Actions
 - _Télékinésie_ : Âme d12+2, PP — Portée 12, 3.
-- Toucher vampirique : Combat d10+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet au spectre majeur de se soigner une blessure.
+- Toucher vampirique : Combat d10+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet au Spectre majeur de de soigner d'une Blessure.
 

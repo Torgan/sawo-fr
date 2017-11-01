@@ -18,12 +18,12 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 - Combatif : +2 pour sortir d'un état Secoué.
 - Défense d'outre-monde : les attaques non-magiques ne font que la moitié des dégâts.
 - Forme immortelle : immunisé aux poisons et aux maladies.
-- Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux pouvoirs.
+- Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Régénération lente : un jet de guérison naturelle par jour.
 
 ### Actions
 - Champion : +2 au dégâts et en Résistance contre le mal d’origine surnaturelle.
-- Épée vorpale : Combat d12+4 (Dé joker d10), d12+d8+2. En cas de Relance, provoque une blessure grave permanente comme si la victime subissait un état critique.
+- Épée vorpale : Combat d12+4 (dé joker d10), d12+d8+2. En cas de Relance, provoque une Blessure grave permanente comme si la victime subissait un état critique.
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
 - Grand balayage : attaque simultanément tous les ennemis adjacents.
 - _Aveuglement_ : Foi d12, PP2-6, portée 12, Inst.
@@ -38,4 +38,4 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 
 ### Équipement
 
-Épée longue vorpale (Combat +2), Armure de plates magique (Armure +6), Grand bouclier (Parade +2)
+Épée longue vorpale (Combat +2), Armure de plates magique (Armure +6), Grand bouclier (Parade +2, Résistance +2 contre les projectiles).

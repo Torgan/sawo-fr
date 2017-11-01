@@ -12,7 +12,7 @@ Compétences : Combat d6, Connaissance (Arcanes) d10, Equitation d10, Intimidati
 Atouts : Arcanes (Magie), Drain de l’Âme.
 
 	PAR	RES
-	6	10 (4)
+	5	10 (4)
 
 ### Capacités spéciales
 - Arcanes (Magie) : Magie d12, PP30.
@@ -22,9 +22,9 @@ Atouts : Arcanes (Magie), Drain de l’Âme.
 - Bec de corbin : Combat d6, Allonge 1, PA2, 2 mains, 2d10
 - _Augmentation/diminution de Trait_ : Magie d12, PP2, Portée 10, 3 (1 / rd).
 - _Convocation d’allié_ : (essaim de scorpions) Magie d12, PP3+, Portée 10, 3 (1 / rd).
-- _Déflexion_ : Magie d12, PP2, Portée 0, 3 (1/rd)
+- _Déflexion_ : Magie d12, PP2, Portée T, 3 (1/rd)
 - _Éclair_(acide) : Magie d12, PP1-3, Portée 12/24/48, Inst.
-- _Explosion_ (acide) : Foi d12, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.
+- _Explosion_ (acide) : Magie d12, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.
 
 ### Équipement
 Armure de chitine (Armure +4), Bec de corbin magique (For+d10, Allonge 1, PA2, deux mains).

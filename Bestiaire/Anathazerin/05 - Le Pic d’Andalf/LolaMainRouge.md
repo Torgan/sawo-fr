@@ -15,7 +15,7 @@ Atouts : Arme fétiche, Costaud, Brute.
 	6 (-1)	10 (2)
 
 ### Capacités spéciales
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
+- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
 
 ### Actions
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
@@ -23,4 +23,4 @@ Atouts : Arme fétiche, Costaud, Brute.
 - Arc court : Tir d6, 12/24/48, 2d6.
 
 ### Équipement
-Cotte de maille (Armure +2), épée à 2 mains, arc court, carquois avec 12 flèches, dague.
+Cotte de maille, épée à 2 mains, arc court, carquois avec 12 flèches, dague.

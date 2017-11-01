@@ -1,11 +1,11 @@
-# Le borgne
+# Le Borgne
 
 Allure : 6
 
 	AGI	ÂME	FOR	INT	VIG
 	d6	d8	d8	d6	d8
 
-Compétences : Escalade d6, Combat d6, Discrétion d10+2, Perception d8, Pistage d8+2, Survie d8+2, Tir d6.
+Compétences : Combat d6, Discrétion d10(+2 nature), Escalade d6, Perception d8, Pistage d8+2, Survie d8+2, Tir d6.
 
 Atouts : Forestier.
 
@@ -19,4 +19,4 @@ Handicaps : Borgne.
 - Épée courte : Combat d6, d8+d6.
 
 ### Équipement
-Armure de cuir (+1), épée courte, arc long,
+Armure de cuir, épée courte, arc long.
