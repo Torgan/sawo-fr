@@ -1,10 +1,9 @@
 # Behir
 
-- Allure : 6+d6
+Allure : 6+d6
 
-
-	Agi	Âme	For	Int	Vig
-	d6	d8	d12+2	d4	d10
+    Agi Âme For	Int	Vig
+    d6  d8	d12+2	d4	d10
 
 Compétences : Combat d10, Discrétion d6, Escalade d12, Perception d8.
 
