@@ -5,7 +5,7 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d8	d4	d6
 
-Compétences : Escalade d4, Combat d8, Intimidation d4, Perception d4, Équitation d4, Tir d6, Discrétion d4, Survie d4, Lancer d6
+Compétences : Combat d8, Discrétion d4, Équitation d4, Escalade d4, Intimidation d4, Lancer d6, Perception d4, Survie d4, Tir d6.
 
 Atouts : Brute.
 
@@ -16,8 +16,12 @@ Handicaps : Peur de la Magie (Mineur).
 
 ### Actions
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
-- Hache de Bataille : Combat d8, 2d8+1 (+1 sur une Relance)
-- Arc : Tir d6, 12/24/48, 2d6
+- Hache de bataille : Combat d8, 2d8+1 (+1 sur une Relance).
+- Arc : Tir d6, 12/24/48, 2d6.
+
+### Réactions
+- Bouclier moyen : parade +1, +2 Résistance contre les armes à distance.
+- Peur de la Magie : effectue un test de Terreur en présence de magie.
 
 ### Équipement
-Hache de Bataille (For+d8), bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), armure de cuir (+1).
+Hache de bataille, bouclier moyen, armure de cuir.
