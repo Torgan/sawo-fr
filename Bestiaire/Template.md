@@ -16,7 +16,7 @@ Atouts : (s'il y en a)
 	X	X (X)
 
 ### Capacités spéciales (s'il y en a)
-- Arcanes (XX) : compétence dX, PPxx.
+- Arcanes (XX) : compétence dX, xxPP.
 - Nom de la capacité : phrase de description
 
 ### Actions
