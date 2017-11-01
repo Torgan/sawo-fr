@@ -3,19 +3,19 @@
 - Allure : 6+d6
 
 
-    Agi Âme	For	Int	Vig
-	d6  d8	d12+2	d4	d10
+	Agi	Âme	For	Int	Vig
+	d6	d8	d12+2	d4	d10
 
 Compétences : Combat d10, Discrétion d6, Escalade d12, Perception d8.
 
 Atout : Vigilance.
 
 	PAR	RES
-	7	17 (3)
+	7	16 (3)
 
 ### Capacités spéciales
 - Adhérence : peut se déplacer à une vitesse de 4 sur les surfaces verticales et au plafonds.
-- Armure 3
+- Armure +3
 - Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
 - Immunité : électricité
 - Taille +6
