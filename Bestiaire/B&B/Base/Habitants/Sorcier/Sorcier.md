@@ -14,7 +14,7 @@ Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pou
 	6	7 (1)
 
 ### Capacités spéciales
-- Arcanes (Sorcellerie) : Sorcellerie d12, PP30.
+- Arcanes (Sorcellerie) : Sorcellerie d12, 30PP.
 - Aura Impressionnante : Peut utiliser sa compétence Sorcellerie au lieu d’Intimidation
 - Corrompu par la Magie : Le corps et l’âme du Sorcier ont été souillés par son utilisation prolongée de la magie maléfique. Il a maintenant de longues griffes sombres (+1 dégâts sans arme) et son corps sent la décomposition. Il souffre de -2 en Charisme.
 - Rituel de Lien : Le Sorcier a lié de manière permanente un Esprit Tordu Joker à sa volonté. Cet individu agit comme le serviteur personnel et le garde du corps du Sorcier.
@@ -23,13 +23,13 @@ Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pou
 
 ### Actions
 - Bâton de sorcier : Combat d6+2, Parade +1, Allonge 1, 2 mains, d6+d4
-- Armure : (bouclier invisible) Sorcellerie d12, PP2, Portée T, 3 (1 / rd).
-- Augmentation/diminution de Trait : (corruption) Sorcellerie d12, PP2, Portée 10, 3 (1 / rd).
-- Convocation d’allié : (Diabloti kéronien, Serviteur tordu, essaim moyen, singe à crocs, chauve-souris des ombres, esprit de traître) Sorcellerie d12, PP3+, Portée 10, 3 (1 / rd).
-- Déflexion : (Je ne suis pas là !) Sorcellerie d12, PP2, Portée 0, 3 (1/rd)
-- Éclair : (tentacules de ténèbres) Sorcellerie d12, PP1-3, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
-- Invisibilité : (Vous ne pouvez pas me voir !) Sorcellerie d12, PP5, Portée P, 3 (1 / rd).
-- Marionnette : (Ton esprit est à moi!) Sorcellerie d12, PP5, Portée 10, 3 (1 / rd).
+- Armure : (bouclier invisible) Sorcellerie d12, 2PP, Portée T, 3 (1 / rd).
+- Augmentation/diminution de Trait : (corruption) Sorcellerie d12, 2PP, Portée 10, 3 (1 / rd).
+- Convocation d’allié : (Diabloti kéronien, Serviteur tordu, essaim moyen, singe à crocs, chauve-souris des ombres, esprit de traître) Sorcellerie d12, 3+PP, Portée 10, 3 (1 / rd).
+- Déflexion : (Je ne suis pas là !) Sorcellerie d12, 2PP, Portée 0, 3 (1/rd)
+- Éclair : (tentacules de ténèbres) Sorcellerie d12, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
+- Invisibilité : (Vous ne pouvez pas me voir !) Sorcellerie d12, 5PP, Portée P, 3 (1 / rd).
+- Marionnette : (Ton esprit est à moi!) Sorcellerie d12, 5PP, Portée 10, 3 (1 / rd).
 
 Équipement : bâton de sorcier, dague rituelle en os (+1), robes ensorcelées(+1), deux préparations de Lotus choisies parmi : Obscurcissement, Confusion, Augmentation/Diminution de Trait.
 

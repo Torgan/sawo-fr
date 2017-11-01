@@ -13,14 +13,14 @@ Atouts : Arcanes (Sorcellerie), Aura Impressionnante, Nouveau Pouvoir, Points de
 	5	5
 
 ### Capacités spéciales
-- Arcanes (Sorcellerie) : Sorcellerie d8, PP15.
+- Arcanes (Sorcellerie) : Sorcellerie d8, 15PP.
 - Aura Impressionnante : Peut utiliser sa compétence Sorcellerie au lieu d’Intimidation
 
 ### Actions
 - Dague : Combat d6, d6+d4.
-- Augmentation/diminution de Trait : (corruption) Sorcellerie d8, PP2, Portée 8, 3 (1 / rd).
-- Convocation d’allié : (Diablotin kéronien, Serviteur tordu) Sorcellerie d8, PP3+, Portée 8, 3 (1 / rd).
-- Déflexion : (Je ne suis pas là !) Sorcellerie d8, PP2, Portée 0, 3 (1/rd)
-- Éclair : (tentacules de ténèbres) Sorcellerie d8, PP1-3, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
+- Augmentation/diminution de Trait : (corruption) Sorcellerie d8, 2PP, Portée 8, 3 (1 / rd).
+- Convocation d’allié : (Diablotin kéronien, Serviteur tordu) Sorcellerie d8, 3+PP, Portée 8, 3 (1 / rd).
+- Déflexion : (Je ne suis pas là !) Sorcellerie d8, 2PP, Portée 0, 3 (1/rd)
+- Éclair : (tentacules de ténèbres) Sorcellerie d8, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
 
 Équipement : dague, robes.

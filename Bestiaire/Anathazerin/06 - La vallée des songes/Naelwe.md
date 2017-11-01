@@ -16,15 +16,15 @@ Handicap : Pacifiste (Mineur)
 	6 (1)   7 (2)
 
 ### Capacités spéciales
-- Arcane : Miracles, Foi d10, PP20.
+- Arcane : Miracles, Foi d10, 20PP.
 
 ### Actions
 - Arc long : Tir d6, 15/30/60, Diminue de 1 les malus de Portée, 2d6.
 - Bâton : Combat d6+1, Parade +1, Allonge 1, 2 mains, d6+d4.
-- _Déflexion_ : Foi d10, PP2, portée T, 3(1/rd).
-- _Guérison_ : Foi d10+2, PP3, portée T, Inst.
-- _Lumière_ : Foi d10, PP2, portée 8, 3(1/rd).
-- _Secours_ : Foi d10, PP1, portée T, Inst.
+- _Déflexion_ : Foi d10, 2PP, portée T, 3(1/rd).
+- _Guérison_ : Foi d10+2, 3PP, portée T, Inst.
+- _Lumière_ : Foi d10, 2PP, portée 8, 3(1/rd).
+- _Secours_ : Foi d10, 1PP, portée T, Inst.
 
 ### Équipement
 Arc long en bois de Guessandre (Force min. d6, Diminue de 1 les malus de Portée), bâton magique (Combat +1), chemise de maille.

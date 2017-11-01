@@ -14,7 +14,7 @@ Atouts : Ambidextre, Arme fétiche (épée courte +2), Attaque à deux armes, Co
 	11 (1)	8 (3)
 
 ### Capacités spéciales
-- Arcane : pouvoirs d'elfe noir, Âme d10, PP 10.
+- Arcane : pouvoirs d'elfe noir, Âme d10, 10PP.
 - Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
@@ -23,10 +23,10 @@ Atouts : Ambidextre, Arme fétiche (épée courte +2), Attaque à deux armes, Co
 - Assassin : +2 aux dégâts contre une cible surprise.
 - Épée courte : Combat d12+4/d12+2, 2d6/2d6+1 + poison (-4, inconscience).
 - Arbalète : Tir d8, 15/30/60, PA2, une action pour recharger, 2d6 + poison (-4, inconscience).
-- _Confusion_ : Âme d10, PP1+, Portée 16, Inst.
-- _Diminution de Trait_ : Âme d10, PP2, Portée 8, 3 (1/rd).
-- _Dissipation_ : Âme d10, PP3, Portée 8, Inst.
-- _Ténèbres_ : Âme d10, PP2, Portée 8, 3 (1/rd).
+- _Confusion_ : Âme d10, 1+PP, Portée 16, Inst.
+- _Diminution de Trait_ : Âme d10, 2PP, Portée 8, 3 (1/rd).
+- _Dissipation_ : Âme d10, 3PP, Portée 8, Inst.
+- _Ténèbres_ : Âme d10, 2PP, Portée 8, 3 (1/rd).
 
 ### Réaction
 - Frappe foudroyante : peut attaquer tous les adversaires se portant au contact.

@@ -27,12 +27,12 @@ Atouts : Charismatique, Commandement, Grande aura de Commandement, Ferveur, Insp
 ### Actions
 - Dague sacrificielle : Combat d8, d6+d4
 - Masse à bout en fer : Combat d8, 2d6
-- Armure : Âme d8, PP2, Portée T, 3 (1 / rd).
-- Barrière : Âme d8, PP 1/section, Portée 10, 3 (1 / sect. / rd)
-- Convocation d’allié : Âme d8, PP3+, Portée 10, 3 (1 / rd).
-- Éclair : Âme d8, PP1-3, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
-- Frappe : Âme d8, PP2 Portée T, 3 (1 / rd).
-- Terreur : Âme d8, PP2, Portée 20, Inst.
+- Armure : Âme d8, 2PP, Portée T, 3 (1 / rd).
+- Barrière : Âme d8, 1PP/section, Portée 10, 3 (1 / sect. / rd)
+- Convocation d’allié : Âme d8, 3+PP, Portée 10, 3 (1 / rd).
+- Éclair : Âme d8, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
+- Frappe : Âme d8, 2PP Portée T, 3 (1 / rd).
+- Terreur : Âme d8, 2PP, Portée 20, Inst.
 
 Équipement : Dague sacrificielle, masse à bout en fer, corselet moyen en bronze caché sous des vêtements de cérémonie, relique du culte (+2 Charisme, voir encadré).
 

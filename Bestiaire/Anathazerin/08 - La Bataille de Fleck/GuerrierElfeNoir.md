@@ -13,7 +13,7 @@ Atouts : Assassin, Attaque à deux armes, Florentine, Résistance aux Arcanes.
 	6	6 (1)
 
 ### Capacités spéciales
-- Arcane : pouvoirs d'elfe noir, Âme d6, PP 5.
+- Arcane : pouvoirs d'elfe noir, Âme d6, 5PP.
 - Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
@@ -23,7 +23,7 @@ Atouts : Assassin, Attaque à deux armes, Florentine, Résistance aux Arcanes.
 - Florentine : +1 en Combat contre les cibles n’ayant qu’une arme et sans bouclier. Ignore 1 point de bonus pour des attaquants multiples.
 - Épée courte : Combat d8, d8+d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, PA 1, une action pour recharger, 2d6 + poison (-4, inconscience).
-- _Ténèbres_ : Âme d8, PP2, Portée 6, 3 (1/rd).
+- _Ténèbres_ : Âme d8, 2PP, Portée 6, 3 (1/rd).
 
 ### Équipement
 Justaucorps de cuir (+1), épée courte, arbalète légère.

@@ -15,15 +15,15 @@ Atouts : Arcane (Sorcellerie), Très séduisante.
     4   5
     
 ### Capacités spéciales
-- Arcane : Sorcellerie d8, PP15.
+- Arcane : Sorcellerie d8, 15PP.
 
 ### Actions
 - Dague : Combat d4, 2d4.
 - Fronde : Tir d4, 4/8/16, 2d4.
-- _Déguisement_ : Sorcellerie d8, PP3-5, Portée T, 10mn (1/10mn).
-- _Déflexion_ : Sorcellerie d8, PP2, Portée T, 3 (1/rd).
-- _Fantasmes_ : Sorcellerie d8, PP2+, Portée 8, 3 (1/rd).
-- _Sommeil_ : Sorcellerie d8, PP2, Portée 16, 1mn (1/mn).
+- _Déguisement_ : Sorcellerie d8, 3-5PP, Portée T, 10mn (1/10mn).
+- _Déflexion_ : Sorcellerie d8, 2PP, Portée T, 3 (1/rd).
+- _Fantasmes_ : Sorcellerie d8, 2+PP, Portée 8, 3 (1/rd).
+- _Sommeil_ : Sorcellerie d8, 2PP, Portée 16, 1mn (1/mn).
 
 ### Équipement
 Trois dagues, une fronde avec 20 billes de fronde, un magnifique médaillon d’argent décoré d’un rubis (collier de Charisme : +1 en Charisme), potion de lévitation (voir moine), ceinture de composants.

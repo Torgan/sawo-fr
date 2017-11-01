@@ -24,7 +24,7 @@ Atouts : Amazone (B&B P.74), Charismatique, Commandement, Séduisante
 - Balayage : Attaque tous les adversaires adjacents à -2.
 - Massue de pierre : Combat d8, d12+d6+6.
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
-- _Secousse_ : Âme d8, PP 5, Portée 0, Inst. Xyfura peut frapper le sol de son pied et provoquer une brutale secousse. Bien que dans la zone d'effet, elle est immunisée aux conséquences du Pouvoir.
+- _Secousse_ : Âme d8, 5PP, Portée 0, Inst. Xyfura peut frapper le sol de son pied et provoquer une brutale secousse. Bien que dans la zone d'effet, elle est immunisée aux conséquences du Pouvoir.
 
 ### Équipement
 Massue de pierre (For+d6), rochers.

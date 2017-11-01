@@ -30,9 +30,9 @@ Option : Pouvoirs: Augmentation/Diminution de Trait, Confusion, Détection/Dissi
 ### Actions
 - Dague en argent : Combat d6, 2d4
 - Pieu en bois : Combat d6, 2d4
-- Option : Augmentation/diminution de Trait : (bénédiction/malédiction) Magie d6, PP2, Portée 8, 3 (1 / rd).
-- Option : Confusion : (mauvais oeil) Magie d6, PP 1/cible, Portée 20, Inst.
-- Option : Détection/Dissimulation d’Arcanes (vision véritable : Magie d6, PP2, Portée Vue, 3 (1 / rd).
+- Option : Augmentation/diminution de Trait : (bénédiction/malédiction) Magie d6, 2PP, Portée 8, 3 (1 / rd).
+- Option : Confusion : (mauvais oeil) Magie d6, 1PP/cible, Portée 20, Inst.
+- Option : Détection/Dissimulation d’Arcanes (vision véritable : Magie d6, 2PP, Portée Vue, 3 (1 / rd).
 
 ### Équipement
 

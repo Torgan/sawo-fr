@@ -13,14 +13,14 @@ Atouts : Arcane (Sorcellerie).
     5   5
     
 ### Capacités spéciales
-- Arcane : Sorcellerie d8, PP15.
+- Arcane : Sorcellerie d8, 15PP.
 
 ### Actions
 - Dague : Combat d6, d6+d4.
-- _Adhérence_ : Sorcellerie d8, PP2, Portée T, 3 (1/rd).
-- _Convocation d’allié_ : (ombre mortelle) Sorcellerie d8, PP4, Portée 10, 3 (1/rd).
-- _Éclair_ : (brume étouffante) Sorcellerie d8, PP1-3, Portée 12/24/48, 2d6 ou 3d6 dedégâts, Inst.
-- _Ténèbres_ : Sorcellerie d8, PP2, Portée 10, 3 (1/rd).
+- _Adhérence_ : Sorcellerie d8, 2PP, Portée T, 3 (1/rd).
+- _Convocation d’allié_ : (ombre mortelle) Sorcellerie d8, 4PP, Portée 10, 3 (1/rd).
+- _Éclair_ : (brume étouffante) Sorcellerie d8, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 dedégâts, Inst.
+- _Ténèbres_ : Sorcellerie d8, 2PP, Portée 10, 3 (1/rd).
 
 ### Équipement
 Dague

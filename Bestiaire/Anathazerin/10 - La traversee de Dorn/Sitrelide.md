@@ -14,18 +14,18 @@ Atouts : Arcanes (Miracles), Maitre des bêtes.
 	4	5
 
 ### Capacités spéciales
-- Arcane : Miracles, Foi d10, PP20.
+- Arcane : Miracles, Foi d10, 20PP.
 - Aquatique : Allure 12
 - Beauté aveuglante : tous les humanoïdes qui regardent une nymphe à moins de 20 mètres doivent réussir un Vet de Vigueur à -2 ou être Aveuglés pendant 24 heures. La nymphe peut désactiver ce pouvoir à volonté.
 
 ### Actions
 - Dague : Combat d4, 2d4.
 - Regard étourdissant : la nymphe peut étourdir une cible à moins de 20 mètres d’un simple regard. La cible doit réussir un test de Vigueur à -2 ou être Secouée sans pouvoir récupérer pendant 2d4 rounds.
-- _Convocation d’allié_ (Animaux ou élémentaires) : Foi d10, PP3+, Portée 8, 3 (1 / rd).
-- _Détection d’Arcanes_ (ressent la magie) : Foi d10, PP2, Portée Vue, 3 (1 / rd).
+- _Convocation d’allié_ (Animaux ou élémentaires) : Foi d10, 3+PP, Portée 8, 3 (1 / rd).
+- _Détection d’Arcanes_ (ressent la magie) : Foi d10, 2PP, Portée Vue, 3 (1 / rd).
 - _Explosion_ (tempête d'éclairs) : Foi d10, 2-6PP, 12/24/48, Inst.
-- _Guérison_ (apposition des mains) : Foi d10, PP3, portée T, Inst.
-- _Téléportation_ (porte dimensionnelle) : Foi d10, PP3+, Inst.
+- _Guérison_ (apposition des mains) : Foi d10, 3PP, portée T, Inst.
+- _Téléportation_ (porte dimensionnelle) : Foi d10, 3+PP, Inst.
 
 ### Équipement
 Dague.

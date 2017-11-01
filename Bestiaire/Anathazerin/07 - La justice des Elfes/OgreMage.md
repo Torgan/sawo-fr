@@ -12,15 +12,15 @@ Compétences : Combat d8, Intimidation d10+2, Magie d10, Perception d6, Persuas
 	6	11
 
 ### Capacités spéciales
-- Arcane : Magie d8, PP30.
+- Arcane : Magie d8, 30PP.
 - Taille +3 : un ogre-mage mesure plus de 2,5m de haut.
 - Vol : un ogre-mage a une Allure de 8 en vol et une Montée de 4.
 
 ### Actions
 - Griffes : Combat d8, d12+d4+1.
-- _Eclair_ (électricité) : Magie d10, PP1-3, 12/24/48, Inst.
+- _Eclair_ (électricité) : Magie d10, 1-3PP, 12/24/48, Inst.
 - _Invisibilité_ : Magie d10, PP — (à volonté), portée P, 3 (1/rd).
-- _Intangibilité_ : Magie d10, PP5, portée T, 3 (2/rd).
-- _Ravage_ : Magie d10, PP2-4, 16, Inst.
-- _Télékinésie_ : Magie d10, PP5 Portée 6, 3 (1 / rd).
-- _Ténèbres_ : Magie d10, PP2, Portée 8, 3 (1 / rd).
+- _Intangibilité_ : Magie d10, 5PP, portée T, 3 (2/rd).
+- _Ravage_ : Magie d10, 2-4PP, 16, Inst.
+- _Télékinésie_ : Magie d10, 5PP Portée 6, 3 (1 / rd).
+- _Ténèbres_ : Magie d10, 2PP, Portée 8, 3 (1 / rd).

@@ -13,14 +13,14 @@ Atout : Arcane (Magie).
 	5	4
 
 ### Capacités spéciales
-- Arcane (Magie) : Magie d8, PP15.
+- Arcane (Magie) : Magie d8, 15PP.
 - Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
 - Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions
 - Dague : Combat d6, 2d4.
-- _Confusion_ : Magie d8, PP1+, Portée 16, Inst.
-- _Fantasmes_ : Magie d8, PP2+, Portée 8, 3 (1/rd).
+- _Confusion_ : Magie d8, 1+PP, Portée 16, Inst.
+- _Fantasmes_ : Magie d8, 2+PP, Portée 8, 3 (1/rd).
 
 ### Équipement
 Dague.

@@ -14,15 +14,15 @@ Atout : Arcane (Magie), Séduisant.
 	5	4
 
 ### Capacités spéciales
-- Arcane (Magie) : Magie d8, PP20.
+- Arcane (Magie) : Magie d8, 20PP.
 - Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
 - Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions
 - Dague : Combat d6, 2d4
-- _Confusion_ : Magie d8, PP1+, Portée 16, Inst.
-- _Déflexion_ : Magie d8, PP2, -2 aux attaques à distances contre ce personnage.
-- _Fantasmes_ : Magie d10, PP2+, Portée 8, 3 (1/rd).
+- _Confusion_ : Magie d8, 1+PP, Portée 16, Inst.
+- _Déflexion_ : Magie d8, 2PP, -2 aux attaques à distances contre ce personnage.
+- _Fantasmes_ : Magie d10, 2+PP, Portée 8, 3 (1/rd).
 
 ### Équipement
 Dague.

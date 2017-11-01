@@ -14,7 +14,7 @@ Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pou
 	6	7 (1)
 
 ### Capacités spéciales
-- Arcanes (Sorcellerie) : Sorcellerie d12, PP30.
+- Arcanes (Sorcellerie) : Sorcellerie d12, 30PP.
 - Aura Impressionnante : peut utiliser sa compétence Sorcellerie au lieu d’Intimidation
 - Corrompu par la Magie : Le corps et l’âme de la grande prétresse ont été souillés par son utilisation prolongée de la magie maléfique. Il a maintenant de longues griffes sombres (+1 dégâts sans arme) et son corps sent la décomposition. Il souffre de -2 en Charisme.
 - Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
@@ -22,11 +22,11 @@ Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pou
 
 ### Actions
 - Dague : Combat d6+1, d6+d4.
-- _Armure_ : (Plumes du Dieu-Vautour) Sorcellerie d12, PP2, Portée T, 3 (1 / rd).
-- _Augmentation/diminution de Trait_ : (Bénédiction/Malédiction du Dieu-Vautour) Sorcellerie d12, PP2, Portée 10, 3 (1 / rd).
-- Déflexion : (vents tourbillonnants) Sorcellerie d12, PP2, Portée 0, 3 (1/rd)
-- Éclair : (projection des griffes du vautour) Sorcellerie d12, PP1-3, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
-- _Ravage_ : Magie d10, PP2-4, 16, Inst, Gabarit Moyen (2) ou Grand Gabarit (4).
+- _Armure_ : (Plumes du Dieu-Vautour) Sorcellerie d12, 2PP, Portée T, 3 (1 / rd).
+- _Augmentation/diminution de Trait_ : (Bénédiction/Malédiction du Dieu-Vautour) Sorcellerie d12, 2PP, Portée 10, 3 (1 / rd).
+- Déflexion : (vents tourbillonnants) Sorcellerie d12, 2PP, Portée 0, 3 (1/rd)
+- Éclair : (projection des griffes du vautour) Sorcellerie d12, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
+- _Ravage_ : Magie d10, 2-4PP, 16, Inst, Gabarit Moyen (2) ou Grand Gabarit (4).
 
 Équipement : dague rituelle en os (Combat+1), robes ensorcelées(Armure +1), deux préparations de Lotus (Obscurcissement, Confusion).
 

@@ -12,19 +12,19 @@ Atouts : Arcanes (Maître du Lotus), Sang-Froid, Réserve de Lotus, Nouveau Pouv
 	6	8 (2)
 
 ### Capacités spéciales
-- Arcanes (Maîtrise du Lotus) : Maîtrise du Lotus d10, PP25.
+- Arcanes (Maîtrise du Lotus) : Maîtrise du Lotus d10, 25PP.
 - Créatures du Lotus Abominables : Un Homme de Science maléfique a un nombre de serviteurs abominables à son service. Ces misérables créatures ont horriblement mutées suite à ses expériences (voir encadré). Au moins l’un d’eux est un Sous-fifre, fanatiquement loyal à son maître.
 - Bien fourni : Un Homme de Science maléfique a généralement plus de temps pour étudier qu’un aventurier errant. C’est pourquoi il peut utiliser l’Atout Réserve de Lotus deux fois par session. De plus, étant donné ses ressources, il peut utiliser l’Atout pour créer toute préparation de la liste des Pouvoirs de Maître du Lotus, y compris celles qu’il ne connaît pas.
 
 ### Actions
 - Épée courte : Combat d8, 2d6
 - Gant d’empoisonneur : Combat d8+2, d6+poison
-- Augmentation/diminution de Trait : (diverses préparations de Lotus) Maîtrise du Lotus d8, PP2, Portée 12, 3 (1 / rd).
-- Barrière : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, PP 1/section, Portée 12, 3 (1 / sect. / rd)
-- Confusion : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, PP 1/cible, Portée 24, Inst.
-- Don du guerrier : (diverses drogues de guerriers bestiaux) Maîtrise du Lotus d8, PP1+, Portée T, 3 (1 / rd)
-- Poison : (divers poisons) Maîtrise du Lotus d8, PP2+, Portée P.
-- Rafale : (Lotus Éternel du Phénix de Feu) Maîtrise du Lotus d8, PP2, Cône, Inst., 2d10.
-- Zombie : (Lotus Opaque de Réveil) Maîtrise du Lotus d8, PP3 / corps, Portée 12.
+- Augmentation/diminution de Trait : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 12, 3 (1 / rd).
+- Barrière : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 12, 3 (1 / sect. / rd)
+- Confusion : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 24, Inst.
+- Don du guerrier : (diverses drogues de guerriers bestiaux) Maîtrise du Lotus d8, 1+PP, Portée T, 3 (1 / rd)
+- Poison : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
+- Rafale : (Lotus Éternel du Phénix de Feu) Maîtrise du Lotus d8, 2PP, Cône, Inst., 2d10.
+- Zombie : (Lotus Opaque de Réveil) Maîtrise du Lotus d8, 3PP / corps, Portée 12.
 
 Équipement : épée courte, dague empoisonnée (For+d4, enduit avec une préparation de Lotus Poison), gant d’empoisonneur, corselet moyen en bronze, sacoche de Maître du Lotus, kit de guérison, anneau d’empoisonneur, 10 doses de Lotus raffiné.

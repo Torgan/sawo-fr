@@ -13,7 +13,7 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 	15 (2)	13 (6)
 
 ### Capacités spéciales
-- Arcane : Foi d12, PP20.
+- Arcane : Foi d12, 20PP.
 - Brave : +2 aux jets de Terreur
 - Combatif : +2 pour sortir d'un état Secoué.
 - Défense d'outre-monde : les attaques non-magiques ne font que la moitié des dégâts.
@@ -26,11 +26,11 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 - Épée vorpale : Combat d12+4 (dé joker d10), d12+d8+2. En cas de Relance, provoque une Blessure grave permanente comme si la victime subissait un état critique.
 - Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
 - Grand balayage : attaque simultanément tous les ennemis adjacents.
-- _Aveuglement_ : Foi d12, PP2-6, portée 12, Inst.
-- Don du guerrier : Foi d12, PP1+, Portée T, 3 (1/rd)
-- _Frappe_ : Foi d12, PP2, T, 3(1/rd).
+- _Aveuglement_ : Foi d12, 2-6PP, portée 12, Inst.
+- Don du guerrier : Foi d12, 1+PP, Portée T, 3 (1/rd)
+- _Frappe_ : Foi d12, 2PP, T, 3(1/rd).
 - _Lumière_ : Foi d12, PP —, portée 12, 3(1/rd).
-- _Zone de dégâts_ : Foi d12, PP4, portée T, 3 (2/rd).
+- _Zone de dégâts_ : Foi d12, 4PP, portée T, 3 (2/rd).
 
 ### Réaction
 - Frappe foudroyante : peut attaquer tous les adversaires se portant au contact.

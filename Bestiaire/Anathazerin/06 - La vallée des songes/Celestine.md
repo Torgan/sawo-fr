@@ -13,7 +13,7 @@ Atout : Sixième sens, Volonté de fer.
 	6	9
 
 ### Capacités spéciales
-- Arcane (Magie) : Âme d10, PP25.
+- Arcane (Magie) : Âme d10, 25PP.
 - Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
 - Sage : +2 aux jets de Culture générale et d8 dans toutes les Connaissances.
 - Sixième sens : jet de Perception à -2 pour anticiper pièges et embuscades.
@@ -22,8 +22,8 @@ Atout : Sixième sens, Volonté de fer.
 
 ### Actions
 - Morsure/griffes : Combat d8, d12+d4.
-- _Clairvoyance_ : Âme d10, PP3, portée P, 3 (1/rd).
-- _Détection d’Arcanes_ : Âme d10, PP2, Portée Vue, 3 (1/rd).
-- _Divination_ : Âme d10, PP5, Portée P, 1 min.
-- _Invisibilité_ : Âme d10, PP5, portée P, 3 (1/rd).
-- _Lumière_ : Âme d10, PP2, portée 13, 3 (1/rd).
+- _Clairvoyance_ : Âme d10, 3PP, portée P, 3 (1/rd).
+- _Détection d’Arcanes_ : Âme d10, 2PP, Portée Vue, 3 (1/rd).
+- _Divination_ : Âme d10, 5PP, Portée P, 1 min.
+- _Invisibilité_ : Âme d10, 5PP, portée P, 3 (1/rd).
+- _Lumière_ : Âme d10, 2PP, portée 13, 3 (1/rd).

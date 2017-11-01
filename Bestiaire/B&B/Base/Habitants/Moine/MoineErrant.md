@@ -20,7 +20,7 @@ Atouts : Arcanes (Voie de l’Illumination), Arts Martiaux, Moine (militant), No
 - Barre en trois morceaux : Combat d8, ignore la Parade du bouclier et les bonus de couverture, 2d6.
 - Bâton : Combat d8, Parade +1, Allonge 1, 2 mains, d6+d4.
 - Chapelet de prière renforcé : Combat d8, d6+d4+1.
-- Augmentation/diminution de Trait : (mouvements d’animaux) Illumination d8, PP2, Portée 6, 3 (1 / rd).
-- Frappe : (perception du point faible de l’ennemi) Illumination d8, PP2 Portée T, 3 (1 / rd).
+- Augmentation/diminution de Trait : (mouvements d’animaux) Illumination d8, 2PP, Portée 6, 3 (1 / rd).
+- Frappe : (perception du point faible de l’ennemi) Illumination d8, 2PP Portée T, 3 (1 / rd).
 
 Équipement : Barre en trois morceaux ou bâton ou chapelet de prière renforcé.
