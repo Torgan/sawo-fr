@@ -11,9 +11,7 @@ Compétences : Combat d8, Discrétion d6, Intimidation d6, Perception d4, Persua
 	6   5
     
 ### Capacités spéciales
-- Taper là où ça fait mal : Frère Ajardi fait mal mais ne tue généralement pas ses victimes. A chaque fois qu’il touche un adversaire avec une Relance, cela signifie qu’il a porté un coup particulièrement méchant. Si la victime est au moins Secouée, elle reçoit un Compteur de Douleur. Les personnages avec un Compteur de Douleur subissent un malus de -1 aux jets pour récupérer de l’état Secoué. Les Compteurs de Douleur sont défaussés à la fin du tour de la victime.
-
-- Taper là où ça fait mal : avec une Relance en attaque et au moins un Succès au dégâts, la victime subit 1 niveau de Fatigue (plaies et bosses). Non cumulatif.
+- Taper là où ça fait mal : avec une Relance en attaque et au moins un Succès aux dégâts, la victime subit 1 niveau de Fatigue (plaies et bosses). Non cumulatif.
 
 ### Actions
 - Dague : Combat d8, d8+d4.
