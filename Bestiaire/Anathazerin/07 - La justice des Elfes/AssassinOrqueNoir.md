@@ -8,17 +8,17 @@ Allure : 6
 
 Compétences : Combat d10, Discrétion d8, Intimidation d10, Lancer d6, Perception d8.
 
-Atout : Assassin
+Atout : Assassin.
 
 	PAR	RES
 	7	8 (1)
 
 ### Capacités spéciales
-- Taille +1 : les orques sont un peu plus grands que les humains.
 - Assassin : +2 aux dégâts contre une cible surprise.
+- Taille +1 : un peu plus grands qu'un humain.
 
 ### Actions
-- Épée courte : Combat d10, d10+d6 + poison (Venin)
+- Épée courte : Combat d10, d10+d6 + poison (Venin).
 
 ### Équipement
-Armure de cuir (+1), épée courte.
+Armure de cuir, épée courte.
