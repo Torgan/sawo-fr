@@ -13,7 +13,7 @@ Compétences : Combat d8, Discrétion d8, Escalade d6, Intimidation d8, Lancer 
 	6	6 (1)
 
 ### Capacités spéciales
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 
 ### Actions
 - Épée longue : Combat d8, 2d8.

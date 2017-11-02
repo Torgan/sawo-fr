@@ -15,7 +15,7 @@ Atouts : Balayage, Brute.
 	6 (-1)	10 (3)
 
 ### Capacités spéciales
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 
 ### Actions
 - Balayage : attaque tout ennemi adjacent à -2.

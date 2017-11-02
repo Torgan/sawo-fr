@@ -14,7 +14,7 @@ Atout : Arcane (Magie), Assassin, Vigilance, Voleur.
 
 ### Capacités spéciales
 - Arcane (Magie) : Magie d6, 10PP.
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Taille -1 : un gnome mesure entre 1m et 1m20.
 
 ### Actions

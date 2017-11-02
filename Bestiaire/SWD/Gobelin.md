@@ -12,7 +12,7 @@ Compétences : Combat d6, Discrétion d10, Escalade d6, Lancer d6, Natation�
 	5	4
 
 ### Capacités spéciales
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions

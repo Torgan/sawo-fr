@@ -11,7 +11,7 @@ Compétences : Combat d8, Intimidation d8, Perception d12.
 	6	11
 
 ### Capacités spéciales
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Taille +3 : une taille comparable à celle d'un cheval de guerre.
 
 ### Actions

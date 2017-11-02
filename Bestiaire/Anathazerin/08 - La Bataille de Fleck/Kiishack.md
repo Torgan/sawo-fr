@@ -14,7 +14,7 @@ Atout : Grande extraction.
 
 ### Capacités spéciales 
 - Grande extraction : empêche une attaque ennemie sur une retraite avec un jet d’Agilité, et toutes les attaques sur une Relance.
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Taille -1 : un gobelin mesure entre 1m et 1m20.
 
 ### Actions

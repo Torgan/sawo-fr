@@ -14,7 +14,7 @@ Atouts : Commandement, Frénésie, Leader naturel.
 
 ### Capacités spéciales
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 
 ### Actions

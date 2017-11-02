@@ -13,7 +13,7 @@ Compétences : Combat d12+2, Discrétion d10, Escalade d8, Intimidation d10
 	9	7
 
 ### Capacités spéciales
-- Infravision : les loups-garous ne subissent que la moitié de la pénalité normale en cas de mauvaises conditions d’éclairage lorsqu’ils attaquent des cibles vivantes.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Invulnérabilité : les armes qui ne sont pas faites en argent ne peuvent que Secouer les loups-garous, et non les blesser.
 - Point faible (argent) : les loups-garous subissent les dégâts normaux lorsqu’ils sont infligés par des armes en argent.
 - Terreur (-2) : les loups-garous glacent le sang de ceux qui les voient.

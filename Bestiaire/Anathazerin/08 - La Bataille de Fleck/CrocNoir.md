@@ -13,7 +13,7 @@ Atout: Ambidextre, Combat à deux armes.
 	6	4
 
 ### Capacités spéciales
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Taille -1 : mesure entre 1m et 1m20.
 
 ### Actions

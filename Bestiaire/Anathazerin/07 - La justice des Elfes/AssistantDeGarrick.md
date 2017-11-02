@@ -12,7 +12,7 @@ Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perceptio
 
 ### Capacités spéciales
 - Arcanes : Magie d8, 15PP.
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 
 ### Actions
 - Epieu : Combat d6, Parade +1, Allonge 1, 2d6.

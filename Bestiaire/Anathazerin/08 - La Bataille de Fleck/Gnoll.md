@@ -12,7 +12,7 @@ Compétences : Combat d8, Discrétion d6, Intimidation d8, Perception d8+2, Pis
 	6	7 (1)
 
 ### Capacités spéciales
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Odorat : +2 aux jets de Perception et de Pistage grâce à un odorat développé.
 
 ### Actions

@@ -14,7 +14,7 @@ Atout : Sixième sens, Volonté de fer.
 
 ### Capacités spéciales
 - Arcane (Magie) : Âme d10, 25PP.
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Sage : +2 aux jets de Culture générale et d8 dans toutes les Connaissances.
 - Sixième sens : jet de Perception à -2 pour anticiper pièges et embuscades.
 - Taille +2.

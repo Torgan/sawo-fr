@@ -12,7 +12,7 @@ Compétences : Combat d6, Discrétion d6, Intimidation d8, Lancer d6, Magie d8,
 
 ### Capacités spéciales
 - Arcanes : Magie d8, 15PP.
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 
 ### Actions
 - Dague sacrificielle : Combat d6, d6+d4 + poison (-2, perte d'un niveau de Fatigue).

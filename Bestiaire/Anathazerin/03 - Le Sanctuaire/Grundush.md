@@ -12,7 +12,7 @@ Compétences : Combat d6, Discrétion d6, Intimidation d8, Lancer d6, Magie d10
 
 ### Capacités spéciales
 - Arcanes : Magie d10, 20PP.
-- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Taille +1 : un peu plus grands qu'un humain.
 
 ### Actions

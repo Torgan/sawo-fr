@@ -14,7 +14,7 @@ Atouts : Arcane (Magie), Drain de l'âme, Mage.
 
 ### Capacités spéciales
 - Arcane : Magie d10, 25PP.
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
+- Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Mage : Chaque Relance sur le jet d’Arcane réduit le coût en PP du Pouvoir de 1.
 - Taille +1 : les orques sont un peu plus grands que les humains.
 
