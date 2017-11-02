@@ -12,8 +12,8 @@ Compétences : Combat d8, Discrétion d6, Intimidation d8, Perception d8+2, Pis
 	6	7 (1)
 
 ### Capacités spéciales
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-– Odorat : les gnolls bénéficient d'un bonus de +2 à leurs jets de Perception et de Pistage grace à leur odorat développé.
+- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+- Odorat : +2 aux jets de Perception et de Pistage grâce à un odorat développé.
 
 ### Actions
 - Arc long : Tir d8, 15/30/60, 2d6
@@ -21,4 +21,4 @@ Compétences : Combat d8, Discrétion d6, Intimidation d8, Perception d8+2, Pis
 - Fléau : Combat d8, ignore les boucliers et le Couvert, d10+d6.
 
 ### Équipement
-Cuir bouilli (+1), hache ou fléau, arc long.
+Cuir bouilli, hache ou fléau, arc long.
