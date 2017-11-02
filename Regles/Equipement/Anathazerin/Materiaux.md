@@ -14,7 +14,9 @@ __Effets__ : dégâts +2 contre les démons et les fées (+4 sur une Relance).
 
 Un métal bleu sombre, très dur et particulièrement lourd. 
 
-__Effet__ : Les armes fabriquées dans ce métal voient leur dé de dégâts augmenter d’une catégorie (mais pas la force requise pour la manier correctement). Les projectiles fabriqués dans ce métal voient leur portée maximum divisée par deux. Les armures obtiennent un bonus de +1 en Résistance, mais leur poids augmente de 50%, ce qui n'est pas forcément avantageux.
+__Effet__ : 
+- __Arme__ : Les armes fabriquées dans ce métal voient leur dé de dégâts augmenter d’une catégorie (mais pas la force requise pour la manier correctement). Les projectiles fabriqués dans ce métal voient leurs portées divisées par deux. Poids +50%.
+- __Armure__ : +1 en Résistance, mais leur poids augmente de 50%, ce qui n'est pas forcément avantageux.
 
 ## Sombracier
 
