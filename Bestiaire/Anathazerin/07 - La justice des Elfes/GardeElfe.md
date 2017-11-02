@@ -12,7 +12,7 @@ Atouts : Blocage, Combatif.
 Handicaps : Deux mains gauches.
 
 	PAR	RES
-	10 (2)	8 (2)
+	9 (1)	8 (2)
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
