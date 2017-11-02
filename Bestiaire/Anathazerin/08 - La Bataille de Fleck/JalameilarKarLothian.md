@@ -10,11 +10,11 @@ Compétences : Combat d6, Connaissance (Arcanes) d8, Discrétion d8, Escalade d4
 Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 
 	PAR	RES
-	5	5
+	7 (2)	5
 
 ### Capacités spéciales
 - Arcane : Nécromancie d10, 20PP.
-- Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
+- Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Mage : chaque relance sur le jet d'Arcane réduit le coût du Pouvoir de 1PP.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
@@ -27,4 +27,4 @@ Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 - _Zombie_ : Nécromancie d10, 3PP / corps, Portée 20.
 
 ### Équipement
-Dague sacrificielle (For+d4. Lorsque une attaque provoque une Blessure ou un état Secoué, la victime doit faire un jet de Vigueur à -2 ou subir un niveau de Fatigue), bracelets de défense (Grand blocage), un livre de sorts, une potion d'_Intangibilité_ (3 rd), une baguette de cône de froid (_Rafale_), collier avec bâton cuivré (symbole de la Maison Eilserv), 25 pp, deux grenats de 500 pa chacun.
+Dague sacrificielle (quand provoque Secoué ou plus, sa victime subit un niveau de Fatigue sur Échec de Vigueur -2), bracelets de défense (Grand blocage), un livre de sorts, une potion d'_Intangibilité_ (3 rd), une baguette de cône de froid (_Rafale_), collier avec bâton cuivré (symbole de la Maison Eilserv), 25 pp, deux grenats de 500 pa chacun.
