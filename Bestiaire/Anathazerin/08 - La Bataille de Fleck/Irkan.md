@@ -14,14 +14,13 @@ Atouts : Balayage, Brute, Costaud, Cri de guerre, Tête froide.
 
 ### Capacités spéciales
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
-- Taille +1 : les orques sont un peu plus grands que les humains.
+- Taille +1 : un peu plus grands qu'un humain.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 
 ### Actions
-- Épée à deux mains : Combat d10, Parade -1, PA2, 2d10+1(+1 sur une Relance).
 - Balayage : Attaque tous les adversaires adjacents à -2.
 - Cri de guerre : Intimidation d12, affecte tous les adversaires dans un Grand Gabarit.
+- Épée à deux mains : Combat d10, Parade -1, PA2, 2d10+1(+1 sur une Relance).
 
 ### Équipement
-Cotte de mailles (+2), épée à deux mains (Parade -1, For+d10), Potion d’antidote, anneau de haute magie.
-
+Cotte de mailles, épée à deux mains, potion d’antidote, anneau de haute magie.
