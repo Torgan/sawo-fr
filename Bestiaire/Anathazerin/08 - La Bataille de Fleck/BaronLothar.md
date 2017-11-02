@@ -23,4 +23,4 @@ Atouts : Blocage, Costaud, Commandement, Grand balayage, Leader naturel, Noble.
 - Épée à deux mains : Combat d12, 2 mains, Parade -1, 2d10.
 
 ### Équipement
-Épée à deux mains, armures de plates (Armure +3).
+Épée à deux mains, armures de plates.
