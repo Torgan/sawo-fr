@@ -1,5 +1,5 @@
 
-# * Draal, chef Gnoll
+# * Draal, chef gnoll
 
 Allure : 6+d10
 Charisme : +2
@@ -15,17 +15,18 @@ Atouts : Commandement, Charismatique, Esquive, Frappe foudroyante, Panache.
 	9 (2)	10 (3)
 
 ### Capacités spéciales
-- Commandement : Les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Esquive : -1 aux attaques à distance contre le personnage.
-- Infravision : divise de moitié les malus (arrondir à l’inférieur) aux attaques pour luminosité faible.
-– Odorat : les gnolls bénéficient d'un bonus de +2 à leurs jets de Perception  et de Pistage grace à leur odorat développé.
+- Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
+– Odorat : +2 aux jets de Perception et de Pistage grâce à un odorat développé.
 
 ### Actions
 - Hache : Combat d10+1, d10+d8.
 
 ### Réactions 
 - Frappe foudroyante : peut attaquer tous les adversaires se portant au contact.
-- Panache : +2 en cas d’utilisation de Jeton pour un jet de Trait (y compris pour un jet d’Encaissement).
+- Panache : +2 aux jets de Trait avec un Jeton (Encaissement inclus).
+- Grand bouclier : Résistance +2 contre les projectiles.
 
 ### Équipement
-Armure d'écailles magique (Armure +3), grand bouclier (Parade +2, Résistance +2 contre les projectiles), Hache de bataille magique (Combat +1).
+Armure d'écailles magique (Armure +3), grand bouclier, Hache de bataille magique (Combat +1).
