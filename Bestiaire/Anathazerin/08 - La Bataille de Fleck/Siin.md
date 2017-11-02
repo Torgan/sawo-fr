@@ -15,10 +15,10 @@ Atouts : Enragé, Vigilance
 
 ### Capacités spéciales
 - Enragé : le personnage devient enragé s’il subit une blessure ou un état Secoué. Il subit un malus de -2 en Parade, et un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
-- Taille +1 — les gobelours sont un peu plus grands que les humains.
+- Taille +1 : un peu plus grands qu'un humain.
 
 ### Actions
-- Maul : Combat d10, 2d12
+- Marteau géant : Combat d10, Parade -1, 2 mains, 2d12
 
 ### Équipement
-Armure de peau et de cuir (+1), Maul (Deux main, Parade -1, For+d12).
+Armure de peau et de cuir, marteau géant.
