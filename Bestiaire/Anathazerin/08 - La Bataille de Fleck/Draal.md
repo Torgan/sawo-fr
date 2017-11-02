@@ -18,7 +18,7 @@ Atouts : Commandement, Charismatique, Esquive, Frappe foudroyante, Panache.
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Esquive : -1 aux attaques à distance contre le personnage.
 - Infravision : réduit de moitié les malus (arrondir à l’inférieur) pour luminosité faible.
-– Odorat : +2 aux jets de Perception et de Pistage grâce à un odorat développé.
+- Odorat : +2 aux jets de Perception et de Pistage grâce à un odorat développé.
 
 ### Actions
 - Hache : Combat d10+1, d10+d8.
