@@ -24,7 +24,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 
 ### Actions
 - Piqure : Combat d10, d12+d6+2 + poison (-4, inconscience).
-- Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - _Dépeçage_ (injonction mortelle) : Foi d12+2, 5PP, 10, Inst.
 - _Eclair_ (rayon vampirique) : Foi d12+2, 1-3PP, 12/24/48, Inst. Chaque Blessure occasionnée avec ce Pouvoir permet à Médreï Ar Maëdra de soigner une Blessure.
 - _Explosion_ (feu ou électricité) : Foi d12+2, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.

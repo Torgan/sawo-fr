@@ -23,5 +23,5 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions
-- Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - Coup : Combat d8, d12+d8+4. Une attaque occasionnant une Blessure ou un état Secoué impose un jet de Vigueur à -2 pour la victime sous peine de perdre un niveau de Fatigue. Dans ce cas, le sylvanien maudit soigne une Blessure. Les niveaux de Fatigue disparaissent au bout de 24h.

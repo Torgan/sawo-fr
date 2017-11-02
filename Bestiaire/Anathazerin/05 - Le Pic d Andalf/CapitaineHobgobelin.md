@@ -18,7 +18,7 @@ Atouts : Commandement, Frénésie, Leader naturel.
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 
 ### Actions
-- Frénésie : Peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - Étoile du matin : Combat d10, d10+d8.
 - Arbalète : Tir d10, 12/24/48, PA2, 2d6.
 

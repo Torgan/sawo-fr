@@ -19,7 +19,7 @@ Atouts : Commandement, Frénésie.
 - Goûtez au fouet ! : Un Contre-maître Eunuque peut utiliser son fouet pour une attaque ciblée (-2) visant un Soldat Esclave ami pour le faire combattre avec plus de vigueur. Si la cible est touchée, elle ne subit pas de dégâts mais reçoit +2 à son prochain jet d’attaque.
 
 ### Actions
-- Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - Hache de bataille : Combat d8,2d8
 - Long fouet : Combat d8, Allonge 5, d8+1
 - Arc : Tir d8, 12/24/48, 2d6.

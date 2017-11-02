@@ -19,7 +19,7 @@ Atouts : Brave, Panache, Nerfs d’Acier Trempé, Frénésie Suprême, Prêtre.
 - Panache : +2 en cas d’utilisation de Jeton pour un jet de Trait (y compris pour un jet d’Encaissement)
 
 ### Actions
-- Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Épée longue : Combat d8, PA 2, 2d8.
 - Arc : Tir d8, 12/24/48, 2d6.
 

@@ -15,5 +15,5 @@ Compétences : Combat d8, Intimidation d8, Perception d12.
 - Taille +3 : une taille comparable à celle d'un cheval de guerre.
 
 ### Actions
-- Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Morsure/Griffes : Combat d8, d12+d6+2.

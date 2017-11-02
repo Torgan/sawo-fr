@@ -24,7 +24,7 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 ### Actions
 - Champion : +2 au dégâts et en Résistance contre le mal d’origine surnaturelle.
 - Épée vorpale : Combat d12+4 (dé joker d10), d12+d8+2. En cas de Relance, provoque une Blessure grave permanente comme si la victime subissait un état critique.
-- Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Grand balayage : attaque simultanément tous les ennemis adjacents.
 - _Aveuglement_ : Foi d12, 2-6PP, portée 12, Inst.
 - Don du guerrier : Foi d12, 1+PP, Portée T, 3 (1/rd)

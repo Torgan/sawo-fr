@@ -20,7 +20,7 @@ Atouts : Charismatique, Combatif, Commandement, Frénésie.
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 
 ### Actions
-- Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - Épée longue : Combat d10, d10+d8.
 
 ### Réactions

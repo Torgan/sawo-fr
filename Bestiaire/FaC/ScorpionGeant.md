@@ -19,5 +19,5 @@ Compétences : Combat d8, Discrétion d8, Escalade d6, Intimidation d8, Perc
 ### Actions
 - Dard : Combat d8, d12+d6+1 + poison. Jet de vigueur ou inconscience. La mort survient 2d6 rounds plus tard.
 - Empoignade : un scorpion peut empoigner ses victimes avec une ou deux pinces suite à une attaque, à condition de réussir un jet de Force opposé. S'échapper d'une telle étreinte nécessite un jet de Force opposé (à -4 si les deux pinces sont utilisées). Le scorpion géant peut attaquer une cible empoignée avec son dard avec un bonus de +2, ou +4 si les deux pinces maintiennent la victime. 
-- Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Pinces : Combat d8, d12+d4+1 + empoignade. 

@@ -23,6 +23,6 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions
-- Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - Coup : Combat d8, d12+d8+4.
 - Rocher lancé : Lancer d6, d12+d6+4.

@@ -21,7 +21,7 @@ Atouts : Blocage, Charismatique, Commandement, Esquive, Leader naturel, Frénés
 
 ### Actions
 
-- Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Épée longue : Combat d12, d10+d8.
 
 ### Réactions

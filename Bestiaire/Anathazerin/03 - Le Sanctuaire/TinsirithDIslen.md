@@ -19,7 +19,7 @@ Atouts : Commandement, Contre-attaque, Ferveur, Frénésie.
 - Ferveur : de +1 aux dégâts pour les alliés dans un rayon de 5 cases.
 
 ### Actions
-- Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - Vivelame : Combat d10, PA2, d8+d6+2.
 - Arc long : Tir d8, 15/30/60, 2d6
 

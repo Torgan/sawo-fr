@@ -20,6 +20,6 @@ Atouts : Frénésie suprême.
 
 ### Actions
 - Morsure/Griffes : Combat d10, d12+d6+3.
-- Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Queue épineuse : Combat d10, d12+d8+3.
 - Volée d'épines : Tir d8, Petit Gabarit, 3/6/12, 2d6+2.

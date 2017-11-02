@@ -21,4 +21,4 @@ Atouts : Enragé, Frénésie suprême.
 ### Actions
 - Bec/Griffes : Combat d8/d8, d12+d6+4.
 - Enragé : l'ours-hibou devient enragé s’il subit une Blessure ou un état Secoué. Il subit un malus de -2 en Parade, et gagne un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
-- Frénésie suprême : peut faire deux attaques par action sans pénalité d’Actions Multiples.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.

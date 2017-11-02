@@ -21,7 +21,7 @@ Atout : Commandement, Esquive, Frappe éclair, Frénésie.
 
 ### Actions
 - Toucher vampirique : Combat d8+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet à Sael Tanderi de se soigner une Blessure.
-- Frénésie : peut faire une attaque supplémentaire avec un malus de -2 à toutes ses attaques.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 
 ### Réaction
 - Frappe éclair : peut attaquer un adversaire se portant au contact une fois par round.
