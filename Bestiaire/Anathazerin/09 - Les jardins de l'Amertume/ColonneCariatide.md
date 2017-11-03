@@ -14,7 +14,7 @@ Compétences : Combat d6, Perception d4.
 - Armure +2 : construction de pierre.
 - Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - Immunité (magie) : immunisé à la magie. 
-- Sans peur : immunisé à Terreur et Intimidation.
+- Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions
 - Épée en pierre : Combat d6, d12+d8.
