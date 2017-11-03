@@ -14,7 +14,7 @@ Atouts : Charismatique, Commandement, Grande aura de Commandement, Ferveur, Insp
 	6	8 (2)
 
 ### Capacités spéciales
-- Commandement : les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 10 cases.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
 - Grande aura de commandement  : l’aura de commandement a un rayon de 10 cases.
 - Inspiration : les troupes ont un bonus de +1 à leurs jets d’Âme.

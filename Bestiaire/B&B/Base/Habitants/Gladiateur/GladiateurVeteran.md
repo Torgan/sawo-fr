@@ -16,7 +16,7 @@ Atouts : Combatif, Contre-attaque, Distraction, Frénésie.
 ### Capacités spéciales
 - Gladiateur : S’il réussit un test d’Intimidation contre un adversaire adjacent, il reçoit une attaque de Combat gratuite. Cette attaque ne subit pas de pénalité due aux Actions Multiples.
 - Célèbre : Les foules l’adorent, il a +2 Charisme.
-- Combatif  : +2 aux jets d’Âme pour se remettre de l’état Secoué.
+- Combatif : +2 pour annuler Secoué.
 - Haranguer la foule : Une fois par combat dans l’arène, le Gladiateur peut faire un jet de Sarcasme en opposition , modifié par son Charisme, pour exciter la foule. Cela compte comme une action et le gagnant reçoit immédiatement un Jeton.
 
 ### Actions

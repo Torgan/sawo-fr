@@ -15,7 +15,7 @@ Atouts : Commandement, Contre-attaque, Ferveur, Frénésie.
 	6	7 (2)
 
 ### Capacités spéciales
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : de +1 aux dégâts pour les alliés dans un rayon de 5 cases.
 
 ### Actions

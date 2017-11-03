@@ -12,7 +12,7 @@ Atouts : Combatif.
 	7	8 (2)
 
 ### Capacités spéciales
-- Combatif  : +2 aux jets d’Âme pour se remettre de l’état Secoué.
+- Combatif : +2 pour annuler Secoué.
 
 ### Actions
 - Épée longue : Combat d8, 2d8

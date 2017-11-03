@@ -13,7 +13,7 @@ Atouts : Commandement, Contre-Attaque, Ferveur, Inspiration, Vigilance.
 	9 (2)	10 (2)
 
 ### Capacités spéciales
-- Commandement : les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Contre-Attaque : attaque gratuite par Round à -2 contre un adversaire ayant raté son attaque.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
 - Inspiration : les troupes ont un bonus de +1 à leurs jets d’Âme.

@@ -15,7 +15,7 @@ Atout : Ambidextre, Attaque à deux armes, Commandement, Charismatique, Esquive,
 	7	9
 
 ### Capacités spéciales
-- Commandement : les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Esquive : -1 aux attaques à distance contre le personnage.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
 - Immatériel : ne peut être affecté que par les attaques magiques.

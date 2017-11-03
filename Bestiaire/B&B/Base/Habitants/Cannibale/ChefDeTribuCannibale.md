@@ -15,7 +15,7 @@ Atouts : Costaud, Brute, Combatif, Increvable.
 
 ### Capacités spéciales
 - Cannibale : Un Cannibale lime ses dents afin de déchirer de larges morceaux de viande. Il peut mordre son adversaire, faisant For+d4 dégâts.
-- Combatif  : +2 aux jets d’Âme pour se remettre de l’état Secoué.
+- Combatif : +2 pour annuler Secoué.
 - Effrayant : Un Cannibale est un adversaire terrifiant, surtout lorsqu’il sourit. Il a +2 à ses jets d’Intimidation.
 - Increvable : ignore le malus de Blessures sur les jets lorsqu’il passe dans un État critique.
 

@@ -13,7 +13,7 @@ Atout : Commandement, Esquive, Frappe éclair, Frénésie.
 	7	9
 
 ### Capacités spéciales
-- Commandement : les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Esquive : -1 aux attaques à distance contre le personnage.
 - Immatériel : ne peut être affecté que par les attaques magiques.
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.

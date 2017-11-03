@@ -14,8 +14,8 @@ Atouts : Combatif, Commandement, Contre-attaque, Frénésie, Grand blocage, Vigi
 	11 (2)	10 (3)
 
 ### Capacités spéciales
-- Combatif : +2 pour récupérer d’un état Secoué.
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Combatif : +2 pour annuler Secoué.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 
 ### Actions
 - Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.

@@ -15,7 +15,7 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 ### Capacités spéciales
 - Arcane : Foi d12, 20PP.
 - Brave : +2 aux jets de Terreur
-- Combatif : +2 pour sortir d'un état Secoué.
+- Combatif : +2 pour annuler Secoué.
 - Défense d'outre-monde : les attaques non-magiques ne font que la moitié des dégâts.
 - Forme immortelle : immunisé aux poisons et aux maladies.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.

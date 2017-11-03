@@ -16,7 +16,7 @@ Handicaps : Deux mains gauches, Prudent.
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Combatif : +2 pour sortir d'un état Secoué.
+- Combatif : +2 pour annuler Secoué.
 
 ### Actions
 - Arc long : Tir d10, 15/30/60, 2d6.

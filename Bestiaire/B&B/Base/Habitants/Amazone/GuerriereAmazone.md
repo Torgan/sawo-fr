@@ -14,7 +14,7 @@ Atouts : Amazone, Combatif.
 
 ### Capacités spéciales
 - Amazone : +1 en Parade contre un adversaire masculin.
-- Combatif : +2 pour récupérer d’un état Secoué.
+- Combatif : +2 pour annuler Secoué.
 
 ### Actions
 - Épée longue en bronze : Combat d6, 2d8

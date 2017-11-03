@@ -13,7 +13,7 @@ Atouts : Costaud, Commandement, Contre-attaque, Ferveur, Frappe éclair, Grande 
 	8 (1)	11 (2)
 
 ### Capacités spéciales
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 10 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : +1 aux dégâts pour les alliés dans un rayon de 10 cases.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 10 cases.
 - Taille +1 : un peu plus grands qu'un humain.
