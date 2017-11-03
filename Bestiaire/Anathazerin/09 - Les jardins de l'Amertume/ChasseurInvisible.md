@@ -1,4 +1,4 @@
-# Chasseur Invisible
+# Chasseur invisible
 
 Allure : vol 8+d10 montée 1
 
