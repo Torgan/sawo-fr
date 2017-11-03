@@ -16,7 +16,7 @@ Atouts : Arcane (Magie), Drain de l'âme, Mage.
 - Arcane : Magie d10, 25PP.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Mage : Chaque Relance sur le jet d’Arcane réduit le coût en PP du Pouvoir de 1.
-- Taille +1 : les orques sont un peu plus grands que les humains.
+- Taille +1 : un peu plus grands qu'un humain.
 
 ### Actions
 - Masse sanglante : Combat d8, d8+d6+2, un résultat Secoué équivaut à une Blessure.
@@ -26,4 +26,4 @@ Atouts : Arcane (Magie), Drain de l'âme, Mage.
 - _Zone de dégâts_ : Magie d10, 4PP, portée T, 3 (2/rd)
 
 ### Équipement
-Armure de cuir (+1), masse sanglante (For+d6+2, un résultat Secoué équivaut à une Blessure), sceau du feu (permet d'apposer une rune de feu durant 24h — dégâts 3d6).
+Armure de cuir, masse sanglante (For+d6+2, un résultat Secoué équivaut à une Blessure), sceau du feu (permet d'apposer une rune de feu durant 24h — dégâts 3d6).
