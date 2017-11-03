@@ -23,4 +23,4 @@ Atouts : Balayage, Brute.
 - Épée à 2 mains : Combat d10, Parade -1, d12+d10+2 (+1 sur une Relance).
 
 ### Équipement
-Cotte de maille magique (Armure +3), épée à 2 mains magique (Dégâts +1), gantelets de force (augmente la Force d'un type).
+Cotte de maille magique (Armure +3), épée à 2 mains magique (Dégâts +1), gantelets de force (augmente la Force d'un type de dé).
