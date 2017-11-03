@@ -15,11 +15,11 @@ Atouts : Combatif, Tête froide.
 ### Capacités spéciales
 - Armure +2 : cuir épais.
 - Combatif : +2 pour annuler Secoué.
-- Démon : +2 pour se remettre de l’état Secoué ; immunité aux poisons et maladies.
+- Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Extraplanaire : non natif du plan primaire, peut être ciblé par le pouvoir _Banissement_.
 - Odorat : +4 aux jets de Perception et de Pistage impliquant l'odorat.
-- Résistant : ne subit pas de blessure pour avoir été Secoué deux fois.
-- Taille +1.
+- Résistant : pas de Blessure si Secoué deux fois.
+- Taille +1 : un peu plus grand qu'un humain.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
