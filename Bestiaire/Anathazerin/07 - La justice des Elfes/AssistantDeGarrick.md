@@ -8,11 +8,12 @@ Allure : 6
 Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perception d6, Tir d6.
 
 	PAR	RES
-	6 (1)	6 (1)
+	6 (1)	7 (1)
 
 ### Capacités spéciales
 - Arcanes : Magie d8, 15PP.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
+- Taille +1 : un peu plus grand qu'un humain.
 
 ### Actions
 - Epieu : Combat d6, Parade +1, Allonge 1, 2d6.
