@@ -14,7 +14,7 @@ Compétences : Combat d6, Discrétion d8, Escalade d8, Perception d8, Tir d8
 
 ### Capacités spéciales
 - Armure +2 : plaques de chitine.
-- Vision nocturne : ignore les malus d’obscurité dans la pénombre ou l’obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Sens des secousses : peut ressentir avec précision toute présence en contact avec le sol dans un rayon de 12 cases.
 - Taille +2 : fait 3m de long.
 - Trés résistant : Résistance +1.

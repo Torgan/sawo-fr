@@ -15,7 +15,7 @@ Handicaps : Arrogant, Deux mains gauches.
 	6	7 (2)
 
 ### Capacités spéciales
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Combatif : +2 pour récupérer d'un état Secoué.
 
 ### Actions

@@ -15,7 +15,7 @@ Compétences : Combat d6, Discrétion d12, Perception d6, Pistage d4.
 ### Capacités spéciales
 - Petit : les adversaires subissent un malus de -2 pour l'attaquer.
 - Taille -2 : fait une trentaine de centimètres de long.
-- Vision nocturne : ignore les malus d’obscurité dans la pénombre ou l’obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Vol : Allure 7, Montée 0.
 
 ### Actions

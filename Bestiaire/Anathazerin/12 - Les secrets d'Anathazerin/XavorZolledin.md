@@ -20,7 +20,7 @@ Atout : Ambidextre, Attaque à deux armes, Commandement, Charismatique, Esquive,
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
 - Immatériel : ne peut être affecté que par les attaques magiques.
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
-- Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Épées courtes : Combat d10/d10, d6+d10/d6+d10.

@@ -17,7 +17,7 @@ Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes,
 - Arcane : Foi d10, 20PP.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. Subit 1 Blessure sur Échec. Tombe inconscient pour 1d6 heures sur 1 ou moins.

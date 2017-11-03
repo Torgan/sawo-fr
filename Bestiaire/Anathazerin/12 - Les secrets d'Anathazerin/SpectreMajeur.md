@@ -16,7 +16,7 @@ Compétences : Combat d10, Discrétion d10, Intimidation d12, Perception d10, S
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
 - Résistant : ne subit pas de blessure pour avoir été Secoué deux fois.
 - Terreur (-2) : voir un spectre impose un test de Terreur à -2.
-- Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Vol : Allure 12, Montée 0.
 
 ### Actions

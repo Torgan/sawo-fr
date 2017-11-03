@@ -15,7 +15,7 @@ Atouts : Enragé, Frénésie suprême.
 ### Capacités spéciales
 - Armure +1 : fourrure épaisse.
 - Taille +2.
-- Vision nocturne : les ours-hiboux ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Vol : Allure 10, Montée 0.
 
 ### Actions

@@ -17,7 +17,7 @@ Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Mage : chaque relance sur le jet d'Arcane réduit le coût du Pouvoir de 1PP.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux pouvoirs.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Dague sacrificielle : Combat d6, d6+d4 + poison (-2, perte d'un niveau de Fatigue).

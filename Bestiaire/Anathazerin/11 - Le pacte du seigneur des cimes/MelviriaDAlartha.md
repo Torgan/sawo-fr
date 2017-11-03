@@ -17,7 +17,7 @@ Atouts : Arcane (Foi), Charismatique, Drain de l'Âme, Guerrier impie, Grande r�
 - Arcane : Foi d12+2, 25PP.
 - Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.

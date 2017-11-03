@@ -15,7 +15,7 @@ Atouts : Acrobate, Assassin, Véloce, Voleur.
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d8, 5PP.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Acrobate : +2 aux jets d’Agilité liés à la souplesse.

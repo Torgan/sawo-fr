@@ -13,7 +13,7 @@ Compétences : Combat d6, Discrétion d8, Escalade d8, Perception d8.
 	5	5
 
 ### Capacités spéciales
-- Vision nocturne : ignore les malus d’obscurité dans la pénombre ou l’obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Taille -1 : de la taille d'un gros chien.
 
 ### Actions

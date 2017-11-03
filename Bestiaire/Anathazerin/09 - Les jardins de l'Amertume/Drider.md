@@ -18,7 +18,7 @@ Atouts : Grande résistance aux arcanes.
 - Arcane (Magie) : Magie d8, 20PP.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux pouvoirs.
 - Taille +2.
-- Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 24 cases.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Morsure : Combat d8, d8+poison (0)

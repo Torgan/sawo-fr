@@ -17,7 +17,7 @@ Handicaps : Deux mains gauches, Prudent.
 ### Capacités spéciales
 - Combatif : pour récupérer d’un état Secoué.
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Tireur d'élite : Visée (+2 en Tir) automatique si le personnage ne se déplace pas.
 
 ### Actions

@@ -15,7 +15,7 @@ Compétences : Combat d4, Discrétion d10(+4), Perception d8.
 - Immatériel : ne peut être affecté que par les attaques magiques.
 - Ombre vivante : +4 en Discrétion dans les environnements disposant d'ombres.
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
-- Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Vol : Allure 8, Montée 1.
 
 ### Actions

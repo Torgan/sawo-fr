@@ -15,7 +15,7 @@ Atout : Frappe éclair.
 ### Capacités spéciales
 - Immatériel : ne peut être affecté que par les attaques magiques.
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
-- Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Toucher vampirique : Combat d8+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet à la lâme-en-peine de soigner une Blessure. 

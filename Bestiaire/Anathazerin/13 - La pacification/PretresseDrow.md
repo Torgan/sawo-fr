@@ -17,7 +17,7 @@ Atouts : Arcanes (Miracles), Commandement, Résistance aux arcanes.
 - Arcane : prêtresse de Maëdra, Foi d10, 25PP.
 - Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Masse-serpent : Combat d8, 2d6 + poison (-4, inconscience).

@@ -20,7 +20,7 @@ Atouts : Arcane (Magie), Drain de l'Âme.
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
 - Résistance aux éléments (Anneau) : +2 en Armure contre le feu, l’électricité, le froid ou l’acide et +2 pour résister aux pouvoirs utilisant ces aspects.
 - Sans peur : les guerriers uraqi sont immunisés à la Terreur et à l’Intimidation.
-- Vision nocturne (heaume) : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Masse d'armes : Combat d8+1, 2d8+1+1d6.

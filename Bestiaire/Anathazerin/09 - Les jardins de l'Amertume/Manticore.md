@@ -15,7 +15,7 @@ Atouts : Frénésie suprême.
 ### Capacités spéciales
 - Armure +1 : fourrure épaisse.
 - Taille +3.
-- Vision nocturne : les manticores ignorent les malus d’obscurité dans la pénombre ou l’obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Vol : Allure 10, Montée 0.
 
 ### Actions

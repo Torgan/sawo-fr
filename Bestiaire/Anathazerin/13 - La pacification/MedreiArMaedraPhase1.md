@@ -19,7 +19,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 - Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
 - Grande résistance aux arcanes arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Taille +3
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Piqure : Combat d10, d12+d6 + poison (-4, inconscience).

@@ -18,7 +18,7 @@ Atout : Vigilance.
 - Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
 - Immunité : électricité
 - Taille +6
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Morsure : Combat d10, d12+d8+2. Constriction automatique en cas de Relance sur le jet de Combat.

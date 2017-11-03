@@ -15,7 +15,7 @@ Compétences : Combat d8, Discrétion d12+2, Intimidation d10, Perception d8.
 - Immatériel : ne peut être affecté que par les attaques magiques.
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
 - Terreur (-2) : voir un spectre impose un test de Terreur à -2.
-- Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Vol : Allure 8, Montée 1.
 
 ### Actions

@@ -15,7 +15,7 @@ Atouts : Arme fétiche (marteau de guerre), Arcane (Magie Duergar)
 ### Capacités spéciales
 - Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les duergars subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
 - Immunité : poison et paralysie.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Marteau de guerre : Combat d6, 2d6

@@ -21,7 +21,7 @@ Atouts : Combatif, Tête froide.
 - Résistant : ne subit pas de blessure pour avoir été Secoué deux fois.
 - Taille +1.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
-- Vision nocturne : ignore les malus liés à l'Obscurité jusqu'à 12 cases.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Morsure/Griffes : Combat d8, d12+d6.

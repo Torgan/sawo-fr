@@ -20,7 +20,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 - Grande résistance aux arcanes arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Régénération rapide : peut tenter un jet de guérison naturelle à chaque round sauf si les blessures sont causées par le feu ou les flammes.
 - Taille +6
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Piqure : Combat d10, d12+d6+2 + poison (-4, inconscience).

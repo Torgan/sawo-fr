@@ -18,7 +18,7 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Ferveur, Inspiration, 
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
 - Inspiration : les troupes ont un bonus de +1 à leurs jets d’Âme.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Assassin : +2 aux dégâts contre une cible surprise.

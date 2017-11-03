@@ -15,7 +15,7 @@ Handicaps : Deux mains gauches, Prudent.
 	6	6 (1)
 
 ### Capacités spéciales
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Combatif : +2 pour sortir d'un état Secoué.
 
 ### Actions
