@@ -14,7 +14,7 @@ Atouts : Assassin, Tête froide, Vif.
 
 ### Capacités spéciales
 - Armure +2 : peau épaisse.
-- Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées. Immunisé à la peur, aux maladies et aux poisons.
+- Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Invisible : les attaques pour toucher un chasseur invisible se font à -6.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 - Vif : Défausse les cartes d'Initiative de 5 ou moins.
