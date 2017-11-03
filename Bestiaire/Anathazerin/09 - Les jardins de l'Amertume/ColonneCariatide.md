@@ -12,9 +12,9 @@ Compétences : Combat d6, Perception d4.
 
 ### Capacités spéciales
 - Armure +2 : construction de pierre.
-- Créature artificielle: bonus de +2 pour se remettre de l’état Secoué. Immunisée aux Attaques ciblées, aux maladies et aux poisons. Une Créature artificielle ignore les malus de blessure.
-- Immunité (magie) : les colonnes cariatides sont totalement immunisées à la magie. 
-- Sans peur : les colonnes cariatides sont immunisées à la Terreur et à l’Intimidation
+- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Immunité (magie) : immunisé à la magie. 
+- Sans peur : immunisé à Terreur et Intimidation.
 
 ### Actions
 - Épée en pierre : Combat d6, d12+d8.
