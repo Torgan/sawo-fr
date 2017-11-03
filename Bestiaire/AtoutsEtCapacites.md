@@ -14,8 +14,11 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 
 # Capacités monstrueuses validées ou reformulées
 
+- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - Démon : +2 pour annuler l’état Secoué. Immunisé aux poisons et maladies.
+- Élémentaire : Immunisé aux attaques ciblées, à la Terreur, l'Intimidation, les maladies et les poisons.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
+- Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +1 : un peu plus grand qu'un humain.
 - Taille +3 : de la taille d'un cheval de guerre lourd.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
