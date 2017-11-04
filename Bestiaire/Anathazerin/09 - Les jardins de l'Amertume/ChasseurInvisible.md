@@ -1,6 +1,6 @@
-# Chasseur Invisible
+# Chasseur invisible
 
-Allure : 8+d10
+Allure : vol 8+d10 montée 1
 
 	Agi	Âme	For	Int	Vig
 	d12	d8	d12	d8	d12+2
@@ -10,15 +10,14 @@ Compétences : Combat d10, Discrétion d12, Perception d10, Pistage d10.
 Atouts : Assassin, Tête froide, Vif.
 
 	PAR	RES
-	7	11 (2)
+	7	11 (4)
 
 ### Capacités spéciales
 - Armure +2 : peau épaisse.
-- Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées ; Sans peur ; immunisé aux maladies et aux poisons. 
+- Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Invisible : les attaques pour toucher un chasseur invisible se font à -6.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
-- Vif : Défausse les cartes de 5 ou moins lors de l’Initiative.
-- Vol : Allure 8, Montée 1.
+- Vif : Défausse les cartes d'Initiative de 5 ou moins.
 
 ### Actions
 - Assassin : +2 aux dégâts contre une cible surprise.
