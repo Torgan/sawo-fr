@@ -24,7 +24,7 @@ Atouts : Grande résistance aux arcanes.
 - Morsure : Combat d8, d8+poison (0)
 - Masse lourde : Combat d8, 2d8.
 - Arc long : Tir d8, 15/30/60, 2d6.
-- Toile : Tir d8, 3/6/12, ceux qui se retrouvent pris dans la toile doivent la déchirer pour se libérer (Résistance 7). Les victimes de la toile peuvent se battre mais toute action physique subit un malus de –4.
+- Toile : Tir d8, 3/6/12, -4 à toute action physique de la cible qui peut toujours se battre. La toile peut être déchirée (RES 7). 
 - _Diminution de Trait_ : Magie d8, 2PP, Portée 8, 3 (1/rd).
 - _Dissipation_ : Magie d8, 3PP, Portée 8, Inst.
 - _Eclair_ : Magie d8, 1-3PP, 12/24/48, Inst.
