@@ -19,8 +19,12 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - * Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - * Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
+- Énorme : attaque adverse +4.
+- Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétineemnt. 
+- Grand : attaque adverse +2.
 - * Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
+- Petit : attaque adverse -2 si en mouvement.
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille -1 : de la taille d'un enfant.
 - Taille +1 : un peu plus grand qu'un humain.
