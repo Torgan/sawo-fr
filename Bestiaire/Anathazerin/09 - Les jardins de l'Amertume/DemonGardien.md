@@ -3,7 +3,7 @@
 Allure : 6
 
 	AGI	ÂME	FOR	INT	VIG
-	d8	d6	d12	d6  d12
+	d8	d6	d12	d6	d12
 
 Compétences : Combat d10, Intimidation d10, Perception d6.
 
@@ -11,9 +11,9 @@ Compétences : Combat d10, Intimidation d10, Perception d6.
 	7	10
 
 ### Capacités spéciales
-- Démon : +2 pour se remettre de l’état Secoué ; immunité aux poisons et maladies.
-- Taille +2.
+- Démon : +2 pour annuler l’état Secoué. Immunisé aux poisons et maladies.
+- Taille +2 : de la taille d'un cheval de selle.
 
 ### Actions
-- Cornes et griffes : Combat d10, d12+d6. Si le démon gardien touche avec une Relance, il Empoigne aussi sa proie.
+- Cornes et griffes : Combat d10, d12+d6. Empoigne sa proie si Relance.
 - _Zone de dégâts_ (aura de feu): Âme d6, portée P, durée à volonté.
