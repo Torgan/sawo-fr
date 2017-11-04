@@ -2,6 +2,7 @@
 
 - * Combatif : +2 pour annuler Secoué.
 - * Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - * Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - * Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Guerrier impie : pour 1PP, les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) sont repoussés si Échec sur un jet d’ Âme, subissent une Blessure si 1 sur leur jet.
@@ -19,8 +20,9 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - * Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - * Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
-- Taille -1 : mesure entre 1m et 1m20.
+- Taille -1 : de la taille d'un enfant.
 - Taille +1 : un peu plus grand qu'un humain.
 - Taille +2 : de la taille d'un cheval de selle.
 - Taille +3 : de la taille d'un cheval de guerre lourd.
