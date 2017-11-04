@@ -12,7 +12,7 @@ Atouts : Balayage, Brave, Combatif, Nerfs d’acier
 Handicaps : Cupide (mineur), Loyal.
 
 	PAR	RES
-	7(1)	8 (2)
+	7 (1)	8 (2)
 
 ### Capacités spéciales
 - Brave : +2 aux jets de Terreur.
@@ -20,11 +20,10 @@ Handicaps : Cupide (mineur), Loyal.
 - Nerfs d’acier : ignore 1 point de malus lié aux Blessures.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
-
 ### Actions
 - Hache de bataille : Combat d8, 2d8.
 - Hache de lancer : Lancer d8, 3/6/12, d6+d8.
 - Balayage : attaque tout ennemi adjacent à -2.
 
 ### Équipement
-Bouclier moyen (Parade +1, Résistance +2 contre les projectiles), cotte de mailles(+2), heaume ouvert(+3), hache de bataille, haches de lancer.
+Bouclier moyen, cotte de mailles, heaume ouvert, hache de bataille, haches de lancer.
