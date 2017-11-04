@@ -1,9 +1,9 @@
 # * Démon gardien d'Orcus
 
-Allure : 6
+Allure : 6, vol 6 montée 2.
 
 	AGI	ÂME	FOR	INT	VIG
-	d8	d8	d12+4	d8  d12
+	d8	d8	d12+4	d8	d12
 
 Compétences : Combat d12, Intimidation d12, Perception d8.
 
@@ -14,13 +14,12 @@ Atouts : Blocage, Guerrier impie.
 
 ### Capacités spéciales
 - Armure +2 : fourrure épaisse.
-- Démon : +2 pour se remettre de l’état Secoué ; immunité aux poisons et maladies.
-- Guerrier impie : en réussissant un jet d'Âme à -2, peut repousser les créatures angéliques, les paladins ou les personnages du bien qui ont l’Atout Arcanes (Miracles) en cas d’échec de ces derniers sur un jet d’ Âme, où les détruire (ou leur infliger une Blessure pour les Jokers) en cas de 1 sur leur jet.
-- Résistance : +2 en Armure contre de feu ou l’acide et +2 pour résister aux Pouvoirs utilisant ces aspects.
-- Taille +3.
-- Vol : Allure 10, Montée 0.
+- Démon : +2 pour annuler l’état Secoué. Immunisé aux poisons et maladies.
+- Guerrier impie : avec Succès à Âme -2, les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) sont repoussés si Échec sur un jet d’ Âme, subissent une Blessure si 1 sur leur jet.
+- Résistance : Armure +2 contre feu et acide, +2 pour résister aux Pouvoirs utilisant ces aspects.
+- Taille +3 : de la taille d'un cheval de guerre lourd.
 
 ### Actions
-- Triple fléau enflammé : Combat d12, d12+4+d8 + 1d6 (feu). Peut enflammer ses victimes. 
+- Triple fléau enflammé : Combat d12, d12+4+d8 + 1d6 (feu), ignore bouclier et couvert, peut enflammer. 
 - _Convocation d'alliés_ (larves démoniaques): Âme d8, portée 8, durée à volonté.
 - _Téléportation_ : Âme d8, Inst.
