@@ -13,7 +13,7 @@ Compétences : Combat d10, Intimidation d12, Perception d12.
 ### Capacités spéciales
 - Armure +4 : écailles.
 - Cloué au sol : ses ailes squelettiques ne permettent pas au dragon squelette de voler.
-- Énorme : Combat, Lancer et Tir +4 pour ses adversaires.
+- Énorme : attaque adverse +4.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Taille +8 : créature immense, près de 15 tonnes pour plus de 12 m de long.
