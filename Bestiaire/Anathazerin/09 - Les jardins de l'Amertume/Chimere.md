@@ -21,4 +21,4 @@ Atouts : Grand balayage.
 ### Actions
 - Attaques multiples : peut effectuer jusqu'à trois attaques par round sans malus d'Actions Multiples.
 - Morsure/Cornes/Griffes : Combat d8/d8/d8, d12+d6+2.
-- Souffle enflammé : peut remplacer une morsure de dragon, Gabarit de Cône, 2d8, peut enflammer. Esquive sur Agilité -2.
+- Souffle enflammé : peut remplacer la morsure de dragon, Gabarit de Cône, 2d8, peut enflammer. Esquive sur Agilité -2.
