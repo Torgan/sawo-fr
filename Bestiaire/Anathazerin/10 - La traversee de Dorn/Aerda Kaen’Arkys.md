@@ -1,4 +1,4 @@
-# *Aerda Kaen’Arkys
+# * Aerda Kaen’Arkys
 
 Allure : 6
 
