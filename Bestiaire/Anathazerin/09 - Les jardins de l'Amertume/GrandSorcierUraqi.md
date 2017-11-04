@@ -8,26 +8,29 @@ Allure : 6
 Compétences : Combat d8, Connaissance (Arcanes) d12, Magie d12+1, Perception d8.
 
 	PAR	RES
-	6	11 (3)
+	 7 (1)	11 (3)
 
 Atouts : Arcane (Magie), Drain de l'Âme.
 
 ### Capacités spéciales
 - Arcane (Magie) : Magie d12+1, 25PP.
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
-- Immunités : les sorciers uraqi sont immunisés au feu, à l'acide et aux capacités affectant les morts-vivants (comme l'Atout Guerrier Saint) tant que la Pierre de Terre n'est pas détruite.
-- Immortel : Lorsqu’elle est mise hors de combat, la créature n’est pas définitivement détruite, elle est juste chassée et pourra se reconstituer en 24 heures. Cette capacité est perdue si la Pierre de Mort est détruite.
-- Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
-- Résistance aux éléments (Anneau) : +2 en Armure contre le feu, l’électricité, le froid ou l’acide et +2 pour résister aux pouvoirs utilisant ces aspects.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
+- Immunité : immunisé au feu, à l'acide et aux capacités affectant les morts-vivants (comme l'Atout Guerrier Saint). Cette capacité est perdue si la Pierre de Mort est détruite.
+- Immortel : n’est pas détruit quand hors de combat mais chassé et se reconstitue en 24 heures. Cette capacité est perdue si la Pierre de Mort est détruite.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux Attaques ciblées.
+- Résistance aux éléments (Anneau) : Armure +2 contre le feu, l’électricité, le froid ou l’acide et +2 pour résister aux pouvoirs utilisant ces aspects.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Masse d'armes : Combat d8+1, 2d8+1+1d6.
+- Masse d'armes : Combat d8+1, 2d8+1+1d6, peut enflammer.
 - _Eclair_ (feu) : Magie d12+1, 1-3PP, 12/24/48, Inst.
 - _Explosion_ (Feu) : Magie d12+1, 1-3PP, 12/24/48, Inst.
 - _Ralentissement_(Mot de pouvoir) : Magie d12+1, 1+PP, Portée 24, 3 (2/rd).
 - _Dépeçage_ (injonction mortelle) : Magie d12+1, 5PP, 12, Inst.
+
+### Réactions
+- Écu : Résistance +2 contre les projectiles.
  
 ### Équipement
 Armure de plaques en bronze, étoile du matin de feu (Combat +1, dégâts For+d8+1+1d6 (feu)), écu, anneau de résistance aux éléments, heaume maudit de vision.
