@@ -11,7 +11,7 @@ Compétences : Combat d6, Perception d4.
 	5	8
 
 ### Capacités spéciales
-- Démon : +2 pour se remettre de l’état Secoué ; immunité aux poisons et maladies.
+- Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Terreur : La simple vue d’un Jatakal suffit à inspirer la Terreur.
 - Taille +2 : Ils ont la taille d’un cheval, en beaucoup plus squelettique.
 

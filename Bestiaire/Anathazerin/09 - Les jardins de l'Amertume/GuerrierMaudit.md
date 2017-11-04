@@ -13,7 +13,7 @@ Compétences : Combat d8, Intimidation d8, Perception d4.
 
 ### Capacités spéciales
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
-- Sans peur : les squelettes sont immunisés à la Terreur et à l’Intimidation.
+- Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions
 - Épée longue : Combat d8, 2d8.

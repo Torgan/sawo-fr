@@ -15,7 +15,7 @@ Compétences : Combat d8, Discrétion d4, Intimidation d10, Perception d8+2.
 - Extra-dimensionnelle : effet de _Déflexion_ permanent à -4.
 - Gargantuesque : Armure Lourde. Les adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense. Les attaques sont considérées comme des Armes Lourdes. Ajoute sa Taille aux dégâts pour les attaques de piétinement.
 - _Invisible_ : un jet de Perception à -4 est nécessaire pour détecter la Chaose. 
-- Sans peur : immunisée à la Terreur et à l’Intimidation.
+- Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +12.
 
 ### Actions

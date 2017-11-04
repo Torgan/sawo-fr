@@ -13,7 +13,7 @@ Compétences : Combat d8, Natation d12
 
 ### Capacités spéciales
 - Aquatique : Allure 12
-- Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées ; Sans peur ; immunisé aux maladies et aux poisons.
+- Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Immunité : immunisé à toute attaque non magique à part le feu. Une torche ou une lanterne leur fait subir 1d6 de dégâts (mais s’éteint après avoir touché).
 - Infiltration : l’élémentaire d’eau peut traverser toute surface poreuse comme s’il s’agissait d’un terrain difficile.
 

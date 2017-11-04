@@ -12,7 +12,7 @@ Compétences : Combat d10, Escalade d8, Tir d8
 	7	5
 
 ### Capacités spéciales
-- Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées ; Sans peur ; immunisé aux maladies et aux poisons.
+- Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Invulnérabilité : immunisé aux attaques non magiques. Ils subissent 1d6 de dégâts si on les arrose d’au moins 3 litres d’eau, +2 par 3 litres de plus.
 
 ### Actions

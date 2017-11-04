@@ -12,9 +12,9 @@ Compétences : Combat d10, Perception d4.
 
 ### Capacités spéciales
 - Armure +3 : construction d'ossements.
-- Créature artificielle: bonus de +2 pour se remettre de l’état Secoué. Immunisée aux Attaques ciblées, aux maladies et aux poisons. Une Créature artificielle ignore les malus de blessure.
+- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux pouvoirs.
-- Sans peur : les golem d'os sont immunisées à la Terreur et à l’Intimidation
+- Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +2.
 
 ### Actions

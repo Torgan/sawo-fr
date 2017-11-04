@@ -14,7 +14,7 @@ Compétences : Combat d8, Intimidation d10, Lancer d6, Natation d6, Perceptio
 - Armure +1 : peau caoutchouteuse.
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
 - Régénération rapide : peut tenter un jet de guérison naturelle à chaque round sauf si les blessures sont causées par le feu ou les flammes.
-- Sans peur : les squelettes sont immunisés à la Terreur et à l’Intimidation.
+- Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +2 : grandes créatures dégingandées à grosse bedaine de plus de 2,5m de haut.
 
 ### Actions

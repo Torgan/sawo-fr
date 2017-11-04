@@ -11,7 +11,7 @@ Compétences : Combat d6, Connaissances (Arcanes) d8, Connaissances (Histoire an
 	5	5
 
 ### Capacités spéciales
-- Démon : Démon : +2 pour se remettre de l’état Secoué ; immunité aux poisons et maladies.
+- Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Vol : Les Diablotins kéroniens volent grâce à leurs ailes de chauve-souris. Ils ont une Allure de 6 et une montée de 0 en vol.
 - Taille -1 : Les Farfadets kéroniens sont très petits, de taille comparable à un chat.
 - Petit : Les jets d’attaque contre ces créatures se font à -2 du fait de leur petite taille.

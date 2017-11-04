@@ -12,7 +12,7 @@ Compétences : Combat d8, Intimidation d8, Perception d8, Persuasion d10+6, Disc
 	6	8
 
 ### Capacités spéciales
-- Démon : +2 pour se remettre de l’état Secoué ; immunité aux poisons et maladies.
+- Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Tentatrice d’outre-monde : Persuasion d10+6, 10PP. Cette créature fut engendrée par la luxure, et elle est consciente des pouvoirs de séduction de sa mère. Elle peut utiliser l’Atout Tentatrice et dispose de 10 Points de pouvoir pour cela. Seules les filles dotées d’intelligence sont capables d’utiliser cette capacité.
 - Taille +2 : Le corps d’une fille d’Hordan n’est que légèrement plus grand que celui d’un humain, mais sa queue de serpent la rend comparable en taille à un cheval.
 - Corps de serpent : Cette créature rampe. Elle est rapide, mais ne peut pas courir.

@@ -15,10 +15,10 @@ Compétences : Combat d10, Intimidation d12, Perception d12
 - Cloué au sol : ses ailes squelettiques ne permettent pas à un dragon squelette de voler.
 - Énorme : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense.
 - Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
-- Résistant : ne subit pas de blessure pour avoir été Secoué deux fois.
+- Résistant : pas de Blessure si Secoué deux fois.
 - Taille +8 : créature immense, le dragon pèse près de 15 tonnes et mesure un peu plus de 12 m de long des naseaux à la queue.
 - Terreur (-2) : voir un puissant dragon oblige à faire un test de Terreur à -2.
-- Tête froide : tire deux cartes d’Initiative et agit sur la meilleure des deux.
+- Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 
 ### Actions
 - Frénésie suprême : s'il n’utilise pas son Souffle glacial, il peut faire deux attaques de Combat sans malus.

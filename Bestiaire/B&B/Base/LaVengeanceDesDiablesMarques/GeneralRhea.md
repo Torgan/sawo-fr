@@ -17,7 +17,7 @@ Atouts : Amazone, Séduisante, Héroïne en bikini, Commandement, Contre-attaque
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Serrez les Rang ! : les troupes ont un bonus de +1 à la Résistance.
 - Déguisée : Un Diable Marqué est déguisée sous son armure. Elle ne peut pas être reconnue en tant que femme et les hommes ne la considèrent donc pas comme une cible faible. Tant qu’elle est dans son armure de Diable Masqué, elle ne bénéficie pas de l’Avantage Amazone.
-- Vif : Défausse les cartes de 5 ou moins lors de l’Initiative.
+- Vif : Défausse les cartes d'Initiative de 5 ou moins.
 - Tentatrice : Persuasion d8+4, 7PP.
 
 ### Actions

@@ -17,7 +17,7 @@ Compétences : Combat d6, Discrétion d10, Perception d10
 ### Capacités spéciales
 - Armure +4 : peau écailleuse.
 - Gigantesque : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille. Armure Lourde.
-- Résistant : ne subit pas de blessure pour avoir été Secoué deux fois.
+- Résistant : pas de Blessure si Secoué deux fois.
 - Taille +10 : Un ver géant dépasse les 15 m de long et fait bien 3 m de diamètre.
 
 ### Actions

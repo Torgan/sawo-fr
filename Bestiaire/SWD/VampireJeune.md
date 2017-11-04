@@ -20,7 +20,7 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Natation d8, Percepti
 - Point faible (lumière du soleil) : un vampire prend feu si sa peau est directement exposée aux rayons du soleil. Après cela il subit 2d10 de dégâts par round jusqu’à ce qu’il devient poussière. L’armure ne compte pas.
 - Point faible (pieu dans le cœur) : un vampire victime d’une Attaque ciblée au cœur (-6) doit faire un jet de Vigueur opposé aux dégâts. S’il réussit, il encaisse les dégâts comme d’ordinaire. S’il rate, il se désintègre en poussière.
 - Point faible (symbole religieux) : on peut tenir à distance un vampire grâce à un symbole religieux. Si le vampire veut toutefois attaquer cette personne il doit pour cela réussir un jet opposé d’Âme.
-- Tête froide : agit sur la meilleure de deux cartes d’Initiative.
+- Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 
 ### Actions
 - Griffes : Combat d8, d12+d4+1. Quiconque est tué par un vampire a 50 % de chances de devenir un vampire au bout de 1d4 jours.

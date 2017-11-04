@@ -15,8 +15,8 @@ Compétences : Combat d6, Perception d10, Tir d8
 ### Capacités spéciales
 - Armure +4
 - Capteurs sensoriels : les sentinelles sont équipées de capteurs de détection, leur permettant de diviser par deux les malus liés à l’obscurité et de détecter ou d’enregistrer les sons.
-- Créature artificielle : +2 pour récupérer d’un état Secoué, les Attaques ciblées ne causent pas de dégâts supplémentaires. Immunisé aux poisons et aux maladies.
-- Sans peur : Les robots sont immunisés à la Terreur et à l’Intimidation
+- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions
 - Mitrailleuse : Tir d8,2d8

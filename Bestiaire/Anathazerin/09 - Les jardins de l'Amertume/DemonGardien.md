@@ -11,7 +11,7 @@ Compétences : Combat d10, Intimidation d10, Perception d6.
 	7	10
 
 ### Capacités spéciales
-- Démon : +2 pour annuler l’état Secoué. Immunisé aux poisons et maladies.
+- Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Taille +2 : de la taille d'un cheval de selle.
 
 ### Actions

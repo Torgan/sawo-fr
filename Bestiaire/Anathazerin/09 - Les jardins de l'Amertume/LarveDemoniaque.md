@@ -11,7 +11,7 @@ Compétences : Combat d8, Intimidation d6, Perception d6.
 	6	6
 
 ### Capacités spéciales
-- Démon : +2 pour se remettre de l’état Secoué ; immunité aux poisons et maladies.
+- Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 
 ### Actions
 - Morsure et griffes : Combat d8, d8+d6.

@@ -15,7 +15,7 @@ Atouts : Balayage, Brute, Costaud, Cri de guerre, Tête froide.
 ### Capacités spéciales
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
 - Taille +1 : un peu plus grands qu'un humain.
-- Tête froide : agit sur la meilleure de deux cartes d’Initiative.
+- Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 
 ### Actions
 - Balayage : Attaque tous les adversaires adjacents à -2.

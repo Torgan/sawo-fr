@@ -12,7 +12,7 @@ Compétences : Combat d8, Perception d8, Tir d6
 	6	5
 
 ### Capacités spéciales
-- Élémentaire : ne subit pas les dégâts bonus dus aux Attaque ciblées ; Sans peur ; immunisé aux maladies et aux poisons.
+- Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Immatériel : un élémentaire de l’Air peut traverser toute surface non solide, s’infiltrant par les fentes d’une porte, au moyen de bulles à travers l’eau et s’engouffrer dans les voiles.
 - Immunité : immunisé aux attaques non magiques excepté le feu.
 
