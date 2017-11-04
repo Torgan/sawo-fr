@@ -14,7 +14,6 @@ Atouts : Combatif, Tête froide.
 
 ### Capacités spéciales
 - Armure +2 : cuir épais.
-- Combatif : +2 pour annuler Secoué.
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Extraplanaire : non natif du plan primaire, peut être ciblé par le pouvoir _Banissement_.
 - Odorat : +4 aux jets de Perception et de Pistage impliquant l'odorat.
