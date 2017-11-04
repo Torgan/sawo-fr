@@ -20,8 +20,9 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - * Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - * Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
-- Taille -1 : mesure entre 1m et 1m20.
+- Taille -1 : de la taille d'un enfant.
 - Taille +1 : un peu plus grand qu'un humain.
 - Taille +2 : de la taille d'un cheval de selle.
 - Taille +3 : de la taille d'un cheval de guerre lourd.
