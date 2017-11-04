@@ -4,6 +4,7 @@
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Guerrier impie : pour 1PP, les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) sont repoussés si Échec sur un jet d’ Âme, subissent une Blessure si 1 sur leur jet.
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
