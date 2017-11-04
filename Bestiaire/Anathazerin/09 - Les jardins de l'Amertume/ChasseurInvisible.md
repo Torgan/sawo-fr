@@ -10,7 +10,7 @@ Compétences : Combat d10, Discrétion d12, Perception d10, Pistage d10.
 Atouts : Assassin, Tête froide, Vif.
 
 	PAR	RES
-	7	11 (2)
+	7	11 (4)
 
 ### Capacités spéciales
 - Armure +2 : peau épaisse.
