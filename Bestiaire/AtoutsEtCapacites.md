@@ -2,6 +2,7 @@
 
 - * Combatif : +2 pour annuler Secoué.
 - * Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - * Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - * Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Guerrier impie : pour 1PP, les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) sont repoussés si Échec sur un jet d’ Âme, subissent une Blessure si 1 sur leur jet.
