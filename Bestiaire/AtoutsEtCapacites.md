@@ -10,6 +10,7 @@
 - * Résistant : pas de Blessure si Secoué deux fois.
 - * Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - * Tête froide : agit sur la meilleure de deux cartes d’Initiative.
+- Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 - * Vif : Défausse les cartes d'Initiative de 5 ou moins.
 
 _Remarque : si Grande aura de commandement, passer les rayon des Atouts de commandement de 5 à 10 cases._
