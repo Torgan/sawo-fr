@@ -19,7 +19,7 @@ Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perceptio
 - _Armure_ : Magie d8, 2PP, T, 3 (1/rd).
 - _Eclair_ : Magie d8, 1-3PP, 12/24/48, Inst.
 - _Frappe_ : Magie d8, 2PP, T, 3 (1/rd).
-- _Terreur_ : Magie d8, 2PP, Int x2, Inst.
+- _Terreur_ : Magie d8, 2PP, 16, Inst.
 
 ### Équipement
 Armure de cuir, épieu.
