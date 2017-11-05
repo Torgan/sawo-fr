@@ -10,10 +10,10 @@ Allure : 8
 Compétences : Combat d8, Natation d6, Perception d8.
 
 	PAR	RES
-	6	10 (+2 Taille)
+	6	10
 
 ### Capacités spéciales
 - Taille +2.
 
 ### Actions
-- Griffes/Morsure	: Combat d8, d12+d6+4. Les ours utilisent leur masse pour immobiliser leurs proies afin de les déchiqueter avec leurs griffes et leurs crocs. Si l’ours touche avec une Relance, il immobilise sa proie. L’adversaire ne peut se défaire de l’étreinte à son action qu’en obtenant une Relance sur un jet de Force opposé.
+- Griffes/Morsure : Combat d8, d12+d6+4, immobilisation avec une Relance. Se libérer nécessite une Relance sur opposition de Force. Les ours utilisent leur masse pour immobiliser leurs proies afin de les déchiqueter avec leurs griffes et leurs crocs.
