@@ -20,4 +20,4 @@ Compétences : Combat d12, Discrétion d6, Intimidation d10, Lancer d8, Per
 - Balayage : attaque tout ennemi adjacent à -2.
 
 ### Équipement
-Plastron de plaques (+3), jambières et brassières en cottes de maille (+2), hache de bataille (For+d10, 2 mains, Parade -1, PA1).
+Plastron de plaques, jambières et brassières en cottes de maille, hache de bataille.
