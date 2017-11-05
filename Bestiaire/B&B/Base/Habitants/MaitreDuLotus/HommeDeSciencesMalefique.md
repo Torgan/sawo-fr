@@ -5,7 +5,8 @@ Allure : 5
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d6	d12	d8
 
-Compétences : Combat d8, Soins d10, Intimidation d8, Connaissance (Arcanes) d10, Connaissance (Médecine) d10, Maîtrise du Lotus d12, Perception d8, Persuasion d8, Discrétion d8, Sarcasme d8, Lancer d10
+Compétences : Combat d8, Soins d10, Intimidation d8, Connaissance (Arcanes) d10, Connaissance (Médecine) d10, Maîtrise du Lotus d12, Perception d8, Persuasion d8, Discrétion d8, Sarcasme d8, Lancer d10.
+
 Atouts : Arcanes (Maître du Lotus), Sang-Froid, Réserve de Lotus, Nouveau Pouvoir X2, Points de pouvoir X2, Riche.
 
 	PAR	RES
@@ -19,13 +20,13 @@ Atouts : Arcanes (Maître du Lotus), Sang-Froid, Réserve de Lotus, Nouveau Pouv
 ### Actions
 - Épée courte : Combat d8, 2d6
 - Gant d’empoisonneur : Combat d8+2, d6+poison
-- Augmentation/diminution de Trait : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 12, 3 (1/rd).
-- Barrière : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 12, 3 (1 / sect. / rd)
-- Confusion : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 24, Inst.
-- Don du guerrier : (diverses drogues de guerriers bestiaux) Maîtrise du Lotus d8, 1+PP, Portée T, 3 (1/rd)
-- Poison : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
-- Rafale : (Lotus Éternel du Phénix de Feu) Maîtrise du Lotus d8, 2PP, Cône, Inst., 2d10.
-- Zombie : (Lotus Opaque de Réveil) Maîtrise du Lotus d8, 3PP / corps, Portée 12.
+- _Augmentation/diminution de Trait_ : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 12, 3 (1/rd).
+- _Barrière_ : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 12, 3 (1 / sect. / rd)
+- _Confusion_ : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 24, Inst.
+- _Don du guerrier_ : (diverses drogues de guerriers bestiaux) Maîtrise du Lotus d8, 1+PP, Portée T, 3 (1/rd)
+- _Poison_ : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
+- _Rafale_ : (Lotus Éternel du Phénix de Feu) Maîtrise du Lotus d8, 2PP, Cône, Inst., 2d10.
+- _Zombie_ : (Lotus Opaque de Réveil) Maîtrise du Lotus d8, 3PP / corps, Portée 12.
 
 ### Équipement
 épée courte, dague empoisonnée (For+d4, enduit avec une préparation de Lotus Poison), gant d’empoisonneur, corselet moyen en bronze, sacoche de Maître du Lotus, kit de guérison, anneau d’empoisonneur, 10 doses de Lotus raffiné.

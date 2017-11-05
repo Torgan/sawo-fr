@@ -6,8 +6,10 @@ Charisme : -4
 	AGI	ÂME	FOR	INT	VIG
 	d8	d6	d8	d4	d6
 
-Compétences : Combat d8, Perception d4, Intimidation d6, Tir d10, Équitation d10+2, Survie d6
+Compétences : Combat d8, Perception d4, Intimidation d6, Tir d10, Équitation d10+2, Survie d6.
+
 Handicaps : Sanguinaire, Cupide.
+
 Atouts : Cavalier né, Poigne Ferme.
 
 	PAR	RES

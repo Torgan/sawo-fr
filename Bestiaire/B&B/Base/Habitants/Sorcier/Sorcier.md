@@ -6,8 +6,10 @@ Charisme : -2
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d6	d10	d8
 
-Compétences : Combat d6, Connaissance (Arcanes) d10, Intimidation d8, Perception d8, Persuasion d8, Sorcellerie d12, Discrétion d8, Réseaux d8, Sarcasme d6
+Compétences : Combat d6, Connaissance (Arcanes) d10, Intimidation d8, Perception d8, Persuasion d8, Sorcellerie d12, Discrétion d8, Réseaux d8, Sarcasme d6.
+
 Handicaps : Prudent, Cupide.
+
 Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pouvoir, Source de Pouvoir, Rituel de Permanence, Drain de l’Âme.
 
 	PAR	RES

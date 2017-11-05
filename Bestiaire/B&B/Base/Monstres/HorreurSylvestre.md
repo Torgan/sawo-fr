@@ -5,7 +5,7 @@ Allure : 4
 	AGI	ÂME	FOR	INT	VIG
 	d4	d6	d10	d4	d6
 
-Compétences : Combat d6, Perception d4
+Compétences : Combat d6, Perception d4.
 
 	PAR	RES
 	5	10 (2)

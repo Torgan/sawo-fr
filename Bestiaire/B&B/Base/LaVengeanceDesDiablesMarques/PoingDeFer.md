@@ -6,8 +6,10 @@ Charisme : -2
 	AGI	ÂME	FOR	INT	VIG
 	d6	d8	d10	d8	d8
 
-Compétences : Combat d8, Connaissance (Métallurgie) d8, Intimidation d8, Perception d6, Réparation d10
+Compétences : Combat d8, Connaissance (Métallurgie) d8, Intimidation d8, Perception d6, Réparation d10.
+
 Handicaps : Moche, Manchot
+
 Atouts : Amazone, Ambidextre, Héroïne en bikini, Costaud, Combat à deux armes
 
 	PAR	RES

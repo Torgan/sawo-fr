@@ -6,7 +6,7 @@ Vol : Allure 6, montée 4. Les élémentaires d’air ne peuvent pas « cour
 	Agi	Âme	For	Int	Vig
 	d12	d6	d8	d6	d6
 
-Compétences : Combat d8, Perception d8, Tir d6
+Compétences : Combat d8, Perception d8, Tir d6.
 
 	PAR	RES
 	6	5

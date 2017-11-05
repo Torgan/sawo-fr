@@ -5,7 +5,7 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d10	d8	d8	d8	d8
 
-Compétences : Escalade d8+2, Combat d10, Crochetage d6+2, Perception d8, Persuasion d6, Discrétion d10+2, Réseaux d8, Lancer d6, Pistage d6
+Compétences : Escalade d8+2, Combat d10, Crochetage d6+2, Perception d8, Persuasion d6, Discrétion d10+2, Réseaux d8, Lancer d6, Pistage d6.
 
 Atouts : Acrobate, Assassin, Sans pitié, Voleur, Arme Fétiche (Dague).
 

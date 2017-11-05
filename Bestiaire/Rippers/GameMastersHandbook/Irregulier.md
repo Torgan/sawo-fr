@@ -13,7 +13,7 @@ Raison: 5
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d8	d6 	d6
 
-Compétences : Combat d8, Réseaux d4, Pistage d4, Perception d4, Tir d6 
+Compétences : Combat d8, Réseaux d4, Pistage d4, Perception d4, Tir d6 .
 
 	PAR RES
 	6   6 (1)

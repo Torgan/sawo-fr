@@ -6,7 +6,7 @@ Charisme : -2
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d8	d4	d8
 
-Compétences : Combat d6, Intimidation d6, Perception d6, Discrétion d4
+Compétences : Combat d6, Intimidation d6, Perception d6, Discrétion d4.
 
 	PAR	RES
 	5	7

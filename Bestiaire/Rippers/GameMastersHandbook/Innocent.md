@@ -13,7 +13,7 @@ Raison: 4
 	AGI	ÂME	FOR	INT	VIG
 	d6	d4	d6	d4 	d6
 
-Compétences : Perception d4
+Compétences : Perception d4.
 
 	PAR	RES
 	2   5

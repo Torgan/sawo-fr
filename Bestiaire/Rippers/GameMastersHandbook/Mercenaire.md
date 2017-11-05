@@ -13,7 +13,7 @@ Raison: 5
 	AGI	ÂME	FOR	INT	VIG
 	d8	d6	d8	d6 	d8
 
-Compétences : Combat d8, Discrétion d4, Escalade d4, Perception d4, Tir d6 
+Compétences : Combat d8, Discrétion d4, Escalade d4, Perception d4, Tir d6 .
 
 Handicaps : Cupide
 

@@ -6,8 +6,10 @@ Charisme : -2
 	AGI	ÂME	FOR	INT	VIG
 	d6	d8	d6	d8 	d8
 
-Compétences : Combat d6, Intimidation d6, Connaissance (Occulte) d6, Perception d8, Persuasion d8, Tir d8, Magie d8
+Compétences : Combat d6, Intimidation d6, Connaissance (Occulte) d6, Perception d8, Persuasion d8, Tir d8, Magie d8.
+
 Handicaps : Sale Caractère, Serment(servir Apep)
+
 Atouts: Arcanes(Magie), Mage
 
 PP: 20

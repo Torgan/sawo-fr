@@ -5,7 +5,7 @@ Allure : 4
 	Agi	Âme	For	Int	Vig
 	d6	d6	d6	d6	d8
 
-Compétences : Combat d6, Discrétion d4, Intimidation d4, Magie d6, Perception d6, Tir d4
+Compétences : Combat d6, Discrétion d4, Intimidation d4, Magie d6, Perception d6, Tir d4.
 
 Atouts : Arme fétiche (marteau de guerre), Arcane (Magie Duergar)
 

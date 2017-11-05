@@ -6,7 +6,8 @@ Charisme : +2
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d6	d8	d6
 
-Compétences : Combat d8, Perception d6, Connaissance (Batailles) d4-d10 (voir plus bas), Persuasion d8, Équitation d6, Tir d6, Lancer d6
+Compétences : Combat d8, Perception d6, Connaissance (Batailles) d4-d10 (voir plus bas), Persuasion d8, Équitation d6, Tir d6, Lancer d6.
+
 Atouts : Commandement, Noble.
 
 	PAR	RES

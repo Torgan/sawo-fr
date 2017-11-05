@@ -6,8 +6,10 @@ Charisme : +2
 	AGI	ÂME	FOR	INT	VIG
 	d8	d6	d8	d6	d8
 
-Compétences : Combat d10, Soins d4, Intimidation d10, Perception d6, Sarcasme d10, Lancer d6, Tir d6
+Compétences : Combat d10, Soins d4, Intimidation d10, Perception d6, Sarcasme d10, Lancer d6, Tir d6.
+
 Handicaps : Arrogant.
+
 Atouts : Combatif, Contre-attaque, Distraction, Frénésie.
 
 	PAR	RES

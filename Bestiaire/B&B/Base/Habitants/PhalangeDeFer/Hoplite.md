@@ -5,7 +5,8 @@ Allure : 5
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d8	d6	d6
 
-Compétences : Combat d6, Soins d4, Perception d4, Tir d6, Lancer d6
+Compétences : Combat d6, Soins d4, Perception d4, Tir d6, Lancer d6.
+
 Atouts : Entraînement d’Hoplite.
 
 	PAR	RES

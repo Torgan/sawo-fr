@@ -5,8 +5,10 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d6	d4	d8	d4	d6
 
-Compétences : Combat d6, Intimidation d4, Perception d4, Tir d6, Lancer d6
+Compétences : Combat d6, Intimidation d4, Perception d4, Tir d6, Lancer d6.
+
 Handicaps : Manie (bouillie d’esclave).
+
 Atouts : Combatif (drogues anti-douleur).
 
 	PAR	RES

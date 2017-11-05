@@ -5,8 +5,10 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d10	d8	d6	d8	d6
 
-Compétences : Escalade d8+2, Combat d8, Jeu d6, Intimidation d6, Crochetage d8+2, Perception d10, Persuasion d8(+2), Discrétion d10(+2), Réseaux d10(+2), Tir d8, Sarcasme d4, Lancer d8
+Compétences : Escalade d8+2, Combat d8, Jeu d6, Intimidation d6, Crochetage d8+2, Perception d10, Persuasion d8(+2), Discrétion d10(+2), Réseaux d10(+2), Tir d8, Sarcasme d4, Lancer d8.
+
 Handicaps : Cupide.
+
 Atouts : Blocage, Contacts (Crime), Frappe éclair, Sang-froid, Grande Esquive, Criminel, Voleur.
 
 	PAR	RES

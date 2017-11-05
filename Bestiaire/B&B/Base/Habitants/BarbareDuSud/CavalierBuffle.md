@@ -5,7 +5,8 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d8	d6	d8
 
-Compétences : Combat d10, Intimidation d6, Perception d6, Équitation d8+2, Lancer d8, Pistage d6, Survie d4
+Compétences : Combat d10, Intimidation d6, Perception d6, Équitation d8+2, Lancer d8, Pistage d6, Survie d4.
+
 Atouts : Cavalier né, Cavalier-buffle, Esquive.
 
 	PAR	RES

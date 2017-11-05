@@ -5,7 +5,8 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d6	d4	d6
 
-Compétences : Combat d6, Intimidation d6, Connaissance (Religion) d4, Discrétion d6
+Compétences : Combat d6, Intimidation d6, Connaissance (Religion) d4, Discrétion d6.
+
 Handicaps : Chimères, Serment (ils doivent respecter les dogmes de leur foi).
 
 	PAR	RES

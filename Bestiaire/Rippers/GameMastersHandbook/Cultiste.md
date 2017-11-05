@@ -7,7 +7,7 @@ Allure : 6
 	Agi	Âme	For	Int	Vig
 	d4	d8	d6	d6 	d6
 
-Compétences : Combat d4, Foi d6, Intimidation d6, Connaissance (Occulte) d6
+Compétences : Combat d4, Foi d6, Intimidation d6, Connaissance (Occulte) d6.
 
 Handicaps : Sale Caractère, Serment(servir Apep)
 

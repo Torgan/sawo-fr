@@ -13,7 +13,7 @@ Raison: 5
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d6	d6 	d6
 	
-Compétences : Combat d6, Discrétion d4, Perception d4, Tir d6 
+Compétences : Combat d6, Discrétion d4, Perception d4, Tir d6 .
 
 	Parade	Résistance
 	5   5

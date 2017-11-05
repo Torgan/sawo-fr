@@ -13,7 +13,7 @@ Raison: 5
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d8	d6 	d8
 
-Compétences : Combat d8, Discrétion d4, Perception d4, Tir d8, Survie d4
+Compétences : Combat d8, Discrétion d4, Perception d4, Tir d8, Survie d4.
 Atout: Brave
 
 	Parade	Résistance

@@ -5,8 +5,10 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d6	d8	d6
 
-Compétences : Combat d6, Soins d6, Intimidation d6, Connaissance (Arcanes) d8, Maîtrise du Lotus d8, Perception d6, Persuasion d6, Discrétion d4, Lancer d6
+Compétences : Combat d6, Soins d6, Intimidation d6, Connaissance (Arcanes) d8, Maîtrise du Lotus d8, Perception d6, Persuasion d6, Discrétion d4, Lancer d6.
+
 Handicaps : Prudent.
+
 Atouts : Arcanes (Maîtrise du Lotus), Réserve de Lotus, Nouveau Pouvoir, Points de pouvoir.
 
 	PAR	RES
@@ -19,10 +21,10 @@ Atouts : Arcanes (Maîtrise du Lotus), Réserve de Lotus, Nouveau Pouvoir, Point
 
 ### Actions
 - Dague : Combat d6, d6+d4
-- Augmentation/diminution de Trait : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 8, 3 (1/rd).
-- Barrière : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 8, 3 (1 / sect. / rd)
-- Confusion : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 16, Inst.
-- Poison : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
+- _Augmentation/diminution de Trait_ : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 8, 3 (1/rd).
+- _Barrière_ : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 8, 3 (1 / sect. / rd)
+- _Confusion_ : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 16, Inst.
+- _Poison_ : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
 
 ### Équipement
-dague, sacoche de Maître du Lotus, kit de guérison, 5 doses de Lotus raffiné.
+Dague, sacoche de Maître du Lotus, kit de guérison, 5 doses de Lotus raffiné.

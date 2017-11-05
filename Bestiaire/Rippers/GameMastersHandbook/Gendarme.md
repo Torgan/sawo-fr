@@ -13,7 +13,7 @@ Raison: 6
 	AGI	ÂME	FOR	INT	VIG
 	d6	d8	d8	d6 	d8
 
-Compétences : Combat d8, Recherche  d4, Perception d4, Discrétion d4, Réseaux d6 
+Compétences : Combat d8, Recherche  d4, Perception d4, Discrétion d4, Réseaux d6 .
 
 Handicaps : Serment (Maintenir l'ordre)
 

@@ -5,8 +5,10 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d8	d8	d8
 
-Compétences : Combat d8, Soins d6, Connaissance (Religion) d6, Connaissance (Arcanes) d8, Intimidation d6, Recherche d6, Perception d6, Persuasion d6, Réparation d6, Tir d8
+Compétences : Combat d8, Soins d6, Connaissance (Religion) d6, Connaissance (Arcanes) d8, Intimidation d6, Recherche d6, Perception d6, Persuasion d6, Réparation d6, Tir d8.
+
 Handicaps : Serment (principes religieux), Recherché.
+
 Atouts : Brave, Panache, Nerfs d’Acier Trempé, Frénésie Suprême, Prêtre.
 
 	PAR	RES

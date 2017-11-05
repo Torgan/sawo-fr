@@ -7,6 +7,7 @@ Allure : 6
 	d6	d6	d10	d4	d6
 
 Compétences : Combat d8, Discrétion d4, Équitation d4, Escalade d4, Intimidation d4, Lancer d6, Perception d4, Survie d4, Tir d6.
+
 Atouts : Brute.
 
 	PAR	RES

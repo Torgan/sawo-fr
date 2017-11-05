@@ -5,7 +5,7 @@ Allure : 3
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d4	d8	d8
 
-Compétences : Combat d6, Connaissances (Arcanes) d8, Connaissances (Histoire ancienne) d8, Perception d8, Discrétion d8, Sarcasme d10
+Compétences : Combat d6, Connaissances (Arcanes) d8, Connaissances (Histoire ancienne) d8, Perception d8, Discrétion d8, Sarcasme d10.
 
 	PAR	RES
 	5	5

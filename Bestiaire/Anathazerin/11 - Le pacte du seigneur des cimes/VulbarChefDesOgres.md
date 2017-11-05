@@ -6,7 +6,7 @@ Allure : 7
 	Agi	Âme	For	Int	Vig
 	d6	d6	d12+5	d4	d12
 
-Compétences : Combat d10, Intimidation d10, Lancer d6, Perception d4
+Compétences : Combat d10, Intimidation d10, Lancer d6, Perception d4.
 
 Atouts : Blocage, Grand balayage.
 

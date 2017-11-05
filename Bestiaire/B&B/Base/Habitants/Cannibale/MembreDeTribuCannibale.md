@@ -6,8 +6,10 @@ Charisme : -2
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d8	d6	d8
 
-Compétences : Navigation d6, Combat d6, Intimidation d6, Perception d6, Tir d6, Discrétion d6, Lancer d6
+Compétences : Navigation d6, Combat d6, Intimidation d6, Perception d6, Tir d6, Discrétion d6, Lancer d6.
+
 Handicaps : Cruel.
+
 Atouts : Combatif.
 
 	PAR	RES

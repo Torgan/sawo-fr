@@ -7,6 +7,7 @@ Allure : 6
 	d8	d8	d8	d8	d8
 
 Compétences : Combat d8, Connaissance (Batailles) d4, Discrétion d6, Escalade d6, Intimidation d8, Perception d8, Réseaux d6, Survie d8, Tir d8.
+
 Atouts : Commandement, Nerfs d’acier.
 
 	PAR	RES

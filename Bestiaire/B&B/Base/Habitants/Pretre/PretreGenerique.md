@@ -6,8 +6,10 @@ Charisme : +2
 	AGI	ÂME	FOR	INT	VIG
 	d6	d8	d6	d8	d6
 
-Compétences : Combat d4, Soins d6, Connaissance (Religion) d8, Recherche d4, Perception d6, Persuasion d6
+Compétences : Combat d4, Soins d6, Connaissance (Religion) d8, Recherche d4, Perception d6, Persuasion d6.
+
 Handicaps : Serment (principes de sa foi).
+
 Atouts : Charismatique, Prêtre.
 
 	PAR	RES

@@ -6,7 +6,8 @@ Charisme : -2
 	AGI	ÂME	FOR	INT	VIG
 	d8	d6	d6	d4	d6
 
-Compétences : Navigation d6, Combat d8, Intimidation d6, Perception d4, Tir d4, Discrétion d4, Lancer d6
+Compétences : Navigation d6, Combat d8, Intimidation d6, Perception d4, Tir d4, Discrétion d4, Lancer d6.
+
 Handicaps : Code d’Honneur (pirates), Sale Caractère.
 
 	PAR	RES

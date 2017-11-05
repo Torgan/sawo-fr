@@ -7,7 +7,7 @@ Aquatique : Allure 10
 	Agi	Âme	For	Int	Vig
 	d8	d8	d12+4	d4(A)	d12
 
-Compétences : Combat d10, Natation d10, Perception d12
+Compétences : Combat d10, Natation d10, Perception d12.
 
 	PAR	RES
 	7	12

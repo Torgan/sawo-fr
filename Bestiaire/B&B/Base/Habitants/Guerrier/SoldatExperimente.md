@@ -5,7 +5,8 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d6	d8	d6	d8
 
-Compétences : Combat d8, Intimidation d6, Perception d6, Tir d6, Lancer d6
+Compétences : Combat d8, Intimidation d6, Perception d6, Tir d6, Lancer d6.
+
 Atouts : Combatif.
 
 	PAR	RES

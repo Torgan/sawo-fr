@@ -6,7 +6,7 @@ Allure : 10
 	Agi	Âme	For	Int	Vig
 	d10	d12	d8	d4 (A)	d10
 
-Compétences : Perception d6
+Compétences : Perception d6.
 
 	PAR	RES
 	4 (+2 essaim)	7

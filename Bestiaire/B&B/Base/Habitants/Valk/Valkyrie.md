@@ -6,8 +6,10 @@ Charisme : +2
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d4	d8	d6
 
-Compétences : Combat d6, Perception d8, Intimidation d10, Connaissance (Arcanes) d8, Sorcellerie d10, Équitation d10+2
+Compétences : Combat d6, Perception d8, Intimidation d10, Connaissance (Arcanes) d8, Sorcellerie d10, Équitation d10+2.
+
 Handicaps : Sanguinaire, Serment (principes religieux valks).
+
 Atouts : Arcanes (Sorcellerie), Séduisante, Cavalier né, Charismatique, Commandement, Ferveur, Nouveau Pouvoir, Points de pouvoir.
 
 	PAR	RES
@@ -23,10 +25,10 @@ Atouts : Arcanes (Sorcellerie), Séduisante, Cavalier né, Charismatique, Comman
 ### Actions
 - Bâton de sorcier : Combat d6+2, Parade +1, deux mains, Allonge 1, 2d4
 - Dague en os : Combat d6 , 2d4.
-- Convocation d’allié : (oiseau de combat, mastiff démoniaque, jatakal) 3+PP, Portée 8, 3 (1/rd).
-- Déflexion : (vent démoniaque) 2PP, Portée 0, 3 (1/rd)
-- Éclair : (force étrangleuse invisible) 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
-- Terreur : (rire hideux) 2PP, Portée 16, Inst.
+- _Convocation d’allié_ : (oiseau de combat, mastiff démoniaque, jatakal) 3+PP, Portée 8, 3 (1/rd).
+- _Déflexion_ : (vent démoniaque) 2PP, Portée 0, 3 (1/rd)
+- _Éclair_ : (force étrangleuse invisible) 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
+- _Terreur_ : (rire hideux) 2PP, Portée 16, Inst.
 
 ### Équipement
 bâton de sorcier, dague en os, armure de cuir bouilli, poney des steppes.

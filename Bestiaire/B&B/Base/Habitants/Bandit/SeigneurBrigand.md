@@ -5,8 +5,10 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d8	d8	d8
 
-Compétences : Escalade d6, Connaissance (Batailles) d6, Combat d10, Intimidation d8, Perception d6, Équitation d8, Tir d8, Discrétion d6, Réseaux d6, Survie d8
+Compétences : Escalade d6, Connaissance (Batailles) d6, Combat d10, Intimidation d8, Perception d6, Équitation d8, Tir d8, Discrétion d6, Réseaux d6, Survie d8.
+
 Handicaps : Arrogant ou Présomptueux, Recherché.
+
 Atouts : Blocage, Commandement, Nerfs d’acier trempé, Tête Froide, Leader naturel, Balayage.
 
 	PAR	RES

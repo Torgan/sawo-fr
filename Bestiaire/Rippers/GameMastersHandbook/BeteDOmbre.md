@@ -7,7 +7,7 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d12	d10	d8	d10
 
-Compétences : Combat d10, Intimidation d12+2, Perception d12, Discrétion d12+4
+Compétences : Combat d10, Intimidation d12+2, Perception d12, Discrétion d12+4.
 
 	Parade	Résistance
 	7	7

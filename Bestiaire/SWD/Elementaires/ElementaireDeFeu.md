@@ -6,7 +6,7 @@ Allure : 6
 	Agi	Âme	For	Int	Vig
 	d12+1	d8	d4	d8	d6
 
-Compétences : Combat d10, Escalade d8, Tir d8
+Compétences : Combat d10, Escalade d8, Tir d8.
 
 	PAR	RES
 	7	5

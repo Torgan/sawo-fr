@@ -6,7 +6,7 @@ Charisme : +6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d10	d8	d8
 
-Compétences : Combat d8, Intimidation d8, Perception d8, Persuasion d10+6, Discrétion d6, Sarcasme d8
+Compétences : Combat d8, Intimidation d8, Perception d8, Persuasion d10+6, Discrétion d6, Sarcasme d8.
 
 	PAR	RES
 	6	8

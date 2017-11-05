@@ -6,8 +6,10 @@ Charisme : +4
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d8	d8	d8
 
-Compétences : Escalade d6, Combat d10, Intimidation d8, Connaissance (Batailles) d8, Sarcasme d8, Perception d6, Persuasion d8+4, Équitation d6, Tir d6, Lancer d6
+Compétences : Escalade d6, Combat d10, Intimidation d8, Connaissance (Batailles) d8, Sarcasme d8, Perception d6, Persuasion d8+4, Équitation d6, Tir d6, Lancer d6.
+
 Handicaps : Cupide (pouvoir personnel), Rancunier (mâles)
+
 Atouts : Amazone, Séduisante, Héroïne en bikini, Commandement, Contre-attaque, Serrez les rangs !, Vif, Noble, Tentatrice
 
 	PAR	RES

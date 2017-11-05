@@ -5,8 +5,10 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d8	d8	d8
 
-Compétences : Navigation d6, Escalade d6, Combat d8, Intimidation d6, Perception d6, Équitation d8, Tir d8, Lancer d6
+Compétences : Navigation d6, Escalade d6, Combat d8, Intimidation d6, Perception d6, Équitation d8, Tir d8, Lancer d6.
+
 Handicaps : Code d’Honneur (Amazone), Loyal.
+
 Atouts : Amazone, Combatif, Lien Mutuel, Nerfs d’acier.
 
 	PAR	RES

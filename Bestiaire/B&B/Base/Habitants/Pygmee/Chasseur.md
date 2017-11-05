@@ -6,8 +6,10 @@ Charisme : -4
 	AGI	ÂME	FOR	INT	VIG
 	d8	d6	d6	d6	d8
 
-Compétences : Escalade d8, Combat d6, Intimidation d6, Perception d6, Tir d8, Discrétion d10(+2), Survie d8+2, Lancer d8
+Compétences : Escalade d8, Combat d6, Intimidation d6, Perception d6, Tir d8, Discrétion d10(+2), Survie d8+2, Lancer d8.
+
 Handicaps : Sanguinaire, Frêle.
+
 Atouts : Forestier.
 
 	PAR	RES

@@ -6,8 +6,10 @@ Charisme : +4
 	AGI	ÂME	FOR	INT	VIG
 	d6	d6	d6	d6	d6
 
-Compétences : Combat d4, Soins d4, Perception d6, Persuasion d8
+Compétences : Combat d4, Soins d4, Perception d6, Persuasion d8.
+
 Handicaps : Demoiselle en détresse.
+
 Atouts : Séduisante.
 
 	PAR	RES
