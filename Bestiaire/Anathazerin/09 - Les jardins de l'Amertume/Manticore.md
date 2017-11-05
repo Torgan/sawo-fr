@@ -1,6 +1,6 @@
 # * Manticore
 
-Allure : 8
+Allure : 8, vol 10 montée 2.
 
 	Agi	Âme	For	Int	Vig
 	d8	d8	d12+3	d8	d10
@@ -16,10 +16,9 @@ Atouts : Frénésie suprême.
 - Armure +1 : fourrure épaisse.
 - Taille +3.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Vol : Allure 10, Montée 0.
 
 ### Actions
 - Morsure/Griffes : Combat d10, d12+d6+3.
 - Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Queue épineuse : Combat d10, d12+d8+3.
-- Volée d'épines : Tir d8, Petit Gabarit, 3/6/12, 2d6+2.
+- Volée d'épines : Tir d8, Petit Gabarit, 3/6/12, 2d6.
