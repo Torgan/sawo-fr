@@ -1,6 +1,6 @@
 # Loup arctique
 
-Les loups arctiques hantent les étendues gelées, parcourant les toundras en meutes. Leur fourrure est d'un blanc éclatant, ce qui leur permet de se fondre dans les paysages enneigés et glacés.
+Les loups arctiques hantent les étendues gelées, parcourant les toundras en meute. Leur fourrure est d'un blanc éclatant, ce qui leur permet de se fondre dans les paysages enneigés et glacés.
 
 Allure : 8(+d10)
 
