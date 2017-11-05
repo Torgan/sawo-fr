@@ -1,6 +1,6 @@
 # Aigle géant
 
-Allure : Vol 10, Montée 4
+Allure : Vol 20, Montée 10
 
 	Agi	Âme	For	Int	Vig
 	d12	d10	d12	d6	d8
