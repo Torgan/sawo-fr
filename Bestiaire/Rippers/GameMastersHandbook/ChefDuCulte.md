@@ -8,9 +8,9 @@ Charisme : -2
 
 Compétences : Combat d6, Intimidation d6, Connaissance (Occulte) d6, Perception d8, Persuasion d8, Tir d8, Magie d8.
 
-Handicaps : Sale Caractère, Serment(servir Apep)
+Handicaps : Sale Caractère, Serment(servir Apep).
 
-Atouts: Arcanes(Magie), Mage
+Atouts: Arcanes(Magie), Mage.
 
 PP: 20
 Pouvoirs: Explosion, Éclair, Ténèbres(ténèbres), Convocation d'allié 

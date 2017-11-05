@@ -8,7 +8,7 @@ Charisme : +4
 
 Compétences : Combat d8, Escalade d6, Intimidation d6, Lancer d10, Perception d6.
 
-Atouts : Amazone (B&B P.74), Charismatique, Commandement, Séduisante
+Atouts : Amazone (B&B P.74), Charismatique, Commandement, Séduisante.
 
 	PAR	RES
 	6	13 (2)

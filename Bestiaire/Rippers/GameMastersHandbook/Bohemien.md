@@ -16,9 +16,9 @@ Raison : 6
 
 Compétences : Combat d6, Connaisance (Occulte) d6, Persuasion d8, Discrétion d6, Réseaux d6, Survie d4, Sarcasmes d8, Pistage d4, Option : Magie d6.
 
-Handicaps : Étranger
+Handicaps : Étranger.
 
-Atouts : variables
+Atouts : variables.
 
 Option : PP: 15
 

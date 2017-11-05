@@ -8,7 +8,7 @@ Charisme : +2
 
 Compétences : Combat d12, Discrétion d6, Intimidation d10, Lancer d8, Perception d6, Tir d8.
 
-Atouts : Charismatique, Commandement, Costaud, Ferveur
+Atouts : Charismatique, Commandement, Costaud, Ferveur.
 
 	PAR	RES
 	7 (-1)	9

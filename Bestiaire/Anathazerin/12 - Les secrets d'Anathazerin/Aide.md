@@ -7,7 +7,7 @@ Allure : 6
 
 Compétences : Combat d12+2 (Dé joker d10), Connaissance (Cosmologie) d6, Foi d12, Guérison d6, Intimidation d12, Perception d8+2.
 
-Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyante, Frénésie suprème, Grand Balayage, Grand Blocage, Grande contre-attaque, Grande esquive, Maître (Combat), Grande résistance aux arcanes, Maître d'arme légendaire. 
+Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyante, Frénésie suprème, Grand Balayage, Grand Blocage, Grande contre-attaque, Grande esquive, Maître (Combat), Grande résistance aux arcanes, Maître d'arme légendaire. .
 
 	PAR	RES
 	15 (2)	13 (6)

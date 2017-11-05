@@ -9,7 +9,7 @@ Charisme : +4
 
 Compétences : Combat d6, Crochetage d6, Discrétion d6, Escalade d4, Intimidation d6+4, Jeu d8, Lancer d6, Perception d8, Performance d10+1, Persuasion d10+4, Réseaux d8+4, Sarcasme d10, Tir d8.
 
-Atouts : Séduisant, Charismatique, Troubadour
+Atouts : Séduisant, Charismatique, Troubadour.
 
 	PAR	RES
 	7 (2)   7 (2)

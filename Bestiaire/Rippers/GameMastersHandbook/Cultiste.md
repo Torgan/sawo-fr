@@ -9,7 +9,7 @@ Allure : 6
 
 Compétences : Combat d4, Foi d6, Intimidation d6, Connaissance (Occulte) d6.
 
-Handicaps : Sale Caractère, Serment(servir Apep)
+Handicaps : Sale Caractère, Serment(servir Apep).
 
 Charisme : -2
 

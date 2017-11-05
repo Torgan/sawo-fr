@@ -15,9 +15,9 @@ Raison: 5
 
 Compétences : Combat d8, Discrétion d4, Escalade d4, Perception d4, Tir d6 .
 
-Handicaps : Cupide
+Handicaps : Cupide.
 
-Atouts : variables
+Atouts : variables.
 
 	PAR	RES
 	6   6

@@ -10,7 +10,7 @@ Compétences : Escalade d8, Combat d6, Intimidation d6, Perception d6, Tir d6, D
 
 Handicaps : Sanguinaire, Frêle.
 
-Atouts : Forestier
+Atouts : Forestier.
 
 	PAR	RES
 	5	4

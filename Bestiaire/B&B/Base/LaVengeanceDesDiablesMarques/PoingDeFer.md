@@ -8,9 +8,9 @@ Charisme : -2
 
 Compétences : Combat d8, Connaissance (Métallurgie) d8, Intimidation d8, Perception d6, Réparation d10.
 
-Handicaps : Moche, Manchot
+Handicaps : Moche, Manchot.
 
-Atouts : Amazone, Ambidextre, Héroïne en bikini, Costaud, Combat à deux armes
+Atouts : Amazone, Ambidextre, Héroïne en bikini, Costaud, Combat à deux armes.
 
 	PAR	RES
 	6 (7)	6

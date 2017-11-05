@@ -7,7 +7,7 @@ Allure : 5
 
 Compétences : Combat d8, Connaissance (Travail de la pierre), Discrétion d6, Escalade d6, Intimidation d6, Lancer d8, Perception d6.
 
-Atouts : Balayage, Brave, Combatif, Nerfs d’acier
+Atouts : Balayage, Brave, Combatif, Nerfs d’acier.
 
 Handicaps : Cupide (mineur), Loyal.
 

@@ -7,7 +7,7 @@ Allure : 4
 
 Compétences : Combat d6, Discrétion d4, Intimidation d4, Magie d6, Perception d6, Tir d4.
 
-Atouts : Arme fétiche (marteau de guerre), Arcane (Magie Duergar)
+Atouts : Arme fétiche (marteau de guerre), Arcane (Magie Duergar).
 
 	PAR	RES
 	5	8 (2)

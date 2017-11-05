@@ -8,7 +8,7 @@ Allure : 6
 
 Compétences : Combat d10, Discrétion d8, Escalade d6, Lancer d6, Perception d6+2.
 
-Atouts : Enragé, Vigilance
+Atouts : Enragé, Vigilance.
 
 	PAR	RES
 	6 (-1)	10 (1)

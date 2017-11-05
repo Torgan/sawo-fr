@@ -8,9 +8,9 @@ Charisme : X (si non nul)
 
 Compétences : Combat dX, ...
 
-Handicaps : (s'il y en a)
+Handicaps : (s'il y en a).
 
-Atouts : (s'il y en a)
+Atouts : (s'il y en a).
 
 	PAR	RES
 	X	X (X)
