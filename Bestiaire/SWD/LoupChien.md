@@ -10,11 +10,11 @@ Allure : 8(+d10)
 Compétences : Combat d6, Perception d10.
 
 	PAR	RES
-	5	4 (-1 Taille)
+	5	4
 
 ### Capacités spéciales
-Taille -1 : les chiens sont plutôt petits.
+Taille -1.
 
 ### Actions
-- Morsure : Combat d6, d6+d4
-- À la gorge : attaque aux points faibles. Avec une Relance sur son jet d’attaque, il touche la zone la plus faiblement protégée.
+- Morsure : Combat d6, d6+d4.
+- À la gorge : touche la zone la moins protégée sur Relance en attaque.
