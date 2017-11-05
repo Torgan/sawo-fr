@@ -15,13 +15,13 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 ### Capacités spéciales
 - Armure +2 : armure naturelle
 - Énorme : attaque adverse +4.
-- Faiblesse : les dégâts des attaques de feu sont doublés.
-- Plante : +2 pour récupérer d'un état Secoué. Ignore les malus de Blessures, le poison et les dégâts supplémentaires liés aux attaques ciblées.
-- Résistance physique : les dégats physiques des attaques non tranchantes subissent un malus de -3.
+- Faiblesse (Feu) : dégâts de feu x2.
+- Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
+- Résistance physique : dégats -3 si attaque physique non tranchante.
 - Taille +8.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions
 - Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
-- Coup : Combat d8, d12+d8+4. Une attaque occasionnant une Blessure ou un état Secoué impose un jet de Vigueur à -2 pour la victime sous peine de perdre un niveau de Fatigue. Dans ce cas, le sylvanien maudit soigne une Blessure. Les niveaux de Fatigue disparaissent au bout de 24h.
+- Coup drainant : Combat d8, d12+d8+4. Si Secoue ou Blesse +1 Fatigue sur Échec de Vigueur -2 et le sylvanien récupère 1 Blessure. La Fatigue se récupère en 24h.
