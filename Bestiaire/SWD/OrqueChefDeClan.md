@@ -10,14 +10,14 @@ Allure : 6
 Compétences : Combat d12, Discrétion d6, Intimidation d10, Lancer d8, Perception d6, Tir d8
 
 	PAR	RES
-	8	11 (3)
+	7 (-1)	11 (3)
 
 ### Capacités spéciales
 - Taille +1 : les orques sont un peu plus grands que les humains.
 
 ### Actions
-- Hache de bataille	: Combat d12, 2d10.
+- Hache de bataille : Combat d12, 2 mains, Parade -1, PA1, 2d10.
 - Balayage : attaque tout ennemi adjacent à -2.
 
 ### Équipement
-Plastron de plaques (+3), jambières et brassières en cottes de maille (+2), hache de bataille (For+d10).
+Plastron de plaques, jambières et brassières en cottes de maille, hache de bataille.
