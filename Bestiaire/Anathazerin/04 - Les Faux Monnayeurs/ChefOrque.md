@@ -12,7 +12,7 @@ Compétences : Combat d8, Discrétion d6, Intimidation d10, Lancer d6, Percepti
 	6	9 (2)
 
 ### Capacités spéciales
-- Taille +1 : un peu plus grands qu'un humain.
+- Taille +1.
 
 ### Actions
 - Balayage : attaque tout ennemi adjacent à -2.

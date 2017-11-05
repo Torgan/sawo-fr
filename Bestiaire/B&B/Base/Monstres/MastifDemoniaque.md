@@ -13,7 +13,7 @@ Compétences : Combat d8, Intimidation d10, Perception d8, Pistage d10
 ### Capacités spéciales
 - Armure +1 : peau épaisse.
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
-- Taille +1 : Les mastiffs démoniaques font la taille d’un poney.
+- Taille +1.
 - Traqueur surnaturel : Un mastiff démoniaque ignore tous les malus de Pistage liés à un éclairage insuffisant et à l’âge des empreintes.
 
 ### Actions

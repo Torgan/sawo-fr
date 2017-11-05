@@ -14,7 +14,7 @@ Compétences : Combat d10, Intimidation d12, Perception d8
 ### Capacités spéciales
 - Armure +4 : peau d’écailles.
 - Grand : on ajoute +2 à ses jets d’attaque contre un drake en raison de sa grande taille.
-- Taille +5 : un drake fait 6 mètres de long de la gueule à la queue et pèse aux alentours de 1500 kg.
+- Taille +5.
 - Terreur : les drakes sont des créatures terrifiantes à regarder.
 
 ### Actions

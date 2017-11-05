@@ -13,7 +13,7 @@ Compétences : Combat d8, Perception d8
 	6	8
 
 ### Capacités spéciales
-- Taille +2 : un lion mâle pèse près de 250 kg.
+- Taille +2.
 
 ### Actions
 - Morsure/griffes : Combat d8, d12+d6

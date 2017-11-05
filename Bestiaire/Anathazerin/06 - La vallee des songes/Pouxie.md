@@ -13,7 +13,7 @@ Atouts : Forestier.
 	5	3
 
 ### Capacités spéciales
-- Taille -2 : un pouxie fait une soixantaine de centimètres.
+- Taille -2.
 
 ### Actions
 - Couteau : Combat d6, 2d4 + poison provoquant l'inconscience (-2).

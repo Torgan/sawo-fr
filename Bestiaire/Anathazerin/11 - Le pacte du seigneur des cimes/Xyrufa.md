@@ -18,7 +18,7 @@ Atouts : Amazone (B&B P.74), Charismatique, Commandement, Séduisante
 — Armure +2 : peau épaisse.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Grand : attaque adverse +2.
-- Taille +4
+- Taille +4.
 
 ### Actions
 - Balayage : Attaque tous les adversaires adjacents à -2.

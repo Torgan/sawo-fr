@@ -16,7 +16,7 @@ Atouts : Charismatique, Commandement, Costaud, Ferveur
 ### Capacités spéciales
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
-- Taille +1 : les orques sont un peu plus grands que les humains.
+- Taille +1.
 
 ### Actions
 - Hache de bataille : Combat d12, 2 mains, PA1, Parade -1, 2d10.

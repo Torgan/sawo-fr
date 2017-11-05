@@ -18,7 +18,7 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 - Faiblesse : les dégâts des attaques de feu sont doublés.
 - Plante : +2 pour récupérer d'un état Secoué. Ignore les malus de Blessures, le poison et les dégâts supplémentaires liés aux attaques ciblées.
 - Résistance physique : les dégats physiques des attaques non tranchantes subissent un malus de -3.
-- Taille +8 : les arbres animés font 6m de haut.
+- Taille +8.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 

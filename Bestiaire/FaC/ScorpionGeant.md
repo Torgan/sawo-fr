@@ -14,7 +14,7 @@ Compétences : Combat d8, Discrétion d8, Escalade d6, Intimidation d8, Perc
 
 ### Capacités spéciales
 - Armure +3 : peau chitineuse.
-- Taille +1 : un scorpion géant mesure plus de 2 mètres.
+- Taille +1.
 
 ### Actions
 - Dard : Combat d8, d12+d6+1 + poison. Jet de vigueur ou inconscience. La mort survient 2d6 rounds plus tard.

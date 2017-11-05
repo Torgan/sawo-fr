@@ -17,7 +17,7 @@ Atouts : Blocage, Guerrier impie.
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Guerrier impie : avec Succès à Âme -2, les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) sont repoussés si Échec sur un jet d’ Âme, subissent une Blessure si 1 sur leur jet.
 - Résistance : Armure +2 contre feu et acide, +2 pour résister aux Pouvoirs utilisant ces aspects.
-- Taille +3 : de la taille d'un cheval de guerre lourd.
+- Taille +3.
 
 ### Actions
 - Triple fléau enflammé : Combat d12, d12+4+d8 + 1d6 (feu), ignore bouclier et couvert, peut enflammer. 

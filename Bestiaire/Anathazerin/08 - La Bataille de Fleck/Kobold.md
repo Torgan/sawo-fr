@@ -15,7 +15,7 @@ Atout : Extraction.
 ### Capacités spéciales
 - Extraction : empêche une attaque ennemie sur une retraite avec un jet d’Agilité.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
-- Taille -1 : mesure entre 1m et 1m20.
+- Taille -1.
 
 ### Actions
 - Griffes : Combat d4, 2d4.

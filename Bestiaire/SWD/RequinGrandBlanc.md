@@ -15,7 +15,7 @@ Compétences : Combat d10, Natation d10, Perception d12
 ### Capacités spéciales
 - Grand : les attaquants d’un grand requin blanc ajoutent +2 à leurs jets en raison de sa grande taille.
 - Résistant : pas de Blessure si Secoué deux fois.
-- Taille +4 : peut dépasser les 7,5 m.
+- Taille +4.
 
 ### Actions
 - Morsure	: Combat d10, d12+d8+4.

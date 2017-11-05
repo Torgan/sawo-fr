@@ -18,7 +18,7 @@ Atouts : Commandement, Contre-Attaque, Ferveur, Inspiration, Vigilance.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
 - Inspiration : les troupes ont un bonus de +1 à leurs jets d’Âme.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
-- Taille +1 — les gobelours sont un peu plus grands que les humains.
+- Taille +1.
 
 ### Actions
 - Masse cloutée : Combat d10, d12+d8

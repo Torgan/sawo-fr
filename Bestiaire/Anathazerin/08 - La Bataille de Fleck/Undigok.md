@@ -16,7 +16,7 @@ Atouts : Arcane (Magie), Drain de l'âme, Mage.
 - Arcane : Magie d10, 25PP.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Mage : Chaque Relance sur le jet d’Arcane réduit le coût en PP du Pouvoir de 1.
-- Taille +1 : un peu plus grands qu'un humain.
+- Taille +1.
 
 ### Actions
 - Masse sanglante : Combat d8, d8+d6+2, un résultat Secoué équivaut à une Blessure.

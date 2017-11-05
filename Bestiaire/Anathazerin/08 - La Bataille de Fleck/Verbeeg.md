@@ -11,7 +11,7 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Perception d4.
 	6	11
 
 ### Capacités spéciales
-- Taille +3 : mesure plus de 2,5 m de haut.
+- Taille +3.
 
 ### Actions
 - Balayage : attaque tout ennemi adjacent à -2.

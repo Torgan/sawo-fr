@@ -13,7 +13,7 @@ Compétences : Combat d8, Perception d8.
 ### Capacités spéciales
 - Vol : Un Fossoyeur zandorien vole avec une Allure de 8 et une Montée de -3.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Taille +1 : Six mètres d’envergure et capable d’emporter un homme dans les airs.
+- Taille +1.
 - Tueur de morts-vivants: Un Fossoyeur zandorien est un ennemi naturel des morts-vivants. Il n’est pas affecté par la Terreur que les morts-vivants inspirent, et il bénéficie d’un bonus de +2 au toucher et aux dégâts lorsqu’il attaque une créature avec l’Aptitude monstrueuse Mort-vivant.
 
 ### Actions

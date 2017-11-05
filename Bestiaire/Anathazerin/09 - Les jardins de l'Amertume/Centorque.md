@@ -11,7 +11,7 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Perception d6.
 	5 (-1)	10
 
 ### Capacités spéciales
-- Taille +3 : de la taille d'un cheval de guerre lourd.
+- Taille +3.
 
 ### Actions
 - Grande hache : Combat d8, 2 mains, Parade -1, PA1, d12+d10.

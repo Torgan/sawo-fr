@@ -13,7 +13,7 @@ Compétences : Combat d6, Discrétion d6, Intimidation d8, Lancer d6, Magie d10
 ### Capacités spéciales
 - Arcanes : Magie d10, 20PP.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
-- Taille +1 : un peu plus grands qu'un humain.
+- Taille +1.
 
 ### Actions
 - Dague sacrificielle : Combat d6, d6+d4 + poison (-2, perte d'un niveau de Fatigue).

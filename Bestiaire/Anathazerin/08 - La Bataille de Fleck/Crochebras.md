@@ -12,7 +12,7 @@ Compétences : Combat d10, Intimidation d8, Lancer d8, Magie d8, Perception�
 
 ### Capacités spéciales
 - Arcane : Magie d8, 15PP.
-- Taille +3 : mesure plus de 2,5m de haut.
+- Taille +3.
 
 ### Actions
 - Épée : Combat d10, d12+d8+2.

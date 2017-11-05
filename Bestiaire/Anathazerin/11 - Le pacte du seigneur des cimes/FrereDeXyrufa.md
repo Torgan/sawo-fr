@@ -16,7 +16,7 @@ Atout : Ferveur, Grand balayage
 — Armure +2 : peau épaisse.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
 - Grand : attaque adverse +2.
-- Taille +4
+- Taille +4.
 
 ### Actions
 - Grand balayage : Attaque tous les adversaires adjacents.

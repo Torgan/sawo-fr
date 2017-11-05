@@ -14,7 +14,7 @@ Atout: Ambidextre, Combat à deux armes.
 
 ### Capacités spéciales
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
-- Taille -1 : mesure entre 1m et 1m20.
+- Taille -1.
 
 ### Actions
 - Boutetroll/épée courte : Combat d8/d8, 2d6+2 + enflamme, 2d6.

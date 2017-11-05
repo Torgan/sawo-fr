@@ -14,7 +14,7 @@ Compétences : Combat d6, Discrétion d8, Escalade d8, Perception d8.
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Taille -1 : de la taille d'un gros chien.
+- Taille -1.
 
 ### Actions
 - Morsure : Combat d6, d6+d4.

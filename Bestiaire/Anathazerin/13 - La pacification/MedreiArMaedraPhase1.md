@@ -18,7 +18,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 - Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
 - Grand : attaque adverse +2.
 - Grande résistance aux arcanes arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
-- Taille +3
+- Taille +3.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions

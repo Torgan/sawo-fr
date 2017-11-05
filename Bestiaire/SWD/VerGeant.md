@@ -18,7 +18,7 @@ Compétences : Combat d6, Discrétion d10, Perception d10
 - Armure +4 : peau écailleuse.
 - Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétineemnt. 
 - Résistant : pas de Blessure si Secoué deux fois.
-- Taille +10 : Un ver géant dépasse les 15 m de long et fait bien 3 m de diamètre.
+- Taille +10.
 
 ### Actions
 - Morsure : Combat d6, AL, d12+d8+10

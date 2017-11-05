@@ -12,7 +12,7 @@ Compétences : Combat d6, Discrétion d6, Intimidation d8, Lancer d6, Perce
 	5	8 (1)
 
 ### Capacités spéciales
-- Taille +1 : un peu plus grands qu'un humain.
+- Taille +1.
 
 ### Actions
 - Épée longue : Combat d6, 2d8.

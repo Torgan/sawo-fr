@@ -14,7 +14,7 @@ Atout : Tireur d'élite.
 	6	8 (1)
 
 ### Capacités spéciales
-- Taille +1 : un peu plus grands qu'un humain.
+- Taille +1.
 - Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 
 ### Actions

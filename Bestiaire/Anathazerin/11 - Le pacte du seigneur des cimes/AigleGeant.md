@@ -13,7 +13,7 @@ Compétences : Combat d6, Perception d12+2.
 ### Capacités spéciales
 - Armure +1 : plumes épaisses
 - Esquive : -1 aux attaques à distance contre la créature.
-- Taille +2 : 5 mètres d'envergure.
+- Taille +2.
 - Vigilant : Perception +2. 
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

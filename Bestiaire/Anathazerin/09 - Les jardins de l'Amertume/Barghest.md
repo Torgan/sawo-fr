@@ -18,7 +18,7 @@ Atouts : Combatif, Tête froide.
 - Extraplanaire : non natif du plan primaire, peut être ciblé par le pouvoir _Banissement_.
 - Odorat : +4 aux jets de Perception et de Pistage impliquant l'odorat.
 - * Résistant : pas de Blessure si Secoué deux fois.
-- Taille +1 : un peu plus grand qu'un humain.
+- Taille +1.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

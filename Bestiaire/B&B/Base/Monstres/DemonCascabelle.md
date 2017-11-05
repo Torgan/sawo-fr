@@ -13,7 +13,7 @@ Compétences : Combat d8, Connaissance (Arcanes) d10, Perception d6, Persuasion 
 
 ### Capacités spéciales
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
-- Taille +3 : Les Démon cascabelle ont la taille d’un cheval.
+- Taille +3.
 - Beauté surnaturelle : Les Démons cascabelle ont des visages et voix superbes. Leur Charisme est de +4.
 - Rusé : Un Démon cascabelle convoqué veut rester dans le monde des Dominions de la Mer du Désastre, et va tout faire pour se libérer de l’emprise de son invocateur. Si il est convoqué pour rester au-delà de quelques rounds (voir la version du sort Convocation d’allié dans le chapitre Magie), le Démon peut faire un jet Opposé entre son Âme et la Compétence d’Arcanes de l’invocateur afin de se libérer immédiatement. Il peut faire le même jet lorsque la Convocation s’achève.
 

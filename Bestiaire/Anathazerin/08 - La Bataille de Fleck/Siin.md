@@ -15,7 +15,7 @@ Atouts : Enragé, Vigilance
 
 ### Capacités spéciales
 - Enragé : le personnage devient enragé s’il subit une blessure ou un état Secoué. Il subit un malus de -2 en Parade, et un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
-- Taille +1 : un peu plus grands qu'un humain.
+- Taille +1.
 
 ### Actions
 - Marteau géant : Combat d10, Parade -1, 2 mains, 2d12

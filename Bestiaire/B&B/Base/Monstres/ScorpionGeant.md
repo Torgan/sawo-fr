@@ -12,7 +12,7 @@ Compétences : Combat d6, Perception d4.
 
 ### Capacités spéciales
 - Armure +3 : Exosquelette épais.
-- Taille +1 : Aussi grand qu’un poney.
+- Taille +1.
 - Faiblesse (yeux) : Une Attaque ciblée à -4 sur les yeux est la seule méthode pour passer outre son armure impénétrable.
 
 ### Actions

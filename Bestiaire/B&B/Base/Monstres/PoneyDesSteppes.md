@@ -12,7 +12,7 @@ Compétences : Combat d4, Perception d6
 
 ### Capacités spéciales
 - Increvable : Les Poneys des steppes bénéficient d’un bonus de +2 aux jets de Vigueur pour résister à la fatigue.
-- Taille +1 : Les Poneys des steppes sont plus petits que des chevaux ordinaires.
+- Taille +1.
 
 ### Actions
 - Ruade : Combat d4, d12.

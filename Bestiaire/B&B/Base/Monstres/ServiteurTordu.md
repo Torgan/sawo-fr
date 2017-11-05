@@ -13,7 +13,7 @@ Compétences : Combat d6, Intimidation d6, Perception d6, Discrétion d4
 
 ### Capacités spéciales
 - Aspect altéré : Les Serviteurs tordus sont particulièrement hideux, c’est pourquoi ils ont le Handicap Moche.
-- Taille +1 : Les Serviteurs tordus sont plus grands et plus musclés que les humains.
+- Taille +1.
 
 ### Actions
 - Griffes : Combat d6, d8+d4.

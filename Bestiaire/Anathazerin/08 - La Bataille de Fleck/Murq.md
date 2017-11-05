@@ -13,7 +13,7 @@ Atouts : Combat à deux armes, Expert en bouclier, Frénésie suprême, Maitre e
 	11 (4)	11 (2)
 
 ### Capacités spéciales
-- Taille +1 : un peu plus grands qu'un humain.
+- Taille +1.
 - Expert en bouclier : Parade +1 avec un bouclier.
 - Maitre en bouclier : bénéficie du bonus de Parade du bouclier même en cas d'attaque avec ce dernier.
 - Nerfs d’acier : ignore 1 point de malus lié aux Blessures.

@@ -27,8 +27,5 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - * Petit : attaque adverse -2 si en mouvement.
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
-- Taille -1 : de la taille d'un enfant.
-- Taille +1 : un peu plus grand qu'un humain.
-- Taille +2 : de la taille d'un cheval de selle.
-- Taille +3 : de la taille d'un cheval de guerre lourd.
+- * Taille [+-]X.
 - * Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.

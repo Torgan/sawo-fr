@@ -14,7 +14,7 @@ Atouts : Grand balayage.
 
 ### Capacités spéciales
 - Armure +1 : peau épaisse.
-- Taille +3 : de la taille d'un cheval de guerre lourd. 
+- Taille +3.
 - Trois têtes : les trois têtes confèrent les avantages suivants : +2 en Perception, +2 pour annuler Secoué et les attaques ciblées ne provoquent pas de dégâts supplémentaires. Une Blessure ciblant une tête la met hors de combat. La créature est tuée quand les trois têtes sont hors combat.
 - Terreur (0) : impose un test de Terreur.
 

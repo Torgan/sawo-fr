@@ -16,7 +16,7 @@ Atouts : Grand balayage, Costaud, Commandement, Grand blocage, Ferveur.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 10 cases.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
 - Grande aura de commandement  : l’aura de commandement a un rayon de 10 cases.
-- Taille +1 : les orques sont un peu plus grands que les humains.
+- Taille +1.
 
 ### Actions
 - Grand balayage : Attaque tous les adversaires adjacents.

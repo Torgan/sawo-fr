@@ -15,7 +15,7 @@ Atouts : Brute, Frénésie, Grand Balayage.
 
 ### Capacités spéciales
 - Chef des Brutes : Un Mâle Alpha Nandal peut utiliser la Capacité Brutes Grognantes (voir Nandal) en utilisant les jetons de Furie Nandal d’un groupe Nandal dans les 12 cases. Un Jeton utilisé de cette façon n’a d’effet que sur le Mâle Alpha.
-- Taille +2 : Les Nandals sont plus grands que les hommes, le Mâle Alpha est encore plus grand.
+- Taille +2.
 
 ### Actions
 - Gourdin : Combat d8, d10+d8+2.

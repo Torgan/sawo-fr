@@ -13,7 +13,7 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Perception d4.
 	6	12 (1)
 
 ### Capacités spéciales
-- Taille +3 : mesure plus de 2,5m de haut avec une grosse bedaine et des membres massifs.
+- Taille +3.
 
 ### Actions
 - Massue : Combat d8, d12+d8+3.

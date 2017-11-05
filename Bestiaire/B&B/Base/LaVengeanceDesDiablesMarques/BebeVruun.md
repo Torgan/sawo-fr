@@ -12,7 +12,7 @@ Compétences : Combat d6, Perception d6
 
 ### Capacités spéciales
 - Armure +2 : peau écailleuse.
-- Taille +2 : le bébé Vruun a la taille d’un cheval.
+- Taille +2.
 - Piétinement : Force. Les dents du Vruun sont émoussées et la créature ne mord pas. Elle préfère piétiner ses cibles avec ses pattes massives.
 - Faiblesse (Gaz dans l’estomac) : Le Vruun est virtuellement insensible à toute attaque. Sa seule faiblesse est le gaz dans son estomac. Lancer une torche allumée ou similaire dans la bouche ouverte de la bête demande précision et timing (-4 Attaque Ciblée), mais cela a un effet spectaculaire. La bête explose littéralement, faisant 3d6 dommages à toute cible dans un Grand Gabarit d’explosion.
 

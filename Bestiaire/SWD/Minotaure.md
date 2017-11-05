@@ -13,7 +13,7 @@ Compétences : Combat d10, Intimidation d12, Lancer d6, Perception d10
 	8   11 (1)
 
 ### Capacités spéciales
-- Taille +2 : dépasse les 2m10 de haut.
+- Taille +2.
 
 ### Actions
 - Lance : Combat d10, Allonge 1, Parade +1, d12+d6+2.

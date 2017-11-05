@@ -11,7 +11,7 @@ Compétences : Combat d8, Discrétion d6, Intimidation d10, Lancer d6, Percepti
 	6	8 (1)
 
 ### Capacités spéciales
-- Taille +1 : un peu plus grand qu'un humain.
+- Taille +1.
 
 ### Actions
 - Cimeterre large : Combat d8, d10+d8.

@@ -13,7 +13,7 @@ Atouts : Vigilance.
 	6	9 (1)
 
 ### Capacités spéciales
-- Taille +1 — un peu plus grands qu'un humain.
+- Taille +1.
 
 ### Actions
 - Hachette ou épieu : Combat d8, d10+d6.

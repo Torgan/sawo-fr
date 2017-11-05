@@ -14,7 +14,7 @@ Atouts : Blocage, Grand balayage.
 	7 (-1)	13 (2)
 
 ### Capacités spéciales
-- Taille +3 : un ogre mesure plus de 2,5m de haut, a une grosse bedaine et des membres massifs.
+- Taille +3.
 
 ### Actions
 - Grand balayage : attaque tout ennemi adjacent.

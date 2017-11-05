@@ -15,7 +15,7 @@ Atout : Grande extraction.
 ### Capacités spéciales 
 - Grande extraction : empêche une attaque ennemie sur une retraite avec un jet d’Agilité, et toutes les attaques sur une Relance.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
-- Taille -1 : mesure entre 1m et 1m20.
+- Taille -1.
 
 ### Actions
 - Lance : Combat d6, 2d6.

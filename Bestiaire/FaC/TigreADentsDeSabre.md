@@ -13,7 +13,7 @@ Compétences : Combat d8, Discrétion d8, Escalade d8, Intimidation d8, Per
 	6	10
 
 ### Capacités spéciales
-- Taille +3 : un tigre à dents de sabre pèse près de 400 kg.
+- Taille +3.
 
 ### Actions
 - Morsure : Combat d8, PA1, d12+d10

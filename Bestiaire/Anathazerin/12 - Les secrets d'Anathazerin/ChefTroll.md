@@ -15,7 +15,7 @@ Compétences : Combat d10, Intimidation d10, Lancer d6, Natation d6, Percepti
 ### Capacités spéciales
 - Armure +1 : peau caoutchouteuse.
 - Régénération rapide : peut tenter un jet de guérison naturelle à chaque round sauf si les blessures sont causées par le feu ou les flammes.
-- Taille +2 : grandes créatures dégingandées à grosse bedaine de plus de 2,5m de haut.
+- Taille +2.
 
 ### Actions
 - Massue cloutée : Combat d10, d12+d8+3.

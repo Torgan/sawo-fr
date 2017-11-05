@@ -14,7 +14,7 @@ Atout : Balayage
 	6	9 (2)
 
 ### Capacités spéciales
-- Taille +1 : un peu plus grand qu'un humain.
+- Taille +1.
 
 ### Actions
 - Épée : Combat d8, d10+d8.

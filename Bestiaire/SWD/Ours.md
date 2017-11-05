@@ -13,7 +13,7 @@ Compétences : Combat d8, Natation d6, Perception d8
 	6	10 (+2 Taille)
 
 ### Capacités spéciales
-- Taille +2 : un ours peut dépasser les 2,5 m et peser une demi tonne.
+- Taille +2.
 
 ### Actions
 - Griffes/Morsure	: Combat d8, d12+d6+4. Les ours utilisent leur masse pour immobiliser leurs proies afin de les déchiqueter avec leurs griffes et leurs crocs. Si l’ours touche avec une Relance, il immobilise sa proie. L’adversaire ne peut se défaire de l’étreinte à son action qu’en obtenant une Relance sur un jet de Force opposé.

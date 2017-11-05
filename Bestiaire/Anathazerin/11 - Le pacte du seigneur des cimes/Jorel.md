@@ -14,7 +14,7 @@ Compétences : Combat d10, Escalade d8, Intimidation d10, Lancer d10, Perceptio
 - Grand : attaque adverse +2.
 - Faiblesse (Feu) : les dégâts des attaques de feu sont doublés.
 - Immunité (Froid) : les géants du givre sont immunisés à toute forme de froid.
-- Taille +5
+- Taille +5.
 
 ### Actions
 - Aura glaciale : les géants du givre irradient d'un froid mortel. A la fin de leur action d'un round, toutes les créatures adjacentes subissent 2d6 de dégâts de froid.

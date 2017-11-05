@@ -17,7 +17,7 @@ Atout : Arcane (Magie), Charismatique, Mage.
 - Arcane (Magie) : Magie d10, 25PP.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Mage : réduit de 1 PP par Relance au jet d’Arcane le coût du pouvoir.
-- Taille -1 : mesure entre 1m et 1m20.
+- Taille -1.
 
 ### Actions
 - Dague : Combat d6, 2d4.

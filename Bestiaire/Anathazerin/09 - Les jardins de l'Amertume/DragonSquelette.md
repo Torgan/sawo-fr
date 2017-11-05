@@ -16,7 +16,7 @@ Compétences : Combat d10, Intimidation d12, Perception d12.
 - Énorme : attaque adverse +4.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Résistant : pas de Blessure si Secoué deux fois.
-- Taille +8 : créature immense, près de 15 tonnes pour plus de 12 m de long.
+- Taille +8.
 - Terreur (-2) : impose un test de Terreur aux témoins.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 

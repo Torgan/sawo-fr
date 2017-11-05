@@ -17,7 +17,7 @@ Atout : Vigilance.
 - Armure +3
 - Grand : attaque adverse +2.
 - Immunité : électricité
-- Taille +6
+- Taille +6.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions

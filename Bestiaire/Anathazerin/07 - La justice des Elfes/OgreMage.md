@@ -13,7 +13,7 @@ Compétences : Combat d8, Intimidation d10+2, Magie d10, Perception d6, Persuas
 
 ### Capacités spéciales
 - Arcane : Magie d8, 30PP.
-- Taille +3 : un ogre-mage mesure plus de 2,5m de haut.
+- Taille +3.
 - Vol : un ogre-mage a une Allure de 8 en vol et une Montée de 4.
 
 ### Actions

@@ -13,7 +13,7 @@ Compétences : Combat d12, Discrétion d6, Intimidation d10, Lancer d8, Per
 	7 (-1)	11 (3)
 
 ### Capacités spéciales
-- Taille +1 : les orques sont un peu plus grands que les humains.
+- Taille +1.
 
 ### Actions
 - Hache de bataille : Combat d12, 2 mains, Parade -1, PA1, 2d10.

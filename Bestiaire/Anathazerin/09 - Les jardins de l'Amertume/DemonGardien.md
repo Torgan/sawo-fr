@@ -12,7 +12,7 @@ Compétences : Combat d10, Intimidation d10, Perception d6.
 
 ### Capacités spéciales
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
-- Taille +2 : de la taille d'un cheval de selle.
+- Taille +2.
 
 ### Actions
 - Cornes et griffes : Combat d10, d12+d6. Empoigne sa proie si Relance.

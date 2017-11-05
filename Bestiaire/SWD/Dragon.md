@@ -16,7 +16,7 @@ Compétences : Combat d10, Intimidation d12, Perception d12
 - Armure +4 : peau d’écailles.
 - Énorme : attaque adverse +4.
 - Résistant : pas de Blessure si Secoué deux fois.
-- Taille +8 : créature immense, le dragon pèse près de 15 tonnes et mesure un peu plus de 12 m de long des naseaux à la queue.
+- Taille +8.
 - Terreur (-2) : voir un puissant dragon oblige à faire un test de Terreur à -2.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 - Vol : les dragons ont une Allure de Vol de 24 et Accélération de 6.

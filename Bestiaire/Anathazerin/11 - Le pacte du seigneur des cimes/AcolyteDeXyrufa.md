@@ -19,7 +19,7 @@ Atouts : Arcane (Magie), Drain de l'âme.
 - Grand : attaque adverse +2.
 - Faiblesse (Feu) : les dégâts des attaques de feu sont doublés.
 - Immunité (Froid) : les géants du givre sont immunisés à toute forme de froid.
-- Taille +4
+- Taille +4.
 
 ### Actions
 - Balayage : Attaque tous les adversaires adjacents à -2.

@@ -12,7 +12,7 @@ Compétences : Escalade d12+2, Combat d8, Intimidation d8, Perception d6, Discr�
 
 ### Capacités spéciales
 - Seigneur de la jungle : Un Singe à crocs juché sur une branche ou sur un toit peut se déplacer comme s’il était sur la terre ferme du moment qu’il peut trouver des prises pour s’accrocher, et peut même s’élancer d’une prise à l’autre (3 cases maximum d’une branche à une autre).
-- Taille +3 : Les Singes à crocs mesurent 4m de haut.
+- Taille +3.
 
 ### Actions
 - Crocs : Combat d8, d12+d6+3.

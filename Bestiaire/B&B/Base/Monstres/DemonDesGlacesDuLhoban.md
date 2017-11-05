@@ -12,7 +12,7 @@ Compétences : Combat d8, Perception d8, Discrétion d8
 
 ### Capacités spéciales
 - Peur des saints hommes : Un Diable des glaces du Lhoban ne peut s’attaquer à un personnage ayant l’Atout Moine (contemplatif) à moins que le moine ne l’attaque d’abord.
-- Taille +1 : Un Diable des glaces du Lhoban mesure 2m50 de haut et pèse plus de 150kg.
+- Taille +1.
 - Habitant des neiges : La fourrure de ces créatures assure un camouflage parfait dans la neige, leur accordant un bonus de +2 aux jets de Discrétion dans tout environnement neigeux. De plus, ses pieds larges lui permettent de se mouvoir sans problème dans la neige, qu’il ne considère pas comme du Terrain difficile.
 
 ### Actions

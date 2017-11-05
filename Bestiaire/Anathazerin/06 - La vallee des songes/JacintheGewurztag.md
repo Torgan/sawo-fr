@@ -16,7 +16,7 @@ Atout : Arcane (Magie), Séduisant.
 ### Capacités spéciales
 - Arcane (Magie) : Magie d8, 20PP.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
-- Taille -1 : mesure entre 1m et 1m20.
+- Taille -1.
 
 ### Actions
 - Dague : Combat d6, 2d4

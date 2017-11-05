@@ -13,7 +13,7 @@ Compétences : Combat d6, Perception d4
 ### Capacités spéciales
 - Armure +2 : Écorce.
 - Léthargique : Ces créatures ne sont pas particulièrement rapides. Une Horreur sylvestre qui reçoit un deux pour son initiative doit rester immobile et passer son tour. Si elle est Secouée, elle peut néanmoins faire un jet pour se remettre de cet état.
-- Taille +1 : Une Horreur sylvestre est plus grande qu’un homme.
+- Taille +1.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Faiblesse (feu) : Les Horreurs sylvestres sont très vulnérables aux flammes, et subissent +4 dégâts supplémentaires des attaques à base de feu. Elles sont toujours considérées comme des cibles inflammables.
 

@@ -15,7 +15,7 @@ Atout : Assassin.
 
 ### Capacités spéciales
 - Assassin : +2 aux dégâts contre une cible surprise.
-- Taille +1 : un peu plus grands qu'un humain.
+- Taille +1.
 
 ### Actions
 - Épée courte : Combat d10, d10+d6 + poison (Venin).

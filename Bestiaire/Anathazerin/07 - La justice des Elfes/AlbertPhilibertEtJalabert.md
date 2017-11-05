@@ -12,7 +12,7 @@ Compétences : Combat d6, Discrétion d8, Escalade d4, Perception d8, Sarca
 
 ### Capacités spéciales
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
-- Taille -1 : mesure entre 1m et 1m20.
+- Taille -1.
 
 ### Actions
 - Épée courte : Combat d6, 2d4.

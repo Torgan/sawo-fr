@@ -17,7 +17,7 @@ Atouts : Ambidextre, Combat à deux armes, Commandement, Ferveur, Frénésie sup
 - Arcane : Magie d12, 40PP.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
-- Taille +3 : un ogre-mage mesure plus de 2,5m de haut.
+- Taille +3.
 - Vol : un ogre-mage a une Allure de 8 en vol et une Montée de 4.
 
 ### Actions

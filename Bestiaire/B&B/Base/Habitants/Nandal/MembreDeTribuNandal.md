@@ -15,7 +15,7 @@ Atouts : Brute.
 
 ### Capacités spéciales
 - Brutes grognantes : Les Nandals grognent à l’unisson pour se préparer à un combat. Au début d’un combat et avant que toute Carte d’Action ne soit tirée, un groupe de Nandals agissant sur la même Carte d’Action fait un jet d’Âme. Pour chaque succès et Relance, le groupe reçoit un Jeton de Furie Nandal. Au début de chaque round, le Maître du Jeu peut utiliser l’un de ses Jetons pour faire gagner au groupe entier +2 aux jets d’Intimidation, de Combat ou de dégâts pour le round en cours. Un seul jeton peut être utilisé à chaque round pour chaque groupe.
-- Taille +1 : Les Nandals sont plus grands que des hommes.
+- Taille +1.
 - Brute : Les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
 
 ### Actions

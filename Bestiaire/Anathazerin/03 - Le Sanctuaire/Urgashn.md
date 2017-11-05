@@ -12,7 +12,7 @@ Compétences : Combat d12, Discrétion d6, Intimidation d10, Lancer d8, Percepti
 
 ### Actions
 - Hache à deux mains : Combat d12, 2 mains, Parade -1, PA3, 2d10.
-- Taille +1 : un peu plus grand qu'un humain.
+- Taille +1.
 - Vampirisation : Âme d8, portée 6, ignore l'armure, 2d6. Chaque fois que cette attaque inflige une ou plusieurs Blessures, Urgashn peut se soigner d'une Blessure.
 
 ### Réactions

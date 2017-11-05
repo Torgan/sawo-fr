@@ -15,7 +15,7 @@ Compétences : Combat d12, Connaissance (Nature) d12+2, Discrétion d10+2, Int
 - Armure +4 : peau d’écorce.
 - Énorme : attaque adverse +4.
 - Résistant : pas de Blessure si Secoué deux fois.
-- Taille +8 : créature immense, le dragon pèse près de 15 tonnes et mesure un peu plus de 12 m de long des naseaux à la queue.
+- Taille +8.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 - Vol : les dragons ont une Allure de Vol de 24 et Accélération de 6.
 

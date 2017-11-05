@@ -13,7 +13,7 @@ Compétences : Combat d8, Discrétion d6, Natation d6, Persuasion d6.
 ### Capacités spéciales
 - Aquatique : Allure 6
 - Énorme : attaque adverse +4.
-- Taille +6
+- Taille +6.
 
 ### Actions
 - Nuage d'encre : une pieuvre géante peut cracher un nuage d'encre noire une fois par jour, emplissant un Grand Gabarit. Aucun sens basé sru la vue ou l'odorat n'est possible dans cette zone, y compris pour la pieuvre.
