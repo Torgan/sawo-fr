@@ -24,4 +24,5 @@ Atouts : Arcanes (Maîtrise du Lotus), Réserve de Lotus, Nouveau Pouvoir, Point
 - Confusion : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 16, Inst.
 - Poison : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
 
-Équipement : dague, sacoche de Maître du Lotus, kit de guérison, 5 doses de Lotus raffiné.
+### Équipement
+dague, sacoche de Maître du Lotus, kit de guérison, 5 doses de Lotus raffiné.

@@ -22,4 +22,5 @@ Atouts : Cavalier né, Cavalier-buffle, Esquive.
 ### Réactions
 - Charge de Buffle : La première fois qu’un Extra est chargé par un Cavalier-buffle, il doit faire un jet d’Âme ou être Paniqué.
 
-Équipement : lance à buffles à bout en bronze, épée courte en os, 5 javelots, corset de cuir léger, bouclier tribal (Parade +1, +2 Résistance contre les armes à distances, +1 aux jets d’Intimidation).
+### Équipement
+lance à buffles à bout en bronze, épée courte en os, 5 javelots, corset de cuir léger, bouclier tribal (Parade +1, +2 Résistance contre les armes à distances, +1 aux jets d’Intimidation).

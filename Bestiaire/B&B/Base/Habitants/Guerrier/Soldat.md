@@ -13,4 +13,5 @@ Compétences : Combat d6, Intimidation d6, Perception d4, Tir d6, Lancer d6
 ### Actions
 - Épée courte : Combat d6, 2d6
 
-Équipement : épée courte en bronze, petit bouclier, armure de cuir légère (+1).
+### Équipement
+épée courte en bronze, petit bouclier, armure de cuir légère (+1).

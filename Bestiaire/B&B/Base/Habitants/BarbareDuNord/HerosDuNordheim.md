@@ -22,4 +22,5 @@ Atouts : Enragé, Costaud, Brute, Héros en pagne, Balayage.
 - Grande hache de bronze : Combat d10, PA 1, Parade -1, 2 mains, 2d10+1
 - Arc : Tir d8, 12/24/48, 2d6
 
-Équipement : Grande hache de bronze, arc, heaume en bronze moyen (+2, heaume seulement).
+### Équipement
+Grande hache de bronze, arc, heaume en bronze moyen (+2, heaume seulement).

@@ -17,4 +17,5 @@ Atouts : Brute.
 - Hache de Bataille en bronze : Combat d8, 2d8
 - Arc : Tir d6, 12/24/48, 2d6
 
-Équipement : Hache de Bataille en bronze, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc (Dégâts: 2d6, portée : 12/24/48), armure de cuir légère (+1).
+### Équipement
+Hache de Bataille en bronze, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc (Dégâts: 2d6, portée : 12/24/48), armure de cuir légère (+1).

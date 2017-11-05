@@ -21,5 +21,6 @@ Handicaps : Code d’Honneur (pirates), Sale Caractère.
 - Hache d’abordage : Combat d8, 2d6
 - Dague : Lancer d6, 3/6/12, d6+d4
 
-Équipement : épée courte en bronze ou hache d’abordage, dague.
+### Équipement
+épée courte en bronze ou hache d’abordage, dague.
 

@@ -22,4 +22,5 @@ Atouts : Combatif, Distraction.
 - Manica : Combat d8, Parade +1, d8+d4.
 - Distraction : une fois par round, il peut faire une Ruse gratuite contre son adversaire avant de l’attaquer. Les dégâts se font avec un malus de -2 jusqu’à la prochaine action.
 
-Équipement : épée courte en bronze, manica, demie-tenue légère de gladiateur (+1).
+### Équipement
+épée courte en bronze, manica, demie-tenue légère de gladiateur (+1).

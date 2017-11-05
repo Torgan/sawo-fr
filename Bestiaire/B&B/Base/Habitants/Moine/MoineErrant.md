@@ -23,4 +23,5 @@ Atouts : Arcanes (Voie de l’Illumination), Arts Martiaux, Moine (militant), No
 - Augmentation/diminution de Trait : (mouvements d’animaux) Illumination d8, 2PP, Portée 6, 3 (1/rd).
 - Frappe : (perception du point faible de l’ennemi) Illumination d8, 2PP Portée T, 3 (1/rd).
 
-Équipement : Barre en trois morceaux ou bâton ou chapelet de prière renforcé.
+### Équipement
+Barre en trois morceaux ou bâton ou chapelet de prière renforcé.

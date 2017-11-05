@@ -24,4 +24,5 @@ Atouts : Blocage, Commandement, Nerfs d’acier trempé, Tête Froide, Leader na
 - Épée longue en fer : Combat d10, 2d8
 - Arc : Tir d8, 12/24/48, 2d6
 
-Équipement : Épée longue en fer, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc, armure de bronze moyenne, cheval.
+### Équipement
+Épée longue en fer, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc, armure de bronze moyenne, cheval.

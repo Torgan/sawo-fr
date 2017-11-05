@@ -21,5 +21,6 @@ Atouts : Entraînement d’Hoplite.
 - Épée courte : Combat d6, d8+d6
 - Lance : Combat d6, Allonge 1, 2d6
 
-Équipement : lance à une main à pointe en fer, épée courte en fer, armure de fer lourde, large bouclier de fer (Parade +2, +2 Résistance contre les attaques à distance).
+### Équipement
+lance à une main à pointe en fer, épée courte en fer, armure de fer lourde, large bouclier de fer (Parade +2, +2 Résistance contre les attaques à distance).
 

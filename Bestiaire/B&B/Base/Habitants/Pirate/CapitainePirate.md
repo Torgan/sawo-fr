@@ -23,4 +23,5 @@ Atouts : Ambidextre, Commandement, Combat à deux armes.
 - Épée longue en fer : Combat d10, 2d8
 - Dague : Lancer d6, 3/6/12, d6+d4
 
-Équipement : épée longue en fer, dague, armure de cuir légère (+1).
+### Équipement
+épée longue en fer, dague, armure de cuir légère (+1).

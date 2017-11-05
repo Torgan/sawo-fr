@@ -20,4 +20,5 @@ Atouts : Commandement, Noble.
 - Épée longue : Combat d8, d6+d8
 - Dague : Combat d8, d6+d4
 
-Équipement : épée longue en fer, dague, armure moyenne en bronze, bouclier en bronze moyen (Parade +1, +2 Résistance contre les attaques à distance), cheval.
+### Équipement
+épée longue en fer, dague, armure moyenne en bronze, bouclier en bronze moyen (Parade +1, +2 Résistance contre les attaques à distance), cheval.

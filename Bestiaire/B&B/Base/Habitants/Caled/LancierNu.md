@@ -19,4 +19,5 @@ Compétences : Escalade d6, Combat d8, Perception d6, Intimidation d8, Discréti
 - Lance à bout en pierre : Combat d8, 1 main : Allonge 1, 2 mains : Parade +1, 3/6/12, 2d6
 - Dague en pierre : Combat d8,d6+d4
 
-Équipement : lance à bout en pierre, dague en pierre.
+### Équipement
+lance à bout en pierre, dague en pierre.

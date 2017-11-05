@@ -28,5 +28,6 @@ Atouts : Arcanes (Sorcellerie), Séduisante, Cavalier né, Charismatique, Comman
 - Éclair : (force étrangleuse invisible) 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
 - Terreur : (rire hideux) 2PP, Portée 16, Inst.
 
-Équipement : bâton de sorcier, dague en os, armure de cuir bouilli, poney des steppes.
+### Équipement
+bâton de sorcier, dague en os, armure de cuir bouilli, poney des steppes.
 

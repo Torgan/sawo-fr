@@ -23,4 +23,5 @@ Atouts : Amazone, Combatif, Lien Mutuel, Nerfs d’acier.
 - Lance : Combat d8, Parade +1, Allonge 1, deux mains, d8+d6,
 - Arc : Tir d8, 12/24/48, 2d6.
 
-Équipement : Épée longue en bronze, armure de bronze moyenne, heaume à plume moyen (+2, tête seulement), lance, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc.
+### Équipement
+Épée longue en bronze, armure de bronze moyenne, heaume à plume moyen (+2, tête seulement), lance, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc.

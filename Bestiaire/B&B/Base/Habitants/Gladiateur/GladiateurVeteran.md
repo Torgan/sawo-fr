@@ -28,4 +28,5 @@ Atouts : Combatif, Contre-attaque, Distraction, Frénésie.
 ### Réactions
 - Contre-Attaque : attaque gratuite par Round à -2 contre un adversaire ayant raté son attaque.
 
-Équipement : épée courte en bronze, manica, demie-tenue légère de gladiateur (+1).
+### Équipement
+épée courte en bronze, manica, demie-tenue légère de gladiateur (+1).

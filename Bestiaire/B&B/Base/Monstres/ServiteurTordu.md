@@ -19,4 +19,5 @@ Compétences : Combat d6, Intimidation d6, Perception d6, Discrétion d4
 - Griffes : Combat d6, d8+d4.
 - Hache de pierre : Combat d6, 2d8.
 
-Équipement : Hache de pierre.
+### Équipement
+Hache de pierre.

@@ -24,4 +24,5 @@ Atouts : Commandement, Frénésie.
 - Long fouet : Combat d8, Allonge 5, d8+1
 - Arc : Tir d8, 12/24/48, 2d6.
 
-Équipement : hache de bataille en bronze, long fouet, arc, heaume en forme de monstre, armure de cuir légère (+1).
+### Équipement
+hache de bataille en bronze, long fouet, arc, heaume en forme de monstre, armure de cuir légère (+1).

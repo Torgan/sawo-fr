@@ -34,4 +34,5 @@ Atouts : Amazone, Séduisante, Héroïne en bikini, Commandement, Contre-attaque
 - Contre-Attaque : attaque gratuite par round à -2 contre un adversaire ayant raté son attaque.
 - Héroïne en bikini : peut faire un jet d’Encaissement gratuit à chaque blessure subie tant qu’elle ne porte pas d’armure.
 
-Équipement : Épée longue en bronze, dague en bronze, Lame Amazone marquée d’un lierre, arc
+### Équipement
+Épée longue en bronze, dague en bronze, Lame Amazone marquée d’un lierre, arc

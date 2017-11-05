@@ -19,5 +19,6 @@ Atouts : Criminel, Voleur.
 - Dague : Combat d6, d6+d4
 - Fronde : Tir d6, 4/8/16, d6+d4
 
-Équipement : dague, fronde, demie-armure en cuir légère, outils de crochetage.
+### Équipement
+dague, fronde, demie-armure en cuir légère, outils de crochetage.
 

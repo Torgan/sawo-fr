@@ -17,4 +17,5 @@ Compétences : Combat d6, Connaissance (un métier) d6, Perception d4, Tir d6, D
 - Couteau : Combat d6, d6+d4.
 - Outil : Combat d6-1, 2d6.
 
-Équipement : Couteau en bronze ou outil de ferme
+### Équipement
+Couteau en bronze ou outil de ferme

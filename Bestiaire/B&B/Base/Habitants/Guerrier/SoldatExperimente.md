@@ -17,4 +17,5 @@ Atouts : Combatif.
 ### Actions
 - Épée longue : Combat d8, 2d8
 
-Équipement : épée longue en bronze, bouclier moyen (Parade +1, +2 Résistance contre les attaques à distance), armure de bronze moyenne (+2).
+### Équipement
+épée longue en bronze, bouclier moyen (Parade +1, +2 Résistance contre les attaques à distance), armure de bronze moyenne (+2).

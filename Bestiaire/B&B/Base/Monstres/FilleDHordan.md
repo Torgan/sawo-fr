@@ -25,5 +25,6 @@ Compétences : Combat d8, Intimidation d8, Perception d8, Persuasion d10+6, Disc
 - Constricteur : bonus de +4 aux jets d’empoignade.
 - Augmentation/diminution de Trait : Persuasion d10+6, 2PP, Portée Int, 3 (1/rd).
 
-Équipement : Six épées longues en bronze, casque en bronze (+2, tête seulement).
+### Équipement
+Six épées longues en bronze, casque en bronze (+2, tête seulement).
 

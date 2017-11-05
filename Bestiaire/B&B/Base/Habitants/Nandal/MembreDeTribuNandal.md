@@ -22,4 +22,5 @@ Atouts : Brute.
 - Gourdin : Combat d6, 2d8+2.
 - Pierres : Lancer d6, Portée 3/6/12, d8+d4
 
-Équipement : gourdin de guerre en pierre renforcé, pierres, fourrures épaisses (+1).
+### Équipement
+gourdin de guerre en pierre renforcé, pierres, fourrures épaisses (+1).

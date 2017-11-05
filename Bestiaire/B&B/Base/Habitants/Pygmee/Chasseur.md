@@ -22,4 +22,5 @@ Atouts : Forestier.
 - Sarbacane : Tir d8, 7/14/28, poison.
 - Hachette : Combat d6, 2d6.
 
-Équipement : Dague en os empoisonnée,
+### Équipement
+Dague en os empoisonnée,

@@ -15,5 +15,6 @@ Atouts : Sage, Érudit.
 ### Capacités spéciales
 - Sage : Peut connaitre les capacités spéciales d’une créatuers grâce à un jet de Culture Générale.
 
-Équipement : robes, matériel d’écriture, outils du métier.
+### Équipement
+robes, matériel d’écriture, outils du métier.
 

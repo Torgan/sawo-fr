@@ -16,4 +16,5 @@ Atouts : Séduisante.
 ### Capacités spéciales
 - Bons poumons : Une Demoiselle a tendance à crier beaucoup, surtout quand le méchant monstre hideux est sur le point de l’attraper ! Elle a une voix très aiguë et tout jet de Perception pour attirer l’attention reçoit un bonus de +2, tant que la Demoiselle est dans les 12 cases de ses cibles. De plus, lorsqu’elle affronte certains monstres avec des oreilles très sensibles (décision du Maître du Jeu), ses cris comptent comme une Ruse d’Intellect.
 
-Équipement : Bikini ou vêtements élégants.
+### Équipement
+Bikini ou vêtements élégants.

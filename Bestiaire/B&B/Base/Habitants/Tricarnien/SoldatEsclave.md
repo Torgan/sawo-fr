@@ -22,4 +22,5 @@ Atouts : Combatif (drogues anti-douleur).
 - Fronde de guerre : Tir d6, 8/16/32, d8+d4
 - Dague : Combat d6, d8+d4.
 
-Équipement : masse plaquée en bronze (For+d6) et petit bouclier (Parade +1) ou fronde de guerre (Dégâts: For+d4, portée : 8/16/32) et dague en bronze, demie-armure en cuir légère (+1).
+### Équipement
+masse plaquée en bronze (For+d6) et petit bouclier (Parade +1) ou fronde de guerre (Dégâts: For+d4, portée : 8/16/32) et dague en bronze, demie-armure en cuir légère (+1).

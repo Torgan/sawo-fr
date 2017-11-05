@@ -21,4 +21,5 @@ Sans pitié : Peut utiliser des Jetons sur les jets de dégâts.
 - Sinistre Main de la Mort : Le Maître Assassin est un professionnel du meurtre, et s’il a une chance de frapper, il laisse rarement sa victime en vie. En dépensant un Jeton, il gagne la surprise.
 - Dague de fer : Combat d10+1, PA1, d8+d4+1
 
-Équipement : Dague de fer aiguisée comme un rasoir, gant de l’empoisonneur, armure de cuir légère, outils de crochetage, griffes du tigre, corde en soie, bague d’empoisonneur, deux préparations de Lotus choisies parmi Poison, Frappe, Sommeil, Diminution de trait (Vigueur, Agilité ou Force).
+### Équipement
+Dague de fer aiguisée comme un rasoir, gant de l’empoisonneur, armure de cuir légère, outils de crochetage, griffes du tigre, corde en soie, bague d’empoisonneur, deux préparations de Lotus choisies parmi Poison, Frappe, Sommeil, Diminution de trait (Vigueur, Agilité ou Force).

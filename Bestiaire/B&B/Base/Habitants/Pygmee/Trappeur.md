@@ -23,5 +23,6 @@ Atouts : Forestier
 - Dague en os : Lancer d8, 3/6/12 , d6+d4
 - Fronde : Tir d6, 4/8/16, d6+d4.
 
-Équipement : Dague en os, fronde, hachette en pierre ou lance à bout en os.
+### Équipement
+Dague en os, fronde, hachette en pierre ou lance à bout en os.
 

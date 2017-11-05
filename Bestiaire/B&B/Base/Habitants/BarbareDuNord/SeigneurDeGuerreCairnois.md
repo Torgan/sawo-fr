@@ -22,4 +22,5 @@ Atouts : Blocage, Esquive, Commandement, Volonté de fer, Nerfs d’acier.
 - Hache longue en bronze : Combat d8, 2d8
 - Arc : Tir d8, 12/24/48, 2d6
 
-Équipement : Hache longue en bronze, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc, armure d’os moyenne (+2).
+### Équipement
+Hache longue en bronze, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc, armure d’os moyenne (+2).

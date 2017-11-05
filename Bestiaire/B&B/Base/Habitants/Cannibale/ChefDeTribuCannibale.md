@@ -24,4 +24,5 @@ Atouts : Costaud, Brute, Combatif, Increvable.
 - Morsure : Combat d10, d10+d4
 - Grande hache en os :  Combat d10, PA 1, Parade -1, 2 mains, 2d10+1
 
-Équipement : Grande hache en os.
+### Équipement
+Grande hache en os.

@@ -27,4 +27,5 @@ Atouts : Arcanes (Maître du Lotus), Sang-Froid, Réserve de Lotus, Nouveau Pouv
 - Rafale : (Lotus Éternel du Phénix de Feu) Maîtrise du Lotus d8, 2PP, Cône, Inst., 2d10.
 - Zombie : (Lotus Opaque de Réveil) Maîtrise du Lotus d8, 3PP / corps, Portée 12.
 
-Équipement : épée courte, dague empoisonnée (For+d4, enduit avec une préparation de Lotus Poison), gant d’empoisonneur, corselet moyen en bronze, sacoche de Maître du Lotus, kit de guérison, anneau d’empoisonneur, 10 doses de Lotus raffiné.
+### Équipement
+épée courte, dague empoisonnée (For+d4, enduit avec une préparation de Lotus Poison), gant d’empoisonneur, corselet moyen en bronze, sacoche de Maître du Lotus, kit de guérison, anneau d’empoisonneur, 10 doses de Lotus raffiné.

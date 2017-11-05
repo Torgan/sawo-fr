@@ -25,4 +25,5 @@ Atouts : Combatif.
 - Lance à bout en os : Combat d6, 1 main : Allonge 1, 2 mains : Parade +1, d8+d6
 - Arc : Tir d6, 12/24/48, 2d6.
 
-Équipement : Masse de guerre (For+d8) et petit bouclier (Parade +1) ou lance à bout en os, dague en pierre, arc.
+### Équipement
+Masse de guerre (For+d8) et petit bouclier (Parade +1) ou lance à bout en os, dague en pierre, arc.

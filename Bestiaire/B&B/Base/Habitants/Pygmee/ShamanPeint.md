@@ -28,4 +28,5 @@ Handicaps : Sanguinaire, Frêle, Serment (principes religieux).
 - Poison : (gaz et brouillards empoisonnés) Sorcellerie d8, 2+PP, Portée P.
 - Terreur : (malédictions) Sorcellerie d8, 2PP, Portée 16, Inst.
 
-Équipement : Sceptre à crâne (permet une attaque de toucher comme un bâton de Sorcier), coiffe bizarre (+1, tête uniquement).
+### Équipement
+Sceptre à crâne (permet une attaque de toucher comme un bâton de Sorcier), coiffe bizarre (+1, tête uniquement).

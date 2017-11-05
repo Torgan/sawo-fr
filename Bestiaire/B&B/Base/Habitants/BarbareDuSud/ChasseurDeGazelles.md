@@ -18,4 +18,5 @@ Atouts : Véloce, Extraction, Sauvage.
 - Lance : Combat d6, 1 main : Allonge 1, 2 mains :Parade +1, 2d6.
 - Chakrams en os : Lancer d6, 4/8/16, ignore 2 points de modificateur de Couverture, d6+d4
 
-Équipement : Lance, 4 chakrams en os.
+### Équipement
+Lance, 4 chakrams en os.

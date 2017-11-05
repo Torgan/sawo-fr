@@ -21,4 +21,5 @@ Atouts : Contacts (crime), Criminel, Empoisonneur.
 - Dague de bronze : Combat d6, d6+d4
 - Sarbacane : Tir d6, 5/10/20, Poison.
 
-Équipement : Dague de bronze, gant d’empoisonneur, bague d’empoisonneur, sarbacane, divers poisons, 5 doses de Lotus raffiné.
+### Équipement
+Dague de bronze, gant d’empoisonneur, bague d’empoisonneur, sarbacane, divers poisons, 5 doses de Lotus raffiné.

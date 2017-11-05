@@ -20,5 +20,6 @@ Atouts : Charismatique, Prêtre.
 - Malédiction des Dieux : Un prêtre non-joueur peut invoquer une malédiction sur quelqu’un. Pour le faire, le prêtre doit faire un jet opposé d’Âme, en appliquant -2 sur ce jet. S’il réussit, la cible de la malédiction est affectée par le Handicap Malchanceux ou le pouvoir Diminution de Trait (au choix du MJ) jusqu’à la fin du scénario. S’il obtient une Relance, la malédiction est permanente, du moins jusqu’à ce que le prêtre la lève ou que le joueur se repentisse d’une quelconque manière. Le Maître du Jeu devrait utiliser cette capacité seulement lorsque c’est complètement approprié. Il n’est jamais sage de mettre en colère un serviteur des dieux...
 - Bâton : Combat d4, Parade +1, Allonge 1, 2 mains, d6+d4.
 
-Équipement : Bâton (For+d4, Parade +1, Allonge 1, 2 mains), robes.
+### Équipement
+Bâton (For+d4, Parade +1, Allonge 1, 2 mains), robes.
 

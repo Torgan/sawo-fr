@@ -21,4 +21,5 @@ Atouts : Amazone, Combatif.
 - Lance : Combat d6, Parade +1, Allonge 1, deux mains, d8+d6,
 - Arc : Tir d6, 12/24/48, 2d6.
 
-Équipement : Épée longue en bronze, armure de cuir légère, heaume à plume moyen (+2, tête seulement), lance, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc.
+### Équipement
+Épée longue en bronze, armure de cuir légère, heaume à plume moyen (+2, tête seulement), lance, bouclier moyen (Parade +1, +2 Résistance contre les armes à distance), arc.

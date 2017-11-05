@@ -22,4 +22,5 @@ Atouts : Arcanes (Sorcellerie).
 - _Déflexion_ : (vents tourbillonnants) Sorcellerie d8, 2PP, Portée 0, 3 (1/rd)
 - _Éclair_ : (projection des griffes du vautour) Sorcellerie d8, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
 
-Équipement : dague, robes.
+### Équipement
+dague, robes.

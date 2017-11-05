@@ -26,4 +26,5 @@ Atouts : Arcanes (Sorcellerie), Nouveau Pouvoir, Points de pouvoir.
 - Enchevêtrement : (branches animées) Sorcellerie d10, 2PP, Portée Int, 3 (1/rd)
 - Transformation : (loup ou ours ou oiseau de proie ou serpent) Sorcellerie d10, 3-7PP, Portée P, 1 min. (1/min.)
 
-Équipement : dague de pierre (For+d4).
+### Équipement
+dague de pierre (For+d4).

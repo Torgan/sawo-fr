@@ -23,4 +23,5 @@ Atouts : Brute, Frénésie, Grand Balayage.
 - Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - Grand Balayage : Attaque tous les adversaires adjacents
 
-Équipement : gourdin de guerre en pierre renforcé, pierres, fourrures épaisses (+1).
+### Équipement
+gourdin de guerre en pierre renforcé, pierres, fourrures épaisses (+1).

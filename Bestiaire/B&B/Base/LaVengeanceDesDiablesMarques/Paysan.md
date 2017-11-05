@@ -14,5 +14,6 @@ Compétences : Combat d4, Connaissance (un métier) d6, Perception d4, Tir d4, D
 - Couteau : Combat d4, d6+d4.
 - Outil : Combat d4-1, 2d6.
 
-Équipement : Couteau en bronze ou outil de ferme (Arme Improvisée)
+### Équipement
+Couteau en bronze ou outil de ferme (Arme Improvisée)
 

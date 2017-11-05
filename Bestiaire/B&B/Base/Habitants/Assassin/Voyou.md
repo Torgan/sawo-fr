@@ -15,4 +15,5 @@ Handicaps : Cupide.
 - Épée courte en bronze : Combat d6, 2d6.
 - Dague de bronze : Lancer d6, 3/6/12, d6+d4
 
-Équipement : Épée courte en bronze, dague de bronze.
+### Équipement
+Épée courte en bronze, dague de bronze.

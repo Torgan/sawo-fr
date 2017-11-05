@@ -29,4 +29,5 @@ Atouts : Amazone, Ambidextre, Héroïne en bikini, Costaud, Combat à deux armes
 - Amazone : bénéficie d’une action de combat gratuite lorsqu’un adversaire masculin fait un 1 sur son dé de Combat (voir Déguisée ci dessous).
 - Héroïne en bikini : peut faire un jet d’Encaissement gratuit à chaque blessure subie tant qu’elle ne porte pas d’armure.
 
-Équipement : Épée longue en bronze, Poing de Fer, tablier de forgeron
+### Équipement
+Épée longue en bronze, Poing de Fer, tablier de forgeron

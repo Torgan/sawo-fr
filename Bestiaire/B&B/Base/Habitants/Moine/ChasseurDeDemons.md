@@ -25,4 +25,5 @@ Atouts : Arcanes (Voie de l’Illumination), Blocage, Brave, Chasseur de Démons
 - Déflexion : (lire les intentions de l’ennemi) Illumination d10, 2PP, Portée 0, 3 (1/rd)
 - Frappe : (perception du point faible de l’ennemi) Illumination d10, 2PP Portée T, 3 (1/rd).
 
-Équipement : lame de Lune, demie-armure de bronze moyenne (+2).
+### Équipement
+lame de Lune, demie-armure de bronze moyenne (+2).

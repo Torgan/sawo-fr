@@ -22,4 +22,5 @@ Atouts : Cavalier né, Poigne Ferme.
 - Dague en bronze : Combat d8, d8+d4
 - Arc : Tir d10, 15/30/60, PA 1, 2d6+1
 
-Équipement : épée courte en bronze, dague en bronze, arc composite valk, armure de cuir bouilli, poney des steppes.
+### Équipement
+épée courte en bronze, dague en bronze, arc composite valk, armure de cuir bouilli, poney des steppes.

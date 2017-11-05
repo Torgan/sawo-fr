@@ -34,5 +34,6 @@ Atouts : Charismatique, Commandement, Grande aura de Commandement, Ferveur, Insp
 - Frappe : Âme d8, 2PP Portée T, 3 (1/rd).
 - Terreur : Âme d8, 2PP, Portée 20, Inst.
 
-Équipement : Dague sacrificielle, masse à bout en fer, corselet moyen en bronze caché sous des vêtements de cérémonie, relique du culte (+2 Charisme, voir encadré).
+### Équipement
+Dague sacrificielle, masse à bout en fer, corselet moyen en bronze caché sous des vêtements de cérémonie, relique du culte (+2 Charisme, voir encadré).
 

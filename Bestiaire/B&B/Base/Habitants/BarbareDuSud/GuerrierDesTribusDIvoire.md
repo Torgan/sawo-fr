@@ -17,4 +17,5 @@ Compétences : Escalade d4, Combat d6, Intimidation d4, Perception d6, Discréti
 - Lance : Combat d6, 1 main : Allonge 1, 2 mains :Parade +1, 2d6.
 - Javelots avec atlatl : Lancer d6, 9/18/36, 1 action pour recharger, d6+d4.
 
-Équipement : Lance, bouclier tribal (Parade +1, +2 Résistance contre les armes à distances, +1 aux jets d’Intimidation, Sarcasme ou Persuasion), 5 javelots avec atlatl.
+### Équipement
+Lance, bouclier tribal (Parade +1, +2 Résistance contre les armes à distances, +1 aux jets d’Intimidation, Sarcasme ou Persuasion), 5 javelots avec atlatl.

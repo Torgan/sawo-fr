@@ -21,4 +21,5 @@ Compétences : Combat d8, Perception d6, Discrétion d6
 ### Réactions
 - Gardien : Un Esprit de traître peut intercepter une attaque destinée à un allié situé à 3 cases ou moins de lui. Dans ce cas, l’Esprit subit les dégâts à la place de la cible initiale. Si l’Esprit du traître subit une Blessure en protégeant son allié, il est libéré et disparaît pour toujours, sa dette enfin payée.
 
-Équipement : Épée courte, Grand bouclier (+2 Parade :, +2 Résistance contre les attaques à distance).
+### Équipement
+Épée courte, Grand bouclier (+2 Parade :, +2 Résistance contre les attaques à distance).
