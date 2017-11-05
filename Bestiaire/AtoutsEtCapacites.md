@@ -26,6 +26,8 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - * Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - * Petit : attaque adverse -2 si en mouvement.
+- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu. 
+_Remarque : la régénération rapide de l'hydre est spécifique._
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
 - * Taille [+-]X.
 - * Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
