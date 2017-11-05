@@ -22,7 +22,7 @@ Atouts : Acrobate, Assassin, Véloce, Voleur.
 - Assassin : +2 aux dégâts contre une cible surprise.
 - Épée courte : Combat d10, d8+d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, 2d6 + poison (-4, inconscience).
-- _Invisibilité_ : Âme d8, 5PP, Portée P, 3(1/rd).
+- _Invisibilité_ : Âme d8, 5PP, Portée P, 3 (1/rd).
 - _Ténèbres_ : Âme d8, 2PP, Portée 8, 3 (1/rd).
 
 ### Équipement

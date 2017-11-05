@@ -17,7 +17,7 @@ Compétences : Combat d6, Discrétion d8, Intimidation d8, Magie d8, Perceptio
 
 ### Actions
 - Dague : Combat d6, d8+d4.
-- _Armure_ : Magie d8, 2PP, T, 3(1/rd).
+- _Armure_ : Magie d8, 2PP, T, 3 (1/rd).
 - _Eclair_ : Magie d8, 1-3PP, 12/24/48, Inst.
 - _Terreur_ : Magie d8, 2PP, Portée 12, Inst.
 

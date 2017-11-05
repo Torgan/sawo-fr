@@ -24,10 +24,10 @@ Handicaps : Cupide.
 
 ### Actions
 - Dague : Combat d6, d6+d4.
-- _Augmentation/Diminution de Trait_ : Magie d8, 2PP, portée 8, 3(1/rd).
+- _Augmentation/Diminution de Trait_ : Magie d8, 2PP, portée 8, 3 (1/rd).
 - _Éclair (foudre)_ : Magie d8, 1-3PP ou 2PP, 12/24/48, Inst.
-- _Intangibilité_ : Magie d8, 5PP, T, 3(2/rd).
-- _Télékinésie_ : Magie d8, 5PP, portée 8, 3(1/rd).
+- _Intangibilité_ : Magie d8, 5PP, T, 3 (2/rd).
+- _Télékinésie_ : Magie d8, 5PP, portée 8, 3 (1/rd).
 
 ### Équipement
 Anneau de protection (Pouvoir _Déflexion_ actif en permanence), tube en os contenant un parchemin de nécromancien où sont inscrits les pouvoirs _Armure_, _Explosion_ et _Zombi_), bourse (3 rubis de 500 pa chaque, 3 po et 12 pa), symbole béni d’Abalath, livre de sorts, besace contenant des composants et une bouteille d’encre pour écrire les parchemins (200 pa).

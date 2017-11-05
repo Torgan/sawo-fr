@@ -28,8 +28,8 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 - Grand balayage : attaque simultanément tous les ennemis adjacents.
 - _Aveuglement_ : Foi d12, 2-6PP, portée 12, Inst.
 - Don du guerrier : Foi d12, 1+PP, Portée T, 3 (1/rd)
-- _Frappe_ : Foi d12, 2PP, T, 3(1/rd).
-- _Lumière_ : Foi d12, PP —, portée 12, 3(1/rd).
+- _Frappe_ : Foi d12, 2PP, T, 3 (1/rd).
+- _Lumière_ : Foi d12, PP —, portée 12, 3 (1/rd).
 - _Zone de dégâts_ : Foi d12, 4PP, portée T, 3 (2/rd).
 
 ### Réaction

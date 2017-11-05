@@ -16,9 +16,9 @@ Compétences : Combat d8, Discrétion d8, Intimidation d8, Magie d10, Percepti
 
 ### Actions
 - Masse d'armes : Combat d8, 2d6+2.
-- _Déflexion_ : Magie d10, 2PP, T, 3(1/rd).
+- _Déflexion_ : Magie d10, 2PP, T, 3 (1/rd).
 - _Eclair_ : Magie d10, 1-3PP, 12/24/48, Inst.
-- _Explosion_ : Magie d10, 2-6PP, T, 3(1/rd).
+- _Explosion_ : Magie d10, 2-6PP, T, 3 (1/rd).
 - _Terreur_ : Magie d10, 2PP, Int x 2, Inst.
 
 ### Équipement

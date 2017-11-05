@@ -17,7 +17,7 @@ Compétences : Combat d6, Discrétion d10, Escalade d6, Lancer d4, Magie d8,
 
 ### Actions
 - Dague : Combat d6, 2d4.
-- _Armure_ : Magie d8, 2PP, T, 3(1/rd).
+- _Armure_ : Magie d8, 2PP, T, 3 (1/rd).
 - _Eclair_ : Magie d8, 1-3PP, 12/24/48, Inst.
 
 ### Équipement
