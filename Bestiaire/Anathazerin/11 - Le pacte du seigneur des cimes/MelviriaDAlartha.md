@@ -20,8 +20,8 @@ Atouts : Arcane (Foi), Charismatique, Drain de l'Âme, Guerrier impie, Grande r�
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
-- Guerrier impie : pour 1PP, peut repousser les créatures angéliques, les paladins ou les personnages du bien qui ont l’Atout Arcanes (Miracles) en cas d’échec de ces derniers sur un jet d’ Âme, où les détruire (ou leur infliger une Blessure pour les Jokers) en cas de 1 sur leur jet.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
+- Guerrier impie : pour 1PP, les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) sont repoussés si Échec sur un jet d’ Âme, subissent une Blessure si 1 sur leur jet.
 - Dague +2 : Combat d10+2, d6+d4+poison (-4, inconscience).
 - _Dépeçage_ (injonction mortelle) : Foi d12+2, 5PP, 10, Inst.
 - _Eclair_ : Foi d12+2, 1-3PP, 12/24/48, Inst, 2d6 ou 3d6.

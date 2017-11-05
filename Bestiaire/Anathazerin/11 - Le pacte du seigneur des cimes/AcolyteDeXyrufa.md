@@ -16,14 +16,14 @@ Atouts : Arcane (Magie), Drain de l'âme.
 ### Capacités spéciales
 - Arcane : Magie d8, 20PP.
 - Armure +2 : peau épaisse.
-- Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
+- Grand : attaque adverse +2.
 - Faiblesse (Feu) : les dégâts des attaques de feu sont doublés.
 - Immunité (Froid) : les géants du givre sont immunisés à toute forme de froid.
 - Taille +4
 
 ### Actions
 - Balayage : Attaque tous les adversaires adjacents à -2.
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Stalactite de pierre : Combat d6, d12+d6+6.
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
 - _Diminution de Trait_ : Magie d8, 2PP, Portée 6, 3 (1/rd).

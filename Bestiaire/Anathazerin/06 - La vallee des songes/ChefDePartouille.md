@@ -18,7 +18,7 @@ Handicaps : Deux mains gauches, Prudent.
 - Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Tireur d'élite : Visée (+2 en Tir) automatique si le personnage ne se déplace pas.
+- Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 
 ### Actions
 - Arc long : Tir d12+1, 15/30/60, 2d6.

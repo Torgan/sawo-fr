@@ -14,10 +14,10 @@ Atouts : Arcane (Magie), Drain de l'Âme.
 
 ### Capacités spéciales
 - Arcane (Magie) : Magie d8, 15PP.
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Immunités : les sorciers uraqi sont immunisés au feu, à l'acide et aux capacités affectant les morts-vivants (comme l'Atout Guerrier Saint) tant que la Pierre de Terre n'est pas détruite.
 - Immortel : Lorsqu’elle est mise hors de combat, la créature n’est pas définitivement détruite, elle est juste chassée et pourra se reconstituer en 24 heures. Cette capacité est perdue si la Pierre de Mort est détruite.
-- Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions

@@ -13,7 +13,7 @@ Compétences : Discrétion d8, Escalade d6, Perception d6
 
 ### Capacités spéciales
 - Acrobate : +2 aux jets d’Agilité liés à la souplesse, +1 en PAR si non-encombré.
-- Petit : les adversaires d’un chat subissent un malus de -2 pour lui porter une attaque.
+- Petit : attaque adverse -2 si en mouvement.
 - Taille -2 : les chats font généralement une trentaine de centimètres de haut.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

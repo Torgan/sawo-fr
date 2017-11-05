@@ -13,7 +13,7 @@ Compétences : Combat d12, Connaissance (Nature) d12+2, Discrétion d10+2, Int
 
 ### Capacités spéciales
 - Armure +4 : peau d’écorce.
-- Énorme : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense.
+- Énorme : attaque adverse +4.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Taille +8 : créature immense, le dragon pèse près de 15 tonnes et mesure un peu plus de 12 m de long des naseaux à la queue.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.

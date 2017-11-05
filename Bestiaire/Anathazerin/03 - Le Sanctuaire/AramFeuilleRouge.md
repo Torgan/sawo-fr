@@ -19,7 +19,7 @@ Atouts : Forestier, Tireur d'élite, Vigilance.
 - Ferveur : +1 aux dégâts pour les alliés dans un rayon de 5 cases.
 
 ### Actions
-- Tireur d'élite : la manoeuvre Visée (+2 en Tir) est automatique si le personnage ne se déplace pas.
+- Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 - Épée courte : Combat d6, d8+d6.
 - Arc long : Tir d10, 15/30/60, 2d6.
 

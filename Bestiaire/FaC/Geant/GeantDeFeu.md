@@ -13,7 +13,7 @@ Compétences : Combat d8, Escalade d6, Intimidation d10, Lancer d6, Perception 
 	6	14 (2)
 
 ### Capacités spéciales
-- Grand : +2 aux attaques adverses en raison de sa grande taille.
+- Grand : attaque adverse +2.
 - Faiblesse (Froid) : les dégâts des attaques de froid sont doublés.
 - Immunité (Feu) : immunisé à toute forme de feu et de chaleur.
 - Taille +5.

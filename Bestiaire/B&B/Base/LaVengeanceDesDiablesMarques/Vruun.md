@@ -13,7 +13,7 @@ Compétences : Combat d6, Perception d6
 ### Capacités spéciales
 - Armure +3 : peau écailleuse.
 - Armure Lourde : la peau du Vruun est si épaisse et si dure que rien à part un engin de siège ne peut vraiment l’endommager.
-- Grand : dû à sa taille, les jets d’attaque faits contre le Vruun sont faits à +2.
+- Grand : attaque adverse +2.
 - Taille +5 : Le Vruun est plus grand qu’un rhinocéros mais plus petit qu’un éléphant.
 - Faiblesse (Gaz dans l’estomac) : Le Vruun est virtuellement insensible à toute attaque. Sa seule faiblesse est le gaz dans son estomac. Lancer une torche allumée ou similaire dans la bouche ouverte de la bête demande précision et timing (-4 Attaque Ciblée), mais cela a un effet spectaculaire. La bête explose littéralement, faisant 3d6 dommages à toute cible dans un Grand Gabarit d’explosion.
 

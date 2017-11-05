@@ -20,7 +20,7 @@ Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes,
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. Subit 1 Blessure sur Échec. Tombe inconscient pour 1d6 heures sur 1 ou moins.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Guerrier impie : pour 1PP, les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) sont repoussés si Échec sur un jet d’ Âme, subissent une Blessure si 1 sur leur jet.
 - Masse-serpent : Combat d8, 2d6 + poison (-4, inconscience).
 - _Eclair_ : Foi d10, 1-3PP, 12/24/48, Inst, 2d6 ou 3d6.

@@ -15,7 +15,7 @@ Atout : Vigilance.
 ### Capacités spéciales
 - Adhérence : peut se déplacer à une vitesse de 4 sur les surfaces verticales et au plafonds.
 - Armure +3
-- Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
+- Grand : attaque adverse +2.
 - Immunité : électricité
 - Taille +6
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.

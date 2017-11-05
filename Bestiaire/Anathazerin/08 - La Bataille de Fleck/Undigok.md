@@ -20,7 +20,7 @@ Atouts : Arcane (Magie), Drain de l'âme, Mage.
 
 ### Actions
 - Masse sanglante : Combat d8, d8+d6+2, un résultat Secoué équivaut à une Blessure.
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - _Explosion_ (Feu) : Magie d10, 1-3PP, 12/24/48, Inst.
 - _Terreur_ : Magie d10, 2PP, portée 16, durée spéciale.
 - _Zone de dégâts_ : Magie d10, 4PP, portée T, 3 (2/rd)

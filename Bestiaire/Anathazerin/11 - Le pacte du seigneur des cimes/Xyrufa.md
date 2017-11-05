@@ -17,7 +17,7 @@ Atouts : Amazone (B&B P.74), Charismatique, Commandement, Séduisante
 — Amazone : Parade +1, attaque gratuite sur un 1 en combat ennemi. Uniquement contre les hommes.
 — Armure +2 : peau épaisse.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
+- Grand : attaque adverse +2.
 - Taille +4
 
 ### Actions

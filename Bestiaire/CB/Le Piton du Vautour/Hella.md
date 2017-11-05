@@ -17,7 +17,7 @@ Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pou
 - Arcanes (Sorcellerie) : Sorcellerie d12, 30PP.
 - Aura Impressionnante : peut utiliser sa compétence Sorcellerie au lieu d’Intimidation
 - Corrompu par la Magie : Le corps et l’âme de la grande prétresse ont été souillés par son utilisation prolongée de la magie maléfique. Il a maintenant de longues griffes sombres (+1 dégâts sans arme) et son corps sent la décomposition. Il souffre de -2 en Charisme.
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Marqué par le Dieu-Vautour : Hella dispose d'un Jeton supplémentaire par session de jeu.
 
 ### Actions

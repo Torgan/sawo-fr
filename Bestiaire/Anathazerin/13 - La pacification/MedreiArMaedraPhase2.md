@@ -15,7 +15,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 ### Capacités spéciales
 - Armure +4
 - Arcane : Foi d12+2, 30PP.
-- Énorme : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense.
+- Énorme : attaque adverse +4.
 - Faiblesse (lumière du jour) : lorsqu'ils se trouvent confrontés à la lumière du jour, les elfes noirs subissent un malus de -1 à leurs jets de Trait et souffrent du handicap Myope (-2 en Perception et Tir à plus de 5 cases).
 - Grande résistance aux arcanes arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Régénération rapide : peut tenter un jet de guérison naturelle à chaque round sauf si les blessures sont causées par le feu ou les flammes.

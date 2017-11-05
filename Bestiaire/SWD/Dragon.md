@@ -14,7 +14,7 @@ Compétences : Combat d10, Intimidation d12, Perception d12
 
 ### Capacités spéciales
 - Armure +4 : peau d’écailles.
-- Énorme : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense.
+- Énorme : attaque adverse +4.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Taille +8 : créature immense, le dragon pèse près de 15 tonnes et mesure un peu plus de 12 m de long des naseaux à la queue.
 - Terreur (-2) : voir un puissant dragon oblige à faire un test de Terreur à -2.

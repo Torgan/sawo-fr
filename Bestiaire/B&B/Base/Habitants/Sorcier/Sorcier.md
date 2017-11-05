@@ -18,7 +18,7 @@ Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pou
 - Aura Impressionnante : Peut utiliser sa compétence Sorcellerie au lieu d’Intimidation
 - Corrompu par la Magie : Le corps et l’âme du Sorcier ont été souillés par son utilisation prolongée de la magie maléfique. Il a maintenant de longues griffes sombres (+1 dégâts sans arme) et son corps sent la décomposition. Il souffre de -2 en Charisme.
 - Rituel de Lien : Le Sorcier a lié de manière permanente un Esprit Tordu Joker à sa volonté. Cet individu agit comme le serviteur personnel et le garde du corps du Sorcier.
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Rituel de permanence : bénéficie des effets d’un pouvoir adapté de manière permanente.
 
 ### Actions

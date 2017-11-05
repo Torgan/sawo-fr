@@ -14,7 +14,7 @@ Compétences : Combat d8, Connaissance (Arcanes) d12+2, Intimidation d12, Magi
 
 ### Capacités spéciales
 - Arcanes : Magie d12, 50PP. Une liche connaît tous les sorts disponibles, et peut-être même des sorts uniques. Les sorts qui suivent sont un assortiment classique. N’hésitez pas à en rajouter au besoin.
-- Mort-vivant : Résistance +2. +2 pour récupérer d’un état Secoué. Les Attaque ciblées n’infligent pas de dégâts supplémentaires. Flèches, balles et autre attaques perforantes font la moitié des dégâts.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 
 ### Actions
 - Toucher de la Mort : Combat d8+2, Attaque de toucher, 1 blessure par Relance.

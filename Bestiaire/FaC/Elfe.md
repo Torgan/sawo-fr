@@ -21,7 +21,7 @@ Handicaps : Deux mains gauches, Prudent.
 ### Actions
 - Arc long : Tir d10, 15/30/60, 2d6.
 - Épée longue : Combat d8, 2d6.
-- Tireur d'élite : Visée (+2 en Tir) automatique si le personnage ne se déplace pas.
+- Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 
 ### Équipement
 Armure de cuir, épée longue (For+d8), arc long.

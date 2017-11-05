@@ -15,7 +15,7 @@ Atout : Tireur d'élite.
 
 ### Capacités spéciales
 - Taille +1 : un peu plus grands qu'un humain.
-- Tireur d'élite : Visée (+2 en Tir) automatique si le personnage ne se déplace pas.
+- Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 
 ### Actions
 - Arc court : Tir d8, 12/24/48, 2d6.

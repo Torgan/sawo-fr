@@ -13,7 +13,7 @@ Compétences : Combat d8, Perception d12
 	6	2
 
 ### Capacités spéciales
-- Petit : quiconque attaque un serpent subit un malus de –2 à ses jets d’attaques.
+- Petit : attaque adverse -2 si en mouvement.
 - Poison (-4)
 - Taille -2 : font entre 1 et 1,80m de long pour la plupart.
 - Vif : Défausse les cartes d'Initiative de 5 ou moins.

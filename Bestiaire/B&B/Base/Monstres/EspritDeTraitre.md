@@ -12,7 +12,7 @@ Compétences : Combat d8, Perception d6, Discrétion d6
 
 ### Capacités spéciales
 - Allure de flottement : Un Esprit de traître ne marche pas vraiment, il flotte au-dessus du sol. Ils ne sont donc jamais ralentis par un Terrain difficile, et bénéficient d’un bonus de +2 aux jets de Discrétion.
-- Mort-vivant : +2 en Résistance ; +2 pour se remettre de l’état Secoué ; immunité aux poisons, maladies et Attaques ciblées.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 
 ### Actions
 - Épée courte : Combat d8, 2d6

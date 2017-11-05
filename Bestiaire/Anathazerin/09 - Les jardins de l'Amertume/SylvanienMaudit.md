@@ -14,7 +14,7 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 
 ### Capacités spéciales
 - Armure +2 : armure naturelle
-- Énorme : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense.
+- Énorme : attaque adverse +4.
 - Faiblesse : les dégâts des attaques de feu sont doublés.
 - Plante : +2 pour récupérer d'un état Secoué. Ignore les malus de Blessures, le poison et les dégâts supplémentaires liés aux attaques ciblées.
 - Résistance physique : les dégats physiques des attaques non tranchantes subissent un malus de -3.

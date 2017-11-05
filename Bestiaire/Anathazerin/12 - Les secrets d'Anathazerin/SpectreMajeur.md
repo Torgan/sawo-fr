@@ -13,7 +13,7 @@ Compétences : Combat d10, Discrétion d10, Intimidation d12, Perception d10, S
 ### Capacités spéciales
 - Faiblesse (Lumière) : une lumière vive impose un malus de -2 à tous les jets de Trait.
 - Immatériel : ne peut être affecté que par les attaques magiques.
-- Mort-vivant : +2 Résistance. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Terreur (-2) : voir un spectre impose un test de Terreur à -2.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.

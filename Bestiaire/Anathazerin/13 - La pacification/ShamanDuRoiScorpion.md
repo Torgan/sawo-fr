@@ -16,7 +16,7 @@ Atouts : Arcanes (Magie), Drain de l’Âme.
 
 ### Capacités spéciales
 - Arcanes (Magie) : Magie d12, 30PP.
-- Drain de l’âme : peut faire un jet d’Âme à -X pour gagner XPP utilisables immédiatement. En cas d’échec il subit une Blessure. Si le résultat est de 1 ou moins, il tombe inconscient pour 1d6 heures.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 
 ### Actions
 - Bec de corbin : Combat d6, Allonge 1, PA2, 2 mains, 2d10

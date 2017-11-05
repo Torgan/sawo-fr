@@ -12,7 +12,7 @@ Compétences : Combat d8, Discrétion d6, Natation d6, Persuasion d6.
 
 ### Capacités spéciales
 - Aquatique : Allure 6
-- Énorme : ses adversaires ajoutent +4 à leurs jets de Combat ou de Tir en raison de sa taille immense.
+- Énorme : attaque adverse +4.
 - Taille +6
 
 ### Actions

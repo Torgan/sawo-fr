@@ -14,7 +14,7 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Natation d8, Percepti
 
 ### Capacités spéciales
 - Invulnérabilité :  les vampires ne peuvent être blessés que via leurs Points faibles. Ils peuvent être Secouées par d’autres attaques, mais jamais Blessés.
-- Mort-vivant : +2 RES. +2 pour récupérer d’un état Secoué. Les Attaques ciblées n’infligent pas de dégâts supplémentaires.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Point faible (eau bénite) : un vampire aspergé d’eau bénite subit un niveau de fatigue. S’il est immergé dedans il se consume comme s’il était exposé à la lumière du soleil (cf. plus bas).
 - Point faible (invité) : un vampire ne peut pénétrer dans une habitation privée sans qu’il y soit invité. Il peut bien sûr entrer dans des lieux publics comme il l’entend.
 - Point faible (lumière du soleil) : un vampire prend feu si sa peau est directement exposée aux rayons du soleil. Après cela il subit 2d10 de dégâts par round jusqu’à ce qu’il devient poussière. L’armure ne compte pas.

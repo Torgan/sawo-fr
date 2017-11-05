@@ -15,7 +15,7 @@ Atout : Ferveur, Grand balayage
 ### Capacités spéciales
 — Armure +2 : peau épaisse.
 - Ferveur : les troupes ont un bonus de +1 aux dégâts.
-- Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
+- Grand : attaque adverse +2.
 - Taille +4
 
 ### Actions

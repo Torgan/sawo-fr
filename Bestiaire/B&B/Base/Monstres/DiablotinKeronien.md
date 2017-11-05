@@ -14,7 +14,7 @@ Compétences : Combat d6, Connaissances (Arcanes) d8, Connaissances (Histoire an
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Vol : Les Diablotins kéroniens volent grâce à leurs ailes de chauve-souris. Ils ont une Allure de 6 et une montée de 0 en vol.
 - Taille -1 : Les Farfadets kéroniens sont très petits, de taille comparable à un chat.
-- Petit : Les jets d’attaque contre ces créatures se font à -2 du fait de leur petite taille.
+- Petit : attaque adverse -2 si en mouvement.
 - Frimeur : Les Farfadets kéroniens essaient continuellement d’impressionner leur maître avec leurs aptitudes géniales. C’est pourquoi ils ont l’Atout Assistant.
 
 ### Actions

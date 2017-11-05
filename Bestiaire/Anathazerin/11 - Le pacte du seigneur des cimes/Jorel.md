@@ -11,7 +11,7 @@ Compétences : Combat d10, Escalade d8, Intimidation d10, Lancer d10, Perceptio
 	6 (-1)	14 (1)
 
 ### Capacités spéciales
-- Grand : les adversaires bénéficient d’un bonus de +2 à leurs jets d’attaque en raison de sa grande taille.
+- Grand : attaque adverse +2.
 - Faiblesse (Feu) : les dégâts des attaques de feu sont doublés.
 - Immunité (Froid) : les géants du givre sont immunisés à toute forme de froid.
 - Taille +5
