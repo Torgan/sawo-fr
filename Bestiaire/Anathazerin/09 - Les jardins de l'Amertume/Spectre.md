@@ -1,6 +1,6 @@
 # * Spectre
 
-Allure : 6
+Allure : 6, vol 8 montée 4.
 
 	Agi	Âme	For	Int	Vig
 	d8	d12	d6	d6	d10
@@ -11,12 +11,11 @@ Compétences : Combat d8, Discrétion d12+2, Intimidation d10, Perception d8.
 	6	9
 
 ### Capacités spéciales
-- Faiblesse (Lumière) : une lumière vive impose un malus de -2 à tous les jets de Trait.
-- Immatériel : ne peut être affecté que par les attaques magiques.
+- Faiblesse (Lumière) : -2 à tout jet de Trait par lumière vive.
+- Immatériel : immunisé aux attaques non magiques.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
-- Terreur (-2) : voir un spectre impose un test de Terreur à -2.
+- Terreur (-2) : impose un test de Terreur -2 aux témoins.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Vol : Allure 8, Montée 1.
 
 ### Actions
-- Toucher glacial : Combat d8+2, ignore l'armure, Jet de Vigueur à -2 ou perte d'un niveau de Fatigue. Une victime incapacitée par cette attaque doit réussir un jet de Vigueur chaque round ou se transformer en spectre. Les niveaux de Fatigue disparaissent au bout de 24h.
+Toucher glacial : Combat d8+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur. Une cible déjà incapacitée, avec 2 Fatigue et encore vivante, se transforme en ombre sur Échec. La Fatigue se récupère en 24h.
