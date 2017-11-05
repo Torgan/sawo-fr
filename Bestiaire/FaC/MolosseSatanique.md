@@ -1,5 +1,5 @@
 # Molosse satanique
-Les molosses sataniques sons des chiens monstureux qui ont souvent la peau noire, qui fume à cause de la chaleur du sang démoniqaque de la bête. leurs brûlent d'un feu démoniaque et leurs dents sont démesurées, dépassant de leurs gueules dans tous les sens. Certains démons en font souvent leurs animaux de compagnie bien qu'ils puissent aussi être trouvés en compagnie de nécromanciens et d'autres magiciens maléfiques.
+Les molosses sataniques sont des chiens monstrueux ayant souvent la peau noire fumant de la chaleur du sang démoniaque de la bête. leurs yeux brûlent et leurs dents sont démesurées, dépassant de leurs gueules dans tous les sens. Certains démons en font souvent leurs animaux de compagnie bien qu'ils puissent aussi être trouvés auprès de nécromanciens et autres magiciens maléfiques.
 
 Allure : 8(+d10)
 
@@ -12,10 +12,10 @@ Compétences : Combat d6, Discrétion d6, Perception d10.
 	5	7
 
 ### Capacités spéciales
-- Immunité (Feu) : immunisé à toute forme de feu et de chaleur.
+- Immunité (Feu).
 - Terreur (0) : impose un test de Terreur aux témoins.
-- Terribles blessures : les dents dentelées d'u nmolosse satanique infligent de terribles blessures, qui ne guérissnet pas rapidement. Tous les jets de guérison, qu'ils soient magiques ou naturels subuissent une pénalité de -2 en plus des pénalités habituelles.
+- Terribles blessures : -2 pour soigner et guérir de ces blessures, par magie ou naturellement.
 
 ### Actions
 - Morsure : Combat d6, d10+d6.
-- À la gorge : un molosse satanique attaque aux points faibles. Avec une Relance sur son jet d’attaque, il touche la zone la plus faiblement protégée.
+- À la gorge : touche la zone la moins protégée sur Relance en attaque.
