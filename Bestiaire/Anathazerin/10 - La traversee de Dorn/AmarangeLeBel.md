@@ -1,1 +1,1 @@
-../05 - Le Pic d’Andalf/AmarangeLeBel.md
+../05 - Le Pic d Andalf/AmarangeLeBel.md
