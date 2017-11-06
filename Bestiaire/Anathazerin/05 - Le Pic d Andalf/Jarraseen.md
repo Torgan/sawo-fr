@@ -18,7 +18,7 @@ Atout : Extraction.
 ### Actions
 - Tir rapide : Jarraseen peut faire deux attaques à l'arc à -2 par round.
 - Morsure / Griffes : Combat d8, 2d6.
-- Arc court : Tir d10, 12/24/48, 2d6 + maladie. Une attaque provoquant un état Secoué ou une blessure oblige la victime à réussir un jet de Vigueur à -2 sous peine de contracter une Maladie chronique, longue, lourdement débilitante ne pouvant être soignée que par magie (voir momie).
+- Arc court : Tir d10, 12/24/48, 2d6. Sur Secoué ou plus et sur Échec de Vigueur -2 inflige une Maladie chronique, longue, lourdement débilitante ne pouvant être soignée que par magie.
 
 ### Équipement
 Arc noir.
