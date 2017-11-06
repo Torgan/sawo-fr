@@ -18,4 +18,4 @@ Compétences : Combat d4, Discrétion d10(+4 ombre), Perception d8.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Toucher glacial : Combat d4+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur. Une cible déjà incapacitée, avec 2 Fatigue et encore vivante, se transforme en ombre sur Échec. La Fatigue se récupère en 24h.
+- Toucher glacial : Combat d4+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur. Une cible déjà incapacitée, avec 2 Fatigue et encore vivante, se transforme en ombre sur Échec. Fatigue récupérée en 24h.
