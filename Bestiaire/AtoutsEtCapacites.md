@@ -31,6 +31,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétineemnt. 
 - * Grand : attaque adverse +2.
 - * Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
+- Intangible : immunisé aux armes non magiques.
 - * Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - * Petit : attaque adverse -2 si en mouvement.
 - Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu. 
