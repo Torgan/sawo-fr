@@ -1,5 +1,12 @@
 Pour noter les guides de conversion utilisée
 
+## Syntaxe
+RES 10[+2] (1) : Résistance de 10 incluant 1 point d'armure. 2 points d'armure à ajouter face aux projectiles
+dégâts +X : +X aux dégats
+Trait +X : +X au jet du Traits
++X Fatigue|Blessure : +X niveau de Fatigue|Blessure (= incrémenter un compteur)
+sur Résultat de Trait +X : sur un Résultat (Échec, Succès, Relance) au jet de Trait à +X 
+
 ## Piège
 Pour convertir depuis COF.
 
