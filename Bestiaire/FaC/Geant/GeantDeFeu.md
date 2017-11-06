@@ -1,6 +1,6 @@
 # Géant de feu
 
-Les géants du feu vivent dans les endroits chauds, comme près de volcans ou dans des déserts brûlants. Leur peau sombre et leur chevelure flamboyante les rends facile à identifier.
+Les géants de feu vivent dans les endroits chauds, comme près de volcans ou dans des déserts brûlants. Leur peau sombre et leur chevelure flamboyante les rends facile à identifier.
 
 Allure : 8
 
@@ -13,16 +13,16 @@ Compétences : Combat d8, Escalade d6, Intimidation d10, Lancer d6, Perception 
 	6	14 (2)
 
 ### Capacités spéciales
+- Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
+- Faiblesse (Froid) : dégâts de Froid x2.
 - Grand : attaque adverse +2.
-- Faiblesse (Froid) : les dégâts des attaques de froid sont doublés.
-- Immunité (Feu) : immunisé à toute forme de feu et de chaleur.
+- Immunité (Feu).
 - Taille +5.
 
 ### Actions
-- Aura enflammée : auréolé de flammes. À la fin de leur action d'un round, toutes les créatures adjacentes subissent 2d6 de dégâts de feu.
 - Grand balayage : attaque tous les adversaires adjacents.
 - Grande hache : Combat d8, 2d12+4.
 - Rochers brûlants: Lancer d6, 5/10/20, 3d6+2.
 
 ### Équipement
-Cotte de maille, grande hache, rochers brûlants.
+Cotte de mailles, grande hache, rochers brûlants.
