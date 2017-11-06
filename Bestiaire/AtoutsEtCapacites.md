@@ -18,6 +18,8 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 
 # Capacités monstrueuses validées ou reformulées
 
+- Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
+- Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
 - * Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - * Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - * Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
