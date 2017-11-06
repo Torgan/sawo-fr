@@ -3,6 +3,7 @@
 - * Combatif : +2 pour annuler Secoué.
 - * Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - * Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
+- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et +2 dégâts au Combat. 
 - * Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - * Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - * Guerrier impie : pour 1PP, les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) sont repoussés si Échec sur un jet d’ Âme, subissent une Blessure si 1 sur leur jet.
@@ -21,6 +22,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - * Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - * Énorme : attaque adverse +4.
+- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases) quand à la lumière du jour.
 - * Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétineemnt. 
 - * Grand : attaque adverse +2.
 - * Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
