@@ -16,6 +16,7 @@
 - * Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 - * Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 - * Vif : Défausse les cartes d'Initiative de 5 ou moins.
+- Volonté de fer : Intimidation +2, Sarcasme +2, y résister +2.
 
 _Remarque : si Grande aura de commandement, passer les rayon des Atouts de commandement de 5 à 10 cases._
 
@@ -34,6 +35,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Intangible : immunisé aux armes non magiques.
 - * Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - * Petit : attaque adverse -2 si en mouvement.
+- Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
 - Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu. 
 _Remarque : la régénération rapide de l'hydre est spécifique._
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
