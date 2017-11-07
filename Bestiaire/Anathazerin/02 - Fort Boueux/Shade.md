@@ -12,4 +12,4 @@ Compétences : Combat d8, Intimidation d8, Perception d6.
 
 ### Actions
 - Morsure : Combat d8, d8+d6.
-- À la gorge : touche la zone la plus faiblement protégée avec une Relance à l’attaque.
+- À la gorge : touche la zone la moins protégée sur Relance en attaque.
