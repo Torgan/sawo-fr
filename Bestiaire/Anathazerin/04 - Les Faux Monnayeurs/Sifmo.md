@@ -17,7 +17,7 @@ Handicaps : Cupide.
 
 ### Capacités spéciales
 - Assassin : +2 aux dégâts contre une cible surprise.
-- Grande Esquive (Armure) — -2 aux attaques à distance contre le personnage.
+- Grande Esquive (Armure) : -2 aux attaques à distance contre le personnage.
 - Sang-froid : agit sur la meilleure de trois cartes en combat.
 
 ### Actions
