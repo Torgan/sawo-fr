@@ -1,7 +1,7 @@
 Pour noter les guides de conversion utilisée
 
 ## Syntaxe
-RES 10[+2] (1) : Résistance de 10 incluant 1 point d'armure. 2 points d'armure à ajouter face aux projectiles
+RES 10[+2] (1) : Résistance de 10 incluant 1 point d'armure. 2 points d'armure à ajouter face aux projectiles, en général lié à l'utilisation d'un bouclier.
 dégâts +X : +X aux dégats
 Trait +X : +X au jet du Traits
 +X Fatigue|Blessure : +X niveau de Fatigue|Blessure (= incrémenter un compteur)
