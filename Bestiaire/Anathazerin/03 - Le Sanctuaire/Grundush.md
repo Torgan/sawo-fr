@@ -16,9 +16,9 @@ Compétences : Combat d6, Discrétion d6, Intimidation d8, Lancer d6, Magie d10
 - Taille +1.
 
 ### Actions
-- Dague sacrificielle : Combat d6, d6+d4 + poison (-2, perte d'un niveau de Fatigue).
+- Dague sacrificielle : Combat d6, d6+d4 + poison (-2, +1 Fatigue).
 - _Eclair_ (Acide) : Magie d10, 1-3PP, 12/24/48, Inst.
 - _Terreur_ : Magie d10, 2PP, 8, durée spéciale.
 
 ### Équipement
-Dague sacrificielle (Lorsque une attaque provoque une Blessure ou un état Secoué, la victime doit réussir un jet de Vigueur à -2 ou subir un niveau de Fatigue).
+Dague sacrificielle (poison).
