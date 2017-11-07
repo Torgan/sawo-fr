@@ -13,9 +13,8 @@ Compétences : Combat d4, Discrétion d10(+4 ombre), Perception d8.
 ### Capacités spéciales
 - Faiblesse (Lumière) : -2 à tout jet de Trait par lumière vive.
 - Immatériel : immunisé aux attaques non magiques.
-- Ombre vivante : Discrétion +4 dans les ombres.
+- Ombre vivante : Discrétion +4 dans les ombres. Ignore les malus liés à la Pénombre, à l'Obscurité et aux Ténèbres.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
-- Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Toucher glacial : Combat d4+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur. Une cible déjà incapacitée, avec 2 Fatigue et encore vivante, se transforme en ombre sur Échec. Fatigue récupérée en 24h.
