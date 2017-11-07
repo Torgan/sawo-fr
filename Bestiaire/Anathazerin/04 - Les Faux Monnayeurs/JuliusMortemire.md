@@ -13,7 +13,7 @@ Atouts : Assassin.
 Handicaps : Cupide.
 
 	PAR	RES
-	5	6 (1)
+	6 (1)	6[+2] (1)
 
 ### Actions
 - Assassin : +2 aux dégâts contre une cible surprise.
