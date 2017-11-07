@@ -20,13 +20,13 @@ Atouts : Arcanes (Maître du Lotus), Sang-Froid, Réserve de Lotus, Nouveau Pouv
 ### Actions
 - Épée courte : Combat d8, 2d6
 - Gant d’empoisonneur : Combat d8+2, d6+poison
-- _Augmentation/diminution de Trait_ : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 12, 3 (1/rd).
-- _Barrière_ : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 12, 3 (1 / sect. / rd)
-- _Confusion_ : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 24, Inst.
-- _Don du guerrier_ : (diverses drogues de guerriers bestiaux) Maîtrise du Lotus d8, 1+PP, Portée T, 3 (1/rd)
-- _Poison_ : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
-- _Rafale_ : (Lotus Éternel du Phénix de Feu) Maîtrise du Lotus d8, 2PP, Cône, Inst., 2d10.
-- _Zombie_ : (Lotus Opaque de Réveil) Maîtrise du Lotus d8, 3PP / corps, Portée 12.
+- _Augmentation/diminution de Trait_ (diverses préparations de Lotus) : Maîtrise du Lotus d8, 2PP, Portée 12, 3 (1/rd).
+- _Barrière_ (Lotus Rouge du Mur Enflammé) : Maîtrise du Lotus d8, 1PP/section, Portée 12, 3 (1 / sect. / rd)
+- _Confusion_ (Lotus Gris des Membres de Pierre) : Maîtrise du Lotus d8, 1PP/cible, Portée 24, Inst.
+- _Don du guerrier_ (diverses drogues de guerriers bestiaux) : Maîtrise du Lotus d8, 1+PP, Portée T, 3 (1/rd)
+- _Poison_ (divers poisons) : Maîtrise du Lotus d8, 2+PP, Portée P.
+- _Rafale_ (Lotus Éternel du Phénix de Feu) : Maîtrise du Lotus d8, 2PP, Cône, Inst., 2d10.
+- _Zombie_ (Lotus Opaque de Réveil) : Maîtrise du Lotus d8, 3PP / corps, Portée 12.
 
 ### Équipement
 épée courte, dague empoisonnée (For+d4, enduit avec une préparation de Lotus Poison), gant d’empoisonneur, corselet moyen en bronze, sacoche de Maître du Lotus, kit de guérison, anneau d’empoisonneur, 10 doses de Lotus raffiné.

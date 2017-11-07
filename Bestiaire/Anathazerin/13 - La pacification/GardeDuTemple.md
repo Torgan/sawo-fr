@@ -19,7 +19,7 @@ Atouts : Arme fétiche (Bec de corbin), Enragé, Grand fracassement.
 
 ### Actions
 - Bec de corbin : Combat d10+1, Allonge 1, PA2, 2 mains, 2d10 + Grand fracassement.
-- Grand fracassement : ignore 2 points d'Armure (4 sur une Relance)
+- Grand fracassement : ignore 2 points d'Armure (4 sur Relance)
 
 ### Équipement
 Armure de chitine (Armure +3), Bec de corbin magique (For+d10, Allonge 1, PA2, deux mains).

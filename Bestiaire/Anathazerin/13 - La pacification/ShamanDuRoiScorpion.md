@@ -21,7 +21,7 @@ Atouts : Arcanes (Magie), Drain de l’Âme.
 ### Actions
 - Bec de corbin : Combat d6, Allonge 1, PA2, 2 mains, 2d10
 - _Augmentation/diminution de Trait_ : Magie d12, 2PP, Portée 10, 3 (1/rd).
-- _Convocation d’allié_ : (essaim de scorpions) Magie d12, 3+PP, Portée 10, 3 (1/rd).
+- _Convocation d’allié_ (essaim de scorpions) : Magie d12, 3+PP, Portée 10, 3 (1/rd).
 - _Déflexion_ : Magie d12, 2PP, Portée T, 3 (1/rd)
 - _Éclair_(acide) : Magie d12, 1-3PP, Portée 12/24/48, Inst.
 - _Explosion_ (acide) : Magie d12, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.

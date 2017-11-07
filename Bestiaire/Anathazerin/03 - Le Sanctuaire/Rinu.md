@@ -17,7 +17,7 @@ Atouts : Brute.
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
 
 ### Actions
-- Épée à deux mains : Combat d8, Parade -1, 2d10+1 (+1 sur une Relance).
+- Épée à deux mains : Combat d8, Parade -1, 2d10+1 (+1 sur Relance).
 
 ### Équipement
 Armure de cuir, épée à deux mains.

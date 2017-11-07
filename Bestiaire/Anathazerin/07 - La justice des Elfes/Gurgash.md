@@ -23,8 +23,8 @@ Atouts : Blocage, Brute, Combatif, Commandement, Costaud, Cri de guerre, Enragé
 ### Actions
 - Cri de guerre : Intimidation d12, affecte tous les adversaires dans un Grand Gabarit.
 - Frénésie suprême : peut faire une attaque de Combat supplémentaire.
-- Épée bâtarde : Combat d12+1, d12+d8+3 (+1 sur une Relance, +1d6 contre les géants).
-- Épée bâtarde : Combat d12+1, 2 mains, parade -1, d12+d8+4 (+1 sur une Relance, +1d6 contre les géants).
+- Épée bâtarde : Combat d12+1, d12+d8+3 (+1 sur Relance, +1d6 contre les géants).
+- Épée bâtarde : Combat d12+1, 2 mains, parade -1, d12+d8+4 (+1 sur Relance, +1d6 contre les géants).
 
 ### Réactions
 - Bouclier magique : Résistance +2 contre les projectiles.

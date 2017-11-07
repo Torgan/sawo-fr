@@ -24,8 +24,8 @@ Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pou
 
 ### Actions
 - Dague : Combat d6+1, d6+d4.
-- _Armure_ : (Plumes du Dieu-Vautour) Sorcellerie d12, 2PP, Portée T, 3 (1/rd).
-- _Augmentation/diminution de Trait_ : (Bénédiction/Malédiction du Dieu-Vautour) Sorcellerie d12, 2PP, Portée 10, 3 (1/rd).
+- _Armure_ (Plumes du Dieu-Vautour) : Sorcellerie d12, 2PP, Portée T, 3 (1/rd).
+- _Augmentation/diminution de Trait_ (Bénédiction/Malédiction du Dieu-Vautour) : Sorcellerie d12, 2PP, Portée 10, 3 (1/rd).
 - Déflexion : (vents tourbillonnants) Sorcellerie d12, 2PP, Portée 0, 3 (1/rd)
 - Éclair : (projection des griffes du vautour) Sorcellerie d12, 1-3PP, Portée 12/24/48, 2d6 ou 3d6 de dégâts, Inst.
 - _Ravage_ : Magie d10, 2-4PP, 16, Inst, Gabarit Moyen (2) ou Grand Gabarit (4).

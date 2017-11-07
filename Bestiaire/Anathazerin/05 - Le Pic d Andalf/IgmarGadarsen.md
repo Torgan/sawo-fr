@@ -22,7 +22,7 @@ Handicap : Arrogant, Brute, Cupide, Sale Caractère.
 
 ### Actions
 - Brute : dégât +1 en mêlée, +2 sur Relance.
-- Épée bâtarde : Combat d8, 1 main, 2d8+1 (+1 sur une Relance).
+- Épée bâtarde : Combat d8, 1 main, 2d8+1 (+1 sur Relance).
 - Épée bâtarde : Combat d8, 2 mains, Parade -1, 2d8+2 (+1 sur Relance).
 - Hache de bataille : Combat d8, 2d8+1 (+1 sur Relance).
 

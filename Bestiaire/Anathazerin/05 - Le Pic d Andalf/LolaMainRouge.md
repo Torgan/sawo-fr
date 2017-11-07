@@ -19,7 +19,7 @@ Atouts : Arme fétiche, Costaud, Brute.
 
 ### Actions
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
-- Épée à 2 mains : Combat d10+1, Parade -1, 2d10+1 (+1 sur une Relance).
+- Épée à 2 mains : Combat d10+1, Parade -1, 2d10+1 (+1 sur Relance).
 - Arc court : Tir d6, 12/24/48, 2d6.
 
 ### Équipement

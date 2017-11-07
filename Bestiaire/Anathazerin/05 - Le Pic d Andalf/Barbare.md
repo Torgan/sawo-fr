@@ -16,7 +16,7 @@ Handicaps : Peur de la Magie (Mineur).
 
 ### Actions
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
-- Hache de bataille : Combat d8, 2d8+1 (+1 sur une Relance).
+- Hache de bataille : Combat d8, 2d8+1 (+1 sur Relance).
 - Arc : Tir d6, 12/24/48, 2d6.
 
 ### Réactions

@@ -21,10 +21,10 @@ Atouts : Arcanes (Maîtrise du Lotus), Réserve de Lotus, Nouveau Pouvoir, Point
 
 ### Actions
 - Dague : Combat d6, d6+d4
-- _Augmentation/diminution de Trait_ : (diverses préparations de Lotus) Maîtrise du Lotus d8, 2PP, Portée 8, 3 (1/rd).
-- _Barrière_ : (Lotus Rouge du Mur Enflammé) Maîtrise du Lotus d8, 1PP/section, Portée 8, 3 (1 / sect. / rd)
-- _Confusion_ : (Lotus Gris des Membres de Pierre) Maîtrise du Lotus d8, 1PP/cible, Portée 16, Inst.
-- _Poison_ : (divers poisons) Maîtrise du Lotus d8, 2+PP, Portée P.
+- _Augmentation/diminution de Trait_ (diverses préparations de Lotus) : Maîtrise du Lotus d8, 2PP, Portée 8, 3 (1/rd).
+- _Barrière_ (Lotus Rouge du Mur Enflammé) : Maîtrise du Lotus d8, 1PP/section, Portée 8, 3 (1 / sect. / rd)
+- _Confusion_ (Lotus Gris des Membres de Pierre) : Maîtrise du Lotus d8, 1PP/cible, Portée 16, Inst.
+- _Poison_ (divers poisons) : Maîtrise du Lotus d8, 2+PP, Portée P.
 
 ### Équipement
 Dague, sacoche de Maître du Lotus, kit de guérison, 5 doses de Lotus raffiné.

@@ -23,9 +23,9 @@ Atouts : Arcanes (Voie de l’Illumination), Blocage, Brave, Chasseur de Démons
 ### Actions
 - Lame de Lune : Combat d10, 2d8
 - Chasseur de Démons : peut emprisonner lême d’un mort vivant et tnt qu’action gratuite (jet d’Âme opposé). Tant que l’âme est emprosionnée, le chasseur bénéficie d’un Jeton supplémentaire à utilisation unique qu’il peut utiliser uniquement lors d’un combat contre un Démon ou un Mort-vivant. +2 en Connaissance (Arcanes) et Connaissance (Religion) lorsque cela concerne des sémons.
-- _Augmentation/diminution de Trait_ : (mouvements d’animaux) Illumination d10, 2PP, Portée 6, 3 (1/rd).
-- _Déflexion_ : (lire les intentions de l’ennemi) Illumination d10, 2PP, Portée 0, 3 (1/rd)
-- _Frappe_ : (perception du point faible de l’ennemi) Illumination d10, 2PP Portée T, 3 (1/rd).
+- _Augmentation/diminution de Trait_ (mouvements d’animaux) : Illumination d10, 2PP, Portée 6, 3 (1/rd).
+- _Déflexion_ (lire les intentions de l’ennemi) : Illumination d10, 2PP, Portée 0, 3 (1/rd)
+- _Frappe_ (perception du point faible de l’ennemi) : Illumination d10, 2PP Portée T, 3 (1/rd).
 
 ### Équipement
 Lame de Lune, demie-armure de bronze moyenne (+2).

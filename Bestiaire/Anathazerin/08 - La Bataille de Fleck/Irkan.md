@@ -20,7 +20,7 @@ Atouts : Balayage, Brute, Costaud, Cri de guerre, Tête froide.
 ### Actions
 - Balayage : Attaque tous les adversaires adjacents à -2.
 - Cri de guerre : Intimidation d12, affecte tous les adversaires dans un Grand Gabarit.
-- Épée à deux mains : Combat d10, Parade -1, PA2, 2d10+1(+1 sur une Relance).
+- Épée à deux mains : Combat d10, Parade -1, PA2, 2d10+1(+1 sur Relance).
 
 ### Équipement
 Cotte de mailles, épée à deux mains, potion d’antidote, anneau de haute magie.
