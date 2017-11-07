@@ -24,9 +24,9 @@ Atouts : Arcane (Magie), Drain de l'Âme.
 
 ### Actions
 - Masse d'armes : Combat d8+1, 2d8+1+1d6, peut enflammer.
-- _Eclair_ (feu) : Magie d12+1, 1-3PP, 12/24/48, Inst.
+- _Eclair_ (Feu) : Magie d12+1, 1-3PP, 12/24/48, Inst.
 - _Explosion_ (Feu) : Magie d12+1, 1-3PP, 12/24/48, Inst.
-- _Ralentissement_(Mot de pouvoir) : Magie d12+1, 1+PP, Portée 24, 3 (2/rd).
+- _Ralentissement_ (Mot de pouvoir) : Magie d12+1, 1+PP, Portée 24, 3 (2/rd).
 - _Dépeçage_ (injonction mortelle) : Magie d12+1, 5PP, 12, Inst.
 
 ### Réactions
