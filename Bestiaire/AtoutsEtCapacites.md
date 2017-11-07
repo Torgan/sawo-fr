@@ -4,7 +4,7 @@
 - * Combatif : +2 pour annuler Secoué.
 - * Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - * Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
-- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et +2 dégâts au Combat.
+- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - * Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 - * Frénésie suprême : peut faire une attaque de Combat supplémentaire.
