@@ -18,4 +18,4 @@ Compétences : Combat d8, Perception d4.
 - Terreur (0) : impose un test de Terreur aux témoins.
 
 ### Actions
-- Coup : Combat d8, d12+d4+2. Une attaque provoquant un état Secoué ou une blessure oblige la victime à réussir un jet de Vigueur à -2 sous peine de contracter une Maladie chronique, longue, lourdement débilitante ne pouvant être soignée que par magie.
+- Coup : Combat d8, d12+d4+2. Sur Secoué ou plus et sur Échec de Vigueur -2 inflige une Maladie chronique, longue, lourdement débilitante ne pouvant être soignée que par magie.
