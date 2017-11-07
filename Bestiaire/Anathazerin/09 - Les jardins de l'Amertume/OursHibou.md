@@ -16,9 +16,8 @@ Atouts : Enragé, Frénésie suprême.
 - Armure +1 : fourrure épaisse.
 - Taille +2.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Vol : Allure 10, Montée 0.
 
 ### Actions
 - Bec/Griffes : Combat d8/d8, d12+d6+4.
-- Enragé : l'ours-hibou devient enragé s’il subit une Blessure ou un état Secoué. Il subit un malus de -2 en Parade, et gagne un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
+- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et +2 dégâts au Combat.
 - Frénésie suprême : peut faire une attaque de Combat supplémentaire.
