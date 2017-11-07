@@ -12,7 +12,7 @@ Atouts : Brute.
 Handicaps : Peur de la Magie (Mineur).
 
 	PAR	RES
-	7 (1)	6 (1)
+	7 (1)	6[+2] (1)
 
 ### Actions
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
@@ -20,7 +20,6 @@ Handicaps : Peur de la Magie (Mineur).
 - Arc : Tir d6, 12/24/48, 2d6.
 
 ### Réactions
-- Bouclier moyen : parade +1, +2 Résistance contre les armes à distance.
 - Peur de la Magie : effectue un test de Terreur en présence de magie.
 
 ### Équipement
