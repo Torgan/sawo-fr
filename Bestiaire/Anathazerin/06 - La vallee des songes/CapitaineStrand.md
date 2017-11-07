@@ -12,7 +12,7 @@ Compétences : Combat d12, Équitation d12, Intimidation d8, Perception d4, Tir 
 Atouts : Blocage, Charismatique, Commandement, Esquive, Leader naturel, Frénésie suprème.
 
 	Parade	Résistance
-	9 (1)	10 (3)
+	9 (1)	10[+2] (3)
 
 ### Capacités spéciales
 
@@ -23,9 +23,6 @@ Atouts : Blocage, Charismatique, Commandement, Esquive, Leader naturel, Frénés
 
 - Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Épée longue : Combat d12, d10+d8.
-
-### Réactions
-- Écu : Résistance +2 contre les projectiles.
 
 ### Équipement
 Épée longue, écu, armure de plates.
