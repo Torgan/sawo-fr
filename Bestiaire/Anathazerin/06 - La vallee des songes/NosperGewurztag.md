@@ -29,4 +29,4 @@ Atout : Arcane (Magie), Charismatique, Mage.
 - _Fantasmes_ : Magie d10, 2+PP, Portée 10, 3 (1/rd).
 
 ### Équipement
-Dague
+Dague.
