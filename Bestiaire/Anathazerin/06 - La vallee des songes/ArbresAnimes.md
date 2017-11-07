@@ -16,7 +16,7 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 - Armure +3 : armure naturelle
 - Énorme : attaque adverse +4.
 - Faiblesse : les dégâts des attaques de feu sont doublés.
-- Plante : +2 pour récupérer d'un état Secoué. Ignore les malus de Blessures, le poison et les dégâts supplémentaires liés aux attaques ciblées.
+- Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
 - Résistance physique : les attaques non tranchantes subissent un malus de -3 aux dégâts.
 - Taille +8.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
