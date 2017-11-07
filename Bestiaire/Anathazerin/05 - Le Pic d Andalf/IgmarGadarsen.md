@@ -21,10 +21,10 @@ Handicap : Arrogant, Brute, Cupide, Sale Caractère.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions
-- Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 en cas de Relance.
+- Brute : dégât +1 en mêlée, +2 sur Relance.
 - Épée bâtarde : Combat d8, 1 main, 2d8+1 (+1 sur une Relance).
-- Épée bâtarde : Combat d8, 2 mains, Parade -1, 2d8+2 (+1 sur une Relance).
-- Hache de bataille : Combat d8, 2d8+1 (+1 sur une relance).
+- Épée bâtarde : Combat d8, 2 mains, Parade -1, 2d8+2 (+1 sur Relance).
+- Hache de bataille : Combat d8, 2d8+1 (+1 sur Relance).
 
 ### Équipement
-Cotte de maille magique (+1 aux jets d’Encaissement), épée bâtarde, hache de bataille, dague, potion de soins modérés (soigne jusqu’à deux Blessures vieilles de moins d’une heure), bourse contenant 20 po, 15 pa et 21 pc, sac de 596 pa (fausses pièces).
+Cotte de maille magique (Encaissement +1), épée bâtarde, hache de bataille, dague, potion de soins modérés (soigne 2 Blessures de moins d’une heure), bourse contenant 20 po, 15 pa et 21 pc, sac de 596 pa (fausses pièces).
