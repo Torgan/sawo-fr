@@ -2,7 +2,7 @@
 
 Les géants du givre vivent dans les hautes montagnes, dans les neiges éternelles ou dans les étendues glacées du monde. Ils construisent de grand forts en pierre depuis lesquels ils règnent sur des créatures inférieures comme des orques ou des gobelins.
 
-Leur peau est bleue pale et leurs cheveux sont blancs comme la neige.
+Leur peau est bleue pâle et leurs cheveux sont blancs comme neige.
  
 Allure : 8
 
@@ -15,13 +15,13 @@ Compétences : Combat d8, Escalade d8, Intimidation d10, Lancer d8, Perception 
 	6	12 (1)
 
 ### Capacités spéciales
-- Grand : attaque adverse +2.
+- Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
 - Faiblesse (Feu) : les dégâts des attaques de feu sont doublés.
+- Grand : attaque adverse +2.
 - Immunité (Froid) : immunisé à toute forme de froid.
 - Taille +4.
 
 ### Actions
-- Aura glaciale : irradie un froid mortel. À la fin de leur action d'un round, toutes les créatures adjacentes subissent 2d6 de dégâts de froid.
 - Grand balayage : attaque tous les adversaires adjacents.
 - Massue : Combat d8, d12+d10+3.
 - Rochers : Lancer d8, 3/6/12, d12+d6+3.
