@@ -1,4 +1,4 @@
-# Celestine, gynosphynx
+# Célestine, gynosphynx
 
 Allure : 8, vol 12 montée 6.
 
