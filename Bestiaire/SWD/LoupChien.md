@@ -13,7 +13,7 @@ Compétences : Combat d6, Perception d10.
 	5	4
 
 ### Capacités spéciales
-Taille -1.
+- Taille -1.
 
 ### Actions
 - Morsure : Combat d6, d6+d4.
