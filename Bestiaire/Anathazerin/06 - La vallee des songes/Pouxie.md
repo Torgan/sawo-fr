@@ -16,8 +16,8 @@ Atouts : Forestier.
 - Taille -2.
 
 ### Actions
-- Couteau : Combat d6, 2d4 + poison provoquant l'inconscience (-2).
-- Sarbacane : Tir d8, Tir 5/10/20, Attaque ciblée pour toucher une cible en armure. Poison provoquant l'inconscience (-2).
+- Couteau : Combat d6, 2d4 + poison (-2) provoquant l'inconscience.
+- Sarbacane : Tir d8, Tir 5/10/20, Attaque ciblée pour toucher une cible en armure. Poison (-2) provoquant l'inconscience.
 - _Invisibilité_ : Âme d6, portée P, 3rd.
 - _Enchevêtrement_ : Âme d6, portée 6, Gabarit Moyen, Inst.
 
