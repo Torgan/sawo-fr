@@ -8,12 +8,13 @@ Allure : 6
 Compétences : Combat d8, Discrétion d6, Intimidation d6, Perception d4, Persuasion d4, Réseaux d6, Tir d6.
 
 	PAR	RES
-	6   5
+	7 (1)   6 (1)
     
 ### Capacités spéciales
 - Taper là où ça fait mal : avec une Relance en attaque et au moins un Succès aux dégâts, la victime subit 1 niveau de Fatigue (plaies et bosses). Non cumulatif.
 
 ### Actions
+- Bâton : Combat d8, Parade +1, Allonge 1, 2 mains, d8+d4
 - Dague : Combat d8, d8+d4.
 
 ### Équipement
