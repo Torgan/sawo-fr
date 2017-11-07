@@ -1,6 +1,6 @@
 # Atouts validés ou reformulés
 
-- Brute : dégât +1 en mêlée, +2 sur Relance.
+- Brute : dégâts +1 sur Succcès de Combat, +2 sur Relance.
 - * Combatif : +2 pour annuler Secoué.
 - * Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - * Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
