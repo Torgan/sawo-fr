@@ -10,7 +10,7 @@ Compétences : Combat d8, Discrétion d6, Escalade d4, Intimidation d6, Lancer d
 Handicaps : Poches percées, Recherché.
 
 	PAR	RES
-	8 (2)	7 (1)
+	7 (1)	7 (1)
 
 ### Capacités spéciales
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
@@ -20,4 +20,4 @@ Handicaps : Poches percées, Recherché.
 - Dague lancée : Lancer d6, 3/6/12, d8+d4.
 
 ### Équipement
-Armure de cuir, épée courte magique (Parade +1), petit bouclier, 3 dagues de jets (3/6/12 , For+d4), vêtements sombres, potion de Soins modérés (soigne une Blessure vieille de moins d’une heure), 25 po, 12 pa et un rubis de 500 pa, bague en agate de 50 pa représentant un serpent qui se mord la queue.
+Armure de cuir, épée courte magique (Parade +1), petit bouclier, 3 dagues de jets, vêtements sombres, potion de Soins modérés (soigne une Blessure vieille de moins d’une heure), 25 po, 12 pa et un rubis de 500 pa, bague en agate de 50 pa représentant un serpent qui se mord la queue.
