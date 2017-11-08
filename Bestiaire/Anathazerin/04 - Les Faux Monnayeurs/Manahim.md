@@ -10,7 +10,7 @@ Compétences : Combat d8, Discrétion d6, Escalade d4, Intimidation d6, Lancer d
 Handicaps : Poches percées, Recherché.
 
 	PAR	RES
-	7 (1)	7 (1)
+	8 (2)	7 (1)
 
 ### Capacités spéciales
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
