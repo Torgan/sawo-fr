@@ -16,8 +16,8 @@ Handicaps : Prudent.
 
 ### Capacités spéciales
 - Combatif : +2 pour annuler Secoué.
-- Tueur d'orques : +1d6 aux dégâts contre les orques.
-- Tueur de géants : +1d6 aux dégâts contre les grandes créatures (Taille +3).
+- Tueur d'orques : dégâts +d6 contre les orques.
+- Tueur de géants : dégâts +d6 contre les grandes créatures (Taille +3).
 
 ### Actions
 - Arc court : Tir d8, 12/24/48, 2d6.
