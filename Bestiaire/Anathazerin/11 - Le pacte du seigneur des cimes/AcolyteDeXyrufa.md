@@ -17,19 +17,19 @@ Atouts : Arcane (Magie), Drain de l'âme.
 - Arcane : Magie d8, 20PP.
 - Armure +2 : peau épaisse.
 - Grand : attaque adverse +2.
-- Faiblesse (Feu) : les dégâts des attaques de feu sont doublés.
-- Immunité (Froid) : les géants du givre sont immunisés à toute forme de froid.
+- Faiblesse (Feu) : subit dégâts Feu x2.
+- Immunité (Froid).
 - Taille +4.
 
 ### Actions
 - Balayage : Attaque tous les adversaires adjacents à -2.
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
-- Stalactite de pierre : Combat d6, d12+d6+6.
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
+- Stalactite de pierre : Combat d6, d12+d6+6.
 - _Diminution de Trait_ : Magie d8, 2PP, Portée 6, 3 (1/rd).
-- _Eclair_ (saignement) : Magie d8, 1-3PP, 12/24/48, Inst. L'aspect saignement provoque les mêmes effets que l'aspect Acide - Corrosion (Savage Worlds p. 189)
+- _Eclair_ (saignement) : Magie d8, 1-3PP, 12/24/48, Inst, 2-3d6. Saignement +1 Fatigue sur Échec de Vigueur.
 - _Terreur_ : Magie d8, 2PP, portée 12, durée spéciale.
 - _Ténèbres_ : Magie d8, 2PP, Portée 6, 3 (1/rd).
 
 ### Équipement
-Stalactite de pierre (For+d6), rochers.
+Stalactite de pierre, rochers.
