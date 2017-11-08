@@ -1,6 +1,6 @@
 # Aigle géant
 
-Allure : Vol 20, Montée 10
+Allure : Vol 20 Montée 10.
 
 	Agi	Âme	For	Int	Vig
 	d12	d10	d12	d6	d8
@@ -12,7 +12,7 @@ Compétences : Combat d6, Perception d12+2.
 
 ### Capacités spéciales
 - Armure +1 : plumes épaisses
-- Esquive : -1 aux attaques à distance contre la créature.
+- Esquive : inflige -1 aux attaques à distance.
 - Taille +2.
 - Vigilant : Perception +2. 
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
