@@ -1,6 +1,6 @@
 # * Spectre majeur
 
-Allure : 12+d6
+Allure : 12+d6, vol 12 montée 6.
 
 	Agi	Âme	For	Int	Vig
 	d10	d12+2	d4	d8	d10
@@ -11,15 +11,13 @@ Compétences : Combat d10, Discrétion d10, Intimidation d12, Perception d10, S
 	7	9
 
 ### Capacités spéciales
-- Faiblesse (Lumière) : une lumière vive impose un malus de -2 à tous les jets de Trait.
-- Immatériel : ne peut être affecté que par les attaques magiques.
+- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
+- Immatériel : immunisé aux attaques non magiques.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Résistant : pas de Blessure si Secoué deux fois.
-- Terreur (-2) : voir un spectre impose un test de Terreur à -2.
+- Terreur (-2).
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Vol : Allure 12, Montée 0.
 
 ### Actions
 - _Télékinésie_ : Âme d12+2, PP — Portée 12, 3.
-- Toucher vampirique : Combat d10+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet au Spectre majeur de de soigner d'une Blessure.
-
+- Toucher vampirique : Combat d10+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet à Sael Tanderi de se soigner une Blessure.
