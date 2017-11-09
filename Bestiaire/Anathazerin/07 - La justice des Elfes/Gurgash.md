@@ -30,4 +30,4 @@ Atouts : Blocage, Brute, Combatif, Commandement, Costaud, Cri de guerre, Enragé
 - Bouclier magique : Résistance +2 contre les projectiles.
 
 ### Équipement
-Cotte de mailles, Bouclier magique (Parade +3), épée bâtarde tueuse de géants (Combat +1, For+d8+2, +1d6 de dégâts contre les géants), un anneau d’action libre (immunise à tous les Pouvoirs visant à entraver le mouvement — _Paralysie_, _Enchevêtrement_, etc...), anneau de résistance au feu (Résistance +2 contre le feu, +2 pour résister aux Pouvoirs de feu) et trois potions de soins (une Blessure).
+Cotte de mailles, Bouclier magique (Parade +3), épée bâtarde tueuse de géants (Combat +1, For+d8+2, +1d6 de dégâts contre les géants), un anneau d’action libre (immunise à tous les Pouvoirs visant à entraver le mouvement — _Paralysie_, _Enchevêtrement_, etc.), anneau de résistance au feu (Résistance +2 contre le feu, +2 pour résister aux Pouvoirs de feu) et trois potions de soins (une Blessure).
