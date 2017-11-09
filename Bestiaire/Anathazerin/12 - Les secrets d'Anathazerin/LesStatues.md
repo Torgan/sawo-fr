@@ -7,11 +7,11 @@ Les objets magiques regagnent 1PP/heure. L'utilisation de leurs pouvoirs déclen
 - 15PP
 - _Intangibilité_ : Âme, 5PP, portée P, 3 (2/rd).
 
-Le porteur de cette cape est immunisé à tous les pouvoirs visant à entraver le mouvement — _Paralysie_, _Enchevêtrement_, etc... 
+Le porteur de cette cape est immunisé à tous les Pouvoirs visant à entraver le mouvement — _Paralysie_, _Enchevêtrement_, etc.
  
 ## Solar - Bandeau d’intellect
 
-Ce bandeau augmente de 1 le dé d'intellect de son porteur, et octroie un bonus de +1 aux jets de Magie (arcane uniquement).
+Le porteur gagne Intellect +1 type de dé, Magie +1 (arcane uniquement).
 
 ## Dénora - Gants de guérison
 
@@ -36,18 +36,15 @@ Ce bandeau augmente de 1 le dé d'intellect de son porteur, et octroie un bonus 
 - 20PP
 - _Télékinésie_ : Âme, 5PP, Portée 6, 3 (1/rd).
 
-La version de _Télékinésie_ est assez particulière : il s'agit uniquement de l'option **Armes télékinétiques**, mais deux épées longues sont créées (For+d8) et sont animées en même temps. La compétence d'Arcane utilisée est l'Âme du détenteur du Luth.
+La version de _Télékinésie_ est assez particulière : il s'agit uniquement de l'option **Armes télékinétiques**, mais deux épées longues sont créées (Âme+d8) et sont animées en même temps. La compétence d'Arcane utilisée est l'Âme du détenteur du Luth.
 
 ## Mélenna - Arc court runique
 
-- Tir +1
-- Dégâts 2d6+2
+- Tir +1, dégâts 2d6+2
 - Octroie l'Atout Tir Double.
 - 6PP
 - _Explosion_ (Aspect : nuée de flêches) : Âme, 2-6PP, 12/24/48, Inst.
 
 ## Gorom - Cuirasse de bronze
 
-- Cotte de mailles 
-- Armure +4
-- Déflexion +2
+- Cuirasse de bronze (Armure +4, Déflexion +2)
