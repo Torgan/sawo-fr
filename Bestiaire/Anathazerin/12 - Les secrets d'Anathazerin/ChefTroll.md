@@ -14,10 +14,10 @@ Compétences : Combat d10, Intimidation d10, Lancer d6, Natation d6, Percepti
 
 ### Capacités spéciales
 - Armure +1 : peau caoutchouteuse.
-- Régénération rapide : peut tenter un jet de guérison naturelle à chaque round sauf si les blessures sont causées par le feu ou les flammes.
+- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu.
 - Taille +2.
 
 ### Actions
 - Massue cloutée : Combat d10, d12+d8+3.
-- Griffes : Combat d10, d12+d4+10.
-- Grand balayage : attaque simultanément tous les ennemis adjacents.
+- Griffes : Combat d10, d12+d4+3.
+- Grand balayage : attaque toute cible adjacente.
