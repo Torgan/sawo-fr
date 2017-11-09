@@ -47,7 +47,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Faiblesse (Feu) : subit dégâts x2.
 - Faiblesse (Froid) : subit dégâts x2.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
-- * Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétineemnt. 
+- Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
 - * Grand : attaque adverse +2.
 - * Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Intangible : immunisé aux armes non magiques.
