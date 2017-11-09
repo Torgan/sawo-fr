@@ -18,5 +18,5 @@ Compétences : Combat d8, Intimidation d10, Lancer d6, Natation d6, Perceptio
 - Taille +2.
 
 ### Actions
-- Griffes : Combat d8, d12+d4+2 + moisissure jaune. Chaque attaque réussie déclenche la libération d'un nuage de spores. Toute créature présente dans un Petit Gabarit centré sur la victime doit réussir un jet de Vigueur ou subir 2d6 de dégâts supplémentaires.
-- Grand balayage : attaque simultanément tous les ennemis adjacents.
+- Griffes : Combat d8, d12+d4+2 + moisissure jaune. Chaque attaque réussie libère un nuage de spores : Petit Gabarit centré sur la cible, 2d6 sur Échec de Vigueur.
+- Grand balayage : attaque toute cible adjacente.
