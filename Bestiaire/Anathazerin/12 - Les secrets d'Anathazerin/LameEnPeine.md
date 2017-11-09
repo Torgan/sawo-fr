@@ -1,4 +1,4 @@
-# Lâme-en-peine (Sous-fifre)
+# Lame-en-peine (Sous-fifre)
 
 Allure : 6
 
@@ -13,12 +13,12 @@ Atout : Frappe éclair.
 	6	9
 
 ### Capacités spéciales
-- Immatériel : ne peut être affecté que par les attaques magiques.
+- Immatériel : immunisé aux armes non magiques.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Toucher vampirique : Combat d8+2, puis un jet d'Âme opposé à un jet de Vigueur de la victime. Perte d'un niveau de Fatigue en cas de succès, et de 2 niveaux de Fatigue en cas de Relance. Chaque niveau de fatigue perdu permet à la lâme-en-peine de soigner une Blessure. 
+- Toucher vampirique : Combat d8+2, inflige +1 Fatigue sur Succès d'Âme contre Vigueur, +2 Fatigue sur Relance, soigne 1 Blessure par Fatigue infligée.
 
 ### Réaction
-- Frappe éclair : peut attaquer un adversaire se portant au contact une fois par round.
+- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
