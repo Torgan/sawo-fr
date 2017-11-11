@@ -17,9 +17,9 @@ Atouts : Blocage, Grand balayage.
 - Taille +3.
 
 ### Actions
-- Grand balayage : attaque tout ennemi adjacent.
+- Grand balayage : attaque toute cible adjacente.
 - Hache-tonnerre : Combat d10+2, PA1, 2d12+5
 - _Frappe_ : Âme d6, 2PP, T, 3 (1/rd).
 
 ### Équipement
-Cotte de maille (+2), Hache-tonnerre (For+d12, Combat+2, PA1, Parade -1, 2 Mains, Pouvoir _Frappe_, 10PP).
+Cotte de maille, Hache-tonnerre (For+d12, Combat +2, PA1, Parade -1, 2 Mains, Pouvoir _Frappe_, 10PP).
