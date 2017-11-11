@@ -7,21 +7,21 @@ Allure : 8
 
 Compétences : Combat d6, Escalade d6, Intimidation d6, Lancer d10, Perception d6.
 
-Atout : Ferveur, Grand balayage
+Atout : Ferveur, Grand balayage.
 
 	PAR	RES
 	5	13 (2)
 
 ### Capacités spéciales
-— Armure +2 : peau épaisse.
-- Ferveur : les troupes ont un bonus de +1 aux dégâts.
+- Armure +2 : peau épaisse.
+- Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Grand : attaque adverse +2.
 - Taille +4.
 
 ### Actions
-- Grand balayage : Attaque tous les adversaires adjacents.
+- Grand balayage : attaque tous les adversaires adjacents.
 - Stalactite de pierre : Combat d6, d12+d6+6.
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
 
 ### Équipement
-Stalactite de pierre (For+d6), rochers.
+Stalactite de pierre, rochers.
