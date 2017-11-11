@@ -19,7 +19,7 @@ Atouts : Arcanes (Magie), Drain de l’Âme.
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 
 ### Actions
-- Bec de corbin : Combat d6, Allonge 1, PA2, 2 mains, 2d10
+- Bec de corbin : Combat d6, PA2, Allonge 1, 2 mains, 2d10.
 - _Augmentation/diminution de Trait_ : Magie d12, 2PP, Portée 10, 3 (1/rd).
 - _Convocation d’allié_ (essaim de scorpions) : Magie d12, 3+PP, Portée 10, 3 (1/rd).
 - _Déflexion_ : Magie d12, 2PP, Portée T, 3 (1/rd)
@@ -27,5 +27,4 @@ Atouts : Arcanes (Magie), Drain de l’Âme.
 - _Explosion_ (acide) : Magie d12, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.
 
 ### Équipement
-Armure de chitine (Armure +4), Bec de corbin magique (For+d10, Allonge 1, PA2, deux mains).
-
+Armure de chitine (Armure +4), Bec de corbin magique (For+d10).
