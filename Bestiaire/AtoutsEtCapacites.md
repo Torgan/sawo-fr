@@ -12,6 +12,7 @@
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
+- Fracassement : PA +1 pour Combat, +2 sur Relance.
 - Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
 - Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
 - Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
@@ -19,6 +20,7 @@
 - * Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Grand balayage : attaque toute cible adjacente.
 - Grande contre-attaque : attaque gratuite sur un ennemi par round ayant Échec de Combat.
+- Grand fracassement : PA +2 pour Combat, +4 sur Relance.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
 - Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
