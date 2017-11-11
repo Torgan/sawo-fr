@@ -16,7 +16,7 @@ Compétences : Combat d6, Discrétion d8, Escalade d4, Perception d8, Sarca
 
 ### Actions
 - Épée courte : Combat d6, 2d4.
-- Arbalète légère : Tir d6, 15/30/60, PA2, une action pour recharger, 2d6.
+- Arbalète légère : Tir d6, 15/30/60, PA2, CdT 1/2, 2d6.
 
 ### Équipement
 Épée courte, arbalète légère.
