@@ -20,4 +20,4 @@ Compétences : Combat d8, Discrétion d4, Intimidation d10, Perception d8+2.
 
 ### Actions
 - Colonne de pierre : Combat d8, AL, 2d12+12.
-- Piétinement : Combat d8, AL, 2d12+24 - Taille cible.
+- Piétinement : Combat d8, AL, 2d12+24 - Taille adverse.
