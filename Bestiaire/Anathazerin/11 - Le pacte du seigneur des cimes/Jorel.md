@@ -12,15 +12,15 @@ Compétences : Combat d10, Escalade d8, Intimidation d10, Lancer d10, Perceptio
 
 ### Capacités spéciales
 - Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
-- Faiblesse (Feu) : dégâts de Feu x2.
+- Faiblesse (Feu) : subit dégâts x2.
 - Grand : attaque adverse +2.
 - Immunité (Froid).
 - Taille +5.
 
 ### Actions
 - Grand balayage : Attaque tous les adversaires adjacents.
-- Hache de guerre : Combat d10, PA1, Parade -1, deux mains, 2d12+5.
+- Hache de guerre : Combat d10, PA1, Parade -1, 2 mains, 2d12+5.
 - Rochers : Lancer d10, 3/6/12, d12+d6+5.
 
 ### Équipement
-Fourrures épaisses, Hache de guerre (For+d12, PA1, Parade -1, deux mains), rochers.
+Fourrures épaisses, Hache de guerre, rochers.
