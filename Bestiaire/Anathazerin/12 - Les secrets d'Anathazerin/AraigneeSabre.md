@@ -11,8 +11,7 @@ Compétences : Combat d8, Discrétion d12, Escalade d12+2, Intimidation d10
 	6	6
 
 ### Capacités spéciales
-- Assassin : +2 aux dégâts contre une cible surprise.
+- Assassin : dégâts +2 contre une cible surprise.
 
 ### Actions
-- Morsure : Combat d8, d10+d6. En cas de Relance lors de l'attaque, l'Araignée sabre empale sa victime et et rajoute d12 de dégâts au lieu de d6.
-
+- Morsure : Combat d8, d10+d6, empale sur Relance (+d12 au lieu de +d6).
