@@ -17,4 +17,4 @@ Compétences : Combat d10, Intimidation d10, Lancer d8, Perception d6.
 
 ### Actions
 - Coup : Combat d10, AL, 2d12+12.
-- Piétinement : Combat d10, AL, 2d12+24 - Taille cible.
+- Piétinement : Combat d10, AL, 2d12+24 - Taille adverse.
