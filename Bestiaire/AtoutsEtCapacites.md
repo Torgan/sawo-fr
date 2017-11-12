@@ -11,6 +11,7 @@
 - * Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
+- Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Fracassement : PA +1 pour Combat, +2 sur Relance.
 - Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
