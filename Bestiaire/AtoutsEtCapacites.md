@@ -27,6 +27,7 @@
 - Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - * Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
+- Nerfs d’acier : annule 1 point de malus de Blessure.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - * Résistant : pas de Blessure si Secoué deux fois.
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
