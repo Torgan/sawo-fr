@@ -1,4 +1,4 @@
-# Albert, Philibert et Jalabert
+# Albert, Philibert et Jalabert, gnomes
 
 Allure : 6
 
