@@ -1,4 +1,4 @@
-# Assistant de Garrick
+# Assistant de Garrick, shaman orque
 
 Allure : 6
 
