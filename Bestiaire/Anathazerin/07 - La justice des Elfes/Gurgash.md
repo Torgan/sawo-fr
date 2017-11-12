@@ -1,5 +1,5 @@
 
-# Gurgäsh, champion
+# Gurgäsh, champion orque
 
 Allure : 6
 
@@ -23,11 +23,11 @@ Atouts : Blocage, Brute, Combatif, Commandement, Costaud, Cri de guerre, Enragé
 ### Actions
 - Cri de guerre : Intimidation d12, affecte tous les adversaires dans un Grand Gabarit.
 - Frénésie suprême : peut faire une attaque de Combat supplémentaire.
-- Épée bâtarde : Combat d12+1, d12+d8+3 (+1 sur Relance, +1d6 contre les géants).
-- Épée bâtarde : Combat d12+1, 2 mains, parade -1, d12+d8+4 (+1 sur Relance, +1d6 contre les géants).
+- Épée bâtarde : Combat d12+1, 1 main, d12+d8+3 (+1 sur Relance, +d6 contre les géants).
+- Épée bâtarde : Combat d12+1, 2 mains, parade -1, d12+d8+4 (+1 sur Relance, +d6 contre les géants).
 
 ### Réactions
 - Bouclier magique : Résistance +2 contre les projectiles.
 
 ### Équipement
-Cotte de mailles, Bouclier magique (Parade +3), épée bâtarde tueuse de géants (Combat +1, For+d8+2, +1d6 de dégâts contre les géants), un anneau d’action libre (immunise à tous les Pouvoirs visant à entraver le mouvement — _Paralysie_, _Enchevêtrement_, etc.), anneau de résistance au feu (Résistance +2 contre le feu, +2 pour résister aux Pouvoirs de feu) et trois potions de soins (une Blessure).
+Cotte de mailles, Bouclier magique (Parade +3), épée bâtarde tueuse de géants (Combat +1, For+d8+2, dégâts +d6 contre les géants), un anneau d’action libre (immunise à tous les Pouvoirs visant à entraver le mouvement — _Paralysie_, _Enchevêtrement_, etc.), anneau de résistance au feu (Résistance +2 contre le feu, +2 pour résister aux Pouvoirs de feu) et trois potions de soins (1 Blessure).
