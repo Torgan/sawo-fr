@@ -7,16 +7,15 @@ Allure : 6
 
 Compétences : Combat d10, Discrétion d4, Intimidation d10, Lancer d10, Perception d6.
 
-Atouts : Combat à deux armes, Expert en bouclier, Frénésie suprême, Maitre en bouclier, Nerfs d’acier.
+Atouts : Combat à deux armes, Expert en bouclier, Frénésie suprême, Nerfs d’acier.
 
 	PAR	RES
-	11 (4)	11 (2)
+	10 (3)	11[+2] (2)
 
 ### Capacités spéciales
 - Taille +1.
-- Expert en bouclier : Parade +1 avec un bouclier.
-- Maitre en bouclier : bénéficie du bonus de Parade du bouclier même en cas d'attaque avec ce dernier.
-- Nerfs d’acier : ignore 1 point de malus lié aux Blessures.
+- Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
+- Nerfs d’acier : annule 1 point de malus de Blessure.
 
 ### Actions
 - Combat à deux armes : Peut attaquer avec une arme dans chaque main sans subir le malus d’Actions multiples.
@@ -24,4 +23,4 @@ Atouts : Combat à deux armes, Expert en bouclier, Frénésie suprême, Maitre e
 - Épée large/bouclier : Combat d10/d10/d10-2, d10+d8/d10+d8/d10+d8.
 
 ### Équipement
-Cotte de mailles, épée large, Bouclier magique à pointes (Parade +3, For+d8).
+Cotte de mailles, épée large, grand bouclier magique à pointes (Parade +3, For+d8).
