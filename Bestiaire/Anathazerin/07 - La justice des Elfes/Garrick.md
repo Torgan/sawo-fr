@@ -1,4 +1,4 @@
-# * Garrick
+# * Garrick, shaman orque
 
 Allure : 6
 
@@ -8,11 +8,12 @@ Allure : 6
 Compétences : Combat d8, Discrétion d8, Intimidation d8, Magie d10, Perception d6, Tir d6.
 
 	PAR	RES
-	6	6 (1)
+	6	7 (1)
 
 ### Capacités spéciales
 - Arcanes : Magie d10, 15PP.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
+- Taille +1.
 
 ### Actions
 - Masse d'armes : Combat d8, 2d6+2.
