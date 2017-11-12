@@ -12,7 +12,7 @@ Atouts : Blocage, Combatif.
 Handicaps : Deux mains gauches.
 
 	PAR	RES
-	9 (1)	8 (2)
+	9 (1)	8[+2] (2)
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
@@ -20,9 +20,6 @@ Handicaps : Deux mains gauches.
 
 ### Actions
 - Épée elfique : Combat d10, Parade +1, d8+d6.
-
-### Réactions
-- Écu : Résistance +2 contre les projectiles.
 
 ### Équipement
 Chemise de mailles, épée elfique, écu.
