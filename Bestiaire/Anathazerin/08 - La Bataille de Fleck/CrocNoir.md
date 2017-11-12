@@ -1,4 +1,4 @@
-# * Croc Noir, chef gobelin
+# * Crocnoir, chef gobelin
 
 Allure : 6
 
