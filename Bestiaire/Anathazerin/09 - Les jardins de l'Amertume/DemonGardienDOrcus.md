@@ -20,6 +20,6 @@ Atouts : Blocage, Guerrier impie.
 - Taille +3.
 
 ### Actions
-- Triple fléau enflammé : Combat d12, d12+4+d8 + 1d6 (feu), ignore bouclier et couvert, peut enflammer. 
+- Triple fléau enflammé : Combat d12, d12+d8+d6(feu)+4, ignore bouclier et couvert, peut enflammer. 
 - _Convocation d'alliés_ (larves démoniaques): Âme d8, portée 8, durée à volonté.
 - _Téléportation_ : Âme d8, Inst.
