@@ -18,4 +18,4 @@ Compétences : Combat d8, Discrétion d12+2, Intimidation d10, Perception d8.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-Toucher glacial : Combat d8+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur. Une cible déjà incapacitée, avec 2 Fatigue et encore vivante, se transforme en spectre sur Échec. Fatigue récupérée en 24h.
+Toucher glacial : Combat d8+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur, se transforme en Spectre si déjà Épuisé et Incapacité.  Fatigue récupérée en 24h.
