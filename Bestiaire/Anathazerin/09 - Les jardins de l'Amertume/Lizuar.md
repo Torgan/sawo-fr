@@ -1,4 +1,4 @@
-# Lizuar, elfe
+# Lizuar, capitaine elfe
 
 Allure : 6
 
