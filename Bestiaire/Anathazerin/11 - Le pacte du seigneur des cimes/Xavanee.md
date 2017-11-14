@@ -1,4 +1,4 @@
-# Xavanée
+# Xavanée, acolyte elfe noire
 
 Allure : 6
 
