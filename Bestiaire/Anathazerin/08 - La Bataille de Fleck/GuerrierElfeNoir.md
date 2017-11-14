@@ -23,7 +23,7 @@ Atouts : Assassin, Attaque à deux armes, Florentine, Résistance aux Arcanes.
 - Florentine : +1 en Combat contre les cibles n’ayant qu’une arme et sans bouclier. Ignore 1 point de bonus pour des attaquants multiples.
 - Épée courte : Combat d8, d8+d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, 15/30/60, PA 1, CdT 1/2, 2d6 + poison (-4, inconscience).
-- _Ténèbres_ : Âme d8, 2PP, Portée 6, 3 (1/rd).
+- _Ténèbres_ : Âme d6, 2PP, Portée 6, 3 (1/rd).
 
 ### Équipement
 Justaucorps de cuir, épée courte, arbalète légère.
