@@ -63,4 +63,5 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 _Remarque : la régénération rapide de l'hydre est spécifique._
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
 - * Taille [+-]X.
-- * Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Toucher glacial : Combat X+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur, se transforme en XXX si déjà Épuisé et Incapacité.  Fatigue récupérée en 24h.
+- Vision nocturne : ignore les malus de Pénombre et d'Obscurité.
