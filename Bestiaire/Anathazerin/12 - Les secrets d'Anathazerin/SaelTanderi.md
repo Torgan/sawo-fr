@@ -1,4 +1,4 @@
-# * Sael Tanderi
+# * Sael Tanderi, lieutenant lame-en-peine
 
 - Allure : 6+d6
 
