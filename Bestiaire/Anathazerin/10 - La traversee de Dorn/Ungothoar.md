@@ -1,4 +1,4 @@
-# * Unguthoar, OEil de Tor-Angul
+# * Unguthoar, Œil de Tor-Angul, cyclope
 
 Allure : 16
 
