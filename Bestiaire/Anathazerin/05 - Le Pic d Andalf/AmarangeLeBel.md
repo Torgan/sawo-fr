@@ -20,7 +20,7 @@ Atouts : Séduisant, Charismatique, Troubadour.
 - Arcane : Troubadour, Performance d10+1, 20PP.
 
 ### Actions
-- Arbalète légère : Tir d8, 12/24/48, PA2, 2d6+1 + poison (-2).
+- Arbalète légère : Tir d8, 15/30/60, PA2, 2d6+1 + poison (-2).
 - Rapière : Combat d6, Parade +2, 2d6.
 - Couteau : Lancer d6, d6+d4.
 - _Sommeil_ : Performance d10+1, 2PP, portée 20, 1mn (1/mn).
