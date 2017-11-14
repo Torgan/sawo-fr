@@ -16,7 +16,7 @@ Compétences : Combat d6, Discrétion d10, Escalade d6, Lancer d6, Natation�
 
 ### Actions
 - Masse : Combat d6, 2d4.
-- Arbalète de poing : Tir d8, 10/20/40, 2d4.
+- Arbalète de poing : Tir d8, 6/12/24, PA1, 2d4.
 
 ### Équipement
 Masse, Arbalète de poing.
