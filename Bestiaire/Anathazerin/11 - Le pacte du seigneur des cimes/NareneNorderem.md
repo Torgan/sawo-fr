@@ -1,4 +1,4 @@
-# * Darène Norderem
+# * Darène Norderem, capitaine naine
 
 Allure : 6
 
