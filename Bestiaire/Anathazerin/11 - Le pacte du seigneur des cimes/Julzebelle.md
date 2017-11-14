@@ -1,4 +1,4 @@
-# Julzébelle
+# Julzébelle, acolyte elfe noire
 
 Allure : 6
 
