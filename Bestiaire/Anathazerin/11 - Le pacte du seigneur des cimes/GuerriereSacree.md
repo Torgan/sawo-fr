@@ -1,4 +1,4 @@
-# Guerrière sacrée
+# Guerrière sacrée elfe noire
 
 Allure : 6
 
