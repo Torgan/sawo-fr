@@ -1,4 +1,4 @@
-# Guerrière elfe noir
+# Guerrière elfe noire
 
 Allure : 6
 
