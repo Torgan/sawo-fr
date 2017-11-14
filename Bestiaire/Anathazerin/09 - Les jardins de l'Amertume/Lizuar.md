@@ -1,4 +1,4 @@
-# Lizuar
+# Lizuar, elfe
 
 Allure : 6
 
@@ -23,7 +23,7 @@ Handicaps : Deux mains gauches, Prudent.
 - Épée longue : Combat d8, 2d8.
 - Tir double : Tir d10-2/d10-2, 15/30/60, 2d6/2d6.
 - Tireur d'élite : Tir +2 si pas de mouvement (Visée).
-- Tueur d'orques : +1d6 aux dégâts contre les orques.
+- Tueur d'orques : dégâts +d6 contre les orques.
 
 ### Équipement
 Armure de cuir, épée longue, arc long.
