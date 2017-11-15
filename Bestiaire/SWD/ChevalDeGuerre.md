@@ -1,7 +1,7 @@
 # Cheval de guerre
 Il s’agit de grands chevaux entraînés pour le combat, capable de donner des coups de sabots en avant et en arrière. En combat, il attaque à chaque round où son cavalier ne fait pas une manœuvre quelconque.
 
-Allure : 8
+Allure : 8+d10
 
 	Agi	Âme	For	Int	Vig
 	d6	d6	d12+2	d4 (A)	d10
@@ -13,7 +13,6 @@ Compétences : Combat d8, Perception d6.
 
 ### Capacités spéciales
 - Taille +3.
-- Véloce : un cheval utilise un d10 au lieu d’un d6 pour calculer sa distance de course.
 
 ### Actions
-- Ruade/morsure : Combat d8, d12+d4+2
+- Ruade/morsure : Combat d8, d12+d4+2.
