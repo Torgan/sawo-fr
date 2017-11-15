@@ -1,4 +1,4 @@
-# Drake [Joker]
+# * Drake
 Un drake est un dragon qui ne vole pas et doté seulement d’une intelligence animale. Il est toutefois plus agressif en Combat que son lointain cousin le dragon.
 
 Allure : 4
@@ -13,11 +13,11 @@ Compétences : Combat d10, Intimidation d12, Perception d8.
 
 ### Capacités spéciales
 - Armure +4 : peau d’écailles.
-- Grand : on ajoute +2 à ses jets d’attaque contre un drake en raison de sa grande taille.
+- Grand : attaque adverse +2.
 - Taille +5.
-- Terreur : les drakes sont des créatures terrifiantes à regarder.
+- Terreur (0).
 
 ### Actions
-- Morsure / griffes : Combat d10,	d12+d8+6
-- Coup de queue : Combat d10, d12+4. Un drake balaye d’un coup de queue tous les adversaires placés derrière lui dans sur une zone de 3 cases de long et 6 de large. C’est une attaque normale dont les dégâts sont de Force –2.
-- Soufle ardent : Gabarit de cône, 2d10. Toute cible à l’intérieur du cône fait un jet d’Agilité avec un malus de –2 pour éviter l’attaque. Ceux qui échouent subissent 2d10 de dégâts et peuvent éventuellement s’enflammer (voir Feu, p. 154). Un dragon n’attaque pas avec ses griffes ou sa morsure dans le round où il crache le feu.
+- Morsure/griffes : Combat d10, d12+d8+6.
+- Coup de queue : Combat d10, d12+4. Balaye les adversaires placés derrière dans une zone de 3 cases de long et 6 de large. Attaque normale de dégâts Force –2.
+- Soufle ardent : Gabarit de cône, 2d10, peut enflammer. Esquive sur Succès d'Agilité -2. Pas de Morsure/griffes le même round.
