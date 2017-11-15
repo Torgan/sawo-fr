@@ -13,8 +13,8 @@ Compétences : Perception d6.
 
 ### Capacités spéciales
 - Enfouissement : peut disparaître sous terre et en surgir de même. Allure de 10 sous terre.
-- Division : certains essaims s’arrangent pour se partager en deux essaims plus petits (Petit Gabarit) si leurs ennemis se séparent. La RES de ces petits essaims est réduite de 2 (5 pour chaque petit essaim).
-- Essaim : Parade +2, immunisé aux armes perforantes ou tranchantes. Les armes à zone d’effet fonctionnent normalement et un ennemi peut piétiner l’essaim et infliger sa Force en dégâts. On se débarrasse souvent d’un essaim en se jetant à l’eau (à moins qu’il ne soit composé de piranhas bien sûr).
+- Division : peut séparer 1 Gabarit Moyen en 2 Petits Gabarits.
+- Essaim : Parade +2, immunisé aux armes perforantes ou tranchantes. Vulnérable aux armes à zone d’effet fonctionnent et au piétinement (dégâts For). On se débarrasse souvent d’un essaim en se jetant à l’eau (à moins qu’il ne soit composé de piranhas bien sûr).
 
 ### Actions
-- Morsures / dards : Moyen ou Petit Gabarit, automatique, 2d4. Évité si combinaisons étanches.
+- Morsures / dards : Moyen ou Petit Gabarit, automatique, 2d4. Évité si protection intégrale.
