@@ -1,7 +1,7 @@
 # Élémentaire de l’air
 Les élémentaires de l’air se manifestent sous la forme d’un tourbillon d’air.
 
-Vol : Allure 6, montée 4. Les élémentaires d’air ne peuvent pas « courir ».
+Allure vol 6, montée 4. Ne peut courir.
 
 	Agi	Âme	For	Int	Vig
 	d12	d6	d8	d6	d6
