@@ -12,10 +12,10 @@ Compétences : Discrétion d8, Escalade d6, Perception d6.
 	3   3
 
 ### Capacités spéciales
-- Acrobate : +2 aux jets d’Agilité liés à la souplesse, +1 en PAR si non-encombré.
+- Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
 - Petit : attaque adverse -2 si en mouvement.
 - Taille -2.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Morsure/griffes	: Combat d4-2, d4
+- Morsure/griffes	: Combat d4-2, d4.
