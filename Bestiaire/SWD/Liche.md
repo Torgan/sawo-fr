@@ -1,6 +1,6 @@
 
-# Liche [Joker]
-Il s’agit peut-être bien la créature la plus maléfique de n’importe quel univers fantastique. Il s’agit d’un nécromancien tellement consumé par les arts funèbres qu’il s’est lui-même transformé en mort vivant.
+# * Liche
+Il s’agit peut-être bien la créature la plus maléfique de n’importe quel univers fantastique, un nécromancien tellement consumé par les arts funèbres qu’il s’est lui-même transformé en mort-vivant.
 
 Allure : 6
 
@@ -13,7 +13,7 @@ Compétences : Combat d8, Connaissance (Arcanes) d12+2, Intimidation d12, Magi
 	6	15 (6)
 
 ### Capacités spéciales
-- Arcanes : Magie d12, 50PP. Une liche connaît tous les sorts disponibles, et peut-être même des sorts uniques. Les sorts qui suivent sont un assortiment classique. N’hésitez pas à en rajouter au besoin.
+- Arcanes : Magie d12, 50PP. Connaît tous les sorts disponibles, peut-être même des sorts uniques. Les sorts suivant sont un assortiment classique, en ajouter au besoin.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 
 ### Actions
