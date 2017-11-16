@@ -42,7 +42,7 @@
 _Remarque : si Grande aura de commandement, passer les rayon des Atouts de commandement de 5 à 10 cases._
 
 # Capacités monstrueuses validées ou reformulées
-
+- À la gorge : touche la zone la moins protégée sur Relance en attaque.
 - Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
 - Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
 - * Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
