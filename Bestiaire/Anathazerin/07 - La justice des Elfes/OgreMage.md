@@ -1,6 +1,6 @@
 # Ogre-Mage
 
-Allure : 8
+Allure : 8, vol 8 montée 4.
 Charisme : +2
 
 	Agi	Âme	For	Int	Vig
@@ -14,7 +14,6 @@ Compétences : Combat d8, Intimidation d10+2, Magie d10, Perception d6, Persuas
 ### Capacités spéciales
 - Arcane : Magie d8, 30PP.
 - Taille +3.
-- Vol : un ogre-mage a une Allure de 8 en vol et une Montée de 4.
 
 ### Actions
 - Griffes : Combat d8, d12+d4+1.
