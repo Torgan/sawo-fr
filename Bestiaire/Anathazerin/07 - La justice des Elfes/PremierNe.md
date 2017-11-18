@@ -1,4 +1,4 @@
-# Premier né
+# Premier né, elfe
 
 Allure : 6
 
@@ -21,4 +21,4 @@ Atouts : Ambidextre, Combat à deux armes, Combatif.
 - Épée courte et dague : Combat d8/d8, 2d6/d6+d4.
 
 ### Équipement
-Armure de cuir (+1), épée courte, dague, arc court,
+Armure de cuir, épée courte, dague, arc court.
