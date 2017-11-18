@@ -1,4 +1,4 @@
-# Leader Premier né
+# Leader Premier né, elfe
 
 Allure : 6
 
@@ -10,7 +10,7 @@ Compétences : Combat d10, Discrétion d10, Perception d8, Tir d10.
 Atouts : Ambidextre, Blocage, Combat à deux armes, Combatif, Frappe éclair.
 
 	PAR	RES
-	8	6 (1)
+	9 (1)	6 (1)
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
@@ -18,10 +18,10 @@ Atouts : Ambidextre, Blocage, Combat à deux armes, Combatif, Frappe éclair.
 
 ### Actions
 - Arc long : Tir d10, 12/24/48, 2d6.
-- Épée courte et dague : Combat d10/d10, d8+d6/d8+d4.
+- Rapière elfique et épée courte : Combat d10/d10, d8+d6/d8+d6.
 
 ### Réaction 
 - Frappe éclair : peut attaquer un adversaire se portant au contact une fois par round.
 
 ### Équipement
-Armure de cuir (+1), épée courte, dague, arc court,
+Armure de cuir, rapière elfique, épée courte, arc court.
