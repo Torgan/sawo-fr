@@ -13,5 +13,5 @@ Compétences : Combat d8, Discrétion d10, Escalade d12+2, Intimidation d10
 	6	5
 
 ### Actions
-- Morsure : Combat d8, d10+d4 + Poison (-4)
+- Morsure : Combat d8, d10+d4 + Poison (-4).
 - Toile : Tir d10, 3/6/12, -4 à toute action physique de la cible qui peut toujours se battre. La toile peut être déchirée (RES 7).
