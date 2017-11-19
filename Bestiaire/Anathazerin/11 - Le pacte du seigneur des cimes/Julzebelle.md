@@ -1,4 +1,4 @@
-# Julzébelle
+# Julzébelle, acolyte elfe noire
 
 Allure : 6
 
@@ -13,7 +13,7 @@ Atouts : Arcanes (Miracles), Assassin, Commandement, Florentine, Résistance aux
 	6	7 (2)
 
 ### Capacités spéciales
-- Arcane : pouvoirs d'elfe noir, Âme d6, 5PP.
+- Arcane : pouvoirs d'elfe noir, Âme d8, 5PP.
 - Arcane : prêtresse de Maëdra, Foi d10, 20PP.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
