@@ -11,6 +11,7 @@
 - * Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
+- Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Fracassement : PA +1 pour Combat, +2 sur Relance.
 - Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
@@ -26,6 +27,7 @@
 - Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - * Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
+- Nerfs d’acier : annule 1 point de malus de Blessure.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - * Résistant : pas de Blessure si Secoué deux fois.
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
@@ -40,7 +42,7 @@
 _Remarque : si Grande aura de commandement, passer les rayon des Atouts de commandement de 5 à 10 cases._
 
 # Capacités monstrueuses validées ou reformulées
-
+- À la gorge : touche la zone la moins protégée sur Relance en attaque.
 - Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
 - Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
 - * Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
@@ -61,4 +63,5 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 _Remarque : la régénération rapide de l'hydre est spécifique._
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
 - * Taille [+-]X.
-- * Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
+- Toucher glacial : Combat X+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur, se transforme en XXX si déjà Épuisé et Incapacité.  Fatigue récupérée en 24h.
+- Vision nocturne : ignore les malus de Pénombre et d'Obscurité.
