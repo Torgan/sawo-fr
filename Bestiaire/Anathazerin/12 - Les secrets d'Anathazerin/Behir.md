@@ -1,4 +1,4 @@
-# Behir
+# Béhir
 
 Allure : 6+d6, mur ou plafond 4.
 
