@@ -1,4 +1,4 @@
-# * Melviria d’Al’artha
+# * Melviria d’Al’artha, grande prêtresse elfe noire
 
 Allure : 6
 Charisme : +4
