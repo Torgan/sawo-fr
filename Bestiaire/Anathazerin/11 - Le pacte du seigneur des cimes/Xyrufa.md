@@ -1,4 +1,4 @@
-# * Xyfura
+# * Xyrufa, shaman géante de pierre
 
 Allure : 8
 Charisme : +4
