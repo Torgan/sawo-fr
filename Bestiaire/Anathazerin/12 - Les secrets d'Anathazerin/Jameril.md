@@ -1,4 +1,4 @@
-# * Jameril
+# * Jameril, guerrière elfe noire
 
 Allure : 6
 
