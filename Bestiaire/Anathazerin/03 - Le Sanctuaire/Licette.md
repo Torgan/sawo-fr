@@ -19,7 +19,7 @@ Atouts : Acrobate, Assassin, Voleur.
 
 ### Actions
 - Dague : Combat d8, d8+d4.
-- Arbalète de poing : Tir d8, 3/6/12, 2d4.
+- Arbalète de poing : Tir d8, PA1, 6/12/24, 2d4.
 
 ### Équipement
 Armure de cuir, dague, arbalète de poing.
