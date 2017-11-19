@@ -1,4 +1,4 @@
-# * Chevalier Guillaume de la Marche
+# * Chevalier Guillaume de la Marche, humain
 
 Allure : 6
 
@@ -11,7 +11,7 @@ Compétences : Combat d10, Équitation d10, Intimidation d8, Perception d8+2, Ti
 Atouts : Combatif, Commandement, Contre-attaque, Frénésie, Grand blocage, Vigilance.
 
 	Parade	Résistance
-	11 (2)	10 (3)
+	11 (2)	10[+2] (3)
 
 ### Capacités spéciales
 - Combatif : +2 pour annuler Secoué.
@@ -23,7 +23,6 @@ Atouts : Combatif, Commandement, Contre-attaque, Frénésie, Grand blocage, Vigi
 
 ### Réactions
 - Contre-Attaque : attaque gratuite par round à -2 contre un adversaire ayant raté son attaque.
-- Grand bouclier : Résistance +2 contre les projectiles.
 
 ### Équipement
 Épée longue, grand bouclier, armure de plates.
