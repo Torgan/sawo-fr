@@ -10,7 +10,7 @@ Compétences : Combat d10, Perception d4.
 Atouts : Blocage, Frappe éclair, Frénésie.
 
 	PAR	RES
-	9 (1)	11 (3)
+	9 (1)	11[+2] (3)
 
 ### Capacités spéciales
 - Immunité : immunisé au feu, à l'acide et aux capacités affectant les morts-vivants (comme l'Atout Guerrier Saint). Cette capacité est perdue si la Pierre de Mort est détruite.
@@ -23,7 +23,6 @@ Atouts : Blocage, Frappe éclair, Frénésie.
 - Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 
 ### Réactions
-- Écu : Résistance +2 contre les projectiles.
 - Frappe éclair : Peut attaquer un adversaire se portant au contact une fois par round.
 
 ### Équipement
