@@ -16,7 +16,7 @@ Compétences : Combat d6, Discrétion d10, Escalade d6, Lancer d6, Natation�
 - Taille -1.
 
 ### Actions
-- Lance courte : Combat d6, 2d4
+- Lance courte : Combat d6, 2d4.
 
 ### Équipement
 Lance courte (For+d6).
