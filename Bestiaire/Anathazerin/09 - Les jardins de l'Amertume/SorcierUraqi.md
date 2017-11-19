@@ -8,7 +8,7 @@ Allure : 6
 Compétences : Combat d6, Connaissance (Arcanes) d8, Magie d8, Perception d6.
 
 	PAR	RES
-	6 (1)	11 (3)
+	6 (1)	11[+2] (3)
 
 Atouts : Arcane (Magie), Drain de l'Âme.
 
@@ -25,9 +25,6 @@ Atouts : Arcane (Magie), Drain de l'Âme.
 - _Eclair_ (Feu) : Magie d8, 1-3PP, 12/24/48, Inst.
 - _Explosion_ (Feu) : Magie d8, 1-3PP, 12/24/48, Inst.
 - _Ralentissement_ (Mot de pouvoir) : Magie d8, 1+PP, Portée 16, 3 (2/rd).
-
-### Réactions
-- Écu : Résistance +2 contre les projectiles.
 
 ### Équipement
 Armure de plaques en bronze, masse d'arme, écu.
