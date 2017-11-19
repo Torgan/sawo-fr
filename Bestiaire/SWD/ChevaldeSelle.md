@@ -14,7 +14,6 @@ Compétences : Combat d4, Perception d6.
 
 ### Capacités spéciales
 - Taille +2.
-- Véloce : un cheval utilise un d10 au lieu d’un d6 pour calculer sa distance de course.
 
 ### Actions
-- Ruade : Combat d4, d12
+- Ruade : Combat d4, d12.
