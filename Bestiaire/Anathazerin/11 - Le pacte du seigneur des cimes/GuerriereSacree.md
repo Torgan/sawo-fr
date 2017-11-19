@@ -1,4 +1,4 @@
-# Guerrière sacrée
+# Guerrière sacrée elfe noire
 
 Allure : 6
 
@@ -23,7 +23,7 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 - Épée courte : Combat d10/d10, 2d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, 15/30/60, PA2, CdT 1/2, 2d6 + poison (-4, inconscience).
 - _Confusion_ : Âme d10, 1+PP, Portée 16, Inst.
-- _Diminution de Trait_ : Âme d8, 2PP, Portée 8, 3 (1/rd).
+- _Diminution de Trait_ : Âme d10, 2PP, Portée 8, 3 (1/rd).
 - _Dissipation_ : Âme d10, 3PP, Portée 8, Inst.
 - _Ténèbres_ : Âme d10, 2PP, Portée 8, 3 (1/rd).
 
