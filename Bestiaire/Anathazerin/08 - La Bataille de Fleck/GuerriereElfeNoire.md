@@ -1,4 +1,4 @@
-# Guerrière elfe noir
+# Guerrière elfe noire
 
 Allure : 6
 
@@ -23,9 +23,9 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 
 ### Actions
 - Épée courte : Combat d10/d10, 2d6 + poison (-4, inconscicence).
-- Arbalète : Tir d8, 2d6 + poison (-4, inconscience).
+- Arbalète de poing : Tir d8, 6/12/24, PA2, 2d4 + poison (-4, inconscience).
 - _Ténèbres_ : Âme d8, 2PP, Portée 8, 3 (1/rd).
 - _Confusion_ : Âme d8, 1+PP, Portée 16, Inst.
 
 ### Équipement
-Chemise de mailles, 2 épées courtes, arbalète légère.
+Chemise de mailles, 2 épées courtes, arbalète de poing.
