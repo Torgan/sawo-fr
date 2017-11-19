@@ -20,7 +20,7 @@ Atout : Extraction.
 ### Actions
 - Griffes : Combat d4, 2d4.
 - Javelot : Lancer d8, 3/6/12, 2d4.
-- Arc court : Tir d8-1, 12/24/48, 2d6.
+- Arc court : Tir d8, 10/20/40, 2d4.
 
 ### Équipement
-Javelot, arc court.
+Javelot, arc bref.
