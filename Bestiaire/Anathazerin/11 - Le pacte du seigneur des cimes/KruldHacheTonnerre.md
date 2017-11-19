@@ -1,4 +1,4 @@
-# * Kruld, Hache-tonnerre
+# * Kruld Hache-tonnerre, chef orque
 
 Allure : 6
 Charisme : +2
