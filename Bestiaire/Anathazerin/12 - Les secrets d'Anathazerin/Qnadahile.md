@@ -1,4 +1,4 @@
-# * Qnadahile
+# * Qnadahile, capitaine elfe noire
 
 Allure : 6
 Téléportation : 16 (_Enfouissement_ via "l'astral", cf. cape de déplacement).
