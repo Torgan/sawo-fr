@@ -1,4 +1,4 @@
-# * Mamba
+# * Mamba, bourrelle elfe noire
 
 Allure : 6
 
