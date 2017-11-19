@@ -1,4 +1,4 @@
-# * Xavor Zolledin
+# * Xavor Zolledin, capitaine lame-en-peine
 
 - Allure : 6+d6
 - Charisme : +2
