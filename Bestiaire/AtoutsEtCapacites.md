@@ -42,6 +42,7 @@
 _Remarque : si Grande aura de commandement, passer les rayon des Atouts de commandement de 5 à 10 cases._
 
 # Capacités monstrueuses validées ou reformulées
+- Absorption d'énergie (-X) : +1 Fatigue sur Échec de Vigueur -X, peut provoquer l'Etat Critique puis la mort, récupère 1 Fatigue/12h. Soigne 1 Blessure à l'attaquant.
 - À la gorge : touche la zone la moins protégée sur Relance en attaque.
 - Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
 - Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
@@ -59,9 +60,9 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - * Petit : attaque adverse -2 si en mouvement.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
-- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu. 
+- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu.
 _Remarque : la régénération rapide de l'hydre est spécifique._
 - * Sans peur : immunisé à la Terreur et l'Intimidation.
 - * Taille [+-]X.
-- Toucher glacial : Combat X+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur, se transforme en XXX si déjà Épuisé et Incapacité.  Fatigue récupérée en 24h.
+Toucher glacial (-X) : Combat dX+2, +1 Fatigue sur Échec de Vigueur -X, peut provoquer l'Etat Critique puis la transformation en XXX, récupère 1 Fatigue/12h.
 - Vision nocturne : ignore les malus de Pénombre et d'Obscurité.
