@@ -13,4 +13,4 @@ Compétences : Combat d6, Perception d10.
 	5	5
 
 ### Actions
-- Morsure : Combat d6, d8+d6, constriction sur Relance (dégâts d8+d6/rd, libéré sur Succès de Force contre Force).
+- Morsure : Combat d6, d8+d6, constriction sur Relance (dégâts d8+d6/rd, libéré sur Relance de Force contre Force).
