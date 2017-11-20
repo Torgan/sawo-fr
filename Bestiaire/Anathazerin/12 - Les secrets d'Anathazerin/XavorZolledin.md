@@ -24,7 +24,7 @@ Atout : Ambidextre, Attaque à deux armes, Commandement, Charismatique, Esquive,
 
 ### Actions
 - Épées courtes : Combat d10/d10, 2d6/2d6.
-- Toucher vampirique : Combat d10+2, inflige +1 Fatigue sur Succès d'Âme contre Vigueur, +2 Fatigue sur Relance, se soigne 1 Blessure par Fatigue infligée.
+- Toucher vampirique : Combat d10+2, inflige +1 Fatigue (Absorption d'énergie) sur Succès d'Âme contre Vigueur, +2 Fatigue (Absorption d'énergie) sur Relance, se soigne 1 Blessure par Fatigue infligée.
 
 ### Réaction
 - Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
