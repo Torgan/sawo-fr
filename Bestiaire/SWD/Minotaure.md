@@ -10,13 +10,14 @@ Allure : 8(+d10)
 Compétences : Combat d10, Intimidation d12, Lancer d6, Perception d10.
 
 	PAR	RES
-	8   11 (1)
+	8 (1)   11 (1)
 
 ### Capacités spéciales
 - Taille +2.
 
 ### Actions
 - Lance : Combat d10, Allonge 1, Parade +1, d12+d6+2.
-- Cornes : Combat d10, d12+d4+2. Un minotaure peut charger pour encorner son adversaire. S’il se déplace de 6 cases avant l’attaque il ajoute +4 au total de ses dégâts.
+- Cornes : Combat d10, d12+d4+2, encorner : dégâts +4 si déplacement de 6 cases avant l'attaque.
+
 ### Équipement
-Armure de cuir (+1), lance (For+d6, Allonge 1, PAR +1)
+Armure de cuir, lance.
