@@ -15,4 +15,4 @@ Compétences : Combat d6, Discrétion d12(+4 ombre), Intimidation d6, Perception
 - Ombre vivante : Discrétion +4 dans les ombres. Ignore les malus liés à la Pénombre, à l'Obscurité et aux Ténèbres.
 
 ### Actions
-- Drain de vie : Combat d6+2 (toucher), +1 Fatigue sur Échec de Vigueur -2. Peut Incapaciter. Une ombre peut donner un coup de grâce quand Incapcité. Fatigue récupérée en 1h/niveau. 
+- Drain de vie : Combat d6+2 (toucher), +1 Fatigue (Absorption d'énergie) sur Échec de Vigueur -2. Peut Incapaciter. Une ombre peut donner un coup de grâce quand Incapacité. 
