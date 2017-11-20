@@ -49,6 +49,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - * Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - * Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
+- Enfouissement : peut se déplacer sous terre. Peut surprendre sa cible : Combat +2/+4 et dégâts +2/+4 sur Succès/Relance de Discrétion contre Perception.
 - * Énorme : attaque adverse +4.
 - Faiblesse (Feu) : subit dégâts x2.
 - Faiblesse (Froid) : subit dégâts x2.
@@ -57,6 +58,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - * Grand : attaque adverse +2.
 - * Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Immatériel : immunisé aux attaques non magiques.
+- Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
 - * Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - * Petit : attaque adverse -2 si en mouvement.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
