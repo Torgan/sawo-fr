@@ -20,4 +20,4 @@ Compétences : Combat d6, Discrétion d6, Intimidation d8, Lancer d6, Magie d8,
 - _Terreur_ : Magie d8, 2PP, 8, durée spéciale.
 
 ### Équipement
-Armure de cuir, Dague sacrificielle (lorsque une attaque provoque une Blessure ou un état Secoué, la victime doit faire un jet de Vigueur à -2 ou subir un niveau de Fatigue).
+Armure de cuir, Dague sacrificielle (lorsque une attaque provoque une Blessure ou un état Secoué, la victime doit faire un jet de Vigueur à -2 ou subir un niveau de Fatigue (Absorption d'énergie) ).
