@@ -23,4 +23,4 @@ Compétences : Combat d6, Discrétion d10, Perception d10.
 ### Actions
 - Morsure : Combat d6, AL, d12+d8+10.
 - Aplatir : Combat d6, AL, 4d6, esquivé sur Succès d'Agilité contre l'attaque. Le ver se redresse afin d’écraser ses ennemis sous sa masse.
-- Enfouissement : peut disparaître sous terre et en surgir de même. Allure de 20 sous terre.
+- Enfouissement : peut se déplacer sous terre. Peut surprendre sa cible : Combat +2/+4 et dégâts +2/+4 sur Succès/Relance de Discrétion contre Perception.
