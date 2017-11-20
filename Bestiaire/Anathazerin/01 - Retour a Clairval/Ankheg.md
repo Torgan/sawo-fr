@@ -21,6 +21,6 @@ Compétences : Combat d6, Discrétion d8, Escalade d8, Perception d8, Tir d8
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Morsure : Combat d6, d10+d6, acide (2d4), saisi dans les mandibules sur Relance (dégâts 2d4/rd (Acide), libéré sur Relance de Force contre Force).
+- Morsure : Combat d6, d10+d6 + acide 2d4, saisi dans les mandibules sur Relance (dégâts 2d4/rd (Acide), libéré sur Relance de Force contre Force).
 - Jet d'acide : Tir d8, 3/6/12, 2d4.
 - Acide : la salive acide inflige 2d4 de dégâts pour tout contact.
