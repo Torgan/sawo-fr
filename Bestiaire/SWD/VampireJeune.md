@@ -17,7 +17,7 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Natation d8, Percepti
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Point faible (eau bénite) : +1 Fatigue si aspergé, se consumme si immergé (cf. lumière du soleil).
 - Point faible (invité) : ne peut pénétrer un lieu privée sans y être invité.
-- Point faible (lumière du soleil) : dégâts 2d10/rd (Feu) quand la peau est exposée aux rayons du soleil.
+- Point faible (lumière du soleil) : dégâts 2d10/rd (Feu) sans armure quand la peau est exposée aux rayons du soleil.
 - Point faible (pieu dans le cœur) : se désintègre en poussière sur Échec de Vigueur contre les dégâts d’une Attaque ciblée au cœur (-4).
 - Point faible (symbole religieux) : est tenu à distance par un symbole religieux sur Échec d'Âme contre Âme.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
