@@ -13,7 +13,7 @@ Compétences : Combat d6, Discrétion d6, Perception d10.
 
 ### Capacités spéciales
 - Immunité (Feu).
-- Terreur (0) : impose un test de Terreur aux témoins.
+- Terreur (0).
 - Terribles blessures : -2 pour soigner et guérir de ces blessures, par magie ou naturellement.
 
 ### Actions
