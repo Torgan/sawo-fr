@@ -12,8 +12,10 @@ Compétences : Combat d8, Discrétion d10, Intimidation d8, Perception d10.
 	PAR	RES
 	6	7
 
-### Actions
-- Morsure : Combat d8, d10+d6. Si Secoue ou Blesse paralysie pour 1d6 rounds sur Échec de Vigueur.
-- À la gorge : touche la zone la moins protégée sur Relance en attaque.
+### Capacités spéciales
 - Immunité (Froid).
 - Taille +1.
+
+### Actions
+- Morsure : Combat d8, d10+d6. Si Secoue ou Blesse paralyse 1d6 rounds sur Échec de Vigueur.
+- À la gorge : touche la zone la moins protégée sur Relance en attaque.
