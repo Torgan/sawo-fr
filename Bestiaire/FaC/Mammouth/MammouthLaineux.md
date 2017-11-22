@@ -13,9 +13,9 @@ Compétences : Combat d6, Perception d4.
 ### Capacités spéciales
 - Armure +2 : peau épaisse et fourrure.
 - Grand : attaque adverse +2.
-- Immunité (Froid) : les mammouths laineux sont immunisés à toute forme de froid, même magique.
+- Immunité (Froid).
 - Taille +6.
 
 ### Actions
-- Piétinement : d12+6
+- Piétinement : d12+6 - Taille adverse.
 - Défense : Combat d6, d12+d6+6.
