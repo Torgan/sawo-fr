@@ -19,6 +19,8 @@ _Fantasme_ etc ...
 ### Nouvelles armes
 Arc bref : 10/20/40, CdT1, 150$, 0.5kg, 2d4, For d4.
 
+Arc elfique : 15/30/60, CdT1, 500$, 2kg, 2d6, For d6.
+
 Épée bâtarde : For+d8, 5kg, 350$, Parade -1, +1 dégâts si maniée à 2 mains.
 
 Épée elfique : For+d6, 3kg, 300$, Parade +1.
