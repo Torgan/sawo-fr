@@ -24,4 +24,4 @@ Handicaps : Deux mains gauches, Prudent.
 - Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 
 ### Équipement
-Armure de cuir, épée longue (For+d8), arc elfique.
+Armure de cuir, épée longue, arc elfique.
