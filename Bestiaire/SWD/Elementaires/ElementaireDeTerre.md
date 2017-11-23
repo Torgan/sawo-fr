@@ -13,7 +13,7 @@ Compétences : Combat d8.
 
 ### Capacités spéciales
 - Armure +4 : peau de roche.
-- Enfouissement : peut disparaître sous terre et en surgir de même. Allure de 10 sous terre.
+- Enfouissement : peut se déplacer sous terre. Peut surprendre sa cible : Combat +2/+4 et dégâts +2/+4 sur Succès/Relance de Discrétion contre Perception.
 - Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 
 ### Actions
