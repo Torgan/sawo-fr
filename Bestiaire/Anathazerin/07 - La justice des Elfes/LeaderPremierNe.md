@@ -18,10 +18,10 @@ Atouts : Ambidextre, Blocage, Combat à deux armes, Combatif, Frappe éclair.
 
 ### Actions
 - Arc long : Tir d10, 12/24/48, 2d6.
-- Rapière elfique et épée courte : Combat d10/d10, d8+d6/d8+d6.
+- Épée elfique et épée courte : Combat d10/d10, Parade +1, d8+d6/d8+d6.
 
 ### Réaction 
 - Frappe éclair : peut attaquer un adversaire se portant au contact une fois par round.
 
 ### Équipement
-Armure de cuir, rapière elfique, épée courte, arc court.
+Armure de cuir, épée elfique, épée courte, arc court.
