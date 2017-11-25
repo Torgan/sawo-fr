@@ -17,6 +17,8 @@
 _Fantasme_ etc ...
 
 ### Nouvelles armes
+Arbalète de poing : 6/12/24, 500$, 1.5kg, PA1, 2d4.
+
 Arc bref : 10/20/40, CdT1, 150$, 0.5kg, 2d4, For d4.
 
 Arc elfique : 15/30/60, CdT1, 500$, 2kg, 2d6, For d6.
