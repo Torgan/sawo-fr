@@ -16,4 +16,4 @@ Compétences : Combat d8, Natation d6, Perception d8.
 - Taille +2.
 
 ### Actions
-- Griffes/Morsure : Combat d8, d12+d6+4, immobilisation avec une Relance. Se libérer nécessite une Relance sur opposition de Force. _Les ours utilisent leur masse pour immobiliser leurs proies afin de les déchiqueter avec leurs griffes et leurs crocs._
+- Griffes/Morsure : Combat d8, d12+d6+4, immobilisation sur Relance. Libéré sur Relance d'opposition de Force. _Les ours utilisent leur masse pour immobiliser leurs proies afin de les déchiqueter avec leurs griffes et leurs crocs._
