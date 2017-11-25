@@ -20,4 +20,4 @@ Compétences : Combat d10, Discrétion d10, Intimidation d12, Perception d10, S
 
 ### Actions
 - _Télékinésie_ : Âme d12+2, PP — Portée 12, 3.
-- Toucher vampirique : Combat d10+2, inflige +1 Fatigue sur Succès d'Âme contre Vigueur, +2 Fatigue sur Relance, se soigne 1 Blessure par Fatigue infligée.
+- Toucher vampirique : Combat d10+2, inflige +1 Fatigue (Absorption d'énergie) sur Succès d'Âme contre Vigueur, +2 Fatigue (Absorption d'énergie) sur Relance, se soigne 1 Blessure par Fatigue infligée.
