@@ -18,4 +18,4 @@ Compétences : Combat d6, Intimidation d6, Perception d4, Tir d6.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions
-- Griffes : Combat d6, d6
+- Griffes : Combat d6, d6.
