@@ -1,5 +1,5 @@
 
-#Serpent venimeux
+# Serpent venimeux
 Ces caractéristiques valent pour les cobras et les serpents de taille moyenne au poison extrêmement mortel.
 
 Allure : 10
@@ -14,9 +14,9 @@ Compétences : Combat d8, Perception d12.
 
 ### Capacités spéciales
 - Petit : attaque adverse -2 si en mouvement.
-- Poison (-4)
+- Poison (-4).
 - Taille -2.
 - Vif : Défausse les cartes d'Initiative de 5 ou moins.
 
 ### Actions
-- Morsure : Combat d8, d4+Poison.
+- Morsure : Combat d8, d4 + Poison (-4).
