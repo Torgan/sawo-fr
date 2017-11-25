@@ -13,4 +13,4 @@ Compétences : Combat d6, Perception d10.
 	5	5
 
 ### Actions
-- Constriction : Combat d6, d8+d6. Ces monstres mordent sur un jet de Combat réussi et étreignent la victime avec une Relance. Le round dans lequel ils étreignent et chaque round suivant, ils provoquent For+d8 de dégâts. À son round d’action, la victime peut se libérer si elle réussit une Relance sur un jet de Force opposé.
+- Morsure : Combat d6, d8+d6, constriction sur Relance (dégâts d8+d6/rd, libéré sur Relance de Force contre Force).
