@@ -13,15 +13,15 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Natation d8, Percepti
 	6	9
 
 ### Capacités spéciales
-- Invulnérabilité :  les vampires ne peuvent être blessés que via leurs Points faibles. Ils peuvent être Secouées par d’autres attaques, mais jamais Blessés.
+- Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
-- Point faible (eau bénite) : un vampire aspergé d’eau bénite subit un niveau de fatigue. S’il est immergé dedans il se consume comme s’il était exposé à la lumière du soleil (cf. plus bas).
-- Point faible (invité) : un vampire ne peut pénétrer dans une habitation privée sans qu’il y soit invité. Il peut bien sûr entrer dans des lieux publics comme il l’entend.
-- Point faible (lumière du soleil) : un vampire prend feu si sa peau est directement exposée aux rayons du soleil. Après cela il subit 2d10 de dégâts par round jusqu’à ce qu’il devient poussière. L’armure ne compte pas.
-- Point faible (pieu dans le cœur) : un vampire victime d’une Attaque ciblée au cœur (-6) doit faire un jet de Vigueur opposé aux dégâts. S’il réussit, il encaisse les dégâts comme d’ordinaire. S’il rate, il se désintègre en poussière.
-- Point faible (symbole religieux) : on peut tenir à distance un vampire grâce à un symbole religieux. Si le vampire veut toutefois attaquer cette personne il doit pour cela réussir un jet opposé d’Âme.
+- Point faible (eau bénite) : +1 Fatigue si aspergé, se consumme si immergé (cf. lumière du soleil).
+- Point faible (invité) : ne peut pénétrer un lieu privée sans y être invité.
+- Point faible (lumière du soleil) : dégâts 2d10/rd (Feu) sans armure quand la peau est exposée aux rayons du soleil.
+- Point faible (pieu dans le cœur) : se désintègre en poussière sur Échec de Vigueur contre les dégâts d’une Attaque ciblée au cœur (-4).
+- Point faible (symbole religieux) : est tenu à distance par un symbole religieux sur Échec d'Âme contre Âme.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 
 ### Actions
-- Griffes : Combat d8, d12+d4+1. Quiconque est tué par un vampire a 50 % de chances de devenir un vampire au bout de 1d4 jours.
-- Frénésie :  peut faire deux attaques par round à -2.
+- Morsure/Griffes : Combat d8, d12+d4+1. Quiconque est tué par un vampire a 50 % de chances de devenir un vampire au bout de 1d4 jours.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
