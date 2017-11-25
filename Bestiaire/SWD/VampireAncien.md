@@ -1,5 +1,5 @@
 
-# Vampire, ancien [Joker]
+# * Vampire, ancien
 Voici les caractéristiques standards pour des vampires un peu moins forts que le légendaire Dracula. Le MJ peut ajouter d’autres Atouts pour refléter le passé du vampire qu’il désire créer.
 
 Allure : 6
@@ -13,19 +13,19 @@ Compétences : Combat d10, Intimidation d12, Lancer d8, Natation d8, Percep
 	7	10
 
 ### Capacités spéciales
-- Brume : les grands vampires peuvent se transformer en brume. Cela nécessite une Action et un jet d’Intellect à –2.
-- Transformation : un vampire peut se transformer en un loup ou en chauve-souris avec un jet d’Intellect à –2. Revenir à la forme humanoïde nécessite un jet d’Intellect. Cette transformation compte comme une action.
-- Enfant de la nuit :  un vampire ancien peut invoquer et contrôler des loups ou des rats. Cela nécessite une Action et un jet d’Intellect à –2. S’il réussit, 1d6 loups ou 1d6 essaims de rats (cf. Essaim p. 249) arrivent de la nature environnante en 1d6+2 rounds.
-- Invulnérabilité :  les vampires ne peuvent être blessés que via leurs Points faibles. Ils peuvent être Secouées par d’autres attaques, mais jamais Blessés.
+- Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
-- Point faible (eau bénite) : un vampire aspergé d’eau bénite subit un niveau de fatigue. S’il est immergé dedans il se consume comme s’il était exposé à la lumière du soleil (cf. plus bas).
-- Point faible (invité) : un vampire ne peut pénétrer dans une habitation privée sans qu’il y soit invité. Il peut bien sûr entrer dans des lieux publics comme il l’entend.
-- Point faible (lumière du soleil) : un vampire prend feu si sa peau est directement exposée aux rayons du soleil. Après cela il subit 2d10 de dégâts par round jusqu’à ce qu’il devient poussière. L’armure ne compte pas.
-- Point faible (pieu dans le cœur) : un vampire victime d’une Attaque ciblée au cœur (-6) doit faire un jet de Vigueur opposé aux dégâts. S’il réussit, il encaisse les dégâts comme d’ordinaire. S’il rate, il se désintègre en poussière.
-- Point faible (symbole religieux) : on peut tenir à distance un vampire grâce à un symbole religieux. Si le vampire veut toutefois attaquer cette personne il doit pour cela réussir un jet opposé d’Âme.
+- Point faible (eau bénite) : +1 Fatigue si aspergé, se consumme si immergé (cf. lumière du soleil).
+- Point faible (invité) : ne peut pénétrer un lieu privée sans y être invité.
+- Point faible (lumière du soleil) : dégâts 2d10/rd (Feu) sans armure quand la peau est exposée aux rayons du soleil.
+- Point faible (pieu dans le cœur) : se désintègre en poussière sur Échec de Vigueur contre les dégâts d’une Attaque ciblée au cœur (-4).
+- Point faible (symbole religieux) : est tenu à distance par un symbole religieux sur Échec d'Âme contre Âme.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 
 ### Actions
-- Griffes : Combat d10, d12+d4+3. Quiconque est tué par un vampire a 50 % de chances de devenir un vampire au bout de 1d4 jours.
-- Frénésie suprême : un vampire ancien peut faire deux attaques par round sans aucun malus.
+- Morsure/Griffes : Combat d10, d12+d4+3. Quiconque est tué par un vampire a 50 % de chances de devenir un vampire au bout de 1d4 jours.
+- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Brume : se transforme en brume sur Succès d'Intellect -2.
+- Enfant de la nuit :  peut invoquer et contrôler 1d6 loups ou 1d6 essaims de rats sur Succès d’Intellect –2. Ils arrivent de la nature environnante en 1d6+2 rounds.
+- Transformation : se transforme en loup ou chauve-souris sur Succès d'Intellect -2. Redevient humanoïde sur Succès d'Intellect.
 - Charme : Intellect d10, Portée Int, _Marionnette_. Contrôle total en cas de succès. Fonctionne sur un membre du sexe opposé uniquement. Le vampire peut activer et maintenir le pouvoir indéfiniment mais ne peut affecter qu’une cible à la fois.
