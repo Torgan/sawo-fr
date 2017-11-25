@@ -9,9 +9,9 @@ Rang  | Type d'animal
 ------|-----------------------
 Novice|Faucon, lapin, chat, serpent
 Aguerri|Chien, loup, daim, mule
-Vétéran|Lion, cheval de selle, tigre, Ours, taureau, requin, cheval de guerre
-Héroïque|Eléphant, rhincéros, grand requin blanc ou une créature magique plus petite
-Légendaire|Hippogriffe, manticore
+Vétéran|Lion, cheval de selle, tigre, 
+Héroïque|Ours, taureau, requin, cheval de guerre
+Légendaire|Hippogriffe, manticore, éléphant, rhincéros, grand requin blanc ou une créature magique plus petite
 
 Le magicien et le familier gagnent chacun le Handicap Loyal envers l'autre. le familier n'est cependant pas un esclave, et peut désobéir aux ordres, particulièrement ceux qui lui causeraient du tort. Le familier suit ses instincts naturels, à moins qu'on lui ordonne le contraire. Un chat familier par exemple pourra s'arrêter pour poursuivre une souris, faire une courte sieste, ou satisfaire sa curiosité à propos d'un petit trou, et il se cachera probablement pendant un combat.
 
