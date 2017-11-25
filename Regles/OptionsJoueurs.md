@@ -1,6 +1,6 @@
-#Options pour les joueurs
+# Options pour les joueurs
 
-##Arcanes
+## Arcanes
 *Druide* : Miracles
 
 *Ensorceleur*: Super-pouvoirs
@@ -13,22 +13,26 @@
 
 *Prêtre* : Miracles
 
-#Nouveaux Pouvoirs
+### Nouveaux Pouvoirs
 _Fantasme_ etc ...
 
-#Nouvelles armes
-Arc bref : 9/18/36, CdT1, 150$, 2kg, 2d4, For d4.
+### Nouvelles armes
+Arbalète de poing : 6/12/24, 500$, 1.5kg, PA1, 2d4.
+
+Arc bref : 10/20/40, CdT1, 150$, 0.5kg, 2d4, For d4.
+
+Arc elfique : 15/30/60, CdT1, 500$, 2kg, 2d6, For d6.
 
 Épée bâtarde : For+d8, 5kg, 350$, Parade -1, +1 dégâts si maniée à 2 mains.
 
 Épée elfique : For+d6, 3kg, 300$, Parade +1.
 
-#Nouvel équipement
+### Nouvel équipement
 matériel de guérisseur, 50$, 1.5kg
 
 matériel d'écriture, 50$, 2kg
 
-#Nouvelle race
+### Nouvelle race
 Gnome
 
 Petit (Taille -1, Résistance -1)
@@ -37,6 +41,6 @@ Intellect d6
 
 Pouvoirs Magiques: Âme, 10PP, pas de contrecoup, un Pouvoir au choix parmi _Confusion_, _Fantasme_, _Enfouissement_
 
-#Nouveaux Atouts
+### Nouveaux Atouts
 *Expert en bouclier*
 etc ...
