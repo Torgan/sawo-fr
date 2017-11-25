@@ -17,4 +17,4 @@ Compétences : Combat d4, Discrétion d10(+4 ombre), Perception d8.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 
 ### Actions
-- Toucher glacial : Combat d4+2, ignore l'armure, +1 Fatigue sur Échec de Vigueur, se transforme en Ombre si déjà Épuisé et Incapacité.  Fatigue récupérée en 24h.
+- Toucher glacial : Combat d4+2, ignore l'armure, +1 Fatigue (Absorption d'énergie) sur Échec jet de Vigueur.  
