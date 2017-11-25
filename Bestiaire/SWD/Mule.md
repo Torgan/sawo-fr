@@ -13,9 +13,8 @@ Compétences : Perception d4.
 	2	8
 
 ### Capacités spéciales
-- Têtue : parce que c’est une créature bornée, un cavalier subit un malus de -1 à ses jets d’Équitation.
+- Têtue : inflige Équitation -1 à son cavalier.
 - Taille +2.
 
 ### Actions
-- Ruade : Combat d4-2, d8
-
+- Ruade : Combat d4-2, d8.
