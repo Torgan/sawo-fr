@@ -1,5 +1,5 @@
 
-# Orque, chef de clan [Joker]
+# * Orque, chef de clan
 Le chef d’un clan orque est toujours le plus bestial et féroce du groupe. Ces chefs possèdent souvent un ou deux objets magiques dans les univers où de tels objets sont disponibles.
 
 Allure : 6
