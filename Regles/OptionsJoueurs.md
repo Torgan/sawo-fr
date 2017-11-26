@@ -16,6 +16,10 @@
 ### Nouveaux Pouvoirs
 _Fantasme_ etc ...
 
+### Créer un barde
+Archétypes conseillés : *Détective*, *Face*, *Leader* ou *Scientifique*
+Atouts conseillés : Charismatique, Contacts, Criminel (B&B p73),  Orateur (Atout Tentateur de B&B p77, en remplaçant l'attirance par la capacité à comprendre le personnage), Séduisant, Touche-à-tout, Volonté de Fer, tous les Atouts de Commandement
+
 ### Nouvelles armes
 Arbalète de poing : 6/12/24, 500$, 1.5kg, PA1, 2d4.
 
