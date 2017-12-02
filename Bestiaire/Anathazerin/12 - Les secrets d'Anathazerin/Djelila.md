@@ -6,7 +6,7 @@ Charisme : +2
 	AGI	ÂME	FOR	INT	VIG
 	d10	d12	d6	d8	d6
 
-Compétences : Combat d8, Connaissance (Arcanes) d6, Connaissance (Religion) d8, Discrétion d8, Escalade d4, Foi d12, Perception d6, Persuasion d8, Survie d4.
+Compétences : Combat d8, Connaissance (Arcanes) d6, Connaissance (Religion) d8, Discrétion d8+2, Escalade d4, Foi d12, Perception d6, Persuasion d8, Survie d4.
 
 Atouts : Arcane (Foi), Charismatique, Drain de l'Âme, Guerrier impie, Résistance aux arcanes.
 
@@ -34,4 +34,4 @@ Atouts : Arcane (Foi), Charismatique, Drain de l'Âme, Guerrier impie, Résistan
 - _Ténèbres_ : Âme d12, 2PP, Portée 8, 3 (1/rd).
 
 ### Équipement
-Masse-serpent, Chemise de maille magique (Armure +4), petit bouclier magique (Parade +2), symbole de Maëdra, grande potion de soins modérés (_Guérison_ avec Relance), collier avec une rune (symbole de la Maison Maedriss), 125 po, un diamant de 5000 pa.
+Masse-serpent, Chemise de maille magique (Armure +4), petit bouclier magique (Parade +2), symbole de Maëdra, bottes et capes drows grande potion de soins modérés (_Guérison_ avec Relance), collier avec une rune (symbole de la Maison Maedriss), 125 po, un diamant de 5000 pa.
