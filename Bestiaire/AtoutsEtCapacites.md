@@ -4,7 +4,7 @@
 - Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.
 - Assassin : dégâts +2 contre une cible surprise.
 - Balayage : attaque toute cible adjacente à -2.
-- Brute : dégâts +1 sur Succcès de Combat, +2 sur Relance.
+- Brute : dégâts +1 sur Succès de Combat, +2 sur Relance.
 - * Combatif : +2 pour annuler Secoué.
 - * Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Contre-attaque : attaque gratuite à -2 sur un ennemi par round ayant Échec de Combat.
