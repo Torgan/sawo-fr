@@ -5,7 +5,7 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d10	d8	d6	d8	d6
 
-Compétences : Combat d10, Connaissance (Batailles) d6, Discrétion d8, Escalade d4, Perception d6, Pistage d4, Survie d4, Tir d8.
+Compétences : Combat d10, Connaissance (Batailles) d6, Discrétion d8+2, Escalade d4, Perception d6, Pistage d4, Survie d4, Tir d8.
 
 Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcanes.
 
@@ -28,4 +28,4 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 - _Confusion_ : Âme d8, 1+PP, Portée 16, Inst.
 
 ### Équipement
-Chemise de mailles, 2 épées courtes, arbalète de poing.
+Chemise de mailles, 2 épées courtes, arbalète de poing, bottes et capes drows.
