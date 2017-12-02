@@ -6,7 +6,7 @@ Téléportation : 16 (_Enfouissement_ via "l'astral", cf. cape de déplacement).
 	AGI	ÂME	FOR	INT	VIG
 	d12	d10	d6	d8	d6
 
-Compétences : Combat d12+1, Connaissance (Batailles) d10, Discrétion d8, Escalade d4, Perception d6, Pistage d4, Survie d4, Tir d8.
+Compétences : Combat d12+1, Connaissance (Batailles) d10, Discrétion d8+2, Escalade d4, Perception d6, Pistage d4, Survie d4, Tir d8.
 
 Atouts : Ambidextre, Arme fétiche (épée courte magique +2), Attaque à deux armes, Commandement, Frappe foudroyante, Grand blocage, Grande contre-attaque, Professionnel (Combat), Résistance aux arcanes.
 
@@ -33,4 +33,4 @@ Atouts : Ambidextre, Arme fétiche (épée courte magique +2), Attaque à deux a
 - Grande contre-attaque : attaque gratuite sur un ennemi par round ayant Échec de Combat.
 
 ### Équipement
-Chemise de mailles magique (Armure +3, Parade +1), épée courte magique (Combat +2), épée courte magique (Combat +1, dégâts +1), cape de déplacement (Pouvoir _Enfouissement_ en passant par "l'astral" plutôt que le sol), arbalète légère.
+Chemise de mailles magique (Armure +3, Parade +1), épée courte magique (Combat +2), épée courte magique (Combat +1, dégâts +1), cape de déplacement (Pouvoir _Enfouissement_ en passant par "l'astral" plutôt que le sol), arbalète légère, bottes et capes drows.
