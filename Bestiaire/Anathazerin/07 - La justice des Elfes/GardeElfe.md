@@ -17,6 +17,7 @@ Handicaps : Deux mains gauches.
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 - Combatif : +2 pour annuler Secoué.
+- Protéger : au prix d'une action peut faire benéficier un allié à 1 case du bonus de son bouclier à sa place.
 
 ### Actions
 - Épée elfique : Combat d10, Parade +1, d8+d6.
