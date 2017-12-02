@@ -5,7 +5,7 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d8	d6	d10	d6
 
-Compétences : Combat d6, Connaissance (Arcanes) d8, Discrétion d8, Escalade d4, Nécromancie d10, Perception d6.
+Compétences : Combat d6, Connaissance (Arcanes) d8, Discrétion d8+2, Escalade d4, Nécromancie d10, Perception d6.
 
 Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 
@@ -27,4 +27,4 @@ Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 - _Zombie_ : Nécromancie d10, 3PP / corps, Portée 20.
 
 ### Équipement
-Dague sacrificielle (quand provoque Secoué ou plus, sa victime subit un niveau de Fatigue sur Échec de Vigueur -2), bracelets de défense (Grand blocage), un livre de sorts, une potion d'_Intangibilité_ (3 rd), une baguette de cône de froid (_Rafale_), collier avec bâton cuivré (symbole de la Maison Eilserv), 25 pp, deux grenats de 500 pa chacun.
+Dague sacrificielle (quand provoque Secoué ou plus, sa victime subit un niveau de Fatigue sur Échec de Vigueur -2), bracelets de défense (Grand blocage), bottes et capes drows, un livre de sorts, une potion d'_Intangibilité_ (3 rd), une baguette de cône de froid (_Rafale_), collier avec bâton cuivré (symbole de la Maison Eilserv), 25 pp, deux grenats de 500 pa chacun.
