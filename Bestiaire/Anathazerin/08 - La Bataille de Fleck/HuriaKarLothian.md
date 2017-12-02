@@ -6,7 +6,7 @@ Charisme : +2
 	AGI	ÂME	FOR	INT	VIG
 	d10	d10	d6	d8	d6
 
-Compétences : Combat d8, Connaissance (Arcanes) d6, Connaissance (Religion) d8, Discrétion d8, Escalade d4, Foi d10, Perception d6, Persuasion d8+2, Survie d4.
+Compétences : Combat d8, Connaissance (Arcanes) d6, Connaissance (Religion) d8, Discrétion d8+2, Escalade d4, Foi d10, Perception d6, Persuasion d8+2, Survie d4.
 
 Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes, Séduisant.
 
@@ -29,4 +29,4 @@ Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes,
 - _Ténèbres_ : Foi d10, 2PP, Portée 8, 3 (1/rd).
 
 ### Équipement
-Masse-serpent, Chemise de maille magique (Armure +3), petit bouclier magique (Parade +2), symbole de Maëdra, potion de soins (soigne une Blessure), collier avec une rune (symbole de la Maison Kar’lothian), 125 po, un diamant de 5000 pa.
+Masse-serpent, Chemise de maille magique (Armure +3), petit bouclier magique (Parade +2), bottes et capes drows, symbole de Maëdra, potion de soins (soigne une Blessure), collier avec une rune (symbole de la Maison Kar’lothian), 125 po, un diamant de 5000 pa.
