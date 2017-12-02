@@ -5,7 +5,7 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d10	d12	d6	d8	d6
 
-Compétences : Combat d8, Connaissance (Batailles) d6, Discrétion d8, Escalade d4, Foi d12, Perception d6, Tir d8.
+Compétences : Combat d8, Connaissance (Batailles) d6, Discrétion d8+2, Escalade d4, Foi d12, Perception d6, Tir d8.
 
 Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes.
 
@@ -37,4 +37,4 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes.
 - Chair à canon : peut décider 1 fois par tour qu’un allié à 2 cases ou moins subit une attaque à sa place.
 
 ### Équipement
-Chemise de mailles, masse serpent, arbalète légère.
+Chemise de mailles, masse serpent, arbalète légère, bottes et capes drows.
