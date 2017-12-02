@@ -5,7 +5,7 @@ Allure : 6
 	AGI	ÂME	FOR	INT	VIG
 	d8	d6	d8	d6	d6
 
-Compétences : Combat d8, Discrétion d8, Escalade d4, Perception d6, Pistage d4, Survie d4, Tir d8.
+Compétences : Combat d8, Discrétion d8+2, Escalade d4, Perception d6, Pistage d4, Survie d4, Tir d8.
 
 Atouts : Assassin, Attaque à deux armes, Florentine, Résistance aux Arcanes.
 
@@ -26,4 +26,4 @@ Atouts : Assassin, Attaque à deux armes, Florentine, Résistance aux Arcanes.
 - _Ténèbres_ : Âme d6, 2PP, Portée 6, 3 (1/rd).
 
 ### Équipement
-Justaucorps de cuir, épée courte, arbalète légère.
+Justaucorps de cuir, épée courte, arbalète légère, bottes et capes drows. 
