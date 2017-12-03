@@ -13,7 +13,11 @@ Handicaps : (s'il y en a).
 Atouts : (s'il y en a).
 
 	PAR	RES
-	X	X (X)
+	X (X)	X [X] (X)
+
+- Un chiffre entre parenthèse `(X)` pour la Parade`ou la Résistance représente un bonus d'équipement ou un bonus circonstanciel.
+- Un chiffre entre cronchets `[X] pour la Résistance représente un bonus de bouclier bonus de bouclier (en général un bonus qui s'applique contre les armes à distance).
+
 
 ### Capacités spéciales (s'il y en a)
 - Arcanes (XX) : compétence dX, xxPP.
