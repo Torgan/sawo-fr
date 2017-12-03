@@ -5,7 +5,7 @@ Ces caractéristiques concernent des grands blancs entre 5,5 m et 7,5 m de lon
 Allure : nage 10
 
 	Agi	Âme	For	Int	Vig
-	d8	d8	d12+4	d4(A)	d12
+	d8	d8	d12+4	d4 (A)	d12
 
 Compétences : Combat d10, Natation d10, Perception d12.
 

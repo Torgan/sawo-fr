@@ -5,7 +5,7 @@ Ces caractéristiques peuvent s’appliquer à de nombreux prédateurs félins.
 Allure : 8
 
 	Agi	Âme	For	Int	Vig
-	d8	d10	d12	d6(A)	d8
+	d8	d10	d12	d6 (A)	d8
 
 Compétences : Combat d8, Perception d8.
 

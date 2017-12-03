@@ -4,7 +4,7 @@ Il s’agit de grands loups enragés parfois utilisés comme chiens de combat. O
 Allure : 10(+d10)
 
 	Agi	Âme	For	Int	Vig
-	d8	d6	d8	d4(A)	d8
+	d8	d6	d8	d4 (A)	d8
 
 Compétences : Combat d8, Intimidation d8, Perception d6.
 

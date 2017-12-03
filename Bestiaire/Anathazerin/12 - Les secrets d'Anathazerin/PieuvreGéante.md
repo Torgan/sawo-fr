@@ -3,7 +3,7 @@
 Allure : 2
 
 	AGI	ÂME	FOR	INT	VIG
-	d8	d6	d12+4	d4(A)	d8
+	d8	d6	d12+4	d4 (A)	d8
 
 Compétences : Combat d8, Discrétion d6, Natation d6, Persuasion d6.
 

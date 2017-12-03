@@ -5,7 +5,7 @@ Valable pour les grizzlys, les ours bruns d’Alaska et les grands ours polaires
 Allure : 8
 
 	Agi	Âme	For	Int	Vig
-	d6	d8	d12+4	d6(A)	d12
+	d6	d8	d12+4	d6 (A)	d12
 
 Compétences : Combat d8, Natation d6, Perception d8.
 

@@ -3,7 +3,7 @@
 Allure : 8, vol 8 montée 4
 
 	Agi	Âme	For	Int	Vig
-	d8	d6	d12+2	d8(A)	d12
+	d8	d6	d12+2	d8 (A)	d12
 
 Compétences : Combat d8, Intimidation d8, Perception d12.
 

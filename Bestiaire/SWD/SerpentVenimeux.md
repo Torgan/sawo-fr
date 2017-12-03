@@ -5,7 +5,7 @@ Ces caractéristiques valent pour les cobras et les serpents de taille moyenne a
 Allure : 10
 
 	Agi	Âme	For	Int	Vig
-	d8	d6	d4	d4(A)	d4
+	d8	d6	d4	d4 (A)	d4
 
 Compétences : Combat d8, Perception d12.
 

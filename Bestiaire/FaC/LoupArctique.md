@@ -5,7 +5,7 @@ Les loups arctiques hantent les étendues gelées, parcourant les toundras en me
 Allure : 8(+d10)
 
 	Agi	Âme	For	Int	Vig
-	d8	d6	d10	d4(A)	d8
+	d8	d6	d10	d4 (A)	d8
 
 Compétences : Combat d8, Discrétion d10, Intimidation d8, Perception d10.
 

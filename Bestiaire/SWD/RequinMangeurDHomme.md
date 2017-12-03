@@ -4,7 +4,7 @@ Valable pour les requins tigres, les requins gris et autres de taille similaire.
 Allure : nage 10
 
 	Agi	Âme	For	Int	Vig
-	d8	d6	d8	d4(A)	d6
+	d8	d6	d8	d4 (A)	d6
 
 Compétences : Combat d8, Natation d10, Perception d12.
 

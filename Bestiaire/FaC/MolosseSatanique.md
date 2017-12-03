@@ -4,7 +4,7 @@ Les molosses sataniques sont des chiens monstrueux ayant souvent la peau noire f
 Allure : 8(+d10)
 
 	Agi	Âme	For	Int	Vig
-	d8	d8	d10	d6(A)	d10
+	d8	d8	d10	d6 (A)	d10
 
 Compétences : Combat d6, Discrétion d6, Perception d10.
 

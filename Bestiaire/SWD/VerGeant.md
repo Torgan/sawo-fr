@@ -7,7 +7,7 @@ Ces caractéristiques s’appliquent à un spécimen long de 15 mètres.
 Allure : 6, sous terre 20.
 
 	Agi	Âme	For	Int	Vig
-	d6	d10	d12+10	d6(A)	d12
+	d6	d10	d12+10	d6 (A)	d12
 
 Compétences : Combat d6, Discrétion d10, Perception d10.
 
