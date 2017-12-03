@@ -13,11 +13,11 @@ Atouts : Balayage, Enragé.
 	7	11 (3)
 
 ### Capacités spéciales
-- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et +2 dégâts au Combat. 
+- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Taille +1.
 
 ### Actions
-- Balayage : Attaque tous les adversaires adjacents à -2.
+- Balayage : attaque toute cible adjacente à -2.
 - Hallebarde : Combat d10, Allonge 1, 2 mains, d10+d8.
 - Rage : peut devenir enragé sur Succès d'Âme.
 

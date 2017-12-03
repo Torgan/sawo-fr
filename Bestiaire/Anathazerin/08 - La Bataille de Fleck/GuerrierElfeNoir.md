@@ -19,8 +19,8 @@ Atouts : Assassin, Attaque à deux armes, Florentine, Résistance aux Arcanes.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Assassin : +2 aux dégâts contre une cible surprise.
-- Florentine : +1 en Combat contre les cibles n’ayant qu’une arme et sans bouclier. Ignore 1 point de bonus pour des attaquants multiples.
+- Assassin : dégâts +2 contre une cible surprise.
+- Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
 - Épée courte : Combat d8, d8+d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, 15/30/60, PA 2, CdT 1/2, 2d6 + poison (-4, inconscience).
 - _Ténèbres_ : Âme d6, 2PP, Portée 6, 3 (1/rd).

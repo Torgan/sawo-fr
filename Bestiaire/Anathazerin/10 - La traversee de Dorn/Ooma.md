@@ -14,11 +14,11 @@ Atouts : Costaud, Commandement, Ferveur, Grand balayage, Grand blocage, Grande a
 
 ### Capacités spéciales
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 10 cases.
-- Ferveur : dégâts +1 pour les alliés dans un rayon de 10 cases.
+- Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Taille +1.
 
 ### Actions
-- Grand balayage : Attaque tous les adversaires adjacents.
+- Grand balayage : attaque toute cible adjacente.
 - Hallebarde : Combat d10, Allonge 1, 2 mains, d12+d8.
 - Falchion : Combat d10, d12+d8.
 

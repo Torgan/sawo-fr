@@ -11,7 +11,7 @@ Compétences : Combat d8, Escalade d6, Intimidation d6, Lancer d10, Perception 
 Atouts : Amazone, Charismatique, Commandement, Séduisant.
 
 	PAR	RES
-	6	13 (2)
+	6 (7)	13 (2)
 
 ### Capacités spéciales
 - Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.

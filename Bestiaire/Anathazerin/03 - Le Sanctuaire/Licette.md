@@ -14,8 +14,8 @@ Atouts : Acrobate, Assassin, Voleur.
 	7	6 (1)
 
 ### Capacités spéciales
-- Acrobate : +2 aux jets d’Agilité liés à la souplesse, +1 en Parade si non encombré.
-- Assassin : +2 aux dégâts contre une cible surprise.
+- Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
+- Assassin : dégâts +2 contre une cible surprise.
 
 ### Actions
 - Dague : Combat d8, d8+d4.

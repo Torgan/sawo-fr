@@ -32,7 +32,7 @@ Atouts : Amazone, Séduisante, Héroïne en bikini, Commandement, Contre-attaque
 - Augmentation/diminution de Trait : Persuasion d8+4, 2PP, Portée 8, 3 (1/rd).
 
 ### Réactions
-- Amazone : bénéficie d’une action de combat gratuite lorsqu’un adversaire masculin fait un 1 sur son dé de Combat (voir Déguisée ci dessous).
+- Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.
 - Contre-Attaque : attaque gratuite par round à -2 contre un adversaire ayant raté son attaque.
 - Héroïne en bikini : peut faire un jet d’Encaissement gratuit à chaque blessure subie tant qu’elle ne porte pas d’armure.
 

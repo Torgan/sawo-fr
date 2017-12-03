@@ -17,7 +17,7 @@ Atouts : Blocage, Brute, Combatif, Commandement, Costaud, Cri de guerre, Enragé
 - Brute : les attaques de mêlée occasionnent +1 point de dégâts, +2 dans le cas d’une Relance.
 - Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Enragé : le personnage devient enragé s’il subit une blessure ou un état Secoué. Il subit un malus de -2 en Parade, et un bonus de +2 en Résistance, à tous ses jets de Combat, de Force et aux dégats de corps-à-corps.
+- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Taille +1.
 
 ### Actions

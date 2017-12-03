@@ -13,7 +13,7 @@ Atouts : Cavalier né, Cavalier-buffle, Esquive.
 	8	7 (1)
 
 ### Capacités spéciales
-- Esquive : -1 aux attaques à distance contre ce personnage.
+- Esquive : inflige -1 aux attaques à distance.
 
 ### Actions
 - Lance à buffles à bout en bronze : Combat d10, PA 2 en charge, 2 mains lorsqu’il est hors-monture, d10+d8

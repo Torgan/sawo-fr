@@ -15,7 +15,7 @@ Handicaps : Cupide.
 	5   6 (1)
 
 ### Capacités spéciales
-- Assassin : +2 aux dégâts contre une cible surprise.
+- Assassin : dégâts +2 contre une cible surprise.
 - _Télépathie_ : les d'Oguer peuvent utiliser le pouvoir _Télépathie_ à volonté mais uniquement entre eux et seulement sur une distance de 50m. 
 
 ### Actions

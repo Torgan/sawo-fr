@@ -17,10 +17,9 @@ Atouts : Charismatique, Commandement, Grande aura de Commandement, Ferveur, Insp
 
 ### Capacités spéciales
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 10 cases.
-- Ferveur : les troupes ont un bonus de +1 aux dégâts.
+- Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Grande aura de commandement  : l’aura de commandement a un rayon de 10 cases.
-- Inspiration : les troupes ont un bonus de +1 à leurs jets d’Âme.
-- Serrez les Rang ! : les troupes ont un bonus de +1 à la Résistance.
+- Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 10 cases (Commandement inclus).- Serrez les Rang ! : les troupes ont un bonus de +1 à la Résistance.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 - Enflammez les Âmes : Les mots du Maître de Culte peuvent faire entrer ses adorateurs dans une frénésie religieuse. S’il passe un round complet à leur parler, il peut faire un jet de Persuasion. En cas de succès, tous les Membres du Culte dans un Gabarit d’Explosion Moyen centré sur le Maître de Culte acquièrent l’Atout Frénésie et deviennent automatiquement frénétiques (le Grand Gabarit en cas de Relance). Toutefois, si le Maître de Culte est vaincu, tous les cultistes en frénésie doivent immédiatement faire un jet de Terreur ou être Paniqués.
 - Sacrifice : Le Maître de Culte n’a généralement pas de Points de pouvoir personnels, mais il peut en acquérir temporairement en faisant un sacrifice. Cela peut être fait en donnant un coup mortel à une victime innocente ou à un Membre du Culte volontaire. L’action requiert un round complet (aucune autre action n’est permise à part le chant et la prière). Un Extra tué accorde au Maître 5 Points de pouvoir, alors qu’un Joker en accorde 15. Ces Points de pouvoir durent jusqu’à la fin de la scène en cours et ne peuvent être regagnés d’aucune façon.

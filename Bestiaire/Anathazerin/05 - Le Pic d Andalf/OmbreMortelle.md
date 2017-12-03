@@ -11,7 +11,7 @@ Compétences : Combat d6, Discrétion d12(+4 ombre), Intimidation d6, Perception
 	5	5
 
 ### Capacités spéciales
-- Immatériel : immunisé aux armes non magiques.
+- Immatériel : immunisé aux attaques non magiques.
 - Ombre vivante : Discrétion +4 dans les ombres. Ignore les malus liés à la Pénombre, à l'Obscurité et aux Ténèbres.
 
 ### Actions

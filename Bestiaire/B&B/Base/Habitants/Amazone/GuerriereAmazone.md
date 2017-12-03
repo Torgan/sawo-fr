@@ -15,7 +15,7 @@ Atouts : Amazone, Combatif.
 	6 (7)	6 (1)
 
 ### Capacités spéciales
-- Amazone : +1 en Parade contre un adversaire masculin.
+- Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.
 - Combatif : +2 pour annuler Secoué.
 
 ### Actions

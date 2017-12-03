@@ -18,8 +18,8 @@ Atouts : Acrobate, Assassin, Véloce, Voleur.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
-- Acrobate : +2 aux jets d’Agilité liés à la souplesse.
-- Assassin : +2 aux dégâts contre une cible surprise.
+- Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
+- Assassin : dégâts +2 contre une cible surprise.
 - Épée courte : Combat d10, d8+d6 + poison (-4, inconscience).
 - Arbalète : Tir d8, 15/30/60, PA2, 2d6 + poison (-4, inconscience).
 - _Invisibilité_ : Âme d8, 5PP, Portée P, 3 (1/rd).

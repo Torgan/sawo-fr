@@ -25,7 +25,6 @@ Atouts : Blocage, Contacts (Crime), Frappe éclair, Sang-froid, Grande Esquive, 
 - Fronde : Tir d6, 4/8/16, d6+d4.
 
 ### Réactions
-- Frappe éclair : Peut attaquer un adversaire se portant au contact une fois par round.
-
+- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
 ### Équipement
 dague de parade (For+d4, Parade +1, utilisée en général comme arme secondaire), épée courte, fronde (For+d4, portée : 4/8/16), armure de cuir légère, outils de crochetage.

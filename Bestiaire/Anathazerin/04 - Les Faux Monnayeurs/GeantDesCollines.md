@@ -18,7 +18,7 @@ Compétences : Combat d6, Intimidation d8, Lancer d6, Perception d4.
 - Taille +4.
 
 ### Actions
-- Balayage : attaque tous les adversaires adjacents à -2.
+- Balayage : attaque toute cible adjacente à -2.
 - Massue : Combat d6, d12+d10+5.
 - Rochers : Lancer d6, 3/6/12, d12+d6+5.
 

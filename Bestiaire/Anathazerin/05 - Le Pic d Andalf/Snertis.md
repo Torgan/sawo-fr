@@ -14,7 +14,7 @@ Atouts : Blocage, Commandement, Ferveur.
 
 ### Capacités spéciales
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Ferveur : +1 aux dégâts pour les alliés dans un rayon de 5 cases.
+- Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - _Deflexion_ : -2 aux attaques à distances contre ce personnage.
 
 ### Actions

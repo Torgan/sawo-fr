@@ -18,7 +18,7 @@ Compétences : Combat d10, Escalade d8, Intimidation d10, Lancer d10, Perceptio
 - Taille +5.
 
 ### Actions
-- Grand balayage : Attaque tous les adversaires adjacents.
+- Grand balayage : attaque toute cible adjacente.
 - Hache de guerre : Combat d10, PA1, Parade -1, 2 mains, 2d12+5.
 - Rochers : Lancer d10, 3/6/12, d12+d6+5.
 

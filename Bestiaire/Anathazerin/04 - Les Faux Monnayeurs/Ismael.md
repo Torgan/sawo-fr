@@ -14,14 +14,13 @@ Atouts : Blocage, Esquive, Frappe éclair, Voleur.
 	7   6 (1)
 
 ### Capacités spéciales
-- Esquive : -1 aux attaques à distance contre le personnage.
+- Esquive : inflige -1 aux attaques à distance.
 
 ### Actions
 - Épée courte : Combat d8, 2d6.
 - Dague : Combat d8, d6+d4+1.
 
 ### Réactions
-- Frappe éclair : Peut attaquer un adversaire se portant au contact une fois par round.
-
+- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
 ### Équipement
 Armure de cuir clouté, dague magique (For+d4+1), bourse contenant 53 pa et 59 pc, vêtements sombres, outils de voleur.

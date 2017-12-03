@@ -16,12 +16,12 @@ Handicap : Arrogant, Brute, Cupide, Sale Caractère.
 
 ### Capacités spéciales
 - Encaissement (Armure) : +1 à tous les jets d’Encaissement.
-- Esquive : -1 aux attaques à distance contre ce personnage.
-- Nerfs d’acier : Ignore 1 point de malus lié aux Blessures.
+- Esquive : inflige -1 aux attaques à distance.
+- Nerfs d’acier : annule 1 point de malus de Blessure.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions
-- Brute : dégât +1 en mêlée, +2 sur Relance.
+- Brute : dégâts +1 sur Succès de Combat, +2 sur Relance.
 - Épée bâtarde : Combat d8, 1 main, 2d8+1 (+1 sur Relance).
 - Épée bâtarde : Combat d8, 2 mains, Parade -1, 2d8+2 (+1 sur Relance).
 - Hache de bataille : Combat d8, 2d8+1 (+1 sur Relance).

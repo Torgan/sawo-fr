@@ -23,7 +23,6 @@ Atouts : Blocage, Frappe éclair, Frénésie.
 - Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
 
 ### Réactions
-- Frappe éclair : Peut attaquer un adversaire se portant au contact une fois par round.
-
+- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
 ### Équipement
 Armure de plaques en bronze, épée longue, écu.

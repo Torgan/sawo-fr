@@ -13,7 +13,7 @@ Atout : Frappe éclair.
 	6	9
 
 ### Capacités spéciales
-- Immatériel : immunisé aux armes non magiques.
+- Immatériel : immunisé aux attaques non magiques.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

@@ -19,7 +19,7 @@ Atout : Ferveur, Grand balayage.
 - Taille +4.
 
 ### Actions
-- Grand balayage : attaque tous les adversaires adjacents.
+- Grand balayage : attaque toute cible adjacente.
 - Stalactite de pierre : Combat d6, d12+d6+6.
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
 

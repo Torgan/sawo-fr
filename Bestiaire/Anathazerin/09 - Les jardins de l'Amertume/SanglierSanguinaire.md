@@ -19,4 +19,4 @@ Atouts : Enragé.
 ### Actions
 - Défenses : Combat d10, d12+d4.
 - Encorner : +4 dégâts en charge d'au moins 6 cases.
-- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et +2 dégâts au Combat. 
+- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.

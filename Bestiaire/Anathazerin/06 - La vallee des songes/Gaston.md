@@ -18,7 +18,7 @@ Atout : Arcane (Magie), Assassin, Vigilance, Voleur.
 - Taille -1.
 
 ### Actions
-- Assassin : +2 aux dégâts contre une cible surprise.
+- Assassin : dégâts +2 contre une cible surprise.
 - Dague : Combat d10, d6+d4.
 - _Enfouissement_ (disparition subite) : Magie d6, 3PP, Portée 12, 3 (2/rd).
 

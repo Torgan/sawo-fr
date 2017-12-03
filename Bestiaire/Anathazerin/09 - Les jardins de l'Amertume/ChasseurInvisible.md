@@ -20,5 +20,5 @@ Atouts : Assassin, Tête froide, Vif.
 - Vif : Défausse les cartes d'Initiative de 5 ou moins.
 
 ### Actions
-- Assassin : +2 aux dégâts contre une cible surprise.
+- Assassin : dégâts +2 contre une cible surprise.
 - Coup : Combat d10, d12+d6.

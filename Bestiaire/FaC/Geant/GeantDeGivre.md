@@ -22,7 +22,7 @@ Compétences : Combat d8, Escalade d8, Intimidation d10, Lancer d8, Perception 
 - Taille +4.
 
 ### Actions
-- Grand balayage : attaque tous les adversaires adjacents.
+- Grand balayage : attaque toute cible adjacente.
 - Massue : Combat d8, d12+d10+3.
 - Rochers : Lancer d8, 3/6/12, d12+d6+3.
 

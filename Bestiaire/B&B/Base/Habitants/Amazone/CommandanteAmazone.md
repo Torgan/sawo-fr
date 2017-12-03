@@ -15,10 +15,10 @@ Atouts : Amazone, Combatif, Lien Mutuel, Nerfs d’acier.
 	7 (8)	8 (2)
 
 ### Capacités spéciales
-- Amazone : +1 en Parade contre un adversaire masculin.
+- Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.
 - Combatif : +2 pour annuler Secoué.
 - Lien mutuel : Le personnage peut donner des Jetons à ses compagnons.
-- Nerfs d’acier : Ignore 1 point de malus lié aux Blessures.
+- Nerfs d’acier : annule 1 point de malus de Blessure.
 
 ### Actions
 - Épée longue en bronze : Combat d8, 2d8

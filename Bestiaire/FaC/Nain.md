@@ -17,13 +17,13 @@ Handicaps : Cupide (mineur), Loyal.
 ### Capacités spéciales
 - Brave : +2 aux jets de Terreur.
 - Combatif : +2 pour annuler Secoué.
-- Nerfs d’acier : ignore 1 point de malus lié aux Blessures.
+- Nerfs d’acier : annule 1 point de malus de Blessure.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Hache de bataille : Combat d8, 2d8.
 - Hache de lancer : Lancer d8, 3/6/12, d6+d8.
-- Balayage : attaque tout ennemi adjacent à -2.
+- Balayage : attaque toute cible adjacente à -2.
 
 ### Équipement
 Bouclier moyen, cotte de mailles, heaume ouvert, hache de bataille, haches de lancer.

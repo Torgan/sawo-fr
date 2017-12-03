@@ -14,7 +14,7 @@ Atout : Assassin.
 	7	8 (1)
 
 ### Capacités spéciales
-- Assassin : +2 aux dégâts contre une cible surprise.
+- Assassin : dégâts +2 contre une cible surprise.
 - Taille +1.
 
 ### Actions
