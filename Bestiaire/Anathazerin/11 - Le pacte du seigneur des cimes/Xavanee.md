@@ -29,4 +29,4 @@ Atouts : Arcanes (Miracles), Assassin, Commandement, Florentine, Résistance aux
 - _Enchevêtrement_ (toile d'araignée) : Foi d8, 3PP(1/rd), portée 8, Gabarit Moyen, Inst.
 
 ### Équipement
-Chemise de mailles, masse serpent, arbalète légère, bottes et capes drows.
+Chemise de mailles, masse serpent, arbalète légère, bottes et cape elfes noires.
