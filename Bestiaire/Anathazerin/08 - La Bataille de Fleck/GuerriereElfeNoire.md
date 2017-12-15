@@ -13,7 +13,7 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 	7	7 (2)
 
 ### Capacités spéciales
-- Arcane : pouvoirs d'elfe noir, Âme d6, 5PP.
+- Arcane : pouvoirs d'elfe noir, Âme d8, 5PP.
 - Ambidextre : ignore le malus de -2 pour la main non directrice.
 - Combat à deux armes : peut attaquer avec une arme dans chaque main sans subir le malus d’Actions multiples.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
