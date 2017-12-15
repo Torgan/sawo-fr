@@ -33,4 +33,4 @@ Atouts : Arcane (Foi), Charismatique, Drain de l'Âme, Guerrier impie, Résistan
 - _Ténèbres_ : Âme d12, 2PP, Portée 8, 3 (1/rd).
 
 ### Équipement
-Masse-serpent, chemise de maille magique (Armure +4), petit bouclier magique (Parade +2), symbole de Maëdra, bottes et cape elfes noires, grande potion de soins modérés (_Guérison_ avec Relance), collier avec une rune (symbole de la Maison Maedriss), 125 po, un diamant de 5000 pa.
+Masse-serpent, chemise de mailles magique (Armure +4), petit bouclier magique (Parade +2), symbole de Maëdra, bottes et cape elfes noires, grande potion de soins modérés (_Guérison_ avec Relance), collier avec une rune (symbole de la Maison Maedriss), 125 po, un diamant de 5000 pa.
