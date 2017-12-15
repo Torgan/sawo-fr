@@ -27,4 +27,4 @@ Atouts : Commandement, Contre-attaque, Ferveur, Frénésie.
 - Contre-attaque : attaque gratuite à -2 sur un ennemi par round ayant Échec de Combat.
 
 ### Équipement
-Chemise de mailles en Mythral, Vivelame, Arc long, cape et bottes elfes (Discrétion +2).
+Chemise de mailles en mythral, Vivelame, Arc long, cape et bottes elfes (Discrétion +2).
