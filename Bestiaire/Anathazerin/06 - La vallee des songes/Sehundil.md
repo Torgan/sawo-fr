@@ -23,4 +23,4 @@ Handicaps : Arrogant, Deux mains gauches.
 - Épée courte : Combat d8, 2d6.
 
 ### Équipement
-Chemise de maille, épée courte, dague, potion de soins (pouvoir _Guérison_ sans Relance), bourse contenant 9 po, 18 pa et 21 pc.
+Chemise de mailles, épée courte, dague, potion de soins (pouvoir _Guérison_ sans Relance), bourse contenant 9 po, 18 pa et 21 pc.
