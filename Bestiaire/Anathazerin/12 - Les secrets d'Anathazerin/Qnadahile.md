@@ -33,4 +33,4 @@ Atouts : Ambidextre, Arme fétiche (épée courte magique +2), Attaque à deux a
 - Grande contre-attaque : attaque gratuite sur un ennemi par round ayant Échec de Combat.
 
 ### Équipement
-Chemise de mailles magique (Armure +3, Parade +1), épée courte magique (Combat +2), épée courte magique (Combat +1, dégâts +1), cape de déplacement (Pouvoir _Enfouissement_ en passant par "l'astral" plutôt que le sol), arbalète légère, bottes et capes drows.
+Chemise de mailles magique (Armure +3, Parade +1), épée courte magique (Combat +2), épée courte magique (Combat +1, dégâts +1), cape de déplacement (Pouvoir _Enfouissement_ en passant par "l'astral" plutôt que le sol), arbalète légère, bottes et cape elfes noires.
