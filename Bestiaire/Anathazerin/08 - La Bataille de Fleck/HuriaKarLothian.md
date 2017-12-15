@@ -29,4 +29,4 @@ Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes,
 - _Ténèbres_ : Foi d10, 2PP, Portée 8, 3 (1/rd).
 
 ### Équipement
-Masse-serpent, Chemise de maille magique (Armure +3), petit bouclier magique (Parade +2), bottes et capes drows, symbole de Maëdra, potion de soins (soigne une Blessure), collier avec une rune (symbole de la Maison Kar’lothian), 125 po, un diamant de 5000 pa.
+Masse-serpent, Chemise de maille magique (Armure +3), petit bouclier magique (Parade +2), bottes et cape elfes noires, symbole de Maëdra, potion de soins (soigne une Blessure), collier avec une rune (symbole de la Maison Kar’lothian), 125 po, un diamant de 5000 pa.
