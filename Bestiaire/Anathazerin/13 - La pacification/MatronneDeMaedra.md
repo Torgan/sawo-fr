@@ -37,4 +37,4 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes.
 - Chair à canon : peut décider 1 fois par tour qu’un allié à 2 cases ou moins subit une attaque à sa place.
 
 ### Équipement
-Chemise de mailles, masse serpent, arbalète légère, bottes et capes drows.
+Chemise de mailles, masse serpent, arbalète légère, bottes et cape elfes noires.
