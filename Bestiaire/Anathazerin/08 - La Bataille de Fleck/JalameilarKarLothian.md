@@ -13,6 +13,7 @@ Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 	7 (2)	5
 
 ### Capacités spéciales
+- Arcane : pouvoirs d'elfe noir, Âme d8, 5PP.
 - Arcane : Nécromancie d10, 20PP.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Mage : chaque relance sur le jet d'Arcane réduit le coût du Pouvoir de 1PP.
@@ -22,7 +23,7 @@ Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 ### Actions
 - Dague sacrificielle : Combat d6, d6+d4 + poison (-2, perte d'un niveau de Fatigue).
 - _Rafale_ (cône de froid) : Nécromancie d10, 2PP, Cône, Inst., 2d10.
-- _Ténèbres_ : Nécromancie d10, 2PP, Portée 10, 3 (1/rd).
+- _Ténèbres_ : Nécromancie d10 ou Âme d8, 2PP, Portée 10, 3 (1/rd).
 - _Terreur_ : Nécromancie d10, 2PP, 20, Inst.
 - _Zombie_ : Nécromancie d10, 3PP / corps, Portée 20.
 
