@@ -1,4 +1,4 @@
-# Huria Kar’lothian, prêtresse elfe noir
+# Huria Kar’lothian, prêtresse elfe noire
 
 Allure : 6
 Charisme : +2
@@ -14,6 +14,7 @@ Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes,
 	8 (2)	8 (3)
 
 ### Capacités spéciales
+- Arcane : pouvoirs d'elfe noir, Âme d10, 5PP.
 - Arcane : Foi d10, 20PP.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
@@ -26,7 +27,7 @@ Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes,
 - _Eclair_ : Foi d10, 1-3PP, 12/24/48, Inst, 2d6 ou 3d6.
 - _Enchevêtrement_ (toile d'araignée) : Foi d10, 3PP (1/rd), portée 8, Gabarit Moyen, Inst.
 - _Explosion_ : Foi d10, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.
-- _Ténèbres_ : Foi d10, 2PP, Portée 8, 3 (1/rd).
+- _Ténèbres_ : Foi d10 ou Âme d10, 2PP, Portée 8, 3 (1/rd).
 
 ### Équipement
 Masse-serpent, Chemise de maille magique (Armure +3), petit bouclier magique (Parade +2), bottes et cape elfes noires, symbole de Maëdra, potion de soins (soigne une Blessure), collier avec une rune (symbole de la Maison Kar’lothian), 125 po, un diamant de 5000 pa.
