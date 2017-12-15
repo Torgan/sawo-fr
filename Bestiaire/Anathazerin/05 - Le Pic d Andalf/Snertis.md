@@ -23,4 +23,4 @@ Atouts : Blocage, Commandement, Ferveur.
 - Arc court : Tir d8, 12/24/48, 2d6.
 
 ### Équipement
-Épée longue magique (Combat +1), deux dagues, arc court avec carquois de 12 flèches, chemise de maille, petit bouclier, anneau de protection (pouvoir _Deflexion_), potion de force de géant (_Augmentation de Trait (Force)_ de deux rangs pendant 3 rounds).
+Épée longue magique (Combat +1), deux dagues, arc court avec carquois de 12 flèches, chemise de mailles, petit bouclier, anneau de protection (pouvoir _Deflexion_), potion de force de géant (_Augmentation de Trait (Force)_ de deux rangs pendant 3 rounds).
