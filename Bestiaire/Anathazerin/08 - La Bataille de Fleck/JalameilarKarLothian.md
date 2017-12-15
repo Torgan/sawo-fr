@@ -27,4 +27,4 @@ Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 - _Zombie_ : Nécromancie d10, 3PP / corps, Portée 20.
 
 ### Équipement
-Dague sacrificielle (quand provoque Secoué ou plus, sa victime subit un niveau de Fatigue sur Échec de Vigueur -2), bracelets de défense (Grand blocage), bottes et capes drows, un livre de sorts, une potion d'_Intangibilité_ (3 rd), une baguette de cône de froid (_Rafale_), collier avec bâton cuivré (symbole de la Maison Eilserv), 25 pp, deux grenats de 500 pa chacun.
+Dague sacrificielle (quand provoque Secoué ou plus, sa victime subit un niveau de Fatigue sur Échec de Vigueur -2), bracelets de défense (Grand blocage), bottes et cape elfes noires, livre de sorts, potion d'_Intangibilité_ (3 rd), baguette de cône de froid (_Rafale_), collier avec bâton cuivré (symbole de la Maison Eilserv), 25 pp, deux grenats de 500 pa chacun.
