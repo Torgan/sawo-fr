@@ -23,4 +23,4 @@ Atouts : Arme fétiche, Costaud, Brute.
 - Arc court : Tir d6, 12/24/48, 2d6.
 
 ### Équipement
-Cotte de maille, épée à 2 mains, arc court, carquois avec 12 flèches, dague.
+Cotte de mailles, épée à 2 mains, arc court, carquois avec 12 flèches, dague.
