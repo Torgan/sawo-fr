@@ -25,4 +25,4 @@ Atouts : Contre-Attaque, Provocation, Volonté de Fer.
 - Provocation : peut accomplir une action de combat gratuite sans pénalité d’Actions Multiples suite à Sarcasmes réussit avec Relance.
 
 ### Équipement
-Chemise de maille, cimeterre (For+d8), arc court avec carquois de 12 flèches, dague.
+Chemise de mailles, cimeterre (For+d8), arc court avec carquois de 12 flèches, dague.
