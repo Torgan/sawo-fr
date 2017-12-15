@@ -27,4 +27,4 @@ Handicap : Arrogant, Brute, Cupide, Sale Caractère.
 - Hache de bataille : Combat d8, 2d8+1 (+1 sur Relance).
 
 ### Équipement
-Cotte de maille magique (Encaissement +1), épée bâtarde, hache de bataille, dague, potion de soins modérés (soigne 2 Blessures de moins d’une heure), bourse contenant 20 po, 15 pa et 21 pc, sac de 596 pa (fausses pièces).
+Cotte de mailles magique (Encaissement +1), épée bâtarde, hache de bataille, dague, potion de soins modérés (soigne 2 Blessures de moins d’une heure), bourse contenant 20 po, 15 pa et 21 pc, sac de 596 pa (fausses pièces).
