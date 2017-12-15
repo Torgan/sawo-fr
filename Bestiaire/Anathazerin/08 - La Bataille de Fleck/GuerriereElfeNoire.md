@@ -28,4 +28,4 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 - _Confusion_ : Âme d8, 1+PP, Portée 16, Inst.
 
 ### Équipement
-Chemise de mailles, 2 épées courtes, arbalète de poing, bottes et capes drows.
+Chemise de mailles, 2 épées courtes, arbalète de poing, bottes et cape elfes noires.
