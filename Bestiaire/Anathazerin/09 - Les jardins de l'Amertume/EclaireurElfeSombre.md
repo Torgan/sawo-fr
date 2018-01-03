@@ -15,6 +15,7 @@ Handicaps : Deux mains gauches, Prudent.
 	6	6 (1)
 
 ### Capacités spéciales
+- Arcane : pouvoirs d'elfe noir, Âme d6, 5PP.
 - Combatif : +2 pour annuler Secoué.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
@@ -22,6 +23,7 @@ Handicaps : Deux mains gauches, Prudent.
 - Arc long : Tir d10, 15/30/60, 2d6 + poison (-2).
 - Épée longue : Combat d8, 2d6.
 - Tireur d'élite : Tir +2 si pas de mouvement (Visée).
+- _Ténèbres_ : Âme d6, 2PP, Portée 6, 3 (1/rd).
 
 ### Équipement
 Armure de cuir, épée longue, arc long.
