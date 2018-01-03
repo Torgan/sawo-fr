@@ -26,4 +26,4 @@ Atouts : Assassin, Attaque à deux armes, Florentine, Résistance aux Arcanes.
 - _Ténèbres_ : Âme d6, 2PP, Portée 6, 3 (1/rd).
 
 ### Équipement
-Justaucorps de cuir, épée courte, arbalète légère, bottes et capes drows. 
+Justaucorps de cuir, épée courte, arbalète légère, bottes et cape elfes noires. 
