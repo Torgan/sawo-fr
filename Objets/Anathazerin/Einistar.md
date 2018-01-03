@@ -19,4 +19,4 @@ Si le porteur acccepte de le conduire à Anathazerin :
 - Cercle de la main : _Barrière_ (mur de Force)
 - Coup de poing : _Explosion_ (boule de feu)
 
-Si le porteur déplait à l'Enistar, il doit faire un jet de Vigueur toutes les 24h ou subir un niveau de Fatigue, le gant tombe si le personnage est Incapacité. Les niveaux de Fatigue reviennent alors au rythme d'un par heure.
+Si le porteur déplait à l'Einistar, il doit faire un jet de Vigueur toutes les 24h ou subir un niveau de Fatigue, le gant tombe si le personnage est Incapacité. Les niveaux de Fatigue reviennent alors au rythme d'un par heure.
