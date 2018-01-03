@@ -1,4 +1,4 @@
-# Prêtresse drow
+# Prêtresse elfe noire
 
 Allure : 6
 
@@ -31,4 +31,4 @@ Atouts : Arcanes (Miracles), Commandement, Résistance aux arcanes.
 - _Terreur_ : Foi d10, 2PP, Portée 8, Inst.
 
 ### Équipement
-Chemise de mailles, masse serpent, arbalète légère, bottes et capes drows.
+Chemise de mailles, masse serpent, arbalète légère, bottes et cape elfes noires.
