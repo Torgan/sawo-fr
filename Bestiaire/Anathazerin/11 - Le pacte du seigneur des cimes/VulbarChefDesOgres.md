@@ -22,4 +22,4 @@ Atouts : Blocage, Grand balayage.
 - _Frappe_ : Âme d6, 2PP, T, 3 (1/rd).
 
 ### Équipement
-Cotte de maille, Hache-tonnerre (For+d12, Combat +2, PA1, Parade -1, 2 Mains, Pouvoir _Frappe_, 10PP).
+Cotte de mailles, Hache-tonnerre (For+d12, Combat +2, PA1, Parade -1, 2 Mains, Pouvoir _Frappe_, 10PP).
