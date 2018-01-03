@@ -30,4 +30,4 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Ferveur, Inspiration, 
 - _Ténèbres_ : Âme d10, 2PP, Portée 8, 3 (1/rd).
 
 ### Équipement
-Chemise de mailles, 2 épées courtes, arbalète légère, bottes et capes drows.
+Chemise de mailles, 2 épées courtes, arbalète légère, bottes et cape elfes noires.
