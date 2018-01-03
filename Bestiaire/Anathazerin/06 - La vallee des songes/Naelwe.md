@@ -27,4 +27,4 @@ Handicap : Pacifiste (Mineur)
 - _Secours_ : Foi d10, 1PP, portée T, Inst.
 
 ### Équipement
-Arc long en bois de Guessandre (Force min. d6, réduit de 1 les malus de Portée), bâton magique (Combat +1), chemise de maille.
+Arc long en bois de Guessandre (Force min. d6, réduit de 1 les malus de Portée), bâton magique (Combat +1), chemise de mailles.
