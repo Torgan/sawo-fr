@@ -1,4 +1,4 @@
-# Expert en bouclier
+# Maître en bouclier
 
 - Prérequis : Vétéran, Expert en bouclier, Combat à deux armes, Combat d10+.
 
