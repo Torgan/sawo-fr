@@ -1,4 +1,4 @@
-# *Aved redal
+# * Aved redal
 
 Allure : 6
 Charisme : 0
