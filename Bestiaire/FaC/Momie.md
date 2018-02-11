@@ -1,10 +1,12 @@
-# *Momie 
+# * Momie 
 
 Les momies sont des morts-vivants dont les corps ont été déséchés et préservés. L'esprit est lié au corps grâce à de puissants rituels nécromantiques coonus uniquement de quelques prêtres élus. Vous poiuvez autoriser dans votre campagen une version plus puissante du pouvoir *Zombie* pour créer ces horreurs
-Momie gardienne
+
+## Momie gardienne
+
 Le type de momie le plus commun, ces créatures étaient des serviteurs et des soldats, placés dans les tombes pour les garder pour toute l'éternité.
 
-Allure : 4(+d4)
+Allure : 4 (+d4)
 
 	Agi	Âme	For	Int	Vig
 	d4	d10	d12+2	d6	d12
