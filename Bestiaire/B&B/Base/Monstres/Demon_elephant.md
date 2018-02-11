@@ -1,4 +1,4 @@
-# *Démon éléphant
+# * Démon éléphant
 
 Allure : 8
 
@@ -19,7 +19,5 @@ Compétences : Combat d8, Intimidation d8, Perception d8.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +5 : le Démon éléphant pèse plus de 3500 kg.
 
-
 ### Actions
 - Défenses : Combat d8, d6+d12+7.
-
