@@ -10,7 +10,7 @@ Compétences : Combat d6, Connaissance (Arcanes) d10, Intimidation d8, Perceptio
 
 Handicaps : Têtu, Cupide.
 
-Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pouvoir, Source de Pouvoir, Rituel de Permanence, Drain de l’Âme.
+Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pouvoir, Source de Pouvoir, Rituel de Lien, Drain de l’Âme.
 
 	PAR	RES
 	6 (1)	7 (1)
@@ -19,10 +19,8 @@ Atouts : Arcanes (Sorcellerie), Aura Terrifiante, Nouveau Pouvoir, Points de pou
 - Arcanes (Sorcellerie) : Sorcellerie d12, 25PP.
 - Rubis sanglant d’Azerkarnoth : Sorcellerie d6, 10PP.
 - Aura Impressionnante : Peut utiliser sa compétence Sorcellerie au lieu d’Intimidation
-- Corrompu par la Magie : Le corps et l’âme du Sorcier ont été souillés par son utilisation prolongée de la magie maléfique. Il a maintenant de longues griffes sombres (+1 dégâts sans arme) et son corps sent la décomposition. Il souffre de -2 en Charisme.
-- Rituel de Lien : Le Sorcier a lié de manière permanente un Esprit Tordu Joker à sa volonté. Cet individu agit comme le serviteur personnel et le garde du corps du Sorcier.
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
-- Rituel de permanence : bénéficie des effets d’un pouvoir adapté de manière permanente. Aved Redal a lié de manière permanente un Zombie sans tête à sa volonté. Cette créature sert de garde du corps et de serviteur personnel à Aved Redal.
+- Rituel de Lien : bénéficie des effets d’un pouvoir adapté de manière permanente. Aved Redal a lié de manière permanente un Zombie sans tête Joker à sa volonté. Cette créature sert de garde du corps et de serviteur personnel à Aved Redal.
 
 ### Actions
 - Bâton de sorcier : Combat d6+2, Parade +1, Allonge 1, 2 mains, d6+d4
