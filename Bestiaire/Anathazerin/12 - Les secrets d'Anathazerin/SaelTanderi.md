@@ -1,6 +1,6 @@
 # * Sael Tanderi, lieutenant lame-en-peine
 
-- Allure : 6+d6
+Allure : 6+d6
 
 	Agi	Âme	For	Int	Vig
 	d10	d10	d6	d6	d10
