@@ -1,7 +1,7 @@
 # * Xavor Zolledin, capitaine lame-en-peine
 
-- Allure : 6+d6
-- Charisme : +2
+Allure : 6+d6
+Charisme : +2
 
 
 	Agi	Âme	For	Int	Vig
