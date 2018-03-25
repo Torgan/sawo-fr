@@ -1,5 +1,5 @@
-# Élémentaire de l’Eau
-Les élémentaires de l’eau sont des esprits d’eau à forme humaine fait d’eau et d’écume.
+# Élémentaire d’Eau
+Les élémentaires d’eau sont des esprits d’eau à forme humaine fait d’eau et d’écume.
 
 Allure : 6, nage 12.
 

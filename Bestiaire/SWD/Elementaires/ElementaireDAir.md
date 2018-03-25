@@ -1,5 +1,6 @@
-# Élémentaire de l’air
-Les élémentaires de l’air se manifestent sous la forme d’un tourbillon d’air.
+# Élémentaire d’air
+
+Les élémentaires d’air se manifestent sous la forme d’un tourbillon d’air.
 
 Allure vol 6, montée 4. Ne peut courir.
 
