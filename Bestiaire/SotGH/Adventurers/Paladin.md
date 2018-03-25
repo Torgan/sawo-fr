@@ -1,5 +1,6 @@
 # Paladin
 Croisés divins ou fanatiques sadiques . Ces voyoux en armure ne montrent ni compassion ni remords alors qu’ils massacrent une famille de gobelin après l’autre.
+
 Allure : 6    
 
     Agi     me    For    Int    Vig

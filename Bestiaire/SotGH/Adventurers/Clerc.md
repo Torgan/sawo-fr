@@ -1,5 +1,6 @@
 # Clerc
 Des adorateurs fanatiques de dieux étranges, ces prêtres sont souvent plein de nerfs avec relativement peu de viande.
+
 Allure : 6    
 
     Agi    Âme    For    Int    Vig

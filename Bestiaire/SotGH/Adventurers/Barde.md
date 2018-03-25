@@ -1,6 +1,8 @@
 # Barde
 Ces musiciens vains aux vêtements bariolés n’ont pas d’utilité identifiable, mais ils chantent avec passion lorsqu’on approche d’eux une torche.
-Allure : 6    Charisme : +2
+
+Allure : 6    
+Charisme : +2
 
     Agi    Âme    For    Int    Vig
     d8    d8    d6    d6    d6

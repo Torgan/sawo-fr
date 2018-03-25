@@ -1,5 +1,6 @@
 # Barbare
 Ces grands guerriers musclés font d’effrayants adversaires en combat, et des mets consistants par après.
+
 Allure : 8
 
     Agi   Âme   For    Int   Vig

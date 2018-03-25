@@ -1,5 +1,6 @@
 # Magicien
 Certains humains trempent un peu dans les arts magiques, bien qu’ils n’aient pas le talent naturel dont disposent de nombreux gobelinoïdes.
+
 Allure : 6    
 
     Agi   Âme    For    Int    Vig

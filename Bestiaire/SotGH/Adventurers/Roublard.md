@@ -1,5 +1,6 @@
 # Roublard
 Voleurs et coupe-jarrets, les roublards sont généralement responsables de détecter et désamorcer tous les pièges que les gobelins ont disposés pour protéger leurs maisons et leurs enfants.
+
 Allure : 6    
 
     Agi   Âme   For   Int   Vig
