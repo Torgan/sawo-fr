@@ -21,7 +21,7 @@ Atouts : Ambidextre, Combat à deux armes, Commandement, Cyclone, Ferveur, Frén
 
 ### Actions
 - Katanas : Combat d10/d10/d10, PA2, d12+d6+5 (dégâts +1d6 de Feu, peut enflammer / +1 Fatigue (Froid) sur Échec de  Vigueur -2).
-- Cyclone : movement avec gabarit de cône. Attaque à d10-2 contre chaque cible dans la zone. d12+d6+5 (dégâts +1d6 de Feu, peut enflammer) ou d12+d6+5 (+1 Fatigue (Froid) sur Échec de  Vigueur -2).
+- Cyclone : mouvement avec gabarit de cône. Attaque à d10-2 contre chaque cible dans la zone. d12+d6+5 (dégâts +1d6 de Feu, peut enflammer) ou d12+d6+5 (+1 Fatigue (Froid) sur Échec de  Vigueur -2).
 - _Eclair_ (Électricité) : Magie d10, 1-3PP, 12/24/48, Inst.
 - _Invisibilité_ : Magie d12, PP — (à volonté), portée P, 3 (1/rd).
 - _Intangibilité_ : Magie d12, 5PP, portée T, 3 (2/rd).
