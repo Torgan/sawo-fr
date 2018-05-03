@@ -8,6 +8,6 @@ Un personnage ne peut faire d’action gratuite durant un round où il utilise c
 
 # Cyclone 
 
-Prérequis : Légendaire, Combat d10+, Grande Extraction, Tornade.
+- Prérequis : Légendaire, Combat d10+, Grande Extraction, Tornade.
 
 Comme pour l'Atout Tornade, mais les attaques se font à -2.
