@@ -12,7 +12,7 @@ Compétences : Combat d8, Intimidation d8, Perception d4.
 	6	11 (3)
 
 ### Capacités spéciales
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions

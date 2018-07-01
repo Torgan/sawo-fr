@@ -12,7 +12,7 @@ Compétences : Combat d8, Perception d4.
 
 ### Capacités spéciales
 - Infatigable : ne peut pas perdre de niveaux de Fatigue.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - Résistance aux dégâts : Résistance +3.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Terreur (0) : impose un test de Terreur aux témoins.

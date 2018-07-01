@@ -59,7 +59,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Immatériel : immunisé aux attaques non magiques.
 - Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - Petit : attaque adverse -2 si en mouvement.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
 - Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu.
