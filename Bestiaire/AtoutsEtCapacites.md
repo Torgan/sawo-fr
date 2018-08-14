@@ -14,11 +14,11 @@
 - Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Fracassement : PA +1 pour Combat, +2 sur Relance.
-- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
+- Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.
 - Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
 - Florentine : Combat (+1) contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - Grand balayage : attaque toute cible adjacente.
 - Grande contre-attaque : attaque gratuite par Round sur un ennemi ayant Échec en Combat.
 - Grand fracassement : PA +2 pour Combat, +4 sur Relance.
