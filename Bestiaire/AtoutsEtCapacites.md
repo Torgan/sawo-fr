@@ -3,12 +3,13 @@
 - Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
 - Amazone : Parade +1, attaque gratuite sur 1 en Combat adverse. Uniquement contre des hommes.
 - Assassin : dégâts +2 contre une cible surprise.
-- Balayage : attaque (-2) toute cible adjacente.
+- Balayage : attaque -2 toute cible adjacente.
+- Brave : +2 aux jets de Terreur.
 - Brute : dégâts +1 sur Succès en Combat, +2 sur Relance.
 - Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Contre-attaque : attaque gratuite (-2) par Round sur un ennemi ayant Échec en Combat.
-- Drain de l’âme : peut tenter Âme (-X), si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
+- Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec en Combat.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
 - Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
@@ -16,7 +17,7 @@
 - Fracassement : PA +1 pour Combat, +2 sur Relance.
 - Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.
 - Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
-- Florentine : Combat (+1) contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
+- Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
 - Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
 - Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - Grand balayage : attaque toute cible adjacente.
@@ -28,12 +29,13 @@
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 - Nerfs d’acier : annule 1 point de malus de Blessure.
+- Panache : Trait +2 en dépensant un Jeton, Encaissement inclus.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance en Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
-- Tireur d'élite : Tir (+2) si pas de mouvement (Visée).
+- Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 - Tueur d'orques : dégâts +d6 contre les orques.
 - Tueur de géants : dégâts +d6 contre les grandes créatures (Taille +3).
 - Vif : Défausse les cartes d'Initiative de 5 ou moins.
@@ -53,14 +55,14 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Énorme : attaque adverse +4.
 - Faiblesse (Feu) : subit dégâts x2.
 - Faiblesse (Froid) : subit dégâts x2.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir (-2) à plus de 5 cases).
+- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
 - Grand : attaque adverse +2.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Immatériel : immunisé aux attaques non magiques.
 - Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
-- Petit : attaque adverse (-2) si en mouvement.
+- Petit : attaque adverse -2 si en mouvement.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
 - Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque Round. Ne fonctionne pas pour les Blessures de feu.
 _Remarque : la régénération rapide de l'hydre est spécifique._
