@@ -13,7 +13,7 @@ Atouts : Combatif.
 	7	7 (1)
 
 ### Capacités spéciales
-- Combatif : +2 pour annuler Secoué.
+- Combatif : +2 pour récupérer d’un état Secoué.
 
 ### Actions
 - Épée longue : Combat d8, 2d8.

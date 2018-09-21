@@ -13,7 +13,7 @@ Atouts : Costaud, Commandement, Contre-attaque, Ferveur, Frappe éclair, Grande 
 	8 (1)	11 (2)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 10 cases.
 - Taille +1.
@@ -24,6 +24,6 @@ Atouts : Costaud, Commandement, Contre-attaque, Ferveur, Frappe éclair, Grande 
 
 ### Réactions
 - Contre-Attaque : attaque gratuite par round à -2 contre un adversaire ayant raté son attaque.
-- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
+- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
 ### Équipement
 Cotte de mailles, Tranchegrand — hache de bataille magique (For+d8+2, +d6 contre les créatures Grandes et plus), Bouclier en bois.

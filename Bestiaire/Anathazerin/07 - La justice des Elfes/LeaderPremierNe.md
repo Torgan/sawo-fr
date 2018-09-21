@@ -14,13 +14,13 @@ Atouts : Ambidextre, Blocage, Combat à deux armes, Combatif, Frappe éclair.
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Combatif : +2 pour annuler Secoué.
+- Combatif : +2 pour récupérer d’un état Secoué.
 
 ### Actions
 - Arc long : Tir d10, 12/24/48, 2d6.
 - Épée elfique et épée courte : Combat d10/d10, Parade +1, d8+d6/d8+d6.
 
 ### Réaction 
-- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
+- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
 ### Équipement
 Armure de cuir, épée elfique, épée courte, arc court.

@@ -16,7 +16,7 @@ Atouts : Amazone, Charismatique, Commandement, Séduisant.
 ### Capacités spéciales
 - Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.
 - Armure +2 : peau épaisse.
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Grand : attaque adverse +2.
 - Taille +4.
 

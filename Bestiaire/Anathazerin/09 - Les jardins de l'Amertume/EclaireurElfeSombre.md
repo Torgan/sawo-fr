@@ -16,7 +16,7 @@ Handicaps : Deux mains gauches, Prudent.
 
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d6, 5PP.
-- Combatif : +2 pour annuler Secoué.
+- Combatif : +2 pour récupérer d’un état Secoué.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions

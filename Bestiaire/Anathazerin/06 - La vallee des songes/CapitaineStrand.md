@@ -16,7 +16,7 @@ Atouts : Blocage, Charismatique, Commandement, Esquive, Leader naturel, Frénés
 
 ### Capacités spéciales
 
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 
 ### Actions

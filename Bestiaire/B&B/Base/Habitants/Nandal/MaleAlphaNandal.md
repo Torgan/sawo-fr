@@ -22,7 +22,7 @@ Atouts : Brute, Frénésie, Grand Balayage.
 ### Actions
 - Gourdin : Combat d8, d10+d8+2.
 - Pierres : Lancer d6, Portée 3/6/12, d10+d4
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
 - Grand Balayage : Attaque tous les adversaires adjacents
 
 ### Équipement

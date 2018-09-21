@@ -15,7 +15,7 @@ Atouts : Commandement, Charismatique, Esquive, Frappe foudroyante, Panache.
 	9 (2)	10[+2] (3)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Esquive : inflige -1 aux attaques à distance.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Odorat : +2 aux jets de Perception et de Pistage grâce à un odorat développé.

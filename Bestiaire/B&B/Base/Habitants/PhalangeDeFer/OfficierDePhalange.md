@@ -14,7 +14,7 @@ Atouts : Commandement, Noble.
 	7	7 (2)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Entraînement variable : Les compétences d’un Officier de Phalange doivent subir l’épreuve du feu. A moins qu’il ne soit un Officier Vétéran, la première fois qu’un officier est impliqué dans un combat de masse, le Maître du Jeu devrait tirer un carte du Paquet d’Action pour déterminer les compétences réelles d’un Officier de Phalange (voir encart)
 
 ### Actions

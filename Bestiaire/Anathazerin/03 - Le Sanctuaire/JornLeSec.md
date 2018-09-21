@@ -14,7 +14,7 @@ Atouts : Commandement, Nerfs d’acier.
 	6	7 (1)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Nerfs d’acier : annule 1 point de malus de Blessure.
 
 ### Actions

@@ -15,7 +15,7 @@ Atouts : Combatif (drogues anti-douleur).
 	6	6 (1)
 
 ### Capacités spéciales
-- Combatif : +2 pour annuler Secoué.
+- Combatif : +2 pour récupérer d’un état Secoué.
 - Esprit drogué : Le régime alimentaire journalier d’un Soldat Esclave consiste en un mélange de riz et de viande ou de poisson, la bouillie d’esclave, agrémentée de Khav et d’autres types de Lotus qui le rendent très obéissant. Toutefois, s’il ne peut obtenir de la nourriture droguée pendant une semaine, il devient rebelle, très à cran et sauvage, recevant -2 aux tests de Terreur, comme avec le Handicap Couard.
 - Faible Moral : Les Soldats Esclaves tricarniens ne sont pas connus pour leur courage au combat. A chaque fois qu’un groupe de Soldats Esclaves Extra tire un deux comme Carte d’Action et qu’ils n’ont pas un avantage flagrant (c.a.d. qu’ils ne sont pas beaucoup plus nombreux que leurs adversaires) ou qu’ils ne sont pas dans le rayon de Commandement d’un Contre-maître Eunuque, ils doivent faire un jet
 

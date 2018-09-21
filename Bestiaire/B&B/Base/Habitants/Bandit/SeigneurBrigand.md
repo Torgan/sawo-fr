@@ -15,7 +15,7 @@ Atouts : Blocage, Commandement, Nerfs d’acier trempé, Tête Froide, Leader na
 	9	8 (2)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 - Nerfs d’acier trempé : Ignore 2 point de malus lié aux Blessures.
 - Spécialiste de l’embuscade : Les brigands sont des maîtres pour attraper leurs victimes par surprise. S’ils ont le temps de préparer une embuscade et qu’ils sont sur leur territoire, avant que le combat ne commence, tirez une carte du Paquet d’Action pour chaque groupe de dix Brigands dans la Bande et mettez-la à l’écart. Au début de chaque round, vous pouvez décider de défausser la Carte d’Action que les brigands piochent et la remplacer par l’une des cartes mises de coté.

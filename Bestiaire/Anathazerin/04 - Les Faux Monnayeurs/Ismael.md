@@ -21,6 +21,6 @@ Atouts : Blocage, Esquive, Frappe éclair, Voleur.
 - Dague : Combat d8, d6+d4+1.
 
 ### Réactions
-- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
+- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
 ### Équipement
 Armure de cuir clouté, dague magique (For+d4+1), bourse contenant 53 pa et 59 pc, vêtements sombres, outils de voleur.

@@ -14,7 +14,7 @@ Compétences : Combat d8, Intimidation d10, Lancer d6, Natation d6, Perceptio
 
 ### Capacités spéciales
 - Armure +1 : peau caoutchouteuse.
-- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu.
+- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque Round. Ne fonctionne pas pour les Blessures de feu.
 - Taille +2.
 
 ### Actions

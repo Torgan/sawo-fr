@@ -19,4 +19,4 @@ Compétences : Combat d6, Perception d12+2.
 
 ### Actions
 - Bec/griffes : Combat d6, d12+d6.
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.

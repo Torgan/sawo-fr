@@ -15,7 +15,7 @@ Atout : Ambidextre, Attaque à deux armes, Commandement, Charismatique, Esquive,
 	7	9
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Esquive : inflige -1 aux attaques à distance.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Immatériel : immunisé aux attaques non magiques.

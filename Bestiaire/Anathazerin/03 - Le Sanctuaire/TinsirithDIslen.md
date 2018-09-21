@@ -15,16 +15,16 @@ Atouts : Commandement, Contre-attaque, Ferveur, Frénésie.
 	6	7 (2)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 
 ### Actions
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
 - Vivelame : Combat d10, PA2, d8+d6+2.
 - Arc long : Tir d8, 15/30/60, 2d6
 
 ### Réactions
-- Contre-attaque : attaque gratuite à -2 sur un ennemi par round ayant Échec de Combat.
+- Contre-attaque : attaque gratuite à -2 contre un adversaire par Round ayant raté son attaque de mêlée.
 
 ### Équipement
 Chemise de mailles en mythral, Vivelame, Arc long, cape et bottes elfes (Discrétion +2).

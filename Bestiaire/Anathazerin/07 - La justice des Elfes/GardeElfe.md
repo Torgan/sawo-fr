@@ -16,7 +16,7 @@ Handicaps : Deux mains gauches.
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Combatif : +2 pour annuler Secoué.
+- Combatif : +2 pour récupérer d’un état Secoué.
 - Protéger : au prix d'une action peut faire benéficier un allié à 1 case du bonus de son bouclier à sa place.
 
 ### Actions

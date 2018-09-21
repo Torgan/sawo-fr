@@ -23,5 +23,5 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
 - Coup drainant : Combat d8, d12+d8+4. Si Secoue ou Blesse +1 Fatigue sur Échec de Vigueur -2 et le sylvanien récupère 1 Blessure. La Fatigue se récupère en 24h.

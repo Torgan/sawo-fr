@@ -15,7 +15,7 @@ Atouts : Forestier, Tireur d'élite, Vigilance.
 	5       6 (1)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 
 ### Actions

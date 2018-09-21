@@ -14,7 +14,7 @@ Atouts : Ambidextre, Combat à deux armes, Combatif.
 
 ### Capacités spéciales
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
-- Combatif : +2 pour annuler Secoué.
+- Combatif : +2 pour récupérer d’un état Secoué.
 
 ### Actions
 - Arc court : Tir d8, 12/24/48, 2d6.

@@ -13,7 +13,7 @@ Atout : Commandement, Esquive, Frappe éclair, Frénésie.
 	7	9
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Esquive : inflige -1 aux attaques à distance.
 - Immatériel : immunisé aux attaques non magiques.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
@@ -21,7 +21,7 @@ Atout : Commandement, Esquive, Frappe éclair, Frénésie.
 
 ### Actions
 - Toucher vampirique : Combat d10+2, inflige +1 Fatigue (Absorption d'énergie) sur Succès d'Âme contre Vigueur, +2 Fatigue (Absorption d'énergie) sur Relance, se soigne 1 Blessure par Fatigue infligée.
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
 
 ### Réaction
-- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
+- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.

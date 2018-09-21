@@ -13,12 +13,12 @@ Atouts : Commandement, Frénésie, Leader naturel.
 	8 (1)	8 (1)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 
 ### Actions
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
 - Étoile du matin : Combat d10, d10+d8.
 - Arbalète : Tir d10, 15/30/60, CdT 1/2, PA2, 2d6.
 

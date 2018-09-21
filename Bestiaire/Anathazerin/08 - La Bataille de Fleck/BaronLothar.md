@@ -15,7 +15,7 @@ Atouts : Blocage, Costaud, Commandement, Grand balayage, Leader naturel, Noble.
 	8 (-1)	11 (3)
 
 ### Capacités spéciales
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 
 ### Actions

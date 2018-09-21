@@ -21,6 +21,6 @@ Atouts : Forestier, Frappe éclair.
 - Arc court : Tir d10, 12/24/48, 2d6.
 
 ### Réaction
-- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
+- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
 ### Équipement
 Armure de cuir, épée courte, arc court.

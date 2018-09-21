@@ -15,7 +15,7 @@ Atouts : Combatif, Distraction.
 	7	7 (1)
 
 ### Capacités spéciales
-- Combatif : +2 pour annuler Secoué.
+- Combatif : +2 pour récupérer d’un état Secoué.
 - Gladiateur : S’il réussit un test d’Intimidation contre un adversaire adjacent, il reçoit une attaque de Combat gratuite. Cette attaque ne subit pas de pénalité due aux Actions Multiples.
 - Haranguer la foule : Une fois par combat dans l’arène, le Gladiateur peut faire un jet de Sarcasme en opposition, modifié par son Charisme, pour exciter la foule. Cela compte comme une action et le gagnant reçoit immédiatement un Jeton.
 
