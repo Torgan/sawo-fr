@@ -4,23 +4,24 @@
 - Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.
 - Assassin : dégâts +2 contre une cible surprise.
 - Balayage : attaque toute cible adjacente à -2.
+- Brave : +2 aux jets de Terreur.
 - Brute : dégâts +1 sur Succès de Combat, +2 sur Relance.
-- Combatif : +2 pour annuler Secoué.
-- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Contre-attaque : attaque gratuite à -2 sur un ennemi par round ayant Échec de Combat.
+- Combatif : +2 pour récupérer d’un état Secoué.
+- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Contre-attaque : attaque gratuite à -2 contre un adversaire par Round ayant raté son attaque de mêlée.
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
 - Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Fracassement : PA +1 pour Combat, +2 sur Relance.
-- Frappe éclair : attaque gratuite sur un ennemi par round arrivant au contact.
+- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
 - Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
 - Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du round.
+- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
 - Frénésie suprême : peut faire une attaque de Combat supplémentaire.
 - Grand balayage : attaque toute cible adjacente.
-- Grande contre-attaque : attaque gratuite sur un ennemi par round ayant Échec de Combat.
+- Grande contre-attaque : attaque gratuite sur un ennemi par Round ayant raté son attaque de mêlée.
 - Grand fracassement : PA +2 pour Combat, +4 sur Relance.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
@@ -28,6 +29,7 @@
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 - Nerfs d’acier : annule 1 point de malus de Blessure.
+- Panache : +2 en cas d’utilisation de Jeton pour un jet de Trait (jet d’Encaissement inclus).
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
@@ -62,7 +64,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
 - Petit : attaque adverse -2 si en mouvement.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
-- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque round. Ne fonctionne pas pour les Blessures de feu.
+- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque Round. Ne fonctionne pas pour les Blessures de feu.
 _Remarque : la régénération rapide de l'hydre est spécifique._
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille [+-]X.
