@@ -14,7 +14,7 @@ Atouts : Combatif, Commandement, Contre-attaque, Frénésie, Grand blocage, Vigi
 	11 (2)	10[+2] (3)
 
 ### Capacités spéciales
-- Combatif : +2 pour récupérer d’un état Secoué.
+- Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 
 ### Actions

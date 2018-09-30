@@ -15,7 +15,7 @@ Handicaps : Prudent.
 	6	7 (1)
 
 ### Capacités spéciales
-- Combatif : +2 pour récupérer d’un état Secoué.
+- Combatif : +2 pour annuler Secoué.
 - Tueur d'orques : dégâts +d6 contre les orques.
 - Tueur de géants : dégâts +d6 contre les grandes créatures (Taille +3).
 

@@ -16,7 +16,7 @@ Atouts : Charismatique, Combatif, Commandement, Frénésie.
 
 ### Capacités spéciales
 
-- Combatif : +2 pour récupérer d’un état Secoué.
+- Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 
 ### Actions
