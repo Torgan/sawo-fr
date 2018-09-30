@@ -34,7 +34,7 @@ Atouts : Arcane (Miracles), Brave, Champion, Combatif, Coriace, Frappe foudroyan
 
 ### Réaction
 - Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
-- Grande contre-attaque : attaque gratuite par Round sur un ennemi ayant Échec en Combat.
+- Grande contre-attaque : attaque gratuite par Round sur un ennemi ayant Échec de Combat.
 
 ### Équipement
 

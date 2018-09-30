@@ -24,6 +24,6 @@ Atouts : Commandement, Contre-attaque, Ferveur, Frénésie.
 - Arc long : Tir d8, 15/30/60, 2d6
 
 ### Réactions
-- Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec en Combat.
+- Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec de Combat.
 ### Équipement
 Chemise de mailles en mythral, Vivelame, Arc long, cape et bottes elfes (Discrétion +2).
