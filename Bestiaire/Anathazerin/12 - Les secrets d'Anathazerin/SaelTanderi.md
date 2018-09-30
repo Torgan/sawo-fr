@@ -13,7 +13,7 @@ Atout : Commandement, Esquive, Frappe éclair, Frénésie.
 	7	9
 
 ### Capacités spéciales
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Esquive : inflige -1 aux attaques à distance.
 - Immatériel : immunisé aux attaques non magiques.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.

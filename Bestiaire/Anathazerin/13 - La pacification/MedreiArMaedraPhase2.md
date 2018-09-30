@@ -15,7 +15,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 ### Capacités spéciales
 - Armure +4.
 - Arcane : Foi d12+2, 30PP.
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Énorme : attaque adverse +4.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.

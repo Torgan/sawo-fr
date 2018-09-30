@@ -15,7 +15,7 @@ Atouts : Ambidextre, Combat à deux armes, Commandement, Cyclone, Ferveur, Frén
 
 ### Capacités spéciales
 - Arcane : Magie d12, 40PP.
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Grande extraction : empêche une attaque ennemie sur une retraite avec un jet d’Agilité, et toutes les attaques sur Relance.
 - Taille +3.

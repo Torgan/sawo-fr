@@ -14,7 +14,7 @@ Atouts : Charismatique, Commandement, Costaud, Ferveur.
 	7 (-1)	9
 
 ### Capacités spéciales
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Taille +1.
 

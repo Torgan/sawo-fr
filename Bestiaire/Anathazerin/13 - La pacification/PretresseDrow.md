@@ -15,7 +15,7 @@ Atouts : Arcanes (Miracles), Commandement, Résistance aux arcanes.
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d10, 10PP.
 - Arcane : prêtresse de Maëdra, Foi d10, 25PP.
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.

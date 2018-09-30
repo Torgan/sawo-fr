@@ -17,7 +17,7 @@ Atouts : Charismatique, Combatif, Commandement, Frénésie.
 ### Capacités spéciales
 
 - Combatif : +2 pour annuler Secoué.
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 
 ### Actions
 - Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.

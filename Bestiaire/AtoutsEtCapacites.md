@@ -7,7 +7,7 @@
 - Brave : +2 aux jets de Terreur.
 - Brute : dégâts +1 sur Succès de Combat, +2 sur Relance.
 - Combatif : +2 pour annuler Secoué.
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec en Combat.
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.

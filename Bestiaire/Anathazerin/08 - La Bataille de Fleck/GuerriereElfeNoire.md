@@ -16,7 +16,7 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 - Arcane : pouvoirs d'elfe noir, Âme d8, 5PP.
 - Ambidextre : ignore le malus de -2 pour la main non directrice.
 - Combat à deux armes : peut attaquer avec une arme dans chaque main sans subir le malus d’Actions multiples.
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.

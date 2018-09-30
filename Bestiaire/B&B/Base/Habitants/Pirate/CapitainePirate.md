@@ -16,7 +16,7 @@ Atouts : Ambidextre, Commandement, Combat à deux armes.
 	7	7 (1)
 
 ### Capacités spéciales
-- Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
+- Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Né sur le Pont : Comme ses hommes, il est doué pour risquer sa vie en abordant des navires ennemis. Il reçoit +1 aux Ruses en combattant sur un bateau.
 
 ### Actions
