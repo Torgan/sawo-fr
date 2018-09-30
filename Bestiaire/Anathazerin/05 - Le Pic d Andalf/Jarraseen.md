@@ -13,7 +13,7 @@ Atout : Extraction.
 	6	5
 
 ### Capacités spéciales
-- Extraction : en cas retraite, évite 1 attaque gratuite sur Succès d’Agilité.
+- Extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d’Agilité.
 
 ### Actions
 - Tir rapide : Jarraseen peut faire deux attaques à l'arc à -2 par round.

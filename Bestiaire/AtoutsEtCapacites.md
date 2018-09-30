@@ -13,7 +13,7 @@
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
 - Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
-- Extraction : en cas retraite, évite 1 attaque gratuite sur Succès d’Agilité.
+- Extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d’Agilité.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Fracassement : PA +1 pour Combat, +2 sur Relance.
 - Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.
