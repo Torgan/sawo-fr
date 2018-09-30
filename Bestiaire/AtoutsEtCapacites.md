@@ -13,6 +13,7 @@
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
 - Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
+- Extraction : en cas retraite, évite 1 attaque gratuite sur Succès d’Agilité.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Fracassement : PA +1 pour Combat, +2 sur Relance.
 - Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.
@@ -23,6 +24,7 @@
 - Grand balayage : attaque toute cible adjacente.
 - Grande contre-attaque : attaque gratuite par Round sur un ennemi ayant Échec de Combat.
 - Grand fracassement : PA +2 pour Combat, +4 sur Relance.
+- Grande extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d'Agilité, toutes sur Relance.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec en Âme, +1 Blessure sur 1 au jet.
 - Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec en Âme, +1 Blessure sur 1 au jet.

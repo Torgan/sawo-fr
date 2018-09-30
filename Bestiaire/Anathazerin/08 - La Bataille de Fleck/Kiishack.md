@@ -13,7 +13,7 @@ Atout : Grande extraction.
 	5	4
 
 ### Capacités spéciales 
-- Grande extraction : empêche une attaque ennemie sur une retraite avec un jet d’Agilité, et toutes les attaques sur Relance.
+- Grande extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d'Agilité, toutes sur Relance.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Taille -1.
 
