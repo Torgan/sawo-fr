@@ -14,7 +14,7 @@ Compétences : Combat d8, Connaissance (Arcanes) d12+2, Intimidation d12, Magi
 
 ### Capacités spéciales
 - Arcanes : Magie d12, 50PP. Connaît tous les sorts disponibles, peut-être même des sorts uniques. Les sorts suivant sont un assortiment classique, en ajouter au besoin.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 
 ### Actions
 - Toucher de la Mort : Combat d8+2, Attaque de toucher, 1 blessure par Relance.

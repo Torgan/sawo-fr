@@ -17,7 +17,7 @@ Handicap : Arrogant, Brute, Cupide, Sale Caractère.
 ### Capacités spéciales
 - Encaissement (Armure) : +1 à tous les jets d’Encaissement.
 - Esquive : inflige -1 aux attaques à distance.
-- Nerfs d’acier : annule 1 point de malus de Blessure.
+- Nerfs d’acier : annule 1 point de malus de Blessures.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 
 ### Actions

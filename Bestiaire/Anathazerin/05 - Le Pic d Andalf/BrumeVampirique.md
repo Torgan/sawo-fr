@@ -12,7 +12,7 @@ Compétences : Discrétion d12+2, Perception d6.
 
 ### Capacités spéciales
 - Immunités : la brume vampirique est immunisé aux attaques normales. Les attaques magiques les affectent normalement.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Résistance à la magie : Armure +2 contre la magie, et +2 aux jets pour résister aux effets magiques.
 
 ### Actions

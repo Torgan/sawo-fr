@@ -13,7 +13,7 @@ Compétences : Combat d6, Discrétion d10, Perception d8, Tir d8.
 ### Capacités spéciales
 - Armure +2 : armure naturelle.
 - Faiblesse : les dégâts des attaques de feu sont doublés.
-- Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessure.
+- Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessures.
 
 ### Actions
 - Griffes : Combat d6, d6+d4.

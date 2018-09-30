@@ -14,7 +14,7 @@ Compétences : Combat d10, Intimidation d12, Lancer d8, Natation d8, Percep
 
 ### Capacités spéciales
 - Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Point faible (eau bénite) : +1 Fatigue si aspergé, se consumme si immergé (cf. lumière du soleil).
 - Point faible (invité) : ne peut pénétrer un lieu privée sans y être invité.
 - Point faible (lumière du soleil) : dégâts 2d10/rd (Feu) sans armure quand la peau est exposée aux rayons du soleil.

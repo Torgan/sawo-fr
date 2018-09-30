@@ -12,7 +12,7 @@ Compétences : Combat d8, Intimidation d10, Lancer d6, Natation d6, Perceptio
 
 ### Capacités spéciales
 - Armure +1 : peau caoutchouteuse.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Régénération rapide : peut tenter un jet de guérison naturelle à chaque round sauf si les blessures sont causées par le feu ou les flammes.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +2.

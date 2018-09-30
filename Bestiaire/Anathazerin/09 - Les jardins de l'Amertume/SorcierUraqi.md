@@ -17,7 +17,7 @@ Atouts : Arcane (Magie), Drain de l'Âme.
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Immunité : immunisé au feu, à l'acide et aux capacités affectant les morts-vivants (comme l'Atout Guerrier Saint). Cette capacité est perdue si la Pierre de Mort est détruite.
 - Immortel : n’est pas détruit quand hors combat mais chassé et se reconstitue en 24 heures. Cette capacité est perdue si la Pierre de Mort est détruite.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions

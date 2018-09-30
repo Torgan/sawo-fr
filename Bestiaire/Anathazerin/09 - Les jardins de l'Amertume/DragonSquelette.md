@@ -14,7 +14,7 @@ Compétences : Combat d10, Intimidation d12, Perception d12.
 - Armure +4 : écailles.
 - Cloué au sol : ses ailes squelettiques ne permettent pas au dragon squelette de voler.
 - Énorme : attaque adverse +4.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Taille +8.
 - Terreur (-2) : impose un test de Terreur aux témoins.

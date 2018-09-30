@@ -15,7 +15,7 @@ Compétences : Combat d6, Perception d10, Tir d8.
 ### Capacités spéciales
 - Armure +4.
 - Capteurs sensoriels : les sentinelles sont équipées de capteurs de détection, leur permettant de diviser par deux les malus liés à l’obscurité et de détecter ou d’enregistrer les sons.
-- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions

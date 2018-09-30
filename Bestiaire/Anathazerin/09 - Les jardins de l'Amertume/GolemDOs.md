@@ -12,7 +12,7 @@ Compétences : Combat d10, Perception d4.
 
 ### Capacités spéciales
 - Armure +3 : construction d'ossements.
-- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux pouvoirs.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +2.

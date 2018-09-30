@@ -15,7 +15,7 @@ Atouts : Combat à deux armes, Expert en bouclier, Frénésie suprême, Nerfs d�
 ### Capacités spéciales
 - Taille +1.
 - Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
-- Nerfs d’acier : annule 1 point de malus de Blessure.
+- Nerfs d’acier : annule 1 point de malus de Blessures.
 
 ### Actions
 - Combat à deux armes : Peut attaquer avec une arme dans chaque main sans subir le malus d’Actions multiples.

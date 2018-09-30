@@ -17,7 +17,7 @@ Handicaps : Cupide (mineur), Loyal.
 ### Capacités spéciales
 - Brave : +2 aux jets de Terreur.
 - Combatif : +2 pour annuler Secoué.
-- Nerfs d’acier : annule 1 point de malus de Blessure.
+- Nerfs d’acier : annule 1 point de malus de Blessures.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions

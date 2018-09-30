@@ -13,7 +13,7 @@ Compétences : Combat d6, Intimidation d6, Perception d4, Tir d6.
 	5	7
 
 ### Capacités spéciales
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Point faible (la tête) :  toucher un zombi à la tête provoque +2 de dégâts.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 

@@ -15,7 +15,7 @@ Atouts : Blocage, Frappe éclair, Frénésie.
 ### Capacités spéciales
 - Immunité : immunisé au feu, à l'acide et aux capacités affectant les morts-vivants (comme l'Atout Guerrier Saint). Cette capacité est perdue si la Pierre de Mort est détruite.
 - Immortel : n’est pas détruit quand hors combat mais chassé et se reconstitue en 24 heures. Cette capacité est perdue si la Pierre de Mort est détruite.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 
 ### Actions

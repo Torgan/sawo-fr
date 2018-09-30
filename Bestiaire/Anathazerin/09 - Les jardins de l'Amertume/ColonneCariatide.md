@@ -12,7 +12,7 @@ Compétences : Combat d6, Perception d4.
 
 ### Capacités spéciales
 - Armure +2 : construction de pierre.
-- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessure.
+- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Immunité (magie) : immunisé à la magie. 
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 
