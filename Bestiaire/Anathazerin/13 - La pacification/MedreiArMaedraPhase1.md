@@ -25,7 +25,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 ### Actions
 - Piqûre : Combat d10, d12+d6 + poison (-4, inconscience).
 - Épée longue vampirique : Combat d10, d12+d8, se soigne 1 Blessures par Blessure infligée.
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - _Dépeçage_ (injonction mortelle) : Foi d12+2, 5PP, 8, Inst.
 - _Eclair_ (rayon vampirique) : Foi d12+2, 1-3PP, 12/24/48, Inst, se soigne 1 Blessures par Blessure infligée.
 - _Explosion_ (feu ou électricité) : Foi d12+2, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.

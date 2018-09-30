@@ -22,7 +22,7 @@ Atouts : Blocage, Commandement, Nerfs d’acier trempé, Tête Froide, Leader na
 - Tête Froide : Agit sur la meilleure de deux cartes en combat.
 
 ### Actions
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Épée longue en fer : Combat d10, 2d8
 - Arc : Tir d8, 12/24/48, 2d6
 

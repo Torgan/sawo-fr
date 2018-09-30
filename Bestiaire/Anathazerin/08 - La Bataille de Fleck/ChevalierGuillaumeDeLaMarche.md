@@ -18,7 +18,7 @@ Atouts : Combatif, Commandement, Contre-attaque, Frénésie, Grand blocage, Vigi
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 
 ### Actions
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
+- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
 - Épée longue : Combat d10, d10+d8.
 
 ### Réactions

@@ -19,13 +19,13 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 - Énorme : attaque adverse +4.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
-- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque Round. Ne fonctionne pas pour les Blessures de feu. 
+- Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque Round. Ne fonctionne pas pour les Blessures de feu.
 - Taille +6.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 
 ### Actions
 - Piqure : Combat d10, d12+d6+3 + poison (-4, inconscience).
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - _Dépeçage_ (injonction mortelle) : Foi d12+2, 5PP, 10, Inst.
 - _Eclair_ (rayon vampirique) : Foi d12+2, 1-3PP, 12/24/48, Inst, se soigne 1 Blessures par Blessure infligée.
 - _Explosion_ (feu ou électricité) : Foi d12+2, 2-6PP, 12/24/48, Inst, 2d6 ou 3d6.

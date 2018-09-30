@@ -16,7 +16,7 @@ Compétences : Combat d6, Escalade d6, Intimidation d6, Lancer d10, Perception 
 - Taille +4.
 
 ### Actions
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Stalactite de pierre : Combat d6, d12+d6+6.
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
 

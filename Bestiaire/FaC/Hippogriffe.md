@@ -15,5 +15,5 @@ Compétences : Combat d8, Intimidation d8, Perception d12.
 - Taille +3.
 
 ### Actions
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - Morsure/Griffes : Combat d8, d12+d6+2.

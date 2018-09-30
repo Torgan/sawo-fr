@@ -19,7 +19,7 @@ Atouts : Enragé, Costaud, Brute, Héros en pagne, Balayage.
 - Héros en Pagne : tant qu’il ne porte pas d’armure, à chaque fois qu’il subit une Blessure, ce personnage peut faire un jet pour encaisser cette dernière sans dépenser de Jeton, et ce même s’il n’est pas Joker (dans ce cas, il lance seulement le dé de Vigueur, pas le dé Joker).
 
 ### Actions
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Brute : les attaques de mêlée occasionnent +1 point de dégât, +2 dans le cas d’une Relance.
 - Grande hache de bronze : Combat d10, PA 1, Parade -1, 2 mains, 2d10+1
 - Arc : Tir d8, 12/24/48, 2d6

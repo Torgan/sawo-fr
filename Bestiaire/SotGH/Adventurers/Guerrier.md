@@ -15,7 +15,7 @@ Handicaps : Sale caractère.
     6 (-1)    9 (3) 
 
 ### Actions
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
+- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
 - Épée bâtarde : Combat d10, 1 main, 2d8. 
 - Épée bâtarde : Combat d10, 2 mains, Parade -1, 2d8+1.
 - Arc: Tir d8, 12/24/36, 2d6.

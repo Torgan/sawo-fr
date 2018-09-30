@@ -28,7 +28,7 @@ Atouts : Amazone, Ambidextre, Héroïne en bikini, Costaud, Combat à deux armes
 - Combat à deux armes : Peut attaquer avec une arme dans chaque main sans subir le malus d’Actions multiples.
 
 ### Réactions
-- Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.
+- Amazone : Parade +1, attaque gratuite sur 1 en Combat adverse. Uniquement contre des hommes.
 - Héroïne en bikini : peut faire un jet d’Encaissement gratuit à chaque blessure subie tant qu’elle ne porte pas d’armure.
 
 ### Équipement

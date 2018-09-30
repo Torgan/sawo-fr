@@ -21,7 +21,7 @@ Atout : Commandement, Esquive, Frappe éclair, Frénésie.
 
 ### Actions
 - Toucher vampirique : Combat d10+2, inflige +1 Fatigue (Absorption d'énergie) sur Succès d'Âme contre Vigueur, +2 Fatigue (Absorption d'énergie) sur Relance, se soigne 1 Blessure par Fatigue infligée.
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
+- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
 
 ### Réaction
-- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
+- Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.

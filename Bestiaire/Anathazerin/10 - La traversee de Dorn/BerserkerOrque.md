@@ -17,7 +17,7 @@ Atouts : Balayage, Enragé.
 - Taille +1.
 
 ### Actions
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Hallebarde : Combat d10, Allonge 1, 2 mains, d10+d8.
 - Rage : peut devenir enragé sur Succès d'Âme.
 

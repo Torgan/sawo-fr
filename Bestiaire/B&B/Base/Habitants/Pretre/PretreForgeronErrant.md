@@ -18,10 +18,10 @@ Atouts : Brave, Panache, Nerfs d’Acier Trempé, Frénésie Suprême, Prêtre.
 - Brave : +2 aux jets de Terreur
 - Connais ton ennemi : A chaque fois qu’un Prêtre-forgeron fait face à une créature surnaturelle (avec la Capacité Spéciale Démon ou Mort-vivant), il a le droit à un jet de Connaissance (Arcanes) pour découvrir une de ses capacités spéciales (de préférence une Faiblesse, s’il y en a une).
 - Nerfs d’acier trempé : Ignore 2 point de malus lié aux Blessures.
-- Panache : +2 en cas d’utilisation de Jeton pour un jet de Trait (y compris pour un jet d’Encaissement)
+- Panache : Trait +2 en dépensant un Jeton, Encaissement inclus.
 
 ### Actions
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - Épée longue : Combat d8, PA 2, 2d8.
 - Arc : Tir d8, 12/24/48, 2d6.
 

@@ -21,6 +21,5 @@ Atouts : Ambidextre, Blocage, Combat à deux armes, Combatif, Frappe éclair.
 - Épée elfique et épée courte : Combat d10/d10, Parade +1, d8+d6/d8+d6.
 
 ### Réaction 
-- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
-### Équipement
+- Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.### Équipement
 Armure de cuir, épée elfique, épée courte, arc court.

@@ -23,7 +23,7 @@ Handicaps : Cupide (mineur), Loyal.
 ### Actions
 - Hache de bataille : Combat d8, 2d8.
 - Hache de lancer : Lancer d8, 3/6/12, d6+d8.
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 
 ### Équipement
 Bouclier moyen, cotte de mailles, heaume ouvert, hache de bataille, haches de lancer.

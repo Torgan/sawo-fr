@@ -18,7 +18,7 @@ Atouts : Balayage, Brute, Costaud, Cri de guerre, Tête froide.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 
 ### Actions
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Cri de guerre : Intimidation d12, affecte tous les adversaires dans un Grand Gabarit.
 - Épée à deux mains : Combat d10, Parade -1, PA2, 2d10+1(+1 sur Relance).
 

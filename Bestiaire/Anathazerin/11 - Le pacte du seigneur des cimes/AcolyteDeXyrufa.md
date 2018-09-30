@@ -22,7 +22,7 @@ Atouts : Arcane (Magie), Drain de l'âme.
 - Taille +4.
 
 ### Actions
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Rochers : Lancer d10, 5/10/120, d12+d8+6.
 - Stalactite de pierre : Combat d6, d12+d6+6.

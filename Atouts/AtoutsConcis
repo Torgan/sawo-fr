@@ -12,7 +12,7 @@
 - As : Conduite, Navigation et Pilotage +2. Peut Encaisser pour le véhicule avec Compétence (sans le bonus) en payant un Jeton. _à valider_
 - Assassin : dégâts +2 contre une cible surprise.
 - Bagarreur : Dégâts +2 à mains nues. _à valider_
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Bidouilleur : Réparation +2 ; temps de réparation /2 sur Relance. _à valider_
 - Blocage : Parade +1. _à valider_
 - Brave : jet de Terreur +2. _à valider_
@@ -25,8 +25,7 @@
 - Combatif : +2 pour récupérer d’un état Secoué.
 - Commandement : +1 pour récupérer d’un état Secoué pour les alliés dans un rayon de 5 cases.
 - Contacts : peut demander de l’aide à des amis bien placés. _à valider_
-- Contre-attaque : attaque gratuite à -2 contre un adversaire par Round ayant raté son attaque de mêlée.
-- Coriace : Résistance +2. _à valider_
+- Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec en Combat.- Coriace : Résistance +2. _à valider_
 - Costaud : Résistance +1 ; limite de poids à 4 × For. _à valider_
 - Coup Puissant : Dégâts ×2 en mêlée si Joker lors de l’Initiative. _à valider_
 - Courage liquide : Gagne un dé de Vigueur en buvant 25 cl d’alcool fort. _à valider_
@@ -45,22 +44,21 @@
 - Ferveur : Dégâts +1 pour les alliés dans l’aura de Commandement. _à valider_
 - Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
 - Forestier : Discrétion (nature), Pistage et Survie +2. _à valider_
-- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
-- Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.- Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
+- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - Grand balayage : attaque toute cible adjacente.
 - Grand blocage : Parade +2. _à valider_
 - Grande aura de commandement : Aura de commandement de 10 cases. _à valider_
-- Grande contre-attaque : attaque gratuite sur un ennemi par round ayant Échec de Combat.
+- Grande contre-attaque : attaque gratuite par Round sur un ennemi ayant Échec en Combat.
 - Grande esquive : Inflige -1 aux attaques à distance. _à valider_
 - Grande extraction : en retraite, évite 1 attaque gratuite sur Succès d'Agilité, toutes sur Relance. _à valider_
 - Grande source de pouvoir : + 1PP par 15 minutes. _à valider_
 - Grand maitre en arts : Dégâts +2 à mains nues. _à valider_- Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Guérison rapide : Guérison naturelle +2. _à valider_
 - Guérisseur : Soins +2. Guérison naturelle +2 pour jusqu’à 5 compagnons. _à valider_
-- Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
-- Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
+- Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec en Âme, +1 Blessure sur 1 au jet.
+- Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec en Âme, +1 Blessure sur 1 au jet.
 - Improvisation martiale : ignore les malus d’arme improvisée (Combat et Parade). _à valider_
 - Increvable : ignore le malus de Blessures sur les jets d’État critique. _à valider_
 - Inspiration : +2 pour annuler Secouer pour les alliés dans l’aura de Commandement. _à valider_
@@ -81,7 +79,7 @@
 - Nerfs d’acier trempé : ignore 2 points de malus de Blessures. _à valider_
 - Noble : Charisme +2, Atout Riche offert, statut, richesse, troupes et responsabilités. _à valider_
 - Nouveau Pouvoir : obtient un nouveau Pouvoir. _à valider_
-- Panache : +2 en cas d’utilisation de Jeton pour un jet de Trait (Encaissement inclus). _à valider_
+- Panache : Trait +2 en dépensant un Jeton, Encaissement inclus.
 - Poigne Ferme : ignore la pénalité de Plateforme instable. _à valider_
 - Points de pouvoir : +5PP. Limité à une fois par Rang. _à valider_
 - Professionnel : un Trait +1. _à valider_
@@ -97,7 +95,7 @@
 - Sixième sens : Perception -2 pour anticiper pièges et embuscades. _à valider_
 - Source de pouvoir : +1PP par 30 minutes. _à valider_
 - Suivants : attire 5 suivants. _à valider_
-- Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans l'aura de Commandement.
+- Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance en Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 - Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 - Touche-à-tout : ignore le -2 sur les Connaissances non maitrisées. _à valider_

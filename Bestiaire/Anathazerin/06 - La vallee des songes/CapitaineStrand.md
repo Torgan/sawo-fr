@@ -21,7 +21,7 @@ Atouts : Blocage, Charismatique, Commandement, Esquive, Leader naturel, Frénés
 
 ### Actions
 
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - Épée longue : Combat d12, d10+d8.
 
 ### Équipement

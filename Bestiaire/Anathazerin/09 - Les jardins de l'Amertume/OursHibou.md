@@ -20,4 +20,4 @@ Atouts : Enragé, Frénésie suprême.
 ### Actions
 - Bec/Griffes : Combat d8/d8, d12+d6+4.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.

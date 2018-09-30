@@ -19,5 +19,5 @@ Compétences : Combat d8, Discrétion d8, Escalade d6, Intimidation d8, Perc
 ### Actions
 - Dard : Combat d8(+2/pince empoignant), d12+d6+1 + poison (inconscience puis mort en 2d6 sur Échec en Vigueur).
 - Empoignade : peut empoigner avec une attaque réussie de pince sur Succès de Force contre Force. Libéré sur Succès de Force contre Force (-4 si empoigné par les deux pinces). Combat +2/pince empoignant pour le dard.
-- Frénésie suprême : peut faire une attaque de Combat supplémentaire.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
 - Pinces : Combat d8, d12+d4+1 + empoignade.

@@ -14,7 +14,7 @@ Compétences : Combat d8, Intimidation d8, Lancer d6, Perception d4.
 - Taille +3.
 
 ### Actions
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Épée : Combat d8, d12+d8+2.
 - Lance : Lancer d6, 3/6/12, d12+d6+2.
 

@@ -15,7 +15,7 @@ Atouts : Amazone, Combatif, Lien Mutuel, Nerfs d’acier.
 	7 (8)	8 (2)
 
 ### Capacités spéciales
-- Amazone : Parade +1, attaque gratuite sur 1 de Combat ennemi. Uniquement contre des hommes.
+- Amazone : Parade +1, attaque gratuite sur 1 en Combat adverse. Uniquement contre des hommes.
 - Combatif : +2 pour récupérer d’un état Secoué.
 - Lien mutuel : Le personnage peut donner des Jetons à ses compagnons.
 - Nerfs d’acier : annule 1 point de malus de Blessure.

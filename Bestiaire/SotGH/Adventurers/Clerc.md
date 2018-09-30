@@ -14,7 +14,7 @@ Handicaps : Chimères, Sale caractère
     PAR    RES
     6 (1)    7 [+2] (2) 
 ### Capacités spéciales
-- Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d' me, +1 Blessure sur 1 au jet.
+- Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec en Âme, +1 Blessure sur 1 au jet.
 - Arcanes : Foi d10, 10PP.
 
 

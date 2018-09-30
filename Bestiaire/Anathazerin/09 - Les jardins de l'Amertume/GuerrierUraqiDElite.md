@@ -20,9 +20,8 @@ Atouts : Blocage, Frappe éclair, Frénésie.
 
 ### Actions
 - Épée longue : Combat d10, d10+d8.
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
+- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
 
 ### Réactions
-- Frappe éclair : attaque gratuite sur un ennemi par Round arrivant au contact.
-### Équipement
+- Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.### Équipement
 Armure de plaques en bronze, épée longue, écu.

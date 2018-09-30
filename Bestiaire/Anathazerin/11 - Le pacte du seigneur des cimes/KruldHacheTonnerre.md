@@ -19,7 +19,7 @@ Atouts : Charismatique, Commandement, Costaud, Ferveur.
 - Taille +1.
 
 ### Actions
-- Balayage : attaque toute cible adjacente à -2.
+- Balayage : attaque -2 toute cible adjacente.
 - Hache de bataille : Combat d12, PA1, Parade -1, 2 mains, 2d10.
 
 ### Équipement

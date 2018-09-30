@@ -19,12 +19,11 @@ Atouts : Commandement, Contre-attaque, Ferveur, Frénésie.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 
 ### Actions
-- Frénésie : peut faire une attaque de Combat supplémentaire, -2 à toutes les attaques du Round.
+- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
 - Vivelame : Combat d10, PA2, d8+d6+2.
 - Arc long : Tir d8, 15/30/60, 2d6
 
 ### Réactions
-- Contre-attaque : attaque gratuite à -2 contre un adversaire par Round ayant raté son attaque de mêlée.
-
+- Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec en Combat.
 ### Équipement
 Chemise de mailles en mythral, Vivelame, Arc long, cape et bottes elfes (Discrétion +2).
