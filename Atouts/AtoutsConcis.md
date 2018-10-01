@@ -1,7 +1,6 @@
 # Savage Worlds Deluxe
 
 - Acolyte : un Joker Novice se met au service du personnage. _à valider_
-- Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
 - Afflux de Pouvoir : +2d6 PP si Joker lors de l’Initiative. _à valider_
 - Ambidextre : ignore le -2 pour la main non directrice. _à valider_
 - Adepte : For+d4 à mains nues ; toujours considéré armé ; peut lancer certains pouvoirs en tant qu’actions libres (voir texte). PA2 à mains nues pour un tour en payant 1PP (action gratuite). _à valider_
@@ -110,5 +109,3 @@
 - Vif : défausse les cartes d'Initiative de 5 ou moins.
 - Vigilant : Perception +2. _à valider_
 - Voleur : Crochetage, Discrétion (urbain), Escalade et désamorcer les pièges +2. _à valider_
-- Volonté de Fer : Intimidation, Sarcasme et y résister +2. _à valider_
-- Volonté de fer : Intimidation +2, Sarcasme +2, y résister +2. _validée_

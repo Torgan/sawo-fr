@@ -1,33 +1,16 @@
 # Atouts validés ou reformulés
 
+## Capacité spéciale
+
 - Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
-- Amazone : Parade +1, attaque gratuite sur 1 en Combat adverse. Uniquement contre des hommes.
-- Assassin : dégâts +2 contre une cible surprise.
-- Balayage : attaque -2 toute cible adjacente.
 - Brave : +2 aux jets de Terreur.
-- Brute : dégâts +1 sur Succès de Combat, +2 sur Relance.
 - Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec de Combat.
-- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
-- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
-- Expert en bouclier : ignore le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
-- Extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d’Agilité.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
-- Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
 - Fracassement : PA +1 pour Combat, +2 sur Relance.
-- Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.
-- Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
-- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
-- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
-- Grand balayage : attaque toute cible adjacente.
-- Grande contre-attaque : attaque gratuite par Round sur un ennemi ayant Échec de Combat.
 - Grand fracassement : PA +2 pour Combat, +4 sur Relance.
-- Grande extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d'Agilité, toutes sur Relance.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
-- Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du Bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
-- Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 - Nerfs d’acier : ignore 1 point de malus de Blessures.
@@ -36,7 +19,6 @@
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
-- Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 - Tueur d'orques : dégâts +d6 contre les orques.
 - Tueur de géants : dégâts +d6 contre les grandes créatures (Taille +3).
 - Vif : défausse les cartes d'Initiative de 5 ou moins.
@@ -44,9 +26,37 @@
 
 _Remarque : si Grande aura de commandement, passer les rayon des Atouts de commandement de 5 à 10 cases._
 
+## Action
+
+- Assassin : dégâts +2 contre une cible surprise.
+- Balayage : attaque -2 toute cible adjacente.
+- Brute : dégâts +1 sur Succès de Combat, +2 sur Relance.
+- Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
+- Expert en bouclier : ignore le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
+- Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
+- Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
+- Frénésie suprême : peut faire une attaque en Combat supplémentaire.
+- Grand balayage : attaque toute cible adjacente.
+- Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du Bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
+- Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
+- Tireur d'élite : Tir +2 si pas de mouvement (Visée).
+
+## Réaction 
+
+- Amazone : Parade +1, attaque gratuite sur 1 en Combat adverse. Uniquement contre des hommes.
+- Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec de Combat.
+- Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
+- Extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d’Agilité.
+- Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.
+- Frappe foudroyante : attaque gratuite sur chaque ennemi arrivant au contact.
+- Grande contre-attaque : attaque gratuite par Round sur un ennemi ayant Échec de Combat.
+- Grande extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d'Agilité, toutes sur Relance.
+
+
 # Capacités monstrueuses validées ou reformulées
-- Absorption d'énergie (-X) : +1 Fatigue sur Échec en Vigueur -X, peut provoquer l'Etat Critique puis la mort, récupère 1 Fatigue/12h. Soigne 1 Blessure à l'attaquant.
-- À la gorge : touche la zone la moins protégée sur Relance en attaque.
+
+## Capacité spéciale
+
 - Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
 - Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
 - Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
@@ -70,4 +80,10 @@ _Remarque : la régénération rapide de l'hydre est spécifique._
 - Résistant : pas de Blessure si Secoué deux fois.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille [+-]X.
-- Toucher glacial (-X) : Combat dX+2, +1 Fatigue sur Échec en Vigueur -X, peut provoquer l'Etat Critique puis la transformation en XXX, récupère 1 Fatigue/12h- Vision nocturne : ignore les malus de Pénombre et d'Obscurité.
+- Vision nocturne : ignore les malus de Pénombre et d'Obscurité.
+
+## Action 
+
+- Absorption d'énergie (-X) : +1 Fatigue sur Échec en Vigueur -X, peut provoquer l'Etat Critique puis la mort, récupère 1 Fatigue/12h. Soigne 1 Blessure à l'attaquant.
+- À la gorge : touche la zone la moins protégée sur Relance en attaque.
+- Toucher glacial (-X) : Combat dX+2, +1 Fatigue sur Échec en Vigueur -X, peut provoquer l'Etat Critique puis la transformation en XXX, récupère 1 Fatigue/12h
