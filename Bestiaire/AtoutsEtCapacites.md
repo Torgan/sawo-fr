@@ -26,8 +26,6 @@
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
-- Tueur d'orques : dégâts +d6 contre les orques.
-- Tueur de géants : dégâts +d6 contre les grandes créatures (Taille +3).
 - Vif : défausse les cartes d'Initiative de 5 ou moins.
 - Volonté de fer : Intimidation +2, Sarcasme +2, y résister +2.
 
@@ -39,7 +37,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Balayage : attaque -2 toute cible adjacente.
 - Coup puissant : dégâts ×2 en mêlée si joker en Initiative.
 - Dans le mille ! : dégâts ×2 à distance si joker en Initiative.
-- Dégaine comme l’éclair : dégaine une arme en action gratuite.
+- Dégaine comme l’éclair : dégaine une arme en action gratuite, Agilité +2 si test.
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Expert en bouclier : ignore le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
 - Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
@@ -49,6 +47,8 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du Bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé si Échec d'Âme, +1 Blessure si 1 au jet.
 - Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé si Échec d'Âme, +1 Blessure si 1 au jet.
 - Tireur d'élite : Tir +2 si pas de mouvement (Visée).
+- Tueur d'orques : dégâts +d6 contre les orques.
+- Tueur de géants : dégâts +d6 contre les grandes créatures (Taille +3).
 
 ## Réaction 
 
