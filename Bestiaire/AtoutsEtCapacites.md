@@ -12,7 +12,7 @@
 - Drain de l’âme : peut tenter Âme -X, si Succès +XPP immédiatement utilisables, si Échec +1 Blessure, si 1 ou moins inconscience pour 1d6 heures.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Esquive : inflige -1 aux attaques à distance.
-- Expert en bouclier : annule le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
+- Expert en bouclier : ignore le malus d'Arme improvisée, dégâts For+d4/d4/d6 (petit/moyen/grand) y compris pour Repousser.
 - Extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d’Agilité.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Florentine : Combat +1 contre cible avec une arme et sans bouclier. Annule 1 point de bonus d'attaquants multiples.
@@ -30,7 +30,7 @@
 - Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
-- Nerfs d’acier : annule 1 point de malus de Blessures.
+- Nerfs d’acier : ignore 1 point de malus de Blessures.
 - Panache : Trait +2 en dépensant un Jeton, Encaissement inclus.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
@@ -49,7 +49,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - À la gorge : touche la zone la moins protégée sur Relance en attaque.
 - Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
 - Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
-- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Annule les malus de Blessures.
+- Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Enfouissement : peut se déplacer sous terre. Peut surprendre sa cible : Combat +2/+4 et dégâts +2/+4 sur Succès/Relance de Discrétion contre Perception.
@@ -62,12 +62,12 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Immatériel : immunisé aux attaques non magiques.
 - Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
-- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Annule les malus de Blessures.
+- Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Petit : attaque adverse -2 si en mouvement.
-- Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Annule les malus de Blessures.
+- Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessures.
 - Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque Round. Ne fonctionne pas pour les Blessures de feu.
 _Remarque : la régénération rapide de l'hydre est spécifique._
 - Résistant : pas de Blessure si Secoué deux fois.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille [+-]X.
-- Toucher glacial (-X) : Combat dX+2, +1 Fatigue sur Échec en Vigueur -X, peut provoquer l'Etat Critique puis la transformation en XXX, récupère 1 Fatigue/12h- Vision nocturne : annule les malus de Pénombre et d'Obscurité.
+- Toucher glacial (-X) : Combat dX+2, +1 Fatigue sur Échec en Vigueur -X, peut provoquer l'Etat Critique puis la transformation en XXX, récupère 1 Fatigue/12h- Vision nocturne : ignore les malus de Pénombre et d'Obscurité.

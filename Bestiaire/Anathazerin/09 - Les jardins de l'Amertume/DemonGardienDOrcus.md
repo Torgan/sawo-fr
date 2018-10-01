@@ -15,7 +15,7 @@ Atouts : Blocage, Guerrier impie.
 ### Capacités spéciales
 - Armure +2 : fourrure épaisse.
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
-- Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec en Âme, +1 Blessure sur 1 au jet.
+- Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du Bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
 - Résistance : Armure +2 contre feu et acide, +2 pour résister aux Pouvoirs utilisant ces aspects.
 - Taille +3.
 

@@ -15,7 +15,7 @@ Compétences : Combat d8, Connaissance (Religion) d6, Foi d10, Perception d6, S
 
 ### Actions
 - Épée courte : Combat d8, 2d6.
-- Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec en Âme, +1 Blessure sur 1 au jet.
+- Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé sur Échec d'Âme, +1 Blessure sur 1 au jet.
 - _Frappe_ : Foi d10, 2PP, T, 3 (1/rd).
 - _Guérison_ : Foi d10, 3PP, T, Inst.
 - _Secours_ : Foi d10, 1PP, T, Inst.

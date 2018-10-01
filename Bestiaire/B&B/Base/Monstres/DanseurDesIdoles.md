@@ -12,7 +12,7 @@ Compétences : Combat d8, Intimidation d6, Perception d6.
 
 ### Capacités spéciales
 - Armure +2 : Exosquelette épais.
-- Vif : Défausse les cartes d'Initiative de 5 ou moins.
+- Vif : défausse les cartes d'Initiative de 5 ou moins.
 - Rapide comme l’éclair : Un Danseur des idoles est capable de pointes de vitesses incroyables. Une fois par combat, il peut utiliser le Pouvoir Vitesse en utilisant sa Vigueur à la place de la Compétence Arcanes. Le Pouvoir n’a alors qu’une durée standard et la créature doit réussir un jet de Vigueur lorsqu’il s’achève, sous peine de subir un niveau de Fatigue.
 
 ### Actions

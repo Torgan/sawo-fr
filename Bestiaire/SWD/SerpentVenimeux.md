@@ -16,7 +16,7 @@ Compétences : Combat d8, Perception d12.
 - Petit : attaque adverse -2 si en mouvement.
 - Poison (-4).
 - Taille -2.
-- Vif : Défausse les cartes d'Initiative de 5 ou moins.
+- Vif : défausse les cartes d'Initiative de 5 ou moins.
 
 ### Actions
 - Morsure : Combat d8, d4 + Poison (-4).

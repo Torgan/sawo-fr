@@ -15,7 +15,7 @@ Atouts : Costaud, Commandement, Contre-attaque, Ferveur, Frappe éclair, Grande 
 ### Capacités spéciales
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
-- Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance en Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
+- Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - Taille +1.
 - Volonté de Fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 

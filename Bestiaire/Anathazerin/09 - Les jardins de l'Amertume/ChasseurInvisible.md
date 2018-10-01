@@ -17,7 +17,7 @@ Atouts : Assassin, Tête froide, Vif.
 - Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Invisible : les attaques pour toucher un chasseur invisible se font à -6.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
-- Vif : Défausse les cartes d'Initiative de 5 ou moins.
+- Vif : défausse les cartes d'Initiative de 5 ou moins.
 
 ### Actions
 - Assassin : dégâts +2 contre une cible surprise.
