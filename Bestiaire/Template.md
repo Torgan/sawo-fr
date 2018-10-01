@@ -41,13 +41,8 @@ _Actions se déclenchant suite à des évènements extérieurs au personnage._
 ### Équipement
 (s'il y en a ) liste simple par ordre d'importance, généralement armes et outils utilisables en action, protection puis objets secondaires ayant peu d'interaction pendant l'action (vêtement, bijoux, etc.).
 
-## autres remarques qui ne sont pas présentes au final
-Une énumération (compétences, atouts...) se termine par un point.
-
-----
-
-Remarques :
-
+## Autres remarques qui ne sont pas présentes au final
+- Une énumération (compétences, atouts...) se termine par un point.
 - Sous-liste : tiret précédé de 4 espaces.
 - Pas de majuscule après ":" sauf si terme technique.
 - Si possible le modificateur vient après : "Agilité +2" plutôt que "+2 au jet d'Agilité" ou "+2 en Agilité".
