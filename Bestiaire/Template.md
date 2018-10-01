@@ -32,7 +32,7 @@ _Actions et capacités affectant des actions._
 
 - Fronde : Tir dX, 4/8/16, dX+dY.
 - Bâton : Combat dX, Parade +X, Allonge X, 2 mains, ..., dX+dY
-- _Nom pouvoir_ (aspect pouvoir) : compétence dX, PPx, Portée X, coût en PP dont maintien, XdX de dégâts.
+- _Nom pouvoir_ (aspect pouvoir) : compétence dX, PPx (x/rd), Portée X, XdX de dégâts.
 
 ### Réactions (s'il y en a)
 
