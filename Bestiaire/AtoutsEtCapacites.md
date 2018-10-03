@@ -4,6 +4,8 @@
 
 - Brute : dégâts +1 si Succès de Combat, +2 si Relance.
 - Cogneur : dégâts +2 à mains nues, +d8 au lieu de +d6 si Relance.
+- Fracassement : PA +1 pour Combat, +2 si Relance.
+- Grand fracassement : PA +2 pour Combat, +4 si Relance.
 
 ## Capacité spéciale
 
@@ -15,8 +17,6 @@
 - Encaisser comme un champion : Encaissement +2.
 - Esquive : inflige -1 aux attaques à distance.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
-- Fracassement : PA +1 pour Combat, +2 si Relance.
-- Grand fracassement : PA +2 pour Combat, +4 si Relance.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
@@ -46,6 +46,8 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Grand balayage : attaque toute cible adjacente.
 - Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du Bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé si Échec d'Âme, +1 Blessure si 1 au jet.
 - Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé si Échec d'Âme, +1 Blessure si 1 au jet.
+- Poigne Ferme : ignore la pénalité de Plateforme instable.
+- Rock'n Roll! : ignore le malus de Tir automatique si pas de mouvement.
 - Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 - Tueur d'orques : dégâts +d6 contre les orques.
 - Tueur de géants : dégâts +d6 contre les grandes créatures (Taille +3).
