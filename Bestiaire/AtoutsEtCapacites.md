@@ -4,6 +4,8 @@
 
 - Brute : dégâts +1 si Succès de Combat, +2 si Relance.
 - Cogneur : dégâts +2 à mains nues, +d8 au lieu de +d6 si Relance.
+- Fracassement : PA +1 pour Combat, +2 si Relance.
+- Grand fracassement : PA +2 pour Combat, +4 si Relance.
 
 ## Capacité spéciale
 
@@ -15,14 +17,14 @@
 - Encaisser comme un champion : Encaissement +2.
 - Esquive : inflige -1 aux attaques à distance.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
-- Fracassement : PA +1 pour Combat, +2 si Relance.
-- Grand fracassement : PA +2 pour Combat, +4 si Relance.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 - Nerfs d’acier : ignore 1 point de malus de Blessures.
 - Panache : Trait +2 en dépensant un Jeton, Encaissement inclus.
+- Poigne Ferme : ignore la pénalité de Plateforme instable.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
+- Rock'n Roll! : ignore le malus de Tir automatique si pas de mouvement.
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
