@@ -22,9 +22,7 @@
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 - Nerfs d’acier : ignore 1 point de malus de Blessures.
 - Panache : Trait +2 en dépensant un Jeton, Encaissement inclus.
-- Poigne Ferme : ignore la pénalité de Plateforme instable.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
-- Rock'n Roll! : ignore le malus de Tir automatique si pas de mouvement.
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
@@ -48,6 +46,8 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Grand balayage : attaque toute cible adjacente.
 - Guerrier impie : peut repousser les créatures angéliques, paladins ou personnages du Bien ayant l’Atout Arcanes (Miracles) pour 1PP. Repoussé si Échec d'Âme, +1 Blessure si 1 au jet.
 - Guerrier saint : peut repousser les morts-vivants et les démons pour 1PP. Repoussé si Échec d'Âme, +1 Blessure si 1 au jet.
+- Poigne Ferme : ignore la pénalité de Plateforme instable.
+- Rock'n Roll! : ignore le malus de Tir automatique si pas de mouvement.
 - Tireur d'élite : Tir +2 si pas de mouvement (Visée).
 - Tueur d'orques : dégâts +d6 contre les orques.
 - Tueur de géants : dégâts +d6 contre les grandes créatures (Taille +3).
