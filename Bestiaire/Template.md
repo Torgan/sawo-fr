@@ -30,8 +30,11 @@ _Capacités et Atouts statiques ayant un potentiel effet lors d'un Combat, mais 
 
 _Actions et capacités affectant des actions._
 
-- Fronde : Tir dX, 4/8/16, dX+dY.
-- Bâton : Combat dX, Parade +X, Allonge X, 2 mains, ..., dX+dY
+- Nom arme : Combat/Lancer ou Tir, dégâts PA X, Portée CdT, liste de notes.
+- Épée à 2 mains : d10, d12+d10+2 (+1 si Relance), Parade -1.
+- Bâton : d8, d8+d4, Allonge 1, Parade +1, 2 mains.
+- Dague : d6/d6, d6+d4, 3/6/12.
+- Arbalète : d8, 2d6 + poison (-4, inconscience) PA 2, 15/30/60, CdT ½.
 - _Nom pouvoir_ (aspect pouvoir) : compétence dX, PPx (x/rd), Portée X, XdX de dégâts.
 
 ### Réactions (s'il y en a)
