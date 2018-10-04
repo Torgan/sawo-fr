@@ -19,12 +19,12 @@ Atouts : Arcanes (Super-pouvoirs), Arme fétiche (Bouclier en vibranium), Blocag
 Pouvoirs : _Résistance_ (1), _Sens augmentés_ (1), _Super-Atout_ (14) [Combatif, Costaud, Encaisser comme un champion, Esquive, Frappe éclair, Frénésie, Nerfs d’acier], _Super-Attribut_ (20) [Agilité +3, Force +5, Vigueur +2], _Super-Compétence_ (9) [Combat +3, Escalade +2, Lancer +2, Natation +2].
 
  PAR RES
- 10 (2) 14 (4)
+ 10 (2) 14 [4]
 
 ### Capacités spéciales
 - Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
 - [P] _Bond_ (1, Jambes puissantes) : bond de 2 cases en hauteur ou 4 cases en longueur.
-- Bouclier en vibranium : Combat d8+1/Lancer d10, Portée 6/12/24, dégâts For+d6, PA 4, AL. Appareil. Interchangeable (_Attaque à distance_ / _Attaque de mêlée_ + _Déflexion_ + _Parade_)
+- Bouclier en vibranium : Combat d8+1/Lancer d10, Portée 6/12/24, dégâts d12+d6+2, PA 4, AL. Appareil. Interchangeable (_Attaque à distance_ / _Attaque de mêlée_ + _Déflexion_ + _Parade_)
     - [P] _Déflexion_ (1) : -4 pour toucher le Captain avec des attaques à distance, -3 si un autre manie le bouclier (voir Dur à toucher ci-dessous).
     - [P] _Parade_ (4, déviation) : Parade +6.
 - Brave : +2 aux jets de Terreur.
@@ -41,7 +41,7 @@ Pouvoirs : _Résistance_ (1), _Sens augmentés_ (1), _Super-Atout_ (14) [Combati
 - [P] _Vitesse_ (5, Force et réflexes améliorés) : Allure 24, -1 pour le toucher.
 
 ### Actions
-- Bouclier en vibranium : Combat d8+1/Lancer d10, Portée 6/12/24, dégâts For+d6, PA 4, AL. Appareil. Interchangeable (_Attaque à distance_ / _Attaque de mêlée_ + _Déflexion_ + _Parade_)
+- Bouclier en vibranium : Combat d8+1/Lancer d10, Portée 6/12/24, dégâts d12+d6+2, PA 4, AL. Appareil. Interchangeable (_Attaque à distance_ / _Attaque de mêlée_ + _Déflexion_ + _Parade_)
     - [P] _Attaque à distance_ (12) : CdT 3, Lancé*, Limitation Mineure. La Cadence de Tir correspond aux rebonds du bouclier de cible en cible.
     - [P] _Attaque de mêlée_ (6) : Attaques multiples, Un seul bras. Interchangeable (avec Attaque à distance).
 
@@ -56,4 +56,4 @@ Pouvoirs : _Résistance_ (1), _Sens augmentés_ (1), _Super-Atout_ (14) [Combati
 - *Lancé (+0) : les dégâts du pouvoir Attaque à distance deviennent For+d6 (et +1d6 par niveau supplémentaire) et sa portée est réduite à 3/6/12. La Compétence utilisée est Lancer. Si le pouvoir a le modificateur Appareil, l’objet revient par défaut à son utilisateur après l’attaque. Il reste à sa dernière destination ou est attrapé par un tiers en cas de 1 sur le dé de Lancer, peu importe le résultat du dé Joker.
 
 ### Suggestions de tours de force
-- [P] _Aquatique_ (1) : Allure de natation 12, +2 aux jets de Natation. Limitation Mineure (ne respire pas sous l’eau). Dans le film Captain America : le Premier Avenger, Steve a utilisé sa puissance pour rattraper un sous-marine personnel d’HYDRA en fuite pour récupérer l’agent et le sérum du supersoldat.
+- [P] _Aquatique_ (1) : Allure (nage) 12, Natation +2. Limitation Mineure (ne respire pas sous l’eau). Dans le film Captain America : le Premier Avenger, Steve a utilisé sa puissance pour rattraper un sous-marine personnel d’HYDRA en fuite pour récupérer l’agent et le sérum du supersoldat.
