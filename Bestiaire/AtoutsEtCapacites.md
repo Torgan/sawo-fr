@@ -15,7 +15,7 @@
 - Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Encaisser comme un champion : Encaissement +2.
-- Esquive : inflige -1 aux attaques à distance.
+- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
@@ -54,7 +54,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 
 ## Réaction 
 
-- Amazone : Parade +1, attaque gratuite si 1 en Combat adverse. Uniquement contre des hommes.
+- Amazone : Parade +1, attaque gratuite si 1 en Combat ennemi. Uniquement contre des hommes.
 - Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec de Combat.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Extraction : en cas de retraite, évite 1 attaque gratuite si Succès d’Agilité.
@@ -68,23 +68,23 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 
 ## Capacité spéciale
 
-- Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
-- Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
+- Aura enflammée : dégâts 2d6 de Feu en fin d'action à toute cible adjacente.
+- Aura glaciale : dégâts 2d6 de Froid en fin d'action à toute cible adjacente.
 - Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Enfouissement : peut se déplacer sous terre. Peut surprendre sa cible : Combat +2/+4 et dégâts +2/+4 si Succès/Relance de Discrétion contre Perception.
-- Énorme : attaque adverse +4.
+- Énorme : attaque ennemie +4.
 - Faiblesse (Feu) : subit dégâts x2.
 - Faiblesse (Froid) : subit dégâts x2.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
-- Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
-- Grand : attaque adverse +2.
+- Gigantesque : attaque ennemie +4. Arme lourde, Armure lourde et Piétinement.
+- Grand : attaque ennemie +2.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Immatériel : immunisé aux attaques non magiques.
 - Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
-- Petit : attaque adverse -2 si en mouvement.
+- Petit : attaque ennemie -2 si en mouvement.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessures.
 - Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque Round. Ne fonctionne pas pour les Blessures de feu.
 _Remarque : la régénération rapide de l'hydre est spécifique._
