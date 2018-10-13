@@ -17,13 +17,18 @@
 - Encaisser comme un champion : Encaissement +2.
 - Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
+- Grande esquive : attaque à distance ennemie -2, Agilité +2 contre attaque de zone.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
+- Increvable : ignore le malus de Blessures sur les jets d’État critique.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
 - Leader naturel : peut donner des Jetons aux alliés dans un rayon de 5 cases.
 - Nerfs d’acier : ignore 1 point de malus de Blessures.
+- Nerfs d’acier trempé : ignore 2 points de malus de Blessures.
 - Panache : Trait +2 en dépensant un Jeton, Encaissement inclus.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Sans pitié : peut utiliser des Jetons sur les jets de dégâts.
+- Serrez les Rang ! : Résistance +1 aux alliés dans un rayon de 5 cases.
+- Sixième sens : Perception -2 pour anticiper pièges et embuscades.
 - Tacticien : reçoit en début de combat une carte d'Initiative par Succès et Relance de Connaissance (Bataille) pouvant remplacer durant le combat une carte d’Initiative pour les alliés dans un rayon de 5 cases.
 - Tête froide : agit sur la meilleure de deux cartes d’Initiative.
 - Vif : défausse les cartes d'Initiative de 5 ou moins.
