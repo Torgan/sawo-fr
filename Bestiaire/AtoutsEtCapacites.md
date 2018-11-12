@@ -75,9 +75,6 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
 - Enfouissement : peut se déplacer sous terre. Peut surprendre sa cible : Combat +2/+4 et dégâts +2/+4 si Succès/Relance de Discrétion contre Perception.
 - Énorme : attaque adverse +4.
-- Faiblesse (Feu) : subit dégâts x2.
-- Faiblesse (Froid) : subit dégâts x2.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
 - Grand : attaque adverse +2.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
@@ -86,6 +83,9 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Petit : attaque adverse -2 si en mouvement.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessures.
+- Point faible (Feu) : subit dégâts x2.
+- Point faible (Froid) : subit dégâts x2.
+- Point faible (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Régénération rapide : +2 pour annuler Secoué. Guérison naturelle chaque Round. Ne fonctionne pas pour les Blessures de feu.
 _Remarque : la régénération rapide de l'hydre est spécifique._
 - Résistant : pas de Blessure si Secoué deux fois.
