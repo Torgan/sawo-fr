@@ -16,7 +16,7 @@ Compétences : Combat d10, Intimidation d12+2, Perception d12, Discrétion d12+4
 - Éthéré : Les molosses d'ombre sont immatériels et ne peuvent être blessé que par la magie. Ils peuvent passer au travers des barrières physique sans encombre, et ne sont pas affectés par les terrains difficiles
 - Terreur (-2) : voir une bête d'ombre oblige à faire un test de Terreur à -2.
 - Pas des ombres : lors de son mouvement une bête d'ombre peut disparaitre dans n'importe quelle ombre. Il peut réapparaittre de n'importe quelle autre zone d'ombre pendant une action ultérieure.
-- Faiblesse (Lumière): : Les bêtes d'ombre ne peuvent pénétrer les zones de vive lumière, et subissent 2d6 dégâts s'ils ne peuvent pas disparaitre dans les ombres pour se protéger.
+- Point faible (Lumière): : Les bêtes d'ombre ne peuvent pénétrer les zones de vive lumière, et subissent 2d6 dégâts s'ils ne peuvent pas disparaitre dans les ombres pour se protéger.
 
 
 ### Actions

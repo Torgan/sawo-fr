@@ -16,7 +16,7 @@ Atouts : Arcanes (Miracles), Commandement, Grande résistance aux arcanes, Vigil
 - Armure +3.
 - Arcane : Foi d12+2, 30PP.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
+- Point faible (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Grand : attaque adverse +2.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Taille +3.

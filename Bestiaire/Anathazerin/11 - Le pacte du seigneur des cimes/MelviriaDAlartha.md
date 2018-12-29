@@ -15,7 +15,7 @@ Atouts : Arcane (Foi), Charismatique, Drain de l'Âme, Guerrier impie, Grande r�
 
 ### Capacités spéciales
 - Arcane : Foi d12+2, 25PP.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
+- Point faible (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

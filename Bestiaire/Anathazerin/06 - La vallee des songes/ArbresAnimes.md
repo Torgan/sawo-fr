@@ -15,7 +15,7 @@ Atouts : Frénésie, Vigilance, Volonté de fer.
 ### Capacités spéciales
 - Armure +3 : armure naturelle
 - Énorme : attaque adverse +4.
-- Faiblesse : les dégâts des attaques de feu sont doublés.
+- Point faible : les dégâts des attaques de feu sont doublés.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessures.
 - Résistance physique : les attaques non tranchantes subissent un malus de -3 aux dégâts.
 - Taille +8.

@@ -17,7 +17,7 @@ Atouts : Arcanes (Miracles), Commandement, Résistance aux arcanes.
 - Arcane : prêtresse de Maëdra, Foi d10, 25PP.
 - Arcane : masse enchantée, Magie d8, 20PP
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases) quand à la lumière du jour.
+- Point faible (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases) quand à la lumière du jour.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

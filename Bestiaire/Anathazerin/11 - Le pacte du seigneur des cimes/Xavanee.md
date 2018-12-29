@@ -15,7 +15,7 @@ Atouts : Arcanes (Miracles), Assassin, Commandement, Florentine, Résistance aux
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d8, 5PP.
 - Arcane : prêtresse de Maëdra, Foi d8, 15PP.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
+- Point faible (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

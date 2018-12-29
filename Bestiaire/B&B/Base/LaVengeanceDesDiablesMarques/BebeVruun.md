@@ -14,7 +14,7 @@ Compétences : Combat d6, Perception d6.
 - Armure +2 : peau écailleuse.
 - Taille +2.
 - Piétinement : Force. Les dents du Vruun sont émoussées et la créature ne mord pas. Elle préfère piétiner ses cibles avec ses pattes massives.
-- Faiblesse (Gaz dans l’estomac) : Le Vruun est virtuellement insensible à toute attaque. Sa seule faiblesse est le gaz dans son estomac. Lancer une torche allumée ou similaire dans la bouche ouverte de la bête demande précision et timing (-4 Attaque Ciblée), mais cela a un effet spectaculaire. La bête explose littéralement, faisant 3d6 dommages à toute cible dans un Grand Gabarit d’explosion.
+- Point faible (Gaz dans l’estomac) : Le Vruun est virtuellement insensible à toute attaque. Sa seule faiblesse est le gaz dans son estomac. Lancer une torche allumée ou similaire dans la bouche ouverte de la bête demande précision et timing (-4 Attaque Ciblée), mais cela a un effet spectaculaire. La bête explose littéralement, faisant 3d6 dommages à toute cible dans un Grand Gabarit d’explosion.
 
 ### Actions
 - Souffle de feu : Le Vruun peut cracher du feu en utilisant un Gabarit en cône. Chaque cible prise dans le cône doit faire un jet d’Agilité (-2) pour sauter hors de portée du danger ou subir 2d10 dommages par le feu. De plus, les cibles prises dans le Gabarit doivent vérifier qu’elles n’ont pas pris feu. Le Vruun ne peut pas attaquer en piétinant le même round où il a craché le feu. Après avoir craché le feu, l’odeur de l’Ivracine flotte dans l’air.
