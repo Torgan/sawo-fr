@@ -12,7 +12,7 @@ Compétences : Combat d6, Perception d4.
 
 ### Capacités spéciales
 - Armure +2 : peau épaisse et fourrure.
-- Grand : attaque adverse +2.
+- Grand : attaque ennemie +2.attaque adverse +2.
 - Immunité (Froid).
 - Taille +6.
 

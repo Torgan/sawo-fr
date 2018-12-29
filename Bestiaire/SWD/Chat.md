@@ -13,7 +13,7 @@ Compétences : Discrétion d8, Escalade d6, Perception d6.
 
 ### Capacités spéciales
 - Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
-- Petit : attaque adverse -2 si en mouvement.
+- Petit : attaque ennemie -2 si en mouvement.attaque adverse -2 si en mouvement.
 - Taille -2.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

@@ -16,7 +16,7 @@ Atouts : Blocage, Contacts (Crime), Frappe éclair, Sang-froid, Grande Esquive, 
 
 ### Capacités spéciales
 - Seigneur des Allées Sombres : Lorsqu’il est dans sa propre ville, un Maître-voleur voit son dé Joker augmenté d’un niveau (généralement de d6 à d8) sur les jets de Réseaux et de Perception.
-- Grande Esquive : -2 aux attaques à distance contre le personnage.
+- Grande esquive : attaque à distance ennemie -2, Agilité +2 contre attaque de zone.-2 aux attaques à distance contre le personnage.
 - Sang-froid : Agit sur la meilleure de trois cartes en combat
 
 ### Actions

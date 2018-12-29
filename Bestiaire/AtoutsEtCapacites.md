@@ -15,9 +15,9 @@
 - Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
 - Encaisser comme un champion : Encaissement +2.
-- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.
+- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.attaque à distance ennemie -1, Agilité +1 contre attaque de zone.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
-- Grande esquive : attaque à distance ennemie -2, Agilité +2 contre attaque de zone.
+- Grande esquive : attaque à distance ennemie -2, Agilité +2 contre attaque de zone.attaque à distance ennemie -2, Agilité +2 contre attaque de zone.
 - Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.
 - Increvable : ignore le malus de Blessures sur les jets d’État critique.
 - Inspiration : +2 pour annuler Secoué pour les alliés dans un rayon de 5 cases (Commandement inclus).
@@ -61,7 +61,7 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 
 ## Réaction 
 
-- Amazone : Parade +1, attaque gratuite si 1 en Combat ennemi. Uniquement contre des hommes.
+- Amazone : Parade +1, attaque gratuite si 1 en Combat ennemi. Uniquement contre des hommes.Parade +1, attaque gratuite si 1 en Combat ennemi. Uniquement contre des hommes.
 - Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec de Combat.
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat.
 - Extraction : en cas de retraite, évite 1 attaque gratuite si Succès d’Agilité.
@@ -75,8 +75,8 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 
 ## Capacité spéciale
 
-- Aura enflammée : dégâts 2d6 de Feu en fin d'action à toute cible adjacente.
-- Aura glaciale : dégâts 2d6 de Froid en fin d'action à toute cible adjacente.
+- Aura enflammée : dégâts 2d6 de Feu en fin d'action à toute cible adjacente.dégâts 2d6 de Feu en fin d'action à toute cible adjacente.
+- Aura glaciale : dégâts 2d6 de Froid en fin d'action à toute cible adjacente.dégâts 2d6 de Froid en fin d'action à toute cible adjacente.
 - Créature artificielle : +2 pour annuler Secoué. Immunisé aux Attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
 - Élémentaire : Immunisé aux attaques ciblées, la Terreur, l'Intimidation, les maladies et les poisons.
@@ -85,13 +85,13 @@ _Remarque : si Grande aura de commandement, passer les rayon des Atouts de comma
 - Faiblesse (Feu) : subit dégâts x2.
 - Faiblesse (Froid) : subit dégâts x2.
 - Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
-- Gigantesque : attaque ennemie +4. Arme lourde, Armure lourde et Piétinement.
-- Grand : attaque ennemie +2.
+- Gigantesque : attaque ennemie +4. Arme lourde, Armure lourde et Piétinement.attaque ennemie +4. Arme lourde, Armure lourde et Piétinement.
+- Grand : attaque ennemie +2.attaque ennemie +2.
 - Infravision : réduit de moitié les malus pour manque d'éclairage (arrondir à l'inférieur).
 - Immatériel : immunisé aux attaques non magiques.
 - Invulnérabilté : peut être Secoué mais pas Blessé sauf Point faible.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
-- Petit : attaque ennemie -2 si en mouvement.
+- Petit : attaque ennemie -2 si en mouvement.attaque ennemie -2 si en mouvement.
 - Plante : +2 pour annuler Secoué. Immunisé aux Attaques ciblées et aux poisons. Ignore les malus de Blessures.
 - Point faible (Feu) : subit dégâts x2.
 - Point faible (Froid) : subit dégâts x2.

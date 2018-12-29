@@ -13,9 +13,9 @@ Compétences : Combat d8, Escalade d6, Intimidation d10, Lancer d6, Perception 
 	6	14 (2)
 
 ### Capacités spéciales
-- Aura enflammée : inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
+- Aura enflammée : dégâts 2d6 de Feu en fin d'action à toute cible adjacente.inflige en fin d'action 2d6 dégâts de Feu à toute créature adjacente.
 - Point faible (Froid) : subit dégâts x2.
-- Grand : attaque adverse +2.
+- Grand : attaque ennemie +2.attaque adverse +2.
 - Immunité (Feu).
 - Taille +5.
 

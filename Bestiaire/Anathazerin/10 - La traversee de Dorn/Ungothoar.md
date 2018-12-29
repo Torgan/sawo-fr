@@ -12,7 +12,7 @@ Compétences : Combat d10, Intimidation d10, Lancer d8, Perception d6.
 
 ### Capacités spéciales
 - Armure +4 : peau épaisse.
-- Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
+- Gigantesque : attaque ennemie +4. Arme lourde, Armure lourde et Piétinement.attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
 - Taille +12.
 
 ### Actions

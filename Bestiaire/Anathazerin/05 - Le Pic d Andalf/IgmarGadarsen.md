@@ -16,7 +16,7 @@ Handicap : Arrogant, Brute, Cupide, Sale Caractère.
 
 ### Capacités spéciales
 - Encaissement (Armure) : +1 à tous les jets d’Encaissement.
-- Esquive : inflige -1 aux attaques à distance.
+- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.inflige -1 aux attaques à distance.
 - Nerfs d’acier : ignore 1 point de malus de Blessures.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 

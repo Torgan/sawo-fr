@@ -14,7 +14,7 @@ Atout : Commandement, Esquive, Frappe éclair, Frénésie.
 
 ### Capacités spéciales
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Esquive : inflige -1 aux attaques à distance.
+- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.inflige -1 aux attaques à distance.
 - Immatériel : immunisé aux attaques non magiques.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.

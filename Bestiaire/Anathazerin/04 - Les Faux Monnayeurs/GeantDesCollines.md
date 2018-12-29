@@ -14,7 +14,7 @@ Compétences : Combat d6, Intimidation d8, Lancer d6, Perception d4.
 
 ### Capacités spéciales
 - Débile : -2 aux jets de Culture Générale ou pour résister aux Sarcasmes et aux Ruses d’Intellect.
-- Grand : attaque adverse +2.
+- Grand : attaque ennemie +2.attaque adverse +2.
 - Taille +4.
 
 ### Actions

@@ -13,7 +13,7 @@ Compétences : Combat d10, Natation d10, Perception d12.
 	7	12
 
 ### Capacités spéciales
-- Grand : attaque adverse +2.
+- Grand : attaque ennemie +2.attaque adverse +2.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Taille +4.
 

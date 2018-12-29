@@ -13,7 +13,7 @@ Compétences : Combat d8, Perception d10, Discrétion d8.
 ### Capacités spéciales
 - Vol : Les Oiseaux de combat volent avec une Allure de 12 et une Montée de 2.
 - Taille -2.
-- Petit : attaque adverse -2 si en mouvement.
+- Petit : attaque ennemie -2 si en mouvement.attaque ennemie -2 si en mouvement.
 
 ### Actions
 - Serres ou Bec : Combat d8, 2d4.

@@ -13,7 +13,7 @@ Compétences : Combat d10, Intimidation d12, Perception d8.
 
 ### Capacités spéciales
 - Armure +4 : peau d’écailles.
-- Grand : attaque adverse +2.
+- Grand : attaque ennemie +2.attaque adverse +2.
 - Taille +5.
 - Terreur (0).
 

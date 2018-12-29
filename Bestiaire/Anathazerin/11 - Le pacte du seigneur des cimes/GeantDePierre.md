@@ -12,7 +12,7 @@ Compétences : Combat d6, Escalade d6, Intimidation d6, Lancer d10, Perception 
 
 ### Capacités spéciales
 - Armure +2 : peau épaisse.
-- Grand : attaque adverse +2.
+- Grand : attaque ennemie +2.attaque adverse +2.
 - Taille +4.
 
 ### Actions

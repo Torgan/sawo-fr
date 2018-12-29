@@ -13,7 +13,7 @@ Compétences : Combat d8, Intimidation d8, Perception d8.
 ### Capacités spéciales
 - Armure +2 : peau épaisse.
 - Démon : +2 pour annuler Secoué. Immunisé aux poisons et maladies.
-- Énorme : attaque adverse +4.
+- Énorme : attaque ennemie +4.attaque ennemie +4.
 - Résistant : pas de Blessure si Secoué deux fois.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +5 : le Démon éléphant pèse plus de 3500 kg.

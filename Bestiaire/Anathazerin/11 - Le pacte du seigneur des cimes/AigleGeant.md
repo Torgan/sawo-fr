@@ -12,7 +12,7 @@ Compétences : Combat d6, Perception d12+2.
 
 ### Capacités spéciales
 - Armure +1 : plumes épaisses
-- Esquive : inflige -1 aux attaques à distance.
+- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.inflige -1 aux attaques à distance.
 - Taille +2.
 - Vigilant : Perception +2. 
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.

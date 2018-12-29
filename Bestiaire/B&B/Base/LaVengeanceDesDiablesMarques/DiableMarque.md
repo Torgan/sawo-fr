@@ -25,7 +25,7 @@ Handicaps : Loyal, Rancunier (mâles).
 - Arc : Tir d6, 12/24/48, 2d6
 
 ### Réactions
-- Amazone : Parade +1, attaque gratuite sur 1 en Combat adverse. Uniquement contre des hommes.
+- Amazone : Parade +1, attaque gratuite si 1 en Combat ennemi. Uniquement contre des hommes.Parade +1, attaque gratuite sur 1 en Combat adverse. Uniquement contre des hommes.
 
 ### Équipement
 Épée longue en bronze, Armure de Diable Marqué (+2, voir ci-dessus), bouclier moyen (+1 Parade, +2 Résistance contre les armes à distance), arc.

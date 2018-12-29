@@ -14,7 +14,7 @@ Atouts : Blocage, Esquive, Frappe éclair, Voleur.
 	7   6 (1)
 
 ### Capacités spéciales
-- Esquive : inflige -1 aux attaques à distance.
+- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.inflige -1 aux attaques à distance.
 
 ### Actions
 - Épée courte : Combat d8, 2d6.

@@ -13,7 +13,7 @@ Compétences : Combat d8, Discrétion d4, Intimidation d10, Perception d8+2.
 ### Capacités spéciales
 - Aveugle : la Chaose n'a pas de vision à proprement parler, mais son ouïe surdéveloppée lui permet de compenser cet état de fait.
 - Extra-dimensionnelle : effet de _Déflexion_ permanent à -4.
-- Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
+- Gigantesque : attaque ennemie +4. Arme lourde, Armure lourde et Piétinement.attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
 - _Invisible_ : un jet de Perception à -4 est nécessaire pour détecter la Chaose. 
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +12.

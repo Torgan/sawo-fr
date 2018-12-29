@@ -13,7 +13,7 @@ Compétences : Combat d8, Perception d12.
 	6	2
 
 ### Capacités spéciales
-- Petit : attaque adverse -2 si en mouvement.
+- Petit : attaque ennemie -2 si en mouvement.attaque adverse -2 si en mouvement.
 - Poison (-4).
 - Taille -2.
 - Vif : défausse les cartes d'Initiative de 5 ou moins.

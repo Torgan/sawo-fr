@@ -15,7 +15,7 @@ Atouts : Blocage, Esquive, Commandement, Volonté de fer, Nerfs d’acier.
 	8	7 (1)
 
 ### Capacités spéciales
-- Esquive : inflige -1 aux attaques à distance.
+- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.attaque à distance ennemie -1, Agilité +1 contre attaque de zone.
 - Nerfs d’acier : ignore 1 point de malus de Blessures.
 - Volonté de fer : +2 en Intimidation et Sarcasme, +2 pour y résister.
 

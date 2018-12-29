@@ -15,7 +15,7 @@ Atout : Ferveur, Grand balayage.
 ### Capacités spéciales
 - Armure +2 : peau épaisse.
 - Ferveur : dégâts +1 pour les alliés dans un rayon de 5 cases.
-- Grand : attaque adverse +2.
+- Grand : attaque ennemie +2.attaque adverse +2.
 - Taille +4.
 
 ### Actions

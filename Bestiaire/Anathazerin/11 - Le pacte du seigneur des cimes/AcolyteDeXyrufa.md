@@ -16,7 +16,7 @@ Atouts : Arcane (Magie), Drain de l'âme.
 ### Capacités spéciales
 - Arcane : Magie d8, 20PP.
 - Armure +2 : peau épaisse.
-- Grand : attaque adverse +2.
+- Grand : attaque ennemie +2.attaque adverse +2.
 - Point faible (Feu) : subit dégâts Feu x2.
 - Immunité (Froid).
 - Taille +4.

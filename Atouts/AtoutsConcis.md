@@ -38,7 +38,7 @@
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance, Combat, Force et dégâts de Combat +2. _à valider_
 - Enragé : devient enragé quand Secoué ou Blessé. Parade -2, Résistance +2, Combat +2, Force +2 et dégâts +2 au Combat. _validé en section bestiaire_
 - Érudit : deux Connaissances +2.
-- Esquive : inflige -1 aux attaques à distance.
+- Esquive : attaque à distance ennemie -1, Agilité +1 contre attaque de zone.inflige -1 aux attaques à distance.
 - Expert : un Trait +2. _à valider_
 - Extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d’Agilité.
 - Ferveur : Dégâts +1 pour les alliés dans l’aura de Commandement. _à valider_
@@ -52,7 +52,7 @@
 - Grand blocage : Parade +2. _à valider_
 - Grande aura de commandement : Aura de commandement de 10 cases. _à valider_
 - Grande contre-attaque : attaque gratuite par Round sur un ennemi ayant Échec de Combat.
-- Grande esquive : Inflige -1 aux attaques à distance. _à valider_
+- Grande esquive : attaque à distance ennemie -2, Agilité +2 contre attaque de zone.Inflige -1 aux attaques à distance. _à valider_
 - Grande extraction : en cas de retraite, évite 1 attaque gratuite sur Succès d'Agilité, toutes sur Relance.
 - Grande source de pouvoir : + 1PP par 15 minutes. _à valider_
 - Grand maitre en arts : Dégâts +2 à mains nues. _à valider_- Grande résistance aux arcanes : Armure +4 contre la magie, +4 pour résister aux Pouvoirs.

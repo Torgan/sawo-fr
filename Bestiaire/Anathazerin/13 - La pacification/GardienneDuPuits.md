@@ -11,7 +11,7 @@ Compétences : Combat d8, Escalade d12+2, Discrétion d10, Intimidation d10, 
 	6	17 AL
 
 ### Capacités spéciales
-- Gigantesque : attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
+- Gigantesque : attaque ennemie +4. Arme lourde, Armure lourde et Piétinement.attaque adverse +4. Arme lourde, Armure lourde et Piétinement.
 - Sans peur : immunisé à la Terreur et l'Intimidation.
 - Taille +9.
 
