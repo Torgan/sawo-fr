@@ -19,26 +19,26 @@ Atouts : Arcanes (Super-pouvoirs), Arme fétiche (Bouclier en vibranium), Blocag
 Pouvoirs : _Résistance_ (1), _Sens augmentés_ (1), _Super-Atout_ (14) [Combatif, Costaud, Encaisser comme un champion, Esquive, Frappe éclair, Frénésie, Nerfs d’acier], _Super-Attribut_ (20) [Agilité +3, Force +5, Vigueur +2], _Super-Compétence_ (9) [Combat +3, Escalade +2, Lancer +2, Natation +2].
 
  PAR RES
- 10 (2) 14 [4]
+ 14 (7) 14 (4)
 
 ### Capacités spéciales
 - Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
 - [P] _Bond_ (1, Jambes puissantes) : bond de 2 cases en hauteur ou 4 cases en longueur.
 - Bouclier en vibranium : Combat d8+1/Lancer d10, Portée 6/12/24, dégâts d12+d6+2, PA 4, AL. Appareil. Interchangeable (_Attaque à distance_ / _Attaque de mêlée_ + _Déflexion_ + _Parade_)
-    - [P] _Déflexion_ (1) : -4 pour toucher le Captain avec des attaques à distance, -3 si un autre manie le bouclier (voir Dur à toucher ci-dessous).
+    - [P] _Déflexion_ (1) : attaque à distance ennemie -4, -3 si autre que Captain manie le bouclier (voir Dur à toucher ci-dessous).
     - [P] _Parade_ (4, déviation) : Parade +6.
 - Brave : +2 aux jets de Terreur.
 - Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Dur à toucher : -2 aux attaques à distance contre le personnage (*Esquive* et *Vitesse*), -4 avec bouclier (voir ci-dessus).
+- Dur à toucher : attaque à distance ennemie -2 (*Esquive* et *Vitesse*), -4 avec bouclier (voir *Déflexion* ci-dessus), Agi +2 contre attaque de zone.
 - Encaisser comme un champion : Encaissement +2.
 - [P] _Endurance_ (1, métabolisme amélioré) : Résistance et jet pour résister +4 contre les dégâts et effets Biologiques.
 - Nerfs d’acier : ignore 1 point de malus de Blessures.
 - Frénésie : peut faire une attaque en Combat supplémentaire, -2 à toutes les attaques du Round.
 - Panache : Trait +2 en dépensant un Jeton, Encaissement inclus.
 - [P] _Régénération_ (5, métabolisme amélioré) : Guérison naturelle chaque heure.
-- Tête froide : agit sur la meilleure de deux cartes en combat.
-- [P] _Vitesse_ (5, Force et réflexes améliorés) : Allure 24, -1 pour le toucher.
+- Tête froide : agit sur la meilleure de deux cartes d’Initiative.
+- [P] _Vitesse_ (5, Force et réflexes améliorés) : Allure 24, attaque ennemie -1.
 
 ### Actions
 - Bouclier en vibranium : Combat d8+1/Lancer d10, Portée 6/12/24, dégâts d12+d6+2, PA 4, AL. Appareil. Interchangeable (_Attaque à distance_ / _Attaque de mêlée_ + _Déflexion_ + _Parade_)
@@ -46,7 +46,7 @@ Pouvoirs : _Résistance_ (1), _Sens augmentés_ (1), _Super-Atout_ (14) [Combati
     - [P] _Attaque de mêlée_ (6) : Attaques multiples, Un seul bras. Interchangeable (avec Attaque à distance).
 
 ### Réactions
-- Contre-attaque : attaque gratuite (-2) par Round sur un ennemi ayant Échec en Combat.
+- Contre-attaque : attaque gratuite -2 par Round sur un ennemi ayant Échec en Combat.
 - Frappe éclair : attaque gratuite par Round sur un ennemi arrivant au contact.
 
 ### Équipement
