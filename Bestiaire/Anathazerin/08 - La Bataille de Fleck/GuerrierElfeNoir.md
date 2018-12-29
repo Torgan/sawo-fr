@@ -14,7 +14,7 @@ Atouts : Attaque à deux armes, Florentine, Résistance aux Arcanes.
 
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d6, 5PP.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
+- Point faible (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

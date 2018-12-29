@@ -12,7 +12,7 @@ Compétences : Combat d10, Escalade d8, Intimidation d10, Lancer d10, Perceptio
 
 ### Capacités spéciales
 - Aura glaciale : inflige en fin d'action 2d6 dégâts de Froid à toute créature adjacente.
-- Faiblesse (Feu) : subit dégâts x2.
+- Point faible (Feu) : subit dégâts x2.
 - Grand : attaque adverse +2.
 - Immunité (Froid).
 - Taille +5.

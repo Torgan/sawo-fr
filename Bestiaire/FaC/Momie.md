@@ -17,7 +17,7 @@ Compétences : Combat d8, Intimidation d8.
 	6	10
 
 ### Capacités spéciales
-- Faiblesse : +4 aux dégâts des attaques de feu.
+- Point faible : +4 aux dégâts des attaques de feu.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Putréfaction de la momie : toute personne touchée par une momie (Blessée ou non) doit faire un jet de Vigueur ou subir une Blessure.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.

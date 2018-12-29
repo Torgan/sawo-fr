@@ -13,7 +13,7 @@ Atouts : Arme fétiche (marteau de guerre), Arcane (Magie Duergar).
 	5	8 (2)
 
 ### Capacités spéciales
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
+- Point faible (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Immunité : poison et paralysie.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

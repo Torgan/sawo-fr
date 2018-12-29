@@ -15,7 +15,7 @@ Atouts : Arcanes (Magie), Mage, Résistance aux arcanes.
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d8, 5PP.
 - Arcane : Nécromancie d10, 20PP.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
+- Point faible (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Mage : chaque relance sur le jet d'Arcane réduit le coût du Pouvoir de 1PP.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.

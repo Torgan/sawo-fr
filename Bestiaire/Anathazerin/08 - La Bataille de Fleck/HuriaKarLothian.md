@@ -16,7 +16,7 @@ Atouts : Arcane (Foi), Drain de l'Âme, Guerrier impie, Résistance aux arcanes,
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d10, 5PP.
 - Arcane : Foi d10, 20PP.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
+- Point faible (lumière du jour) : -1 aux jets de Trait et handicap Myope quand à la lumière du jour.
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

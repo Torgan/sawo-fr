@@ -14,7 +14,7 @@ Atouts : Ambidextre, Attaque à deux armes, Commandement, Résistance aux arcane
 
 ### Capacités spéciales
 - Arcane : pouvoirs d'elfe noir, Âme d10, 10PP.
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases). 
+- Point faible (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases). 
 - Résistance aux arcanes : Armure +2 contre la magie, +2 pour résister aux Pouvoirs.
 - Vision nocturne : ignore les malus liés à la Pénombre et à l'Obscurité.
 

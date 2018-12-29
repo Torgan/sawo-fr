@@ -11,7 +11,7 @@ Compétences : Combat d10, Discrétion d10, Intimidation d12, Perception d10, S
 	7	9
 
 ### Capacités spéciales
-- Faiblesse (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
+- Point faible (lumière du jour) : -1 aux jets de Trait et Myope (Perception et Tir -2 à plus de 5 cases).
 - Immatériel : immunisé aux attaques non magiques.
 - Mort-vivant : Résistance +2. +2 pour annuler Secoué. Immunisé aux attaques ciblées, aux maladies et aux poisons. Ignore les malus de Blessures.
 - Résistant : pas de Blessure si Secoué deux fois.
